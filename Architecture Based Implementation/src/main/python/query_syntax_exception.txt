@@ -1,0 +1,2 @@
+SELECT ?o
+	WHERE { <http://webprotege.stanford.edu/KillProcess> <http://webprotege.stanford.edu/hasException> ?o  }

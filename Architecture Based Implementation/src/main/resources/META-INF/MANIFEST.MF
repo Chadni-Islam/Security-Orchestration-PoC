@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/burroughclarke/Desktop/Ontology/cybersecurity2/src/
+ main/java/MiDSoC.java
+Main-Class: MiDSoC.java
+

@@ -1,0 +1,2 @@
+SELECT ?o
+	WHERE {   <http://webprotege.stanford.edu/Pid> <http://webprotege.stanford.edu/hasInputType> ?o }

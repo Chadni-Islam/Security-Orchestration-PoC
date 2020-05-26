@@ -1,0 +1,2 @@
+SELECT ?s
+	WHERE {   ?s <http://webprotege.stanford.edu/hasFunctionalRequirement> <http://webprotege.stanford.edu/KillProcess> }
