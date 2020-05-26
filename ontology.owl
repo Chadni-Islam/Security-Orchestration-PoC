@@ -46,7 +46,7 @@
     <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/hasException">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:range rdf:resource="http://webprotege.stanford.edu/FunctionException"/>
         <rdfs:label xml:lang="en">hasException</rdfs:label>
     </owl:ObjectProperty>
@@ -59,7 +59,7 @@
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
         <rdfs:domain rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
-        <rdfs:range rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:label xml:lang="en">hasFunctionalRequirement</rdfs:label>
     </owl:ObjectProperty>
     
@@ -70,7 +70,7 @@
     <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/hasInput">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:range rdf:resource="http://webprotege.stanford.edu/InputOutput"/>
         <rdfs:label xml:lang="en">hasInput</rdfs:label>
     </owl:ObjectProperty>
@@ -82,8 +82,10 @@
     <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/hasInputType">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/InputOutput"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:range rdf:resource="http://webprotege.stanford.edu/VariableType"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#OperatingSystem"/>
         <rdfs:label xml:lang="en">hasInputType</rdfs:label>
     </owl:ObjectProperty>
     
@@ -107,9 +109,47 @@
     <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/hasReturnType">
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
-        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:range rdf:resource="http://webprotege.stanford.edu/VariableType"/>
         <rdfs:label xml:lang="en">hasReturnType</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#CapabilityOf -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/project/SOAROntology#CapabilityOf">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Capability"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#functionalCapOf -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/project/SOAROntology#functionalCapOf">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#hasCapability -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/project/SOAROntology#hasCapability">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Capability"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#hasOperatingMode -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/project/SOAROntology#hasOperatingMode">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#InputSnort"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
     </owl:ObjectProperty>
     
 
@@ -184,6 +224,7 @@
     <!-- http://webprotege.stanford.edu/FunctionException -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/FunctionException">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <rdfs:label xml:lang="en">FunctionException</rdfs:label>
     </owl:Class>
     
@@ -192,7 +233,7 @@
     <!-- http://webprotege.stanford.edu/InputOutput -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/InputOutput">
-        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/NonFuncRequirement"/>
         <rdfs:label xml:lang="en">InputOutput</rdfs:label>
     </owl:Class>
     
@@ -201,7 +242,7 @@
     <!-- http://webprotege.stanford.edu/NonFuncRequirement -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/NonFuncRequirement">
-        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Capability"/>
         <rdfs:label xml:lang="en">NonFuncRequirement</rdfs:label>
     </owl:Class>
     
@@ -219,15 +260,76 @@
     <!-- http://webprotege.stanford.edu/VariableType -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/VariableType">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/NonFuncRequirement"/>
         <rdfs:label xml:lang="en">VariableType</rdfs:label>
     </owl:Class>
     
 
 
-    <!-- http://webprotege.stanford.edu/project/SOAROntology#Classifier -->
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Activity -->
 
-    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Classifier">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Activity"/>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Alert -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Alert">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#AlertCorrelation -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#AlertCorrelation">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#AlertGeneration -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#AlertGeneration">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#AlertVisualization -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#AlertVisualization">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Capability -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Capability"/>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#CollectAlertLog -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#CollectAlertLog">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Activity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#DetectIncident -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#DetectIncident">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Activity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#DetectionRule -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#DetectionRule">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
     </owl:Class>
     
 
@@ -240,10 +342,224 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Event -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Event"/>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#EventManagement -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#EventManagement">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#EventMonirtoring -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#EventMonirtoring">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#FileDeletion -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FileDeletion">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#FileFetching -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FileFetching">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#InformationFecthing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#FileIntegrityMonitoring -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FileIntegrityMonitoring">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#FileUploading -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FileUploading">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Firewall -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Firewall">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Capability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#GenerateIncidentReport -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#GenerateIncidentReport">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Activity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#IDS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#IDS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedSystem -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedSystem">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Activity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Incident -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Incident">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#InformationFecthing -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#InformationFecthing">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#InformationStoring -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#InformationStoring">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Input -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Input">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/InputOutput"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#InputSnort -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#InputSnort">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Input"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#InstrusionDetection -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#InstrusionDetection">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#LimaCharlie -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#LimaCharlie">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#EDR"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Log -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Log">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Event"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#LogAnalysis -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#LogAnalysis">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#LogCollection -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#LogCollection">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#LogManagement -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#LogManagement">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#MISP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#MISP">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#OSINT"/>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/project/SOAROntology#Network -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Network">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/NonFuncRequirement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#NodeIsolation -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#NodeIsolation">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#NodeRejoining -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#NodeRejoining">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#OSINT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#OSINT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
     </owl:Class>
     
 
@@ -256,6 +572,102 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Output -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Output">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/InputOutput"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#OutputSnort -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#OutputSnort">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Output"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PacketAnalysis -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PacketAnalysis">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PacketAnalyzer -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PacketAnalyzer">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PacketCapture -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PacketCapture">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/SecurityTool"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PacketLogging -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PacketLogging">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PacketSniffing -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PacketSniffing">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PaloAltoFirewall -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PaloAltoFirewall">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Firewall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#ProcessFecthing -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ProcessFecthing">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#InformationFecthing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#ProcessKilling -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ProcessKilling">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#ReportGeneration -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ReportGeneration">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#ReportRunning -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ReportRunning">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/project/SOAROntology#SIEM -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#SIEM">
@@ -264,9 +676,43 @@
     
 
 
-    <!-- http://webprotege.stanford.edu/project/SOAROntology#ToolFunction -->
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Snort -->
 
-    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Snort">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#IDS"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Splunk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Splunk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#SIEM"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#WinPcap -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#WinPcap">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#PacketCapture"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#WindowDefender -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#WindowDefender">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Firewall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Wireshark -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Wireshark">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#PacketAnalyzer"/>
+    </owl:Class>
     
 
 
@@ -284,7 +730,7 @@
     <!-- http://webprotege.stanford.edu/ClassifierPredict -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ClassifierPredict">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <SOAROntology:hasCommand>python3 ~/MISP-Classifier/MISP-Classifier/classify_data.py $outputFilePath $inputFilePath</SOAROntology:hasCommand>
         <rdfs:comment>Example usage:
 python3 classify_data.py output/asn_owner_country_attrdate_comment_netRatio_payRatio_extRatio_artRatio_miscRatio_blacklist-rid-threat_actor.sav example_input.csv</rdfs:comment>
@@ -295,7 +741,7 @@ python3 classify_data.py output/asn_owner_country_attrdate_comment_netRatio_payR
     <!-- http://webprotege.stanford.edu/ClassifierTrain -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ClassifierTrain">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <SOAROntology:hasCommand>python3 ~/MISP-Classifier/MISP-Classifier/classifier.py $features $algorithm $label</SOAROntology:hasCommand>
         <rdfs:comment>Example usage:    
 python3 classifier.py &quot;asn owner country attr_date comment netRatio payRatio extRatio artRatio miscRatio blacklist&quot; rid tools</rdfs:comment>
@@ -306,7 +752,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/Connect -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Connect">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/RuntimeException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/filePath"/>
@@ -363,7 +809,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/Correlate -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Correlate">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IllegalArgumentException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/dependent"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/independents"/>
@@ -396,7 +842,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/DeleteFile -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/DeleteFile">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/filePath"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
@@ -428,7 +874,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/FileIntegrityMonitor -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/FileIntegrityMonitor">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/RuntimeException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/filePath"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/nodeIdentifier"/>
@@ -451,7 +897,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/GetFile -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/GetFile">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/fileName"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
@@ -516,7 +962,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/GetFileInfo -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/GetFileInfo">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/fileName"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
@@ -571,7 +1017,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/GetProcess -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/GetProcess">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FileNotFoundException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
         <webprotege:hasNonFuncRequirement rdf:resource="http://webprotege.stanford.edu/worksOnLinux_LC"/>
@@ -657,7 +1103,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/IsolateNode -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/IsolateNode">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
         <webprotege:hasNonFuncRequirement rdf:resource="http://webprotege.stanford.edu/worksOnOSX_LC"/>
@@ -677,7 +1123,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/KillProcess -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/KillProcess">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/pid"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
@@ -728,7 +1174,7 @@ python3 classifier.py &quot;asn owner country attr_date comment netRatio payRati
     <!-- http://webprotege.stanford.edu/LogManagement -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/LogManagement">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IllegalArgumentException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/filePath"/>
@@ -829,7 +1275,8 @@ format and index to upload to. Can use sinkhole argument to delete file after up
     <!-- http://webprotege.stanford.edu/MISP -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/MISP">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Classifier"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#MISP"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#OSINT"/>
         <webprotege:hasFunctionalRequirement rdf:resource="http://webprotege.stanford.edu/ClassifierPredict"/>
         <webprotege:hasFunctionalRequirement rdf:resource="http://webprotege.stanford.edu/ClassifierTrain"/>
     </owl:NamedIndividual>
@@ -839,7 +1286,7 @@ format and index to upload to. Can use sinkhole argument to delete file after up
     <!-- http://webprotege.stanford.edu/NewDetectionRule -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/NewDetectionRule">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/rule"/>
         <SOAROntology:hasCommand>newDetectionRule</SOAROntology:hasCommand>
@@ -888,7 +1335,7 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     <!-- http://webprotege.stanford.edu/RejoinNode -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RejoinNode">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IOException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/sensorId"/>
         <webprotege:hasNonFuncRequirement rdf:resource="http://webprotege.stanford.edu/worksOnOSX_LC"/>
@@ -936,7 +1383,7 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     <!-- http://webprotege.stanford.edu/RunReport -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RunReport">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <webprotege:hasException rdf:resource="http://webprotege.stanford.edu/IllegalArgumentException"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/searchName"/>
         <webprotege:hasInput rdf:resource="http://webprotege.stanford.edu/triggerActions"/>
@@ -1000,7 +1447,7 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     <!-- http://webprotege.stanford.edu/UploadFile -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/UploadFile">
-        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#ToolFunction"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#FunctionalCapability"/>
         <SOAROntology:hasCommand>~/Splunk/bin/splunk add oneshot $inputFilePath</SOAROntology:hasCommand>
     </owl:NamedIndividual>
     
@@ -1182,6 +1629,14 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     
 
 
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#CollectSnortAlertLog -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#CollectSnortAlertLog">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#CollectAlertLog"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://webprotege.stanford.edu/project/SOAROntology#ConnectedToHost -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#ConnectedToHost">
@@ -1190,10 +1645,40 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     
 
 
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#DetectMaliciousTraffic -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#DetectMaliciousTraffic"/>
+    
+
+
     <!-- http://webprotege.stanford.edu/project/SOAROntology#FileNotFoundException -->
 
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#FileNotFoundException">
         <rdf:type rdf:resource="http://webprotege.stanford.edu/FunctionException"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedEndpoint -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedEndpoint">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedSystem"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedHost -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedHost">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedSystem"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedIp -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedIp">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#IdentifyAffectedSystem"/>
     </owl:NamedIndividual>
     
 
@@ -1211,6 +1696,113 @@ Creates a new detection rule. Detection rules wait for particular events to happ
     <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#OS">
         <rdf:type rdf:resource="http://webprotege.stanford.edu/NonFuncRequirement"/>
     </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#PaloAltoFirewall_p -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#PaloAltoFirewall_p">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#PaloAltoFirewall"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#SnortInstance -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#SnortInstance">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Snort"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#SnortInstanceRouter -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#SnortInstanceRouter">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Snort"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Snort_s -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Snort_s">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Snort"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Splunk -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Splunk">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Splunk"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#Wireshark_w -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#Wireshark_w">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Wireshark"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#limaCharlie_l -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#limaCharlie_l">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#LimaCharlie"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#splunk_s -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#splunk_s">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#Splunk"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#winPcap -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#winPcap">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#PacketCapture"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#windowDefender_w -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#windowDefender_w">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#WindowDefender"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/project/SOAROntology#winpcap_w -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/project/SOAROntology#winpcap_w">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/project/SOAROntology#WinPcap"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://webprotege.stanford.edu/project/SOAROntology#EDR"/>
+            <rdf:Description rdf:about="http://webprotege.stanford.edu/project/SOAROntology#MISP"/>
+            <rdf:Description rdf:about="http://webprotege.stanford.edu/project/SOAROntology#SIEM"/>
+        </owl:members>
+    </rdf:Description>
 </rdf:RDF>
 
 
