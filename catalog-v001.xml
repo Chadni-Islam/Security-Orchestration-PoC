@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=file:////UOFA/USERS$/users8/a1711768/GitHub/Security-Orchestration-PoC/, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1590460128506" name="http://webprotege.stanford.edu/project/9IGcjK9vvio5JEOpQErQJE" uri="ontology.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1590460128506" name="shadowed:http://webprotege.stanford.edu/project/9IGcjK9vvio5JEOpQErQJE" uri="Architecture%20Based%20Implementation/ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590470097225" name="http://webprotege.stanford.edu/project/9IGcjK9vvio5JEOpQErQJE" uri="ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1590470097225" name="shadowed:http://webprotege.stanford.edu/project/9IGcjK9vvio5JEOpQErQJE" uri="Architecture%20Based%20Implementation/ontology.owl"/>
     </group>
 </catalog>

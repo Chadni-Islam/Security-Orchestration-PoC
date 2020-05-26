@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * EDR Interface
  *
- * Describes the methods that EDR tools should implement if they are to be used apart of MiDSoC
+ * Describes the methods that EDR tools should implement if they are to be used apart of Orchestrator
  */
 public interface EDR {
 

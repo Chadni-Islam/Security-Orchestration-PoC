@@ -1,6 +1,6 @@
-# MidSoC + Ontology 
+# SOAR + Ontology 
 
-# Using MidSoC with the ontology:
+# Using orchestrator with the ontology:
 
 – The ontology is designed to run on a seperate network server.
 – The ontology is designed to execute commands on an 'execution server' (that has tools such as Splunk installed on it)
@@ -9,7 +9,8 @@
 2. Edit 'ontology.py' to set the server's private key location using the variable 'SERVER_CERT'
 3. Edit 'ontology.py' to set the 'execution server' address using the variable 'SERVER_ADDR'
  
-# Using MidSoC with the MISP Classifier:
+# Using orchestrator with the security tools for example MISP:
+(the path will be  '~/MISP/ ...')
+Put any new automation code folder in home directory 
 
-Put Classifier code folder in home directory, (the path will be  '~/MISP/ ...')
 
