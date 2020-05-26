@@ -2,12 +2,12 @@ import java.io.IOException;
 import java.nio.file.NotDirectoryException;
 
 /**
- * Driver class for MiDSoC.
+ * Driver class for Orchestrator.
  */
-public class MiDSoC {
+public class Orchestrator {
 
   /**
-   * Driver method for MiDSoC
+   * Driver method for Orchestrator
    * @param args Expects args[0] to be LC output path and args[1] to be Splunk output path
    */
     public static void main(String[] args) {

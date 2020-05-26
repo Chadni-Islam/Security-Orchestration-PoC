@@ -3,8 +3,6 @@ import java.util.HashMap;
 
 public class Classifier {
 
-    // ############ DUE monday (so you have time for the proposal which is 5% of your YEARs first class honors attempt - send draft to Ali)
-    // – Put onto school git
     // - call the classifier using the ontology
 
     // then 'upload' the data to Splunk using 'runreport'
