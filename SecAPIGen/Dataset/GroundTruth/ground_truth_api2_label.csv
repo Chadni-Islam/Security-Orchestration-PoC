@@ -1,0 +1,3297 @@
+,0,1,2
+0, isolate the host using carbon black response,account,0
+1, isolate the host using carbon black response,address,0
+2, isolate the host using carbon black response,alert,0
+3, isolate the host using carbon black response,case,0
+4, isolate the host using carbon black response,classifier,0
+5, isolate the host using carbon black response,device,0
+6, isolate the host using carbon black response,directory,0
+7, isolate the host using carbon black response,email,0
+8, isolate the host using carbon black response,endpoint,0
+9, isolate the host using carbon black response,file,0
+10, isolate the host using carbon black response,hash,0
+11, isolate the host using carbon black response,host,1
+12, isolate the host using carbon black response,id,0
+13, isolate the host using carbon black response,incident,0
+14, isolate the host using carbon black response,indicator,0
+15, isolate the host using carbon black response,information,0
+16, isolate the host using carbon black response,input,0
+17, isolate the host using carbon black response,investigation,0
+18, isolate the host using carbon black response,ips,0
+19, isolate the host using carbon black response,manager,0
+20, isolate the host using carbon black response,object,0
+21, isolate the host using carbon black response,operation,0
+22, isolate the host using carbon black response,playbook,0
+23, isolate the host using carbon black response,property,0
+24, isolate the host using carbon black response,report,0
+25, isolate the host using carbon black response,reputation,0
+26, isolate the host using carbon black response,response,0
+27, isolate the host using carbon black response,result,0
+28, isolate the host using carbon black response,sample,0
+29, isolate the host using carbon black response,severity,0
+30, isolate the host using carbon black response,url,0
+31, isolate the host using carbon black response,username,0
+32,add indictor to the minemeld miner.,account,0
+33,add indictor to the minemeld miner.,address,0
+34,add indictor to the minemeld miner.,alert,0
+35,add indictor to the minemeld miner.,case,0
+36,add indictor to the minemeld miner.,classifier,0
+37,add indictor to the minemeld miner.,device,0
+38,add indictor to the minemeld miner.,directory,0
+39,add indictor to the minemeld miner.,email,0
+40,add indictor to the minemeld miner.,endpoint,0
+41,add indictor to the minemeld miner.,file,0
+42,add indictor to the minemeld miner.,hash,0
+43,add indictor to the minemeld miner.,host,0
+44,add indictor to the minemeld miner.,id,0
+45,add indictor to the minemeld miner.,incident,0
+46,add indictor to the minemeld miner.,indicator,1
+47,add indictor to the minemeld miner.,information,0
+48,add indictor to the minemeld miner.,input,0
+49,add indictor to the minemeld miner.,investigation,0
+50,add indictor to the minemeld miner.,ips,0
+51,add indictor to the minemeld miner.,manager,0
+52,add indictor to the minemeld miner.,object,0
+53,add indictor to the minemeld miner.,operation,0
+54,add indictor to the minemeld miner.,playbook,0
+55,add indictor to the minemeld miner.,property,0
+56,add indictor to the minemeld miner.,report,0
+57,add indictor to the minemeld miner.,reputation,0
+58,add indictor to the minemeld miner.,response,0
+59,add indictor to the minemeld miner.,result,0
+60,add indictor to the minemeld miner.,sample,0
+61,add indictor to the minemeld miner.,severity,0
+62,add indictor to the minemeld miner.,url,0
+63,add indictor to the minemeld miner.,username,0
+64,add the relevant endpoint to the system,account,0
+65,add the relevant endpoint to the system,address,0
+66,add the relevant endpoint to the system,alert,0
+67,add the relevant endpoint to the system,case,0
+68,add the relevant endpoint to the system,classifier,0
+69,add the relevant endpoint to the system,device,0
+70,add the relevant endpoint to the system,directory,0
+71,add the relevant endpoint to the system,email,0
+72,add the relevant endpoint to the system,endpoint,1
+73,add the relevant endpoint to the system,file,0
+74,add the relevant endpoint to the system,hash,0
+75,add the relevant endpoint to the system,host,0
+76,add the relevant endpoint to the system,id,0
+77,add the relevant endpoint to the system,incident,0
+78,add the relevant endpoint to the system,indicator,0
+79,add the relevant endpoint to the system,information,0
+80,add the relevant endpoint to the system,input,0
+81,add the relevant endpoint to the system,investigation,0
+82,add the relevant endpoint to the system,ips,0
+83,add the relevant endpoint to the system,manager,0
+84,add the relevant endpoint to the system,object,0
+85,add the relevant endpoint to the system,operation,0
+86,add the relevant endpoint to the system,playbook,0
+87,add the relevant endpoint to the system,property,0
+88,add the relevant endpoint to the system,report,0
+89,add the relevant endpoint to the system,reputation,0
+90,add the relevant endpoint to the system,response,0
+91,add the relevant endpoint to the system,result,0
+92,add the relevant endpoint to the system,sample,0
+93,add the relevant endpoint to the system,severity,0
+94,add the relevant endpoint to the system,url,0
+95,add the relevant endpoint to the system,username,0
+96,adds the md5 hash to the blacklist in carbon black,account,0
+97,adds the md5 hash to the blacklist in carbon black,address,0
+98,adds the md5 hash to the blacklist in carbon black,alert,0
+99,adds the md5 hash to the blacklist in carbon black,case,0
+100,adds the md5 hash to the blacklist in carbon black,classifier,0
+101,adds the md5 hash to the blacklist in carbon black,device,0
+102,adds the md5 hash to the blacklist in carbon black,directory,0
+103,adds the md5 hash to the blacklist in carbon black,email,0
+104,adds the md5 hash to the blacklist in carbon black,endpoint,0
+105,adds the md5 hash to the blacklist in carbon black,file,0
+106,adds the md5 hash to the blacklist in carbon black,hash,1
+107,adds the md5 hash to the blacklist in carbon black,host,0
+108,adds the md5 hash to the blacklist in carbon black,id,0
+109,adds the md5 hash to the blacklist in carbon black,incident,0
+110,adds the md5 hash to the blacklist in carbon black,indicator,0
+111,adds the md5 hash to the blacklist in carbon black,information,0
+112,adds the md5 hash to the blacklist in carbon black,input,0
+113,adds the md5 hash to the blacklist in carbon black,investigation,0
+114,adds the md5 hash to the blacklist in carbon black,ips,0
+115,adds the md5 hash to the blacklist in carbon black,manager,0
+116,adds the md5 hash to the blacklist in carbon black,object,0
+117,adds the md5 hash to the blacklist in carbon black,operation,0
+118,adds the md5 hash to the blacklist in carbon black,playbook,0
+119,adds the md5 hash to the blacklist in carbon black,property,0
+120,adds the md5 hash to the blacklist in carbon black,report,0
+121,adds the md5 hash to the blacklist in carbon black,reputation,0
+122,adds the md5 hash to the blacklist in carbon black,response,0
+123,adds the md5 hash to the blacklist in carbon black,result,0
+124,adds the md5 hash to the blacklist in carbon black,sample,0
+125,adds the md5 hash to the blacklist in carbon black,severity,0
+126,adds the md5 hash to the blacklist in carbon black,url,0
+127,adds the md5 hash to the blacklist in carbon black,username,0
+128,"assign the incident severity level  to ""critical"".",account,0
+129,"assign the incident severity level  to ""critical"".",address,0
+130,"assign the incident severity level  to ""critical"".",alert,0
+131,"assign the incident severity level  to ""critical"".",case,0
+132,"assign the incident severity level  to ""critical"".",classifier,0
+133,"assign the incident severity level  to ""critical"".",device,0
+134,"assign the incident severity level  to ""critical"".",directory,0
+135,"assign the incident severity level  to ""critical"".",email,0
+136,"assign the incident severity level  to ""critical"".",endpoint,0
+137,"assign the incident severity level  to ""critical"".",file,0
+138,"assign the incident severity level  to ""critical"".",hash,0
+139,"assign the incident severity level  to ""critical"".",host,0
+140,"assign the incident severity level  to ""critical"".",id,0
+141,"assign the incident severity level  to ""critical"".",incident,0
+142,"assign the incident severity level  to ""critical"".",indicator,0
+143,"assign the incident severity level  to ""critical"".",information,0
+144,"assign the incident severity level  to ""critical"".",input,0
+145,"assign the incident severity level  to ""critical"".",investigation,0
+146,"assign the incident severity level  to ""critical"".",ips,0
+147,"assign the incident severity level  to ""critical"".",manager,0
+148,"assign the incident severity level  to ""critical"".",object,0
+149,"assign the incident severity level  to ""critical"".",operation,0
+150,"assign the incident severity level  to ""critical"".",playbook,0
+151,"assign the incident severity level  to ""critical"".",property,0
+152,"assign the incident severity level  to ""critical"".",report,0
+153,"assign the incident severity level  to ""critical"".",reputation,0
+154,"assign the incident severity level  to ""critical"".",response,0
+155,"assign the incident severity level  to ""critical"".",result,0
+156,"assign the incident severity level  to ""critical"".",sample,0
+157,"assign the incident severity level  to ""critical"".",severity,1
+158,"assign the incident severity level  to ""critical"".",url,0
+159,"assign the incident severity level  to ""critical"".",username,0
+160,"assign the incident severity level  to ""high"".",account,0
+161,"assign the incident severity level  to ""high"".",address,0
+162,"assign the incident severity level  to ""high"".",alert,0
+163,"assign the incident severity level  to ""high"".",case,0
+164,"assign the incident severity level  to ""high"".",classifier,0
+165,"assign the incident severity level  to ""high"".",device,0
+166,"assign the incident severity level  to ""high"".",directory,0
+167,"assign the incident severity level  to ""high"".",email,0
+168,"assign the incident severity level  to ""high"".",endpoint,0
+169,"assign the incident severity level  to ""high"".",file,0
+170,"assign the incident severity level  to ""high"".",hash,0
+171,"assign the incident severity level  to ""high"".",host,0
+172,"assign the incident severity level  to ""high"".",id,0
+173,"assign the incident severity level  to ""high"".",incident,0
+174,"assign the incident severity level  to ""high"".",indicator,0
+175,"assign the incident severity level  to ""high"".",information,0
+176,"assign the incident severity level  to ""high"".",input,0
+177,"assign the incident severity level  to ""high"".",investigation,0
+178,"assign the incident severity level  to ""high"".",ips,0
+179,"assign the incident severity level  to ""high"".",manager,0
+180,"assign the incident severity level  to ""high"".",object,0
+181,"assign the incident severity level  to ""high"".",operation,0
+182,"assign the incident severity level  to ""high"".",playbook,0
+183,"assign the incident severity level  to ""high"".",property,0
+184,"assign the incident severity level  to ""high"".",report,0
+185,"assign the incident severity level  to ""high"".",reputation,0
+186,"assign the incident severity level  to ""high"".",response,0
+187,"assign the incident severity level  to ""high"".",result,0
+188,"assign the incident severity level  to ""high"".",sample,0
+189,"assign the incident severity level  to ""high"".",severity,1
+190,"assign the incident severity level  to ""high"".",url,0
+191,"assign the incident severity level  to ""high"".",username,0
+192,"assign the incident severity level  to ""low"".",account,0
+193,"assign the incident severity level  to ""low"".",address,0
+194,"assign the incident severity level  to ""low"".",alert,0
+195,"assign the incident severity level  to ""low"".",case,0
+196,"assign the incident severity level  to ""low"".",classifier,0
+197,"assign the incident severity level  to ""low"".",device,0
+198,"assign the incident severity level  to ""low"".",directory,0
+199,"assign the incident severity level  to ""low"".",email,0
+200,"assign the incident severity level  to ""low"".",endpoint,0
+201,"assign the incident severity level  to ""low"".",file,0
+202,"assign the incident severity level  to ""low"".",hash,0
+203,"assign the incident severity level  to ""low"".",host,0
+204,"assign the incident severity level  to ""low"".",id,0
+205,"assign the incident severity level  to ""low"".",incident,0
+206,"assign the incident severity level  to ""low"".",indicator,0
+207,"assign the incident severity level  to ""low"".",information,0
+208,"assign the incident severity level  to ""low"".",input,0
+209,"assign the incident severity level  to ""low"".",investigation,0
+210,"assign the incident severity level  to ""low"".",ips,0
+211,"assign the incident severity level  to ""low"".",manager,0
+212,"assign the incident severity level  to ""low"".",object,0
+213,"assign the incident severity level  to ""low"".",operation,0
+214,"assign the incident severity level  to ""low"".",playbook,0
+215,"assign the incident severity level  to ""low"".",property,0
+216,"assign the incident severity level  to ""low"".",report,0
+217,"assign the incident severity level  to ""low"".",reputation,0
+218,"assign the incident severity level  to ""low"".",response,0
+219,"assign the incident severity level  to ""low"".",result,0
+220,"assign the incident severity level  to ""low"".",sample,0
+221,"assign the incident severity level  to ""low"".",severity,1
+222,"assign the incident severity level  to ""low"".",url,0
+223,"assign the incident severity level  to ""low"".",username,0
+224,"assign the incident severity level  to ""medium"".",account,0
+225,"assign the incident severity level  to ""medium"".",address,0
+226,"assign the incident severity level  to ""medium"".",alert,0
+227,"assign the incident severity level  to ""medium"".",case,0
+228,"assign the incident severity level  to ""medium"".",classifier,0
+229,"assign the incident severity level  to ""medium"".",device,0
+230,"assign the incident severity level  to ""medium"".",directory,0
+231,"assign the incident severity level  to ""medium"".",email,0
+232,"assign the incident severity level  to ""medium"".",endpoint,0
+233,"assign the incident severity level  to ""medium"".",file,0
+234,"assign the incident severity level  to ""medium"".",hash,0
+235,"assign the incident severity level  to ""medium"".",host,0
+236,"assign the incident severity level  to ""medium"".",id,0
+237,"assign the incident severity level  to ""medium"".",incident,0
+238,"assign the incident severity level  to ""medium"".",indicator,0
+239,"assign the incident severity level  to ""medium"".",information,0
+240,"assign the incident severity level  to ""medium"".",input,0
+241,"assign the incident severity level  to ""medium"".",investigation,0
+242,"assign the incident severity level  to ""medium"".",ips,0
+243,"assign the incident severity level  to ""medium"".",manager,0
+244,"assign the incident severity level  to ""medium"".",object,0
+245,"assign the incident severity level  to ""medium"".",operation,0
+246,"assign the incident severity level  to ""medium"".",playbook,0
+247,"assign the incident severity level  to ""medium"".",property,0
+248,"assign the incident severity level  to ""medium"".",report,0
+249,"assign the incident severity level  to ""medium"".",reputation,0
+250,"assign the incident severity level  to ""medium"".",response,0
+251,"assign the incident severity level  to ""medium"".",result,0
+252,"assign the incident severity level  to ""medium"".",sample,0
+253,"assign the incident severity level  to ""medium"".",severity,1
+254,"assign the incident severity level  to ""medium"".",url,0
+255,"assign the incident severity level  to ""medium"".",username,0
+256,assign the incident to an analyst based on the analysts organizational role.,account,0
+257,assign the incident to an analyst based on the analysts organizational role.,address,0
+258,assign the incident to an analyst based on the analysts organizational role.,alert,0
+259,assign the incident to an analyst based on the analysts organizational role.,case,0
+260,assign the incident to an analyst based on the analysts organizational role.,classifier,0
+261,assign the incident to an analyst based on the analysts organizational role.,device,0
+262,assign the incident to an analyst based on the analysts organizational role.,directory,0
+263,assign the incident to an analyst based on the analysts organizational role.,email,0
+264,assign the incident to an analyst based on the analysts organizational role.,endpoint,0
+265,assign the incident to an analyst based on the analysts organizational role.,file,0
+266,assign the incident to an analyst based on the analysts organizational role.,hash,0
+267,assign the incident to an analyst based on the analysts organizational role.,host,0
+268,assign the incident to an analyst based on the analysts organizational role.,id,0
+269,assign the incident to an analyst based on the analysts organizational role.,incident,1
+270,assign the incident to an analyst based on the analysts organizational role.,indicator,0
+271,assign the incident to an analyst based on the analysts organizational role.,information,0
+272,assign the incident to an analyst based on the analysts organizational role.,input,0
+273,assign the incident to an analyst based on the analysts organizational role.,investigation,0
+274,assign the incident to an analyst based on the analysts organizational role.,ips,0
+275,assign the incident to an analyst based on the analysts organizational role.,manager,0
+276,assign the incident to an analyst based on the analysts organizational role.,object,0
+277,assign the incident to an analyst based on the analysts organizational role.,operation,0
+278,assign the incident to an analyst based on the analysts organizational role.,playbook,0
+279,assign the incident to an analyst based on the analysts organizational role.,property,0
+280,assign the incident to an analyst based on the analysts organizational role.,report,0
+281,assign the incident to an analyst based on the analysts organizational role.,reputation,0
+282,assign the incident to an analyst based on the analysts organizational role.,response,0
+283,assign the incident to an analyst based on the analysts organizational role.,result,0
+284,assign the incident to an analyst based on the analysts organizational role.,sample,0
+285,assign the incident to an analyst based on the analysts organizational role.,severity,0
+286,assign the incident to an analyst based on the analysts organizational role.,url,0
+287,assign the incident to an analyst based on the analysts organizational role.,username,0
+288,auto-close this incident,account,0
+289,auto-close this incident,address,0
+290,auto-close this incident,alert,0
+291,auto-close this incident,case,0
+292,auto-close this incident,classifier,0
+293,auto-close this incident,device,0
+294,auto-close this incident,directory,0
+295,auto-close this incident,email,0
+296,auto-close this incident,endpoint,0
+297,auto-close this incident,file,0
+298,auto-close this incident,hash,0
+299,auto-close this incident,host,0
+300,auto-close this incident,id,0
+301,auto-close this incident,incident,1
+302,auto-close this incident,indicator,0
+303,auto-close this incident,information,0
+304,auto-close this incident,input,0
+305,auto-close this incident,investigation,0
+306,auto-close this incident,ips,0
+307,auto-close this incident,manager,0
+308,auto-close this incident,object,0
+309,auto-close this incident,operation,0
+310,auto-close this incident,playbook,0
+311,auto-close this incident,property,0
+312,auto-close this incident,report,0
+313,auto-close this incident,reputation,0
+314,auto-close this incident,response,0
+315,auto-close this incident,result,0
+316,auto-close this incident,sample,0
+317,auto-close this incident,severity,0
+318,auto-close this incident,url,0
+319,auto-close this incident,username,0
+320,block the external ips in the firewall,account,0
+321,block the external ips in the firewall,address,0
+322,block the external ips in the firewall,alert,0
+323,block the external ips in the firewall,case,0
+324,block the external ips in the firewall,classifier,0
+325,block the external ips in the firewall,device,0
+326,block the external ips in the firewall,directory,0
+327,block the external ips in the firewall,email,0
+328,block the external ips in the firewall,endpoint,0
+329,block the external ips in the firewall,file,0
+330,block the external ips in the firewall,hash,0
+331,block the external ips in the firewall,host,0
+332,block the external ips in the firewall,id,0
+333,block the external ips in the firewall,incident,0
+334,block the external ips in the firewall,indicator,0
+335,block the external ips in the firewall,information,0
+336,block the external ips in the firewall,input,0
+337,block the external ips in the firewall,investigation,0
+338,block the external ips in the firewall,ips,1
+339,block the external ips in the firewall,manager,0
+340,block the external ips in the firewall,object,0
+341,block the external ips in the firewall,operation,0
+342,block the external ips in the firewall,playbook,0
+343,block the external ips in the firewall,property,0
+344,block the external ips in the firewall,report,0
+345,block the external ips in the firewall,reputation,0
+346,block the external ips in the firewall,response,0
+347,block the external ips in the firewall,result,0
+348,block the external ips in the firewall,sample,0
+349,block the external ips in the firewall,severity,0
+350,block the external ips in the firewall,url,0
+351,block the external ips in the firewall,username,0
+352,block the external ips in the proxy,account,0
+353,block the external ips in the proxy,address,0
+354,block the external ips in the proxy,alert,0
+355,block the external ips in the proxy,case,0
+356,block the external ips in the proxy,classifier,0
+357,block the external ips in the proxy,device,0
+358,block the external ips in the proxy,directory,0
+359,block the external ips in the proxy,email,0
+360,block the external ips in the proxy,endpoint,0
+361,block the external ips in the proxy,file,0
+362,block the external ips in the proxy,hash,0
+363,block the external ips in the proxy,host,0
+364,block the external ips in the proxy,id,0
+365,block the external ips in the proxy,incident,0
+366,block the external ips in the proxy,indicator,0
+367,block the external ips in the proxy,information,0
+368,block the external ips in the proxy,input,0
+369,block the external ips in the proxy,investigation,0
+370,block the external ips in the proxy,ips,1
+371,block the external ips in the proxy,manager,0
+372,block the external ips in the proxy,object,0
+373,block the external ips in the proxy,operation,0
+374,block the external ips in the proxy,playbook,0
+375,block the external ips in the proxy,property,0
+376,block the external ips in the proxy,report,0
+377,block the external ips in the proxy,reputation,0
+378,block the external ips in the proxy,response,0
+379,block the external ips in the proxy,result,0
+380,block the external ips in the proxy,sample,0
+381,block the external ips in the proxy,severity,0
+382,block the external ips in the proxy,url,0
+383,block the external ips in the proxy,username,0
+384,block the ips using check point firewall.,account,0
+385,block the ips using check point firewall.,address,0
+386,block the ips using check point firewall.,alert,0
+387,block the ips using check point firewall.,case,0
+388,block the ips using check point firewall.,classifier,0
+389,block the ips using check point firewall.,device,0
+390,block the ips using check point firewall.,directory,0
+391,block the ips using check point firewall.,email,0
+392,block the ips using check point firewall.,endpoint,0
+393,block the ips using check point firewall.,file,0
+394,block the ips using check point firewall.,hash,0
+395,block the ips using check point firewall.,host,0
+396,block the ips using check point firewall.,id,0
+397,block the ips using check point firewall.,incident,0
+398,block the ips using check point firewall.,indicator,0
+399,block the ips using check point firewall.,information,0
+400,block the ips using check point firewall.,input,0
+401,block the ips using check point firewall.,investigation,0
+402,block the ips using check point firewall.,ips,1
+403,block the ips using check point firewall.,manager,0
+404,block the ips using check point firewall.,object,0
+405,block the ips using check point firewall.,operation,0
+406,block the ips using check point firewall.,playbook,0
+407,block the ips using check point firewall.,property,0
+408,block the ips using check point firewall.,report,0
+409,block the ips using check point firewall.,reputation,0
+410,block the ips using check point firewall.,response,0
+411,block the ips using check point firewall.,result,0
+412,block the ips using check point firewall.,sample,0
+413,block the ips using check point firewall.,severity,0
+414,block the ips using check point firewall.,url,0
+415,block the ips using check point firewall.,username,0
+416,block the ips using palo alto networks panorama.,account,0
+417,block the ips using palo alto networks panorama.,address,0
+418,block the ips using palo alto networks panorama.,alert,0
+419,block the ips using palo alto networks panorama.,case,0
+420,block the ips using palo alto networks panorama.,classifier,0
+421,block the ips using palo alto networks panorama.,device,0
+422,block the ips using palo alto networks panorama.,directory,0
+423,block the ips using palo alto networks panorama.,email,0
+424,block the ips using palo alto networks panorama.,endpoint,0
+425,block the ips using palo alto networks panorama.,file,0
+426,block the ips using palo alto networks panorama.,hash,0
+427,block the ips using palo alto networks panorama.,host,0
+428,block the ips using palo alto networks panorama.,id,0
+429,block the ips using palo alto networks panorama.,incident,0
+430,block the ips using palo alto networks panorama.,indicator,0
+431,block the ips using palo alto networks panorama.,information,0
+432,block the ips using palo alto networks panorama.,input,0
+433,block the ips using palo alto networks panorama.,investigation,0
+434,block the ips using palo alto networks panorama.,ips,1
+435,block the ips using palo alto networks panorama.,manager,0
+436,block the ips using palo alto networks panorama.,object,0
+437,block the ips using palo alto networks panorama.,operation,0
+438,block the ips using palo alto networks panorama.,playbook,0
+439,block the ips using palo alto networks panorama.,property,0
+440,block the ips using palo alto networks panorama.,report,0
+441,block the ips using palo alto networks panorama.,reputation,0
+442,block the ips using palo alto networks panorama.,response,0
+443,block the ips using palo alto networks panorama.,result,0
+444,block the ips using palo alto networks panorama.,sample,0
+445,block the ips using palo alto networks panorama.,severity,0
+446,block the ips using palo alto networks panorama.,url,0
+447,block the ips using palo alto networks panorama.,username,0
+448,block the ips using zscaler.,account,0
+449,block the ips using zscaler.,address,0
+450,block the ips using zscaler.,alert,0
+451,block the ips using zscaler.,case,0
+452,block the ips using zscaler.,classifier,0
+453,block the ips using zscaler.,device,0
+454,block the ips using zscaler.,directory,0
+455,block the ips using zscaler.,email,0
+456,block the ips using zscaler.,endpoint,0
+457,block the ips using zscaler.,file,0
+458,block the ips using zscaler.,hash,0
+459,block the ips using zscaler.,host,0
+460,block the ips using zscaler.,id,0
+461,block the ips using zscaler.,incident,0
+462,block the ips using zscaler.,indicator,0
+463,block the ips using zscaler.,information,0
+464,block the ips using zscaler.,input,0
+465,block the ips using zscaler.,investigation,0
+466,block the ips using zscaler.,ips,1
+467,block the ips using zscaler.,manager,0
+468,block the ips using zscaler.,object,0
+469,block the ips using zscaler.,operation,0
+470,block the ips using zscaler.,playbook,0
+471,block the ips using zscaler.,property,0
+472,block the ips using zscaler.,report,0
+473,block the ips using zscaler.,reputation,0
+474,block the ips using zscaler.,response,0
+475,block the ips using zscaler.,result,0
+476,block the ips using zscaler.,sample,0
+477,block the ips using zscaler.,severity,0
+478,block the ips using zscaler.,url,0
+479,block the ips using zscaler.,username,0
+480,block the urls using zscaler.,account,0
+481,block the urls using zscaler.,address,0
+482,block the urls using zscaler.,alert,0
+483,block the urls using zscaler.,case,0
+484,block the urls using zscaler.,classifier,0
+485,block the urls using zscaler.,device,0
+486,block the urls using zscaler.,directory,0
+487,block the urls using zscaler.,email,0
+488,block the urls using zscaler.,endpoint,0
+489,block the urls using zscaler.,file,0
+490,block the urls using zscaler.,hash,0
+491,block the urls using zscaler.,host,0
+492,block the urls using zscaler.,id,0
+493,block the urls using zscaler.,incident,0
+494,block the urls using zscaler.,indicator,0
+495,block the urls using zscaler.,information,0
+496,block the urls using zscaler.,input,0
+497,block the urls using zscaler.,investigation,0
+498,block the urls using zscaler.,ips,0
+499,block the urls using zscaler.,manager,0
+500,block the urls using zscaler.,object,0
+501,block the urls using zscaler.,operation,0
+502,block the urls using zscaler.,playbook,0
+503,block the urls using zscaler.,property,0
+504,block the urls using zscaler.,report,0
+505,block the urls using zscaler.,reputation,0
+506,block the urls using zscaler.,response,0
+507,block the urls using zscaler.,result,0
+508,block the urls using zscaler.,sample,0
+509,block the urls using zscaler.,severity,0
+510,block the urls using zscaler.,url,1
+511,block the urls using zscaler.,username,0
+512,blocks malicious usernames using all integrations that you have enabled.,account,0
+513,blocks malicious usernames using all integrations that you have enabled.,address,0
+514,blocks malicious usernames using all integrations that you have enabled.,alert,0
+515,blocks malicious usernames using all integrations that you have enabled.,case,0
+516,blocks malicious usernames using all integrations that you have enabled.,classifier,0
+517,blocks malicious usernames using all integrations that you have enabled.,device,0
+518,blocks malicious usernames using all integrations that you have enabled.,directory,0
+519,blocks malicious usernames using all integrations that you have enabled.,email,0
+520,blocks malicious usernames using all integrations that you have enabled.,endpoint,0
+521,blocks malicious usernames using all integrations that you have enabled.,file,0
+522,blocks malicious usernames using all integrations that you have enabled.,hash,0
+523,blocks malicious usernames using all integrations that you have enabled.,host,0
+524,blocks malicious usernames using all integrations that you have enabled.,id,0
+525,blocks malicious usernames using all integrations that you have enabled.,incident,0
+526,blocks malicious usernames using all integrations that you have enabled.,indicator,0
+527,blocks malicious usernames using all integrations that you have enabled.,information,0
+528,blocks malicious usernames using all integrations that you have enabled.,input,0
+529,blocks malicious usernames using all integrations that you have enabled.,investigation,0
+530,blocks malicious usernames using all integrations that you have enabled.,ips,0
+531,blocks malicious usernames using all integrations that you have enabled.,manager,0
+532,blocks malicious usernames using all integrations that you have enabled.,object,0
+533,blocks malicious usernames using all integrations that you have enabled.,operation,0
+534,blocks malicious usernames using all integrations that you have enabled.,playbook,0
+535,blocks malicious usernames using all integrations that you have enabled.,property,0
+536,blocks malicious usernames using all integrations that you have enabled.,report,0
+537,blocks malicious usernames using all integrations that you have enabled.,reputation,0
+538,blocks malicious usernames using all integrations that you have enabled.,response,0
+539,blocks malicious usernames using all integrations that you have enabled.,result,0
+540,blocks malicious usernames using all integrations that you have enabled.,sample,0
+541,blocks malicious usernames using all integrations that you have enabled.,severity,0
+542,blocks malicious usernames using all integrations that you have enabled.,url,0
+543,blocks malicious usernames using all integrations that you have enabled.,username,1
+544,change the properties of an incident,account,0
+545,change the properties of an incident,address,0
+546,change the properties of an incident,alert,0
+547,change the properties of an incident,case,0
+548,change the properties of an incident,classifier,0
+549,change the properties of an incident,device,0
+550,change the properties of an incident,directory,0
+551,change the properties of an incident,email,0
+552,change the properties of an incident,endpoint,0
+553,change the properties of an incident,file,0
+554,change the properties of an incident,hash,0
+555,change the properties of an incident,host,0
+556,change the properties of an incident,id,0
+557,change the properties of an incident,incident,0
+558,change the properties of an incident,indicator,0
+559,change the properties of an incident,information,0
+560,change the properties of an incident,input,0
+561,change the properties of an incident,investigation,0
+562,change the properties of an incident,ips,0
+563,change the properties of an incident,manager,0
+564,change the properties of an incident,object,0
+565,change the properties of an incident,operation,0
+566,change the properties of an incident,playbook,0
+567,change the properties of an incident,property,1
+568,change the properties of an incident,report,0
+569,change the properties of an incident,reputation,0
+570,change the properties of an incident,response,0
+571,change the properties of an incident,result,0
+572,change the properties of an incident,sample,0
+573,change the properties of an incident,severity,0
+574,change the properties of an incident,url,0
+575,change the properties of an incident,username,0
+576,check email address,account,0
+577,check email address,address,1
+578,check email address,alert,0
+579,check email address,case,0
+580,check email address,classifier,0
+581,check email address,device,0
+582,check email address,directory,0
+583,check email address,email,0
+584,check email address,endpoint,0
+585,check email address,file,0
+586,check email address,hash,0
+587,check email address,host,0
+588,check email address,id,0
+589,check email address,incident,0
+590,check email address,indicator,0
+591,check email address,information,0
+592,check email address,input,0
+593,check email address,investigation,0
+594,check email address,ips,0
+595,check email address,manager,0
+596,check email address,object,0
+597,check email address,operation,0
+598,check email address,playbook,0
+599,check email address,property,0
+600,check email address,report,0
+601,check email address,reputation,0
+602,check email address,response,0
+603,check email address,result,0
+604,check email address,sample,0
+605,check email address,severity,0
+606,check email address,url,0
+607,check email address,username,0
+608,check for active directory instance,account,0
+609,check for active directory instance,address,0
+610,check for active directory instance,alert,0
+611,check for active directory instance,case,0
+612,check for active directory instance,classifier,0
+613,check for active directory instance,device,0
+614,check for active directory instance,directory,1
+615,check for active directory instance,email,0
+616,check for active directory instance,endpoint,0
+617,check for active directory instance,file,0
+618,check for active directory instance,hash,0
+619,check for active directory instance,host,0
+620,check for active directory instance,id,0
+621,check for active directory instance,incident,0
+622,check for active directory instance,indicator,0
+623,check for active directory instance,information,0
+624,check for active directory instance,input,0
+625,check for active directory instance,investigation,0
+626,check for active directory instance,ips,0
+627,check for active directory instance,manager,0
+628,check for active directory instance,object,0
+629,check for active directory instance,operation,0
+630,check for active directory instance,playbook,0
+631,check for active directory instance,property,0
+632,check for active directory instance,report,0
+633,check for active directory instance,reputation,0
+634,check for active directory instance,response,0
+635,check for active directory instance,result,0
+636,check for active directory instance,sample,0
+637,check for active directory instance,severity,0
+638,check for active directory instance,url,0
+639,check for active directory instance,username,0
+640,check operation status,account,0
+641,check operation status,address,0
+642,check operation status,alert,0
+643,check operation status,case,0
+644,check operation status,classifier,0
+645,check operation status,device,0
+646,check operation status,directory,0
+647,check operation status,email,0
+648,check operation status,endpoint,0
+649,check operation status,file,0
+650,check operation status,hash,0
+651,check operation status,host,0
+652,check operation status,id,0
+653,check operation status,incident,0
+654,check operation status,indicator,0
+655,check operation status,information,0
+656,check operation status,input,0
+657,check operation status,investigation,0
+658,check operation status,ips,0
+659,check operation status,manager,0
+660,check operation status,object,0
+661,check operation status,operation,1
+662,check operation status,playbook,0
+663,check operation status,property,0
+664,check operation status,report,0
+665,check operation status,reputation,0
+666,check operation status,response,0
+667,check operation status,result,0
+668,check operation status,sample,0
+669,check operation status,severity,0
+670,check operation status,url,0
+671,check operation status,username,0
+672,check username to query,account,0
+673,check username to query,address,0
+674,check username to query,alert,0
+675,check username to query,case,0
+676,check username to query,classifier,0
+677,check username to query,device,0
+678,check username to query,directory,0
+679,check username to query,email,0
+680,check username to query,endpoint,0
+681,check username to query,file,0
+682,check username to query,hash,0
+683,check username to query,host,0
+684,check username to query,id,0
+685,check username to query,incident,0
+686,check username to query,indicator,0
+687,check username to query,information,0
+688,check username to query,input,0
+689,check username to query,investigation,0
+690,check username to query,ips,0
+691,check username to query,manager,0
+692,check username to query,object,0
+693,check username to query,operation,0
+694,check username to query,playbook,0
+695,check username to query,property,0
+696,check username to query,report,0
+697,check username to query,reputation,0
+698,check username to query,response,0
+699,check username to query,result,0
+700,check username to query,sample,0
+701,check username to query,severity,0
+702,check username to query,url,0
+703,check username to query,username,1
+704,classify incident with qradar,account,0
+705,classify incident with qradar,address,0
+706,classify incident with qradar,alert,0
+707,classify incident with qradar,case,0
+708,classify incident with qradar,classifier,0
+709,classify incident with qradar,device,0
+710,classify incident with qradar,directory,0
+711,classify incident with qradar,email,0
+712,classify incident with qradar,endpoint,0
+713,classify incident with qradar,file,0
+714,classify incident with qradar,hash,0
+715,classify incident with qradar,host,0
+716,classify incident with qradar,id,0
+717,classify incident with qradar,incident,1
+718,classify incident with qradar,indicator,0
+719,classify incident with qradar,information,0
+720,classify incident with qradar,input,0
+721,classify incident with qradar,investigation,0
+722,classify incident with qradar,ips,0
+723,classify incident with qradar,manager,0
+724,classify incident with qradar,object,0
+725,classify incident with qradar,operation,0
+726,classify incident with qradar,playbook,0
+727,classify incident with qradar,property,0
+728,classify incident with qradar,report,0
+729,classify incident with qradar,reputation,0
+730,classify incident with qradar,response,0
+731,classify incident with qradar,result,0
+732,classify incident with qradar,sample,0
+733,classify incident with qradar,severity,0
+734,classify incident with qradar,url,0
+735,classify incident with qradar,username,0
+736,classify incident with trendmicro,account,0
+737,classify incident with trendmicro,address,0
+738,classify incident with trendmicro,alert,0
+739,classify incident with trendmicro,case,0
+740,classify incident with trendmicro,classifier,0
+741,classify incident with trendmicro,device,0
+742,classify incident with trendmicro,directory,0
+743,classify incident with trendmicro,email,0
+744,classify incident with trendmicro,endpoint,0
+745,classify incident with trendmicro,file,0
+746,classify incident with trendmicro,hash,0
+747,classify incident with trendmicro,host,0
+748,classify incident with trendmicro,id,0
+749,classify incident with trendmicro,incident,1
+750,classify incident with trendmicro,indicator,0
+751,classify incident with trendmicro,information,0
+752,classify incident with trendmicro,input,0
+753,classify incident with trendmicro,investigation,0
+754,classify incident with trendmicro,ips,0
+755,classify incident with trendmicro,manager,0
+756,classify incident with trendmicro,object,0
+757,classify incident with trendmicro,operation,0
+758,classify incident with trendmicro,playbook,0
+759,classify incident with trendmicro,property,0
+760,classify incident with trendmicro,report,0
+761,classify incident with trendmicro,reputation,0
+762,classify incident with trendmicro,response,0
+763,classify incident with trendmicro,result,0
+764,classify incident with trendmicro,sample,0
+765,classify incident with trendmicro,severity,0
+766,classify incident with trendmicro,url,0
+767,classify incident with trendmicro,username,0
+768,classify incident with vectra,account,0
+769,classify incident with vectra,address,0
+770,classify incident with vectra,alert,0
+771,classify incident with vectra,case,0
+772,classify incident with vectra,classifier,0
+773,classify incident with vectra,device,0
+774,classify incident with vectra,directory,0
+775,classify incident with vectra,email,0
+776,classify incident with vectra,endpoint,0
+777,classify incident with vectra,file,0
+778,classify incident with vectra,hash,0
+779,classify incident with vectra,host,0
+780,classify incident with vectra,id,0
+781,classify incident with vectra,incident,1
+782,classify incident with vectra,indicator,0
+783,classify incident with vectra,information,0
+784,classify incident with vectra,input,0
+785,classify incident with vectra,investigation,0
+786,classify incident with vectra,ips,0
+787,classify incident with vectra,manager,0
+788,classify incident with vectra,object,0
+789,classify incident with vectra,operation,0
+790,classify incident with vectra,playbook,0
+791,classify incident with vectra,property,0
+792,classify incident with vectra,report,0
+793,classify incident with vectra,reputation,0
+794,classify incident with vectra,response,0
+795,classify incident with vectra,result,0
+796,classify incident with vectra,sample,0
+797,classify incident with vectra,severity,0
+798,classify incident with vectra,url,0
+799,classify incident with vectra,username,0
+800,close the current incident,account,0
+801,close the current incident,address,0
+802,close the current incident,alert,0
+803,close the current incident,case,0
+804,close the current incident,classifier,0
+805,close the current incident,device,0
+806,close the current incident,directory,0
+807,close the current incident,email,0
+808,close the current incident,endpoint,0
+809,close the current incident,file,0
+810,close the current incident,hash,0
+811,close the current incident,host,0
+812,close the current incident,id,0
+813,close the current incident,incident,1
+814,close the current incident,indicator,0
+815,close the current incident,information,0
+816,close the current incident,input,0
+817,close the current incident,investigation,0
+818,close the current incident,ips,0
+819,close the current incident,manager,0
+820,close the current incident,object,0
+821,close the current incident,operation,0
+822,close the current incident,playbook,0
+823,close the current incident,property,0
+824,close the current incident,report,0
+825,close the current incident,reputation,0
+826,close the current incident,response,0
+827,close the current incident,result,0
+828,close the current incident,sample,0
+829,close the current incident,severity,0
+830,close the current incident,url,0
+831,close the current incident,username,0
+832,close the investigation.,account,0
+833,close the investigation.,address,0
+834,close the investigation.,alert,0
+835,close the investigation.,case,0
+836,close the investigation.,classifier,0
+837,close the investigation.,device,0
+838,close the investigation.,directory,0
+839,close the investigation.,email,0
+840,close the investigation.,endpoint,0
+841,close the investigation.,file,0
+842,close the investigation.,hash,0
+843,close the investigation.,host,0
+844,close the investigation.,id,0
+845,close the investigation.,incident,0
+846,close the investigation.,indicator,0
+847,close the investigation.,information,0
+848,close the investigation.,input,0
+849,close the investigation.,investigation,1
+850,close the investigation.,ips,0
+851,close the investigation.,manager,0
+852,close the investigation.,object,0
+853,close the investigation.,operation,0
+854,close the investigation.,playbook,0
+855,close the investigation.,property,0
+856,close the investigation.,report,0
+857,close the investigation.,reputation,0
+858,close the investigation.,response,0
+859,close the investigation.,result,0
+860,close the investigation.,sample,0
+861,close the investigation.,severity,0
+862,close the investigation.,url,0
+863,close the investigation.,username,0
+864,"create a phishing classifier using machine learning technique, based on email content",account,0
+865,"create a phishing classifier using machine learning technique, based on email content",address,0
+866,"create a phishing classifier using machine learning technique, based on email content",alert,0
+867,"create a phishing classifier using machine learning technique, based on email content",case,0
+868,"create a phishing classifier using machine learning technique, based on email content",classifier,1
+869,"create a phishing classifier using machine learning technique, based on email content",device,0
+870,"create a phishing classifier using machine learning technique, based on email content",directory,0
+871,"create a phishing classifier using machine learning technique, based on email content",email,0
+872,"create a phishing classifier using machine learning technique, based on email content",endpoint,0
+873,"create a phishing classifier using machine learning technique, based on email content",file,0
+874,"create a phishing classifier using machine learning technique, based on email content",hash,0
+875,"create a phishing classifier using machine learning technique, based on email content",host,0
+876,"create a phishing classifier using machine learning technique, based on email content",id,0
+877,"create a phishing classifier using machine learning technique, based on email content",incident,0
+878,"create a phishing classifier using machine learning technique, based on email content",indicator,0
+879,"create a phishing classifier using machine learning technique, based on email content",information,0
+880,"create a phishing classifier using machine learning technique, based on email content",input,0
+881,"create a phishing classifier using machine learning technique, based on email content",investigation,0
+882,"create a phishing classifier using machine learning technique, based on email content",ips,0
+883,"create a phishing classifier using machine learning technique, based on email content",manager,0
+884,"create a phishing classifier using machine learning technique, based on email content",object,0
+885,"create a phishing classifier using machine learning technique, based on email content",operation,0
+886,"create a phishing classifier using machine learning technique, based on email content",playbook,0
+887,"create a phishing classifier using machine learning technique, based on email content",property,0
+888,"create a phishing classifier using machine learning technique, based on email content",report,0
+889,"create a phishing classifier using machine learning technique, based on email content",reputation,0
+890,"create a phishing classifier using machine learning technique, based on email content",response,0
+891,"create a phishing classifier using machine learning technique, based on email content",result,0
+892,"create a phishing classifier using machine learning technique, based on email content",sample,0
+893,"create a phishing classifier using machine learning technique, based on email content",severity,0
+894,"create a phishing classifier using machine learning technique, based on email content",url,0
+895,"create a phishing classifier using machine learning technique, based on email content",username,0
+896,detonate the file in available sandboxes.,account,0
+897,detonate the file in available sandboxes.,address,0
+898,detonate the file in available sandboxes.,alert,0
+899,detonate the file in available sandboxes.,case,0
+900,detonate the file in available sandboxes.,classifier,0
+901,detonate the file in available sandboxes.,device,0
+902,detonate the file in available sandboxes.,directory,0
+903,detonate the file in available sandboxes.,email,0
+904,detonate the file in available sandboxes.,endpoint,0
+905,detonate the file in available sandboxes.,file,1
+906,detonate the file in available sandboxes.,hash,0
+907,detonate the file in available sandboxes.,host,0
+908,detonate the file in available sandboxes.,id,0
+909,detonate the file in available sandboxes.,incident,0
+910,detonate the file in available sandboxes.,indicator,0
+911,detonate the file in available sandboxes.,information,0
+912,detonate the file in available sandboxes.,input,0
+913,detonate the file in available sandboxes.,investigation,0
+914,detonate the file in available sandboxes.,ips,0
+915,detonate the file in available sandboxes.,manager,0
+916,detonate the file in available sandboxes.,object,0
+917,detonate the file in available sandboxes.,operation,0
+918,detonate the file in available sandboxes.,playbook,0
+919,detonate the file in available sandboxes.,property,0
+920,detonate the file in available sandboxes.,report,0
+921,detonate the file in available sandboxes.,reputation,0
+922,detonate the file in available sandboxes.,response,0
+923,detonate the file in available sandboxes.,result,0
+924,detonate the file in available sandboxes.,sample,0
+925,detonate the file in available sandboxes.,severity,0
+926,detonate the file in available sandboxes.,url,0
+927,detonate the file in available sandboxes.,username,0
+928,detonate the file in crowdstrike falcon sandbox.,account,0
+929,detonate the file in crowdstrike falcon sandbox.,address,0
+930,detonate the file in crowdstrike falcon sandbox.,alert,0
+931,detonate the file in crowdstrike falcon sandbox.,case,0
+932,detonate the file in crowdstrike falcon sandbox.,classifier,0
+933,detonate the file in crowdstrike falcon sandbox.,device,0
+934,detonate the file in crowdstrike falcon sandbox.,directory,0
+935,detonate the file in crowdstrike falcon sandbox.,email,0
+936,detonate the file in crowdstrike falcon sandbox.,endpoint,0
+937,detonate the file in crowdstrike falcon sandbox.,file,1
+938,detonate the file in crowdstrike falcon sandbox.,hash,0
+939,detonate the file in crowdstrike falcon sandbox.,host,0
+940,detonate the file in crowdstrike falcon sandbox.,id,0
+941,detonate the file in crowdstrike falcon sandbox.,incident,0
+942,detonate the file in crowdstrike falcon sandbox.,indicator,0
+943,detonate the file in crowdstrike falcon sandbox.,information,0
+944,detonate the file in crowdstrike falcon sandbox.,input,0
+945,detonate the file in crowdstrike falcon sandbox.,investigation,0
+946,detonate the file in crowdstrike falcon sandbox.,ips,0
+947,detonate the file in crowdstrike falcon sandbox.,manager,0
+948,detonate the file in crowdstrike falcon sandbox.,object,0
+949,detonate the file in crowdstrike falcon sandbox.,operation,0
+950,detonate the file in crowdstrike falcon sandbox.,playbook,0
+951,detonate the file in crowdstrike falcon sandbox.,property,0
+952,detonate the file in crowdstrike falcon sandbox.,report,0
+953,detonate the file in crowdstrike falcon sandbox.,reputation,0
+954,detonate the file in crowdstrike falcon sandbox.,response,0
+955,detonate the file in crowdstrike falcon sandbox.,result,0
+956,detonate the file in crowdstrike falcon sandbox.,sample,0
+957,detonate the file in crowdstrike falcon sandbox.,severity,0
+958,detonate the file in crowdstrike falcon sandbox.,url,0
+959,detonate the file in crowdstrike falcon sandbox.,username,0
+960,detonate the file in mcafee atd,account,0
+961,detonate the file in mcafee atd,address,0
+962,detonate the file in mcafee atd,alert,0
+963,detonate the file in mcafee atd,case,0
+964,detonate the file in mcafee atd,classifier,0
+965,detonate the file in mcafee atd,device,0
+966,detonate the file in mcafee atd,directory,0
+967,detonate the file in mcafee atd,email,0
+968,detonate the file in mcafee atd,endpoint,0
+969,detonate the file in mcafee atd,file,1
+970,detonate the file in mcafee atd,hash,0
+971,detonate the file in mcafee atd,host,0
+972,detonate the file in mcafee atd,id,0
+973,detonate the file in mcafee atd,incident,0
+974,detonate the file in mcafee atd,indicator,0
+975,detonate the file in mcafee atd,information,0
+976,detonate the file in mcafee atd,input,0
+977,detonate the file in mcafee atd,investigation,0
+978,detonate the file in mcafee atd,ips,0
+979,detonate the file in mcafee atd,manager,0
+980,detonate the file in mcafee atd,object,0
+981,detonate the file in mcafee atd,operation,0
+982,detonate the file in mcafee atd,playbook,0
+983,detonate the file in mcafee atd,property,0
+984,detonate the file in mcafee atd,report,0
+985,detonate the file in mcafee atd,reputation,0
+986,detonate the file in mcafee atd,response,0
+987,detonate the file in mcafee atd,result,0
+988,detonate the file in mcafee atd,sample,0
+989,detonate the file in mcafee atd,severity,0
+990,detonate the file in mcafee atd,url,0
+991,detonate the file in mcafee atd,username,0
+992,detonates a file using anyrun,account,0
+993,detonates a file using anyrun,address,0
+994,detonates a file using anyrun,alert,0
+995,detonates a file using anyrun,case,0
+996,detonates a file using anyrun,classifier,0
+997,detonates a file using anyrun,device,0
+998,detonates a file using anyrun,directory,0
+999,detonates a file using anyrun,email,0
+1000,detonates a file using anyrun,endpoint,0
+1001,detonates a file using anyrun,file,1
+1002,detonates a file using anyrun,hash,0
+1003,detonates a file using anyrun,host,0
+1004,detonates a file using anyrun,id,0
+1005,detonates a file using anyrun,incident,0
+1006,detonates a file using anyrun,indicator,0
+1007,detonates a file using anyrun,information,0
+1008,detonates a file using anyrun,input,0
+1009,detonates a file using anyrun,investigation,0
+1010,detonates a file using anyrun,ips,0
+1011,detonates a file using anyrun,manager,0
+1012,detonates a file using anyrun,object,0
+1013,detonates a file using anyrun,operation,0
+1014,detonates a file using anyrun,playbook,0
+1015,detonates a file using anyrun,property,0
+1016,detonates a file using anyrun,report,0
+1017,detonates a file using anyrun,reputation,0
+1018,detonates a file using anyrun,response,0
+1019,detonates a file using anyrun,result,0
+1020,detonates a file using anyrun,sample,0
+1021,detonates a file using anyrun,severity,0
+1022,detonates a file using anyrun,url,0
+1023,detonates a file using anyrun,username,0
+1024,detonates a url using the mcafee advanced threat defense sandbox integration.,account,0
+1025,detonates a url using the mcafee advanced threat defense sandbox integration.,account,0
+1026,detonates a url using the mcafee advanced threat defense sandbox integration.,address,0
+1027,detonates a url using the mcafee advanced threat defense sandbox integration.,address,0
+1028,detonates a url using the mcafee advanced threat defense sandbox integration.,alert,0
+1029,detonates a url using the mcafee advanced threat defense sandbox integration.,alert,0
+1030,detonates a url using the mcafee advanced threat defense sandbox integration.,case,0
+1031,detonates a url using the mcafee advanced threat defense sandbox integration.,case,0
+1032,detonates a url using the mcafee advanced threat defense sandbox integration.,classifier,0
+1033,detonates a url using the mcafee advanced threat defense sandbox integration.,classifier,0
+1034,detonates a url using the mcafee advanced threat defense sandbox integration.,device,0
+1035,detonates a url using the mcafee advanced threat defense sandbox integration.,device,0
+1036,detonates a url using the mcafee advanced threat defense sandbox integration.,directory,0
+1037,detonates a url using the mcafee advanced threat defense sandbox integration.,directory,0
+1038,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+1039,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+1040,detonates a url using the mcafee advanced threat defense sandbox integration.,endpoint,0
+1041,detonates a url using the mcafee advanced threat defense sandbox integration.,endpoint,0
+1042,detonates a url using the mcafee advanced threat defense sandbox integration.,file,0
+1043,detonates a url using the mcafee advanced threat defense sandbox integration.,file,0
+1044,detonates a url using the mcafee advanced threat defense sandbox integration.,hash,0
+1045,detonates a url using the mcafee advanced threat defense sandbox integration.,hash,0
+1046,detonates a url using the mcafee advanced threat defense sandbox integration.,host,0
+1047,detonates a url using the mcafee advanced threat defense sandbox integration.,host,0
+1048,detonates a url using the mcafee advanced threat defense sandbox integration.,id,0
+1049,detonates a url using the mcafee advanced threat defense sandbox integration.,id,0
+1050,detonates a url using the mcafee advanced threat defense sandbox integration.,incident,0
+1051,detonates a url using the mcafee advanced threat defense sandbox integration.,incident,0
+1052,detonates a url using the mcafee advanced threat defense sandbox integration.,indicator,0
+1053,detonates a url using the mcafee advanced threat defense sandbox integration.,indicator,0
+1054,detonates a url using the mcafee advanced threat defense sandbox integration.,information,0
+1055,detonates a url using the mcafee advanced threat defense sandbox integration.,information,0
+1056,detonates a url using the mcafee advanced threat defense sandbox integration.,input,0
+1057,detonates a url using the mcafee advanced threat defense sandbox integration.,input,0
+1058,detonates a url using the mcafee advanced threat defense sandbox integration.,investigation,0
+1059,detonates a url using the mcafee advanced threat defense sandbox integration.,investigation,0
+1060,detonates a url using the mcafee advanced threat defense sandbox integration.,ips,0
+1061,detonates a url using the mcafee advanced threat defense sandbox integration.,ips,0
+1062,detonates a url using the mcafee advanced threat defense sandbox integration.,manager,0
+1063,detonates a url using the mcafee advanced threat defense sandbox integration.,manager,0
+1064,detonates a url using the mcafee advanced threat defense sandbox integration.,object,0
+1065,detonates a url using the mcafee advanced threat defense sandbox integration.,object,0
+1066,detonates a url using the mcafee advanced threat defense sandbox integration.,operation,0
+1067,detonates a url using the mcafee advanced threat defense sandbox integration.,operation,0
+1068,detonates a url using the mcafee advanced threat defense sandbox integration.,playbook,0
+1069,detonates a url using the mcafee advanced threat defense sandbox integration.,playbook,0
+1070,detonates a url using the mcafee advanced threat defense sandbox integration.,property,0
+1071,detonates a url using the mcafee advanced threat defense sandbox integration.,property,0
+1072,detonates a url using the mcafee advanced threat defense sandbox integration.,report,0
+1073,detonates a url using the mcafee advanced threat defense sandbox integration.,report,0
+1074,detonates a url using the mcafee advanced threat defense sandbox integration.,reputation,0
+1075,detonates a url using the mcafee advanced threat defense sandbox integration.,reputation,0
+1076,detonates a url using the mcafee advanced threat defense sandbox integration.,response,0
+1077,detonates a url using the mcafee advanced threat defense sandbox integration.,response,0
+1078,detonates a url using the mcafee advanced threat defense sandbox integration.,result,0
+1079,detonates a url using the mcafee advanced threat defense sandbox integration.,result,0
+1080,detonates a url using the mcafee advanced threat defense sandbox integration.,sample,0
+1081,detonates a url using the mcafee advanced threat defense sandbox integration.,sample,0
+1082,detonates a url using the mcafee advanced threat defense sandbox integration.,severity,0
+1083,detonates a url using the mcafee advanced threat defense sandbox integration.,severity,0
+1084,detonates a url using the mcafee advanced threat defense sandbox integration.,url,1
+1085,detonates a url using the mcafee advanced threat defense sandbox integration.,url,1
+1086,detonates a url using the mcafee advanced threat defense sandbox integration.,username,0
+1087,detonates a url using the mcafee advanced threat defense sandbox integration.,username,0
+1088,detonates one or more files using joe sandbox integration.,account,0
+1089,detonates one or more files using joe sandbox integration.,address,0
+1090,detonates one or more files using joe sandbox integration.,alert,0
+1091,detonates one or more files using joe sandbox integration.,case,0
+1092,detonates one or more files using joe sandbox integration.,classifier,0
+1093,detonates one or more files using joe sandbox integration.,device,0
+1094,detonates one or more files using joe sandbox integration.,directory,0
+1095,detonates one or more files using joe sandbox integration.,email,0
+1096,detonates one or more files using joe sandbox integration.,endpoint,0
+1097,detonates one or more files using joe sandbox integration.,file,1
+1098,detonates one or more files using joe sandbox integration.,hash,0
+1099,detonates one or more files using joe sandbox integration.,host,0
+1100,detonates one or more files using joe sandbox integration.,id,0
+1101,detonates one or more files using joe sandbox integration.,incident,0
+1102,detonates one or more files using joe sandbox integration.,indicator,0
+1103,detonates one or more files using joe sandbox integration.,information,0
+1104,detonates one or more files using joe sandbox integration.,input,0
+1105,detonates one or more files using joe sandbox integration.,investigation,0
+1106,detonates one or more files using joe sandbox integration.,ips,0
+1107,detonates one or more files using joe sandbox integration.,manager,0
+1108,detonates one or more files using joe sandbox integration.,object,0
+1109,detonates one or more files using joe sandbox integration.,operation,0
+1110,detonates one or more files using joe sandbox integration.,playbook,0
+1111,detonates one or more files using joe sandbox integration.,property,0
+1112,detonates one or more files using joe sandbox integration.,report,0
+1113,detonates one or more files using joe sandbox integration.,reputation,0
+1114,detonates one or more files using joe sandbox integration.,response,0
+1115,detonates one or more files using joe sandbox integration.,result,0
+1116,detonates one or more files using joe sandbox integration.,sample,0
+1117,detonates one or more files using joe sandbox integration.,severity,0
+1118,detonates one or more files using joe sandbox integration.,url,0
+1119,detonates one or more files using joe sandbox integration.,username,0
+1120,detonates one or more urls using the joe security sandbox integration.,account,0
+1121,detonates one or more urls using the joe security sandbox integration.,account,0
+1122,detonates one or more urls using the joe security sandbox integration.,address,0
+1123,detonates one or more urls using the joe security sandbox integration.,address,0
+1124,detonates one or more urls using the joe security sandbox integration.,alert,0
+1125,detonates one or more urls using the joe security sandbox integration.,alert,0
+1126,detonates one or more urls using the joe security sandbox integration.,case,0
+1127,detonates one or more urls using the joe security sandbox integration.,case,0
+1128,detonates one or more urls using the joe security sandbox integration.,classifier,0
+1129,detonates one or more urls using the joe security sandbox integration.,classifier,0
+1130,detonates one or more urls using the joe security sandbox integration.,device,0
+1131,detonates one or more urls using the joe security sandbox integration.,device,0
+1132,detonates one or more urls using the joe security sandbox integration.,directory,0
+1133,detonates one or more urls using the joe security sandbox integration.,directory,0
+1134,detonates one or more urls using the joe security sandbox integration.,email,0
+1135,detonates one or more urls using the joe security sandbox integration.,email,0
+1136,detonates one or more urls using the joe security sandbox integration.,endpoint,0
+1137,detonates one or more urls using the joe security sandbox integration.,endpoint,0
+1138,detonates one or more urls using the joe security sandbox integration.,file,0
+1139,detonates one or more urls using the joe security sandbox integration.,file,0
+1140,detonates one or more urls using the joe security sandbox integration.,hash,0
+1141,detonates one or more urls using the joe security sandbox integration.,hash,0
+1142,detonates one or more urls using the joe security sandbox integration.,host,0
+1143,detonates one or more urls using the joe security sandbox integration.,host,0
+1144,detonates one or more urls using the joe security sandbox integration.,id,0
+1145,detonates one or more urls using the joe security sandbox integration.,id,0
+1146,detonates one or more urls using the joe security sandbox integration.,incident,0
+1147,detonates one or more urls using the joe security sandbox integration.,incident,0
+1148,detonates one or more urls using the joe security sandbox integration.,indicator,0
+1149,detonates one or more urls using the joe security sandbox integration.,indicator,0
+1150,detonates one or more urls using the joe security sandbox integration.,information,0
+1151,detonates one or more urls using the joe security sandbox integration.,information,0
+1152,detonates one or more urls using the joe security sandbox integration.,input,0
+1153,detonates one or more urls using the joe security sandbox integration.,input,0
+1154,detonates one or more urls using the joe security sandbox integration.,investigation,0
+1155,detonates one or more urls using the joe security sandbox integration.,investigation,0
+1156,detonates one or more urls using the joe security sandbox integration.,ips,0
+1157,detonates one or more urls using the joe security sandbox integration.,ips,0
+1158,detonates one or more urls using the joe security sandbox integration.,manager,0
+1159,detonates one or more urls using the joe security sandbox integration.,manager,0
+1160,detonates one or more urls using the joe security sandbox integration.,object,0
+1161,detonates one or more urls using the joe security sandbox integration.,object,0
+1162,detonates one or more urls using the joe security sandbox integration.,operation,0
+1163,detonates one or more urls using the joe security sandbox integration.,operation,0
+1164,detonates one or more urls using the joe security sandbox integration.,playbook,0
+1165,detonates one or more urls using the joe security sandbox integration.,playbook,0
+1166,detonates one or more urls using the joe security sandbox integration.,property,0
+1167,detonates one or more urls using the joe security sandbox integration.,property,0
+1168,detonates one or more urls using the joe security sandbox integration.,report,0
+1169,detonates one or more urls using the joe security sandbox integration.,report,0
+1170,detonates one or more urls using the joe security sandbox integration.,reputation,0
+1171,detonates one or more urls using the joe security sandbox integration.,reputation,0
+1172,detonates one or more urls using the joe security sandbox integration.,response,0
+1173,detonates one or more urls using the joe security sandbox integration.,response,0
+1174,detonates one or more urls using the joe security sandbox integration.,result,0
+1175,detonates one or more urls using the joe security sandbox integration.,result,0
+1176,detonates one or more urls using the joe security sandbox integration.,sample,0
+1177,detonates one or more urls using the joe security sandbox integration.,sample,0
+1178,detonates one or more urls using the joe security sandbox integration.,severity,0
+1179,detonates one or more urls using the joe security sandbox integration.,severity,0
+1180,detonates one or more urls using the joe security sandbox integration.,url,1
+1181,detonates one or more urls using the joe security sandbox integration.,url,1
+1182,detonates one or more urls using the joe security sandbox integration.,username,0
+1183,detonates one or more urls using the joe security sandbox integration.,username,0
+1184,disable the account using active directory.,account,1
+1185,disable the account using active directory.,address,0
+1186,disable the account using active directory.,alert,0
+1187,disable the account using active directory.,case,0
+1188,disable the account using active directory.,classifier,0
+1189,disable the account using active directory.,device,0
+1190,disable the account using active directory.,directory,0
+1191,disable the account using active directory.,email,0
+1192,disable the account using active directory.,endpoint,0
+1193,disable the account using active directory.,file,0
+1194,disable the account using active directory.,hash,0
+1195,disable the account using active directory.,host,0
+1196,disable the account using active directory.,id,0
+1197,disable the account using active directory.,incident,0
+1198,disable the account using active directory.,indicator,0
+1199,disable the account using active directory.,information,0
+1200,disable the account using active directory.,input,0
+1201,disable the account using active directory.,investigation,0
+1202,disable the account using active directory.,ips,0
+1203,disable the account using active directory.,manager,0
+1204,disable the account using active directory.,object,0
+1205,disable the account using active directory.,operation,0
+1206,disable the account using active directory.,playbook,0
+1207,disable the account using active directory.,property,0
+1208,disable the account using active directory.,report,0
+1209,disable the account using active directory.,reputation,0
+1210,disable the account using active directory.,response,0
+1211,disable the account using active directory.,result,0
+1212,disable the account using active directory.,sample,0
+1213,disable the account using active directory.,severity,0
+1214,disable the account using active directory.,url,0
+1215,disable the account using active directory.,username,0
+1216,download the pdf report to the war room.,account,0
+1217,download the pdf report to the war room.,address,0
+1218,download the pdf report to the war room.,alert,0
+1219,download the pdf report to the war room.,case,0
+1220,download the pdf report to the war room.,classifier,0
+1221,download the pdf report to the war room.,device,0
+1222,download the pdf report to the war room.,directory,0
+1223,download the pdf report to the war room.,email,0
+1224,download the pdf report to the war room.,endpoint,0
+1225,download the pdf report to the war room.,file,0
+1226,download the pdf report to the war room.,hash,0
+1227,download the pdf report to the war room.,host,0
+1228,download the pdf report to the war room.,id,0
+1229,download the pdf report to the war room.,incident,0
+1230,download the pdf report to the war room.,indicator,0
+1231,download the pdf report to the war room.,information,0
+1232,download the pdf report to the war room.,input,0
+1233,download the pdf report to the war room.,investigation,0
+1234,download the pdf report to the war room.,ips,0
+1235,download the pdf report to the war room.,manager,0
+1236,download the pdf report to the war room.,object,0
+1237,download the pdf report to the war room.,operation,0
+1238,download the pdf report to the war room.,playbook,0
+1239,download the pdf report to the war room.,property,0
+1240,download the pdf report to the war room.,report,1
+1241,download the pdf report to the war room.,reputation,0
+1242,download the pdf report to the war room.,response,0
+1243,download the pdf report to the war room.,result,0
+1244,download the pdf report to the war room.,sample,0
+1245,download the pdf report to the war room.,severity,0
+1246,download the pdf report to the war room.,url,0
+1247,download the pdf report to the war room.,username,0
+1248,downloads file from archer to demisto's context,account,0
+1249,downloads file from archer to demisto's context,address,0
+1250,downloads file from archer to demisto's context,alert,0
+1251,downloads file from archer to demisto's context,case,0
+1252,downloads file from archer to demisto's context,classifier,0
+1253,downloads file from archer to demisto's context,device,0
+1254,downloads file from archer to demisto's context,directory,0
+1255,downloads file from archer to demisto's context,email,0
+1256,downloads file from archer to demisto's context,endpoint,0
+1257,downloads file from archer to demisto's context,file,1
+1258,downloads file from archer to demisto's context,hash,0
+1259,downloads file from archer to demisto's context,host,0
+1260,downloads file from archer to demisto's context,id,0
+1261,downloads file from archer to demisto's context,incident,0
+1262,downloads file from archer to demisto's context,indicator,0
+1263,downloads file from archer to demisto's context,information,0
+1264,downloads file from archer to demisto's context,input,0
+1265,downloads file from archer to demisto's context,investigation,0
+1266,downloads file from archer to demisto's context,ips,0
+1267,downloads file from archer to demisto's context,manager,0
+1268,downloads file from archer to demisto's context,object,0
+1269,downloads file from archer to demisto's context,operation,0
+1270,downloads file from archer to demisto's context,playbook,0
+1271,downloads file from archer to demisto's context,property,0
+1272,downloads file from archer to demisto's context,report,0
+1273,downloads file from archer to demisto's context,reputation,0
+1274,downloads file from archer to demisto's context,response,0
+1275,downloads file from archer to demisto's context,result,0
+1276,downloads file from archer to demisto's context,sample,0
+1277,downloads file from archer to demisto's context,severity,0
+1278,downloads file from archer to demisto's context,url,0
+1279,downloads file from archer to demisto's context,username,0
+1280,dump the file to the war room,account,0
+1281,dump the file to the war room,address,0
+1282,dump the file to the war room,alert,0
+1283,dump the file to the war room,case,0
+1284,dump the file to the war room,classifier,0
+1285,dump the file to the war room,device,0
+1286,dump the file to the war room,directory,0
+1287,dump the file to the war room,email,0
+1288,dump the file to the war room,endpoint,0
+1289,dump the file to the war room,file,1
+1290,dump the file to the war room,hash,0
+1291,dump the file to the war room,host,0
+1292,dump the file to the war room,id,0
+1293,dump the file to the war room,incident,0
+1294,dump the file to the war room,indicator,0
+1295,dump the file to the war room,information,0
+1296,dump the file to the war room,input,0
+1297,dump the file to the war room,investigation,0
+1298,dump the file to the war room,ips,0
+1299,dump the file to the war room,manager,0
+1300,dump the file to the war room,object,0
+1301,dump the file to the war room,operation,0
+1302,dump the file to the war room,playbook,0
+1303,dump the file to the war room,property,0
+1304,dump the file to the war room,report,0
+1305,dump the file to the war room,reputation,0
+1306,dump the file to the war room,response,0
+1307,dump the file to the war room,result,0
+1308,dump the file to the war room,sample,0
+1309,dump the file to the war room,severity,0
+1310,dump the file to the war room,url,0
+1311,dump the file to the war room,username,0
+1312,enrich accounts using one or more integration,account,1
+1313,enrich accounts using one or more integration,address,0
+1314,enrich accounts using one or more integration,alert,0
+1315,enrich accounts using one or more integration,case,0
+1316,enrich accounts using one or more integration,classifier,0
+1317,enrich accounts using one or more integration,device,0
+1318,enrich accounts using one or more integration,directory,0
+1319,enrich accounts using one or more integration,email,0
+1320,enrich accounts using one or more integration,endpoint,0
+1321,enrich accounts using one or more integration,file,0
+1322,enrich accounts using one or more integration,hash,0
+1323,enrich accounts using one or more integration,host,0
+1324,enrich accounts using one or more integration,id,0
+1325,enrich accounts using one or more integration,incident,0
+1326,enrich accounts using one or more integration,indicator,0
+1327,enrich accounts using one or more integration,information,0
+1328,enrich accounts using one or more integration,input,0
+1329,enrich accounts using one or more integration,investigation,0
+1330,enrich accounts using one or more integration,ips,0
+1331,enrich accounts using one or more integration,manager,0
+1332,enrich accounts using one or more integration,object,0
+1333,enrich accounts using one or more integration,operation,0
+1334,enrich accounts using one or more integration,playbook,0
+1335,enrich accounts using one or more integration,property,0
+1336,enrich accounts using one or more integration,report,0
+1337,enrich accounts using one or more integration,reputation,0
+1338,enrich accounts using one or more integration,response,0
+1339,enrich accounts using one or more integration,result,0
+1340,enrich accounts using one or more integration,sample,0
+1341,enrich accounts using one or more integration,severity,0
+1342,enrich accounts using one or more integration,url,0
+1343,enrich accounts using one or more integration,username,0
+1344,get a specific case from esm,account,0
+1345,get a specific case from esm,address,0
+1346,get a specific case from esm,alert,0
+1347,get a specific case from esm,case,1
+1348,get a specific case from esm,classifier,0
+1349,get a specific case from esm,device,0
+1350,get a specific case from esm,directory,0
+1351,get a specific case from esm,email,0
+1352,get a specific case from esm,endpoint,0
+1353,get a specific case from esm,file,0
+1354,get a specific case from esm,hash,0
+1355,get a specific case from esm,host,0
+1356,get a specific case from esm,id,0
+1357,get a specific case from esm,incident,0
+1358,get a specific case from esm,indicator,0
+1359,get a specific case from esm,information,0
+1360,get a specific case from esm,input,0
+1361,get a specific case from esm,investigation,0
+1362,get a specific case from esm,ips,0
+1363,get a specific case from esm,manager,0
+1364,get a specific case from esm,object,0
+1365,get a specific case from esm,operation,0
+1366,get a specific case from esm,playbook,0
+1367,get a specific case from esm,property,0
+1368,get a specific case from esm,report,0
+1369,get a specific case from esm,reputation,0
+1370,get a specific case from esm,response,0
+1371,get a specific case from esm,result,0
+1372,get a specific case from esm,sample,0
+1373,get a specific case from esm,severity,0
+1374,get a specific case from esm,url,0
+1375,get a specific case from esm,username,0
+1376,get crowdstrike device id,account,0
+1377,get crowdstrike device id,address,0
+1378,get crowdstrike device id,alert,0
+1379,get crowdstrike device id,case,0
+1380,get crowdstrike device id,classifier,0
+1381,get crowdstrike device id,device,1
+1382,get crowdstrike device id,directory,0
+1383,get crowdstrike device id,email,0
+1384,get crowdstrike device id,endpoint,0
+1385,get crowdstrike device id,file,0
+1386,get crowdstrike device id,hash,0
+1387,get crowdstrike device id,host,0
+1388,get crowdstrike device id,id,0
+1389,get crowdstrike device id,incident,0
+1390,get crowdstrike device id,indicator,0
+1391,get crowdstrike device id,information,0
+1392,get crowdstrike device id,input,0
+1393,get crowdstrike device id,investigation,0
+1394,get crowdstrike device id,ips,0
+1395,get crowdstrike device id,manager,0
+1396,get crowdstrike device id,object,0
+1397,get crowdstrike device id,operation,0
+1398,get crowdstrike device id,playbook,0
+1399,get crowdstrike device id,property,0
+1400,get crowdstrike device id,report,0
+1401,get crowdstrike device id,reputation,0
+1402,get crowdstrike device id,response,0
+1403,get crowdstrike device id,result,0
+1404,get crowdstrike device id,sample,0
+1405,get crowdstrike device id,severity,0
+1406,get crowdstrike device id,url,0
+1407,get crowdstrike device id,username,0
+1408,get hardware details from endpoint,account,0
+1409,get hardware details from endpoint,address,0
+1410,get hardware details from endpoint,alert,0
+1411,get hardware details from endpoint,case,0
+1412,get hardware details from endpoint,classifier,0
+1413,get hardware details from endpoint,device,0
+1414,get hardware details from endpoint,directory,0
+1415,get hardware details from endpoint,email,0
+1416,get hardware details from endpoint,endpoint,0
+1417,get hardware details from endpoint,file,0
+1418,get hardware details from endpoint,hash,0
+1419,get hardware details from endpoint,host,0
+1420,get hardware details from endpoint,id,0
+1421,get hardware details from endpoint,incident,0
+1422,get hardware details from endpoint,indicator,0
+1423,get hardware details from endpoint,information,0
+1424,get hardware details from endpoint,input,0
+1425,get hardware details from endpoint,investigation,0
+1426,get hardware details from endpoint,ips,0
+1427,get hardware details from endpoint,manager,0
+1428,get hardware details from endpoint,object,0
+1429,get hardware details from endpoint,operation,0
+1430,get hardware details from endpoint,playbook,0
+1431,get hardware details from endpoint,property,0
+1432,get hardware details from endpoint,report,1
+1433,get hardware details from endpoint,reputation,0
+1434,get hardware details from endpoint,response,0
+1435,get hardware details from endpoint,result,0
+1436,get hardware details from endpoint,sample,0
+1437,get hardware details from endpoint,severity,0
+1438,get hardware details from endpoint,url,0
+1439,get hardware details from endpoint,username,0
+1440,get host information from crowdstrike falcon host,account,0
+1441,get host information from crowdstrike falcon host,address,0
+1442,get host information from crowdstrike falcon host,alert,0
+1443,get host information from crowdstrike falcon host,case,0
+1444,get host information from crowdstrike falcon host,classifier,0
+1445,get host information from crowdstrike falcon host,device,0
+1446,get host information from crowdstrike falcon host,directory,0
+1447,get host information from crowdstrike falcon host,email,0
+1448,get host information from crowdstrike falcon host,endpoint,0
+1449,get host information from crowdstrike falcon host,file,0
+1450,get host information from crowdstrike falcon host,hash,0
+1451,get host information from crowdstrike falcon host,host,0
+1452,get host information from crowdstrike falcon host,id,0
+1453,get host information from crowdstrike falcon host,incident,0
+1454,get host information from crowdstrike falcon host,indicator,0
+1455,get host information from crowdstrike falcon host,information,1
+1456,get host information from crowdstrike falcon host,input,0
+1457,get host information from crowdstrike falcon host,investigation,0
+1458,get host information from crowdstrike falcon host,ips,0
+1459,get host information from crowdstrike falcon host,manager,0
+1460,get host information from crowdstrike falcon host,object,0
+1461,get host information from crowdstrike falcon host,operation,0
+1462,get host information from crowdstrike falcon host,playbook,0
+1463,get host information from crowdstrike falcon host,property,0
+1464,get host information from crowdstrike falcon host,report,0
+1465,get host information from crowdstrike falcon host,reputation,0
+1466,get host information from crowdstrike falcon host,response,0
+1467,get host information from crowdstrike falcon host,result,0
+1468,get host information from crowdstrike falcon host,sample,0
+1469,get host information from crowdstrike falcon host,severity,0
+1470,get host information from crowdstrike falcon host,url,0
+1471,get host information from crowdstrike falcon host,username,0
+1472,get the report for a task created for a submitted file or url.,account,0
+1473,get the report for a task created for a submitted file or url.,address,0
+1474,get the report for a task created for a submitted file or url.,alert,0
+1475,get the report for a task created for a submitted file or url.,case,0
+1476,get the report for a task created for a submitted file or url.,classifier,0
+1477,get the report for a task created for a submitted file or url.,device,0
+1478,get the report for a task created for a submitted file or url.,directory,0
+1479,get the report for a task created for a submitted file or url.,email,0
+1480,get the report for a task created for a submitted file or url.,endpoint,0
+1481,get the report for a task created for a submitted file or url.,file,0
+1482,get the report for a task created for a submitted file or url.,hash,0
+1483,get the report for a task created for a submitted file or url.,host,0
+1484,get the report for a task created for a submitted file or url.,id,0
+1485,get the report for a task created for a submitted file or url.,incident,0
+1486,get the report for a task created for a submitted file or url.,indicator,0
+1487,get the report for a task created for a submitted file or url.,information,0
+1488,get the report for a task created for a submitted file or url.,input,0
+1489,get the report for a task created for a submitted file or url.,investigation,0
+1490,get the report for a task created for a submitted file or url.,ips,0
+1491,get the report for a task created for a submitted file or url.,manager,0
+1492,get the report for a task created for a submitted file or url.,object,0
+1493,get the report for a task created for a submitted file or url.,operation,0
+1494,get the report for a task created for a submitted file or url.,playbook,0
+1495,get the report for a task created for a submitted file or url.,property,0
+1496,get the report for a task created for a submitted file or url.,report,1
+1497,get the report for a task created for a submitted file or url.,reputation,0
+1498,get the report for a task created for a submitted file or url.,response,0
+1499,get the report for a task created for a submitted file or url.,result,0
+1500,get the report for a task created for a submitted file or url.,sample,0
+1501,get the report for a task created for a submitted file or url.,severity,0
+1502,get the report for a task created for a submitted file or url.,url,0
+1503,get the report for a task created for a submitted file or url.,username,0
+1504,get the results of the operation.,account,0
+1505,get the results of the operation.,address,0
+1506,get the results of the operation.,alert,0
+1507,get the results of the operation.,case,0
+1508,get the results of the operation.,classifier,0
+1509,get the results of the operation.,device,0
+1510,get the results of the operation.,directory,0
+1511,get the results of the operation.,email,0
+1512,get the results of the operation.,endpoint,0
+1513,get the results of the operation.,file,0
+1514,get the results of the operation.,hash,0
+1515,get the results of the operation.,host,0
+1516,get the results of the operation.,id,0
+1517,get the results of the operation.,incident,0
+1518,get the results of the operation.,indicator,0
+1519,get the results of the operation.,information,0
+1520,get the results of the operation.,input,0
+1521,get the results of the operation.,investigation,0
+1522,get the results of the operation.,ips,0
+1523,get the results of the operation.,manager,0
+1524,get the results of the operation.,object,0
+1525,get the results of the operation.,operation,0
+1526,get the results of the operation.,playbook,0
+1527,get the results of the operation.,property,0
+1528,get the results of the operation.,report,0
+1529,get the results of the operation.,reputation,0
+1530,get the results of the operation.,response,0
+1531,get the results of the operation.,result,1
+1532,get the results of the operation.,sample,0
+1533,get the results of the operation.,severity,0
+1534,get the results of the operation.,url,0
+1535,get the results of the operation.,username,0
+1536,initiate the operation,account,0
+1537,initiate the operation,address,0
+1538,initiate the operation,alert,0
+1539,initiate the operation,case,0
+1540,initiate the operation,classifier,0
+1541,initiate the operation,device,0
+1542,initiate the operation,directory,0
+1543,initiate the operation,email,0
+1544,initiate the operation,endpoint,0
+1545,initiate the operation,file,0
+1546,initiate the operation,hash,0
+1547,initiate the operation,host,0
+1548,initiate the operation,id,0
+1549,initiate the operation,incident,0
+1550,initiate the operation,indicator,0
+1551,initiate the operation,information,0
+1552,initiate the operation,input,0
+1553,initiate the operation,investigation,0
+1554,initiate the operation,ips,0
+1555,initiate the operation,manager,0
+1556,initiate the operation,object,0
+1557,initiate the operation,operation,1
+1558,initiate the operation,playbook,0
+1559,initiate the operation,property,0
+1560,initiate the operation,report,0
+1561,initiate the operation,reputation,0
+1562,initiate the operation,response,0
+1563,initiate the operation,result,0
+1564,initiate the operation,sample,0
+1565,initiate the operation,severity,0
+1566,initiate the operation,url,0
+1567,initiate the operation,username,0
+1568,initiated the generic polling playbook that will do the polling command,account,0
+1569,initiated the generic polling playbook that will do the polling command,address,0
+1570,initiated the generic polling playbook that will do the polling command,alert,0
+1571,initiated the generic polling playbook that will do the polling command,case,0
+1572,initiated the generic polling playbook that will do the polling command,classifier,0
+1573,initiated the generic polling playbook that will do the polling command,device,0
+1574,initiated the generic polling playbook that will do the polling command,directory,0
+1575,initiated the generic polling playbook that will do the polling command,email,0
+1576,initiated the generic polling playbook that will do the polling command,endpoint,0
+1577,initiated the generic polling playbook that will do the polling command,file,0
+1578,initiated the generic polling playbook that will do the polling command,hash,0
+1579,initiated the generic polling playbook that will do the polling command,host,0
+1580,initiated the generic polling playbook that will do the polling command,id,0
+1581,initiated the generic polling playbook that will do the polling command,incident,0
+1582,initiated the generic polling playbook that will do the polling command,indicator,0
+1583,initiated the generic polling playbook that will do the polling command,information,0
+1584,initiated the generic polling playbook that will do the polling command,input,0
+1585,initiated the generic polling playbook that will do the polling command,investigation,0
+1586,initiated the generic polling playbook that will do the polling command,ips,0
+1587,initiated the generic polling playbook that will do the polling command,manager,0
+1588,initiated the generic polling playbook that will do the polling command,object,0
+1589,initiated the generic polling playbook that will do the polling command,operation,0
+1590,initiated the generic polling playbook that will do the polling command,playbook,1
+1591,initiated the generic polling playbook that will do the polling command,property,0
+1592,initiated the generic polling playbook that will do the polling command,report,0
+1593,initiated the generic polling playbook that will do the polling command,reputation,0
+1594,initiated the generic polling playbook that will do the polling command,response,0
+1595,initiated the generic polling playbook that will do the polling command,result,0
+1596,initiated the generic polling playbook that will do the polling command,sample,0
+1597,initiated the generic polling playbook that will do the polling command,severity,0
+1598,initiated the generic polling playbook that will do the polling command,url,0
+1599,initiated the generic polling playbook that will do the polling command,username,0
+1600,parse email with nexpose,account,0
+1601,parse email with nexpose,address,0
+1602,parse email with nexpose,alert,0
+1603,parse email with nexpose,case,0
+1604,parse email with nexpose,classifier,0
+1605,parse email with nexpose,device,0
+1606,parse email with nexpose,directory,0
+1607,parse email with nexpose,email,1
+1608,parse email with nexpose,endpoint,0
+1609,parse email with nexpose,file,0
+1610,parse email with nexpose,hash,0
+1611,parse email with nexpose,host,0
+1612,parse email with nexpose,id,0
+1613,parse email with nexpose,incident,0
+1614,parse email with nexpose,indicator,0
+1615,parse email with nexpose,information,0
+1616,parse email with nexpose,input,0
+1617,parse email with nexpose,investigation,0
+1618,parse email with nexpose,ips,0
+1619,parse email with nexpose,manager,0
+1620,parse email with nexpose,object,0
+1621,parse email with nexpose,operation,0
+1622,parse email with nexpose,playbook,0
+1623,parse email with nexpose,property,0
+1624,parse email with nexpose,report,0
+1625,parse email with nexpose,reputation,0
+1626,parse email with nexpose,response,0
+1627,parse email with nexpose,result,0
+1628,parse email with nexpose,sample,0
+1629,parse email with nexpose,severity,0
+1630,parse email with nexpose,url,0
+1631,parse email with nexpose,username,0
+1632,parse email with sentinelone,account,0
+1633,parse email with sentinelone,address,0
+1634,parse email with sentinelone,alert,0
+1635,parse email with sentinelone,case,0
+1636,parse email with sentinelone,classifier,0
+1637,parse email with sentinelone,device,0
+1638,parse email with sentinelone,directory,0
+1639,parse email with sentinelone,email,1
+1640,parse email with sentinelone,endpoint,0
+1641,parse email with sentinelone,file,0
+1642,parse email with sentinelone,hash,0
+1643,parse email with sentinelone,host,0
+1644,parse email with sentinelone,id,0
+1645,parse email with sentinelone,incident,0
+1646,parse email with sentinelone,indicator,0
+1647,parse email with sentinelone,information,0
+1648,parse email with sentinelone,input,0
+1649,parse email with sentinelone,investigation,0
+1650,parse email with sentinelone,ips,0
+1651,parse email with sentinelone,manager,0
+1652,parse email with sentinelone,object,0
+1653,parse email with sentinelone,operation,0
+1654,parse email with sentinelone,playbook,0
+1655,parse email with sentinelone,property,0
+1656,parse email with sentinelone,report,0
+1657,parse email with sentinelone,reputation,0
+1658,parse email with sentinelone,response,0
+1659,parse email with sentinelone,result,0
+1660,parse email with sentinelone,sample,0
+1661,parse email with sentinelone,severity,0
+1662,parse email with sentinelone,url,0
+1663,parse email with sentinelone,username,0
+1664,parse email with splunk,account,0
+1665,parse email with splunk,address,0
+1666,parse email with splunk,alert,0
+1667,parse email with splunk,case,0
+1668,parse email with splunk,classifier,0
+1669,parse email with splunk,device,0
+1670,parse email with splunk,directory,0
+1671,parse email with splunk,email,1
+1672,parse email with splunk,endpoint,0
+1673,parse email with splunk,file,0
+1674,parse email with splunk,hash,0
+1675,parse email with splunk,host,0
+1676,parse email with splunk,id,0
+1677,parse email with splunk,incident,0
+1678,parse email with splunk,indicator,0
+1679,parse email with splunk,information,0
+1680,parse email with splunk,input,0
+1681,parse email with splunk,investigation,0
+1682,parse email with splunk,ips,0
+1683,parse email with splunk,manager,0
+1684,parse email with splunk,object,0
+1685,parse email with splunk,operation,0
+1686,parse email with splunk,playbook,0
+1687,parse email with splunk,property,0
+1688,parse email with splunk,report,0
+1689,parse email with splunk,reputation,0
+1690,parse email with splunk,response,0
+1691,parse email with splunk,result,0
+1692,parse email with splunk,sample,0
+1693,parse email with splunk,severity,0
+1694,parse email with splunk,url,0
+1695,parse email with splunk,username,0
+1696,poll the operation,account,0
+1697,poll the operation,address,0
+1698,poll the operation,alert,0
+1699,poll the operation,case,0
+1700,poll the operation,classifier,0
+1701,poll the operation,device,0
+1702,poll the operation,directory,0
+1703,poll the operation,email,0
+1704,poll the operation,endpoint,0
+1705,poll the operation,file,0
+1706,poll the operation,hash,0
+1707,poll the operation,host,0
+1708,poll the operation,id,0
+1709,poll the operation,incident,0
+1710,poll the operation,indicator,0
+1711,poll the operation,information,0
+1712,poll the operation,input,0
+1713,poll the operation,investigation,0
+1714,poll the operation,ips,0
+1715,poll the operation,manager,0
+1716,poll the operation,object,0
+1717,poll the operation,operation,1
+1718,poll the operation,playbook,0
+1719,poll the operation,property,0
+1720,poll the operation,report,0
+1721,poll the operation,reputation,0
+1722,poll the operation,response,0
+1723,poll the operation,result,0
+1724,poll the operation,sample,0
+1725,poll the operation,severity,0
+1726,poll the operation,url,0
+1727,poll the operation,username,0
+1728,prints report to war room,account,0
+1729,prints report to war room,address,0
+1730,prints report to war room,alert,0
+1731,prints report to war room,case,0
+1732,prints report to war room,classifier,0
+1733,prints report to war room,device,0
+1734,prints report to war room,directory,0
+1735,prints report to war room,email,0
+1736,prints report to war room,endpoint,0
+1737,prints report to war room,file,0
+1738,prints report to war room,hash,0
+1739,prints report to war room,host,0
+1740,prints report to war room,id,0
+1741,prints report to war room,incident,0
+1742,prints report to war room,indicator,0
+1743,prints report to war room,information,0
+1744,prints report to war room,input,0
+1745,prints report to war room,investigation,0
+1746,prints report to war room,ips,0
+1747,prints report to war room,manager,0
+1748,prints report to war room,object,0
+1749,prints report to war room,operation,0
+1750,prints report to war room,playbook,0
+1751,prints report to war room,property,0
+1752,prints report to war room,report,1
+1753,prints report to war room,reputation,0
+1754,prints report to war room,response,0
+1755,prints report to war room,result,0
+1756,prints report to war room,sample,0
+1757,prints report to war room,severity,0
+1758,prints report to war room,url,0
+1759,prints report to war room,username,0
+1760,quarantine the account,account,1
+1761,quarantine the account,address,0
+1762,quarantine the account,alert,0
+1763,quarantine the account,case,0
+1764,quarantine the account,classifier,0
+1765,quarantine the account,device,0
+1766,quarantine the account,directory,0
+1767,quarantine the account,email,0
+1768,quarantine the account,endpoint,0
+1769,quarantine the account,file,0
+1770,quarantine the account,hash,0
+1771,quarantine the account,host,0
+1772,quarantine the account,id,0
+1773,quarantine the account,incident,0
+1774,quarantine the account,indicator,0
+1775,quarantine the account,information,0
+1776,quarantine the account,input,0
+1777,quarantine the account,investigation,0
+1778,quarantine the account,ips,0
+1779,quarantine the account,manager,0
+1780,quarantine the account,object,0
+1781,quarantine the account,operation,0
+1782,quarantine the account,playbook,0
+1783,quarantine the account,property,0
+1784,quarantine the account,report,0
+1785,quarantine the account,reputation,0
+1786,quarantine the account,response,0
+1787,quarantine the account,result,0
+1788,quarantine the account,sample,0
+1789,quarantine the account,severity,0
+1790,quarantine the account,url,0
+1791,quarantine the account,username,0
+1792,quarantine the endpoint,account,0
+1793,quarantine the endpoint,address,0
+1794,quarantine the endpoint,alert,0
+1795,quarantine the endpoint,case,0
+1796,quarantine the endpoint,classifier,0
+1797,quarantine the endpoint,device,0
+1798,quarantine the endpoint,directory,0
+1799,quarantine the endpoint,email,0
+1800,quarantine the endpoint,endpoint,1
+1801,quarantine the endpoint,file,0
+1802,quarantine the endpoint,hash,0
+1803,quarantine the endpoint,host,0
+1804,quarantine the endpoint,id,0
+1805,quarantine the endpoint,incident,0
+1806,quarantine the endpoint,indicator,0
+1807,quarantine the endpoint,information,0
+1808,quarantine the endpoint,input,0
+1809,quarantine the endpoint,investigation,0
+1810,quarantine the endpoint,ips,0
+1811,quarantine the endpoint,manager,0
+1812,quarantine the endpoint,object,0
+1813,quarantine the endpoint,operation,0
+1814,quarantine the endpoint,playbook,0
+1815,quarantine the endpoint,property,0
+1816,quarantine the endpoint,report,0
+1817,quarantine the endpoint,reputation,0
+1818,quarantine the endpoint,response,0
+1819,quarantine the endpoint,result,0
+1820,quarantine the endpoint,sample,0
+1821,quarantine the endpoint,severity,0
+1822,quarantine the endpoint,url,0
+1823,quarantine the endpoint,username,0
+1824,queries active directory,account,0
+1825,queries active directory,address,0
+1826,queries active directory,alert,0
+1827,queries active directory,case,0
+1828,queries active directory,classifier,0
+1829,queries active directory,device,0
+1830,queries active directory,directory,1
+1831,queries active directory,email,0
+1832,queries active directory,endpoint,0
+1833,queries active directory,file,0
+1834,queries active directory,hash,0
+1835,queries active directory,host,0
+1836,queries active directory,id,0
+1837,queries active directory,incident,0
+1838,queries active directory,indicator,0
+1839,queries active directory,information,0
+1840,queries active directory,input,0
+1841,queries active directory,investigation,0
+1842,queries active directory,ips,0
+1843,queries active directory,manager,0
+1844,queries active directory,object,0
+1845,queries active directory,operation,0
+1846,queries active directory,playbook,0
+1847,queries active directory,property,0
+1848,queries active directory,report,0
+1849,queries active directory,reputation,0
+1850,queries active directory,response,0
+1851,queries active directory,result,0
+1852,queries active directory,sample,0
+1853,queries active directory,severity,0
+1854,queries active directory,url,0
+1855,queries active directory,username,0
+1856,queries active directory for the username's information.,account,0
+1857,queries active directory for the username's information.,address,0
+1858,queries active directory for the username's information.,alert,0
+1859,queries active directory for the username's information.,case,0
+1860,queries active directory for the username's information.,classifier,0
+1861,queries active directory for the username's information.,device,0
+1862,queries active directory for the username's information.,directory,1
+1863,queries active directory for the username's information.,email,0
+1864,queries active directory for the username's information.,endpoint,0
+1865,queries active directory for the username's information.,file,0
+1866,queries active directory for the username's information.,hash,0
+1867,queries active directory for the username's information.,host,0
+1868,queries active directory for the username's information.,id,0
+1869,queries active directory for the username's information.,incident,0
+1870,queries active directory for the username's information.,indicator,0
+1871,queries active directory for the username's information.,information,0
+1872,queries active directory for the username's information.,input,0
+1873,queries active directory for the username's information.,investigation,0
+1874,queries active directory for the username's information.,ips,0
+1875,queries active directory for the username's information.,manager,0
+1876,queries active directory for the username's information.,object,0
+1877,queries active directory for the username's information.,operation,0
+1878,queries active directory for the username's information.,playbook,0
+1879,queries active directory for the username's information.,property,0
+1880,queries active directory for the username's information.,report,0
+1881,queries active directory for the username's information.,reputation,0
+1882,queries active directory for the username's information.,response,0
+1883,queries active directory for the username's information.,result,0
+1884,queries active directory for the username's information.,sample,0
+1885,queries active directory for the username's information.,severity,0
+1886,queries active directory for the username's information.,url,0
+1887,queries active directory for the username's information.,username,0
+1888,query active directory for the email address information,account,0
+1889,query active directory for the email address information,address,0
+1890,query active directory for the email address information,alert,0
+1891,query active directory for the email address information,case,0
+1892,query active directory for the email address information,classifier,0
+1893,query active directory for the email address information,device,0
+1894,query active directory for the email address information,directory,1
+1895,query active directory for the email address information,email,0
+1896,query active directory for the email address information,endpoint,0
+1897,query active directory for the email address information,file,0
+1898,query active directory for the email address information,hash,0
+1899,query active directory for the email address information,host,0
+1900,query active directory for the email address information,id,0
+1901,query active directory for the email address information,incident,0
+1902,query active directory for the email address information,indicator,0
+1903,query active directory for the email address information,information,0
+1904,query active directory for the email address information,input,0
+1905,query active directory for the email address information,investigation,0
+1906,query active directory for the email address information,ips,0
+1907,query active directory for the email address information,manager,0
+1908,query active directory for the email address information,object,0
+1909,query active directory for the email address information,operation,0
+1910,query active directory for the email address information,playbook,0
+1911,query active directory for the email address information,property,0
+1912,query active directory for the email address information,report,0
+1913,query active directory for the email address information,reputation,0
+1914,query active directory for the email address information,response,0
+1915,query active directory for the email address information,result,0
+1916,query active directory for the email address information,sample,0
+1917,query active directory for the email address information,severity,0
+1918,query active directory for the email address information,url,0
+1919,query active directory for the email address information,username,0
+1920,query active directory for the username's information,account,0
+1921,query active directory for the username's information,address,0
+1922,query active directory for the username's information,alert,0
+1923,query active directory for the username's information,case,0
+1924,query active directory for the username's information,classifier,0
+1925,query active directory for the username's information,device,0
+1926,query active directory for the username's information,directory,1
+1927,query active directory for the username's information,email,0
+1928,query active directory for the username's information,endpoint,0
+1929,query active directory for the username's information,file,0
+1930,query active directory for the username's information,hash,0
+1931,query active directory for the username's information,host,0
+1932,query active directory for the username's information,id,0
+1933,query active directory for the username's information,incident,0
+1934,query active directory for the username's information,indicator,0
+1935,query active directory for the username's information,information,0
+1936,query active directory for the username's information,input,0
+1937,query active directory for the username's information,investigation,0
+1938,query active directory for the username's information,ips,0
+1939,query active directory for the username's information,manager,0
+1940,query active directory for the username's information,object,0
+1941,query active directory for the username's information,operation,0
+1942,query active directory for the username's information,playbook,0
+1943,query active directory for the username's information,property,0
+1944,query active directory for the username's information,report,0
+1945,query active directory for the username's information,reputation,0
+1946,query active directory for the username's information,response,0
+1947,query active directory for the username's information,result,0
+1948,query active directory for the username's information,sample,0
+1949,query active directory for the username's information,severity,0
+1950,query active directory for the username's information,url,0
+1951,query active directory for the username's information,username,0
+1952,query the account logs in siem,account,1
+1953,query the account logs in siem,address,0
+1954,query the account logs in siem,alert,0
+1955,query the account logs in siem,case,0
+1956,query the account logs in siem,classifier,0
+1957,query the account logs in siem,device,0
+1958,query the account logs in siem,directory,0
+1959,query the account logs in siem,email,0
+1960,query the account logs in siem,endpoint,0
+1961,query the account logs in siem,file,0
+1962,query the account logs in siem,hash,0
+1963,query the account logs in siem,host,0
+1964,query the account logs in siem,id,0
+1965,query the account logs in siem,incident,0
+1966,query the account logs in siem,indicator,0
+1967,query the account logs in siem,information,0
+1968,query the account logs in siem,input,0
+1969,query the account logs in siem,investigation,0
+1970,query the account logs in siem,ips,0
+1971,query the account logs in siem,manager,0
+1972,query the account logs in siem,object,0
+1973,query the account logs in siem,operation,0
+1974,query the account logs in siem,playbook,0
+1975,query the account logs in siem,property,0
+1976,query the account logs in siem,report,0
+1977,query the account logs in siem,reputation,0
+1978,query the account logs in siem,response,0
+1979,query the account logs in siem,result,0
+1980,query the account logs in siem,sample,0
+1981,query the account logs in siem,severity,0
+1982,query the account logs in siem,url,0
+1983,query the account logs in siem,username,0
+1984,query the ips logs in the siem,account,0
+1985,query the ips logs in the siem,address,0
+1986,query the ips logs in the siem,alert,0
+1987,query the ips logs in the siem,case,0
+1988,query the ips logs in the siem,classifier,0
+1989,query the ips logs in the siem,device,0
+1990,query the ips logs in the siem,directory,0
+1991,query the ips logs in the siem,email,0
+1992,query the ips logs in the siem,endpoint,0
+1993,query the ips logs in the siem,file,0
+1994,query the ips logs in the siem,hash,0
+1995,query the ips logs in the siem,host,0
+1996,query the ips logs in the siem,id,0
+1997,query the ips logs in the siem,incident,0
+1998,query the ips logs in the siem,indicator,0
+1999,query the ips logs in the siem,information,0
+2000,query the ips logs in the siem,input,0
+2001,query the ips logs in the siem,investigation,0
+2002,query the ips logs in the siem,ips,1
+2003,query the ips logs in the siem,manager,0
+2004,query the ips logs in the siem,object,0
+2005,query the ips logs in the siem,operation,0
+2006,query the ips logs in the siem,playbook,0
+2007,query the ips logs in the siem,property,0
+2008,query the ips logs in the siem,report,0
+2009,query the ips logs in the siem,reputation,0
+2010,query the ips logs in the siem,response,0
+2011,query the ips logs in the siem,result,0
+2012,query the ips logs in the siem,sample,0
+2013,query the ips logs in the siem,severity,0
+2014,query the ips logs in the siem,url,0
+2015,query the ips logs in the siem,username,0
+2016,"retrieve cve information from ""cve search"".",account,0
+2017,"retrieve cve information from ""cve search"".",address,0
+2018,"retrieve cve information from ""cve search"".",alert,0
+2019,"retrieve cve information from ""cve search"".",case,0
+2020,"retrieve cve information from ""cve search"".",classifier,0
+2021,"retrieve cve information from ""cve search"".",device,0
+2022,"retrieve cve information from ""cve search"".",directory,0
+2023,"retrieve cve information from ""cve search"".",email,0
+2024,"retrieve cve information from ""cve search"".",endpoint,0
+2025,"retrieve cve information from ""cve search"".",file,0
+2026,"retrieve cve information from ""cve search"".",hash,0
+2027,"retrieve cve information from ""cve search"".",host,0
+2028,"retrieve cve information from ""cve search"".",id,0
+2029,"retrieve cve information from ""cve search"".",incident,0
+2030,"retrieve cve information from ""cve search"".",indicator,0
+2031,"retrieve cve information from ""cve search"".",information,1
+2032,"retrieve cve information from ""cve search"".",input,0
+2033,"retrieve cve information from ""cve search"".",investigation,0
+2034,"retrieve cve information from ""cve search"".",ips,0
+2035,"retrieve cve information from ""cve search"".",manager,0
+2036,"retrieve cve information from ""cve search"".",object,0
+2037,"retrieve cve information from ""cve search"".",operation,0
+2038,"retrieve cve information from ""cve search"".",playbook,0
+2039,"retrieve cve information from ""cve search"".",property,0
+2040,"retrieve cve information from ""cve search"".",report,0
+2041,"retrieve cve information from ""cve search"".",reputation,0
+2042,"retrieve cve information from ""cve search"".",response,0
+2043,"retrieve cve information from ""cve search"".",result,0
+2044,"retrieve cve information from ""cve search"".",sample,0
+2045,"retrieve cve information from ""cve search"".",severity,0
+2046,"retrieve cve information from ""cve search"".",url,0
+2047,"retrieve cve information from ""cve search"".",username,0
+2048,retrieve cve information from xfe.,account,0
+2049,retrieve cve information from xfe.,address,0
+2050,retrieve cve information from xfe.,alert,0
+2051,retrieve cve information from xfe.,case,0
+2052,retrieve cve information from xfe.,classifier,0
+2053,retrieve cve information from xfe.,device,0
+2054,retrieve cve information from xfe.,directory,0
+2055,retrieve cve information from xfe.,email,0
+2056,retrieve cve information from xfe.,endpoint,0
+2057,retrieve cve information from xfe.,file,0
+2058,retrieve cve information from xfe.,hash,0
+2059,retrieve cve information from xfe.,host,0
+2060,retrieve cve information from xfe.,id,0
+2061,retrieve cve information from xfe.,incident,0
+2062,retrieve cve information from xfe.,indicator,0
+2063,retrieve cve information from xfe.,information,1
+2064,retrieve cve information from xfe.,input,0
+2065,retrieve cve information from xfe.,investigation,0
+2066,retrieve cve information from xfe.,ips,0
+2067,retrieve cve information from xfe.,manager,0
+2068,retrieve cve information from xfe.,object,0
+2069,retrieve cve information from xfe.,operation,0
+2070,retrieve cve information from xfe.,playbook,0
+2071,retrieve cve information from xfe.,property,0
+2072,retrieve cve information from xfe.,report,0
+2073,retrieve cve information from xfe.,reputation,0
+2074,retrieve cve information from xfe.,response,0
+2075,retrieve cve information from xfe.,result,0
+2076,retrieve cve information from xfe.,sample,0
+2077,retrieve cve information from xfe.,severity,0
+2078,retrieve cve information from xfe.,url,0
+2079,retrieve cve information from xfe.,username,0
+2080,retrieve cve reputation using one or more integrations.,account,0
+2081,retrieve cve reputation using one or more integrations.,address,0
+2082,retrieve cve reputation using one or more integrations.,alert,0
+2083,retrieve cve reputation using one or more integrations.,case,0
+2084,retrieve cve reputation using one or more integrations.,classifier,0
+2085,retrieve cve reputation using one or more integrations.,device,0
+2086,retrieve cve reputation using one or more integrations.,directory,0
+2087,retrieve cve reputation using one or more integrations.,email,0
+2088,retrieve cve reputation using one or more integrations.,endpoint,0
+2089,retrieve cve reputation using one or more integrations.,file,0
+2090,retrieve cve reputation using one or more integrations.,hash,0
+2091,retrieve cve reputation using one or more integrations.,host,0
+2092,retrieve cve reputation using one or more integrations.,id,0
+2093,retrieve cve reputation using one or more integrations.,incident,0
+2094,retrieve cve reputation using one or more integrations.,indicator,0
+2095,retrieve cve reputation using one or more integrations.,information,0
+2096,retrieve cve reputation using one or more integrations.,input,0
+2097,retrieve cve reputation using one or more integrations.,investigation,0
+2098,retrieve cve reputation using one or more integrations.,ips,0
+2099,retrieve cve reputation using one or more integrations.,manager,0
+2100,retrieve cve reputation using one or more integrations.,object,0
+2101,retrieve cve reputation using one or more integrations.,operation,0
+2102,retrieve cve reputation using one or more integrations.,playbook,0
+2103,retrieve cve reputation using one or more integrations.,property,0
+2104,retrieve cve reputation using one or more integrations.,report,0
+2105,retrieve cve reputation using one or more integrations.,reputation,1
+2106,retrieve cve reputation using one or more integrations.,response,0
+2107,retrieve cve reputation using one or more integrations.,result,0
+2108,retrieve cve reputation using one or more integrations.,sample,0
+2109,retrieve cve reputation using one or more integrations.,severity,0
+2110,retrieve cve reputation using one or more integrations.,url,0
+2111,retrieve cve reputation using one or more integrations.,username,0
+2112,retrieve result data upon a file.,account,0
+2113,retrieve result data upon a file.,address,0
+2114,retrieve result data upon a file.,alert,0
+2115,retrieve result data upon a file.,case,0
+2116,retrieve result data upon a file.,classifier,0
+2117,retrieve result data upon a file.,device,0
+2118,retrieve result data upon a file.,directory,0
+2119,retrieve result data upon a file.,email,0
+2120,retrieve result data upon a file.,endpoint,0
+2121,retrieve result data upon a file.,file,0
+2122,retrieve result data upon a file.,hash,0
+2123,retrieve result data upon a file.,host,0
+2124,retrieve result data upon a file.,id,0
+2125,retrieve result data upon a file.,incident,0
+2126,retrieve result data upon a file.,indicator,0
+2127,retrieve result data upon a file.,information,0
+2128,retrieve result data upon a file.,input,0
+2129,retrieve result data upon a file.,investigation,0
+2130,retrieve result data upon a file.,ips,0
+2131,retrieve result data upon a file.,manager,0
+2132,retrieve result data upon a file.,object,0
+2133,retrieve result data upon a file.,operation,0
+2134,retrieve result data upon a file.,playbook,0
+2135,retrieve result data upon a file.,property,0
+2136,retrieve result data upon a file.,report,0
+2137,retrieve result data upon a file.,reputation,0
+2138,retrieve result data upon a file.,response,0
+2139,retrieve result data upon a file.,result,1
+2140,retrieve result data upon a file.,sample,0
+2141,retrieve result data upon a file.,severity,0
+2142,retrieve result data upon a file.,url,0
+2143,retrieve result data upon a file.,username,0
+2144,retrieve the ad account information for the manager of the source user account.,account,0
+2145,retrieve the ad account information for the manager of the source user account.,address,0
+2146,retrieve the ad account information for the manager of the source user account.,alert,0
+2147,retrieve the ad account information for the manager of the source user account.,case,0
+2148,retrieve the ad account information for the manager of the source user account.,classifier,0
+2149,retrieve the ad account information for the manager of the source user account.,device,0
+2150,retrieve the ad account information for the manager of the source user account.,directory,0
+2151,retrieve the ad account information for the manager of the source user account.,email,0
+2152,retrieve the ad account information for the manager of the source user account.,endpoint,0
+2153,retrieve the ad account information for the manager of the source user account.,file,0
+2154,retrieve the ad account information for the manager of the source user account.,hash,0
+2155,retrieve the ad account information for the manager of the source user account.,host,0
+2156,retrieve the ad account information for the manager of the source user account.,id,0
+2157,retrieve the ad account information for the manager of the source user account.,incident,0
+2158,retrieve the ad account information for the manager of the source user account.,indicator,0
+2159,retrieve the ad account information for the manager of the source user account.,information,1
+2160,retrieve the ad account information for the manager of the source user account.,input,0
+2161,retrieve the ad account information for the manager of the source user account.,investigation,0
+2162,retrieve the ad account information for the manager of the source user account.,ips,0
+2163,retrieve the ad account information for the manager of the source user account.,manager,0
+2164,retrieve the ad account information for the manager of the source user account.,object,0
+2165,retrieve the ad account information for the manager of the source user account.,operation,0
+2166,retrieve the ad account information for the manager of the source user account.,playbook,0
+2167,retrieve the ad account information for the manager of the source user account.,property,0
+2168,retrieve the ad account information for the manager of the source user account.,report,0
+2169,retrieve the ad account information for the manager of the source user account.,reputation,0
+2170,retrieve the ad account information for the manager of the source user account.,response,0
+2171,retrieve the ad account information for the manager of the source user account.,result,0
+2172,retrieve the ad account information for the manager of the source user account.,sample,0
+2173,retrieve the ad account information for the manager of the source user account.,severity,0
+2174,retrieve the ad account information for the manager of the source user account.,url,0
+2175,retrieve the ad account information for the manager of the source user account.,username,0
+2176,retrieve the report from qualys.,account,0
+2177,retrieve the report from qualys.,address,0
+2178,retrieve the report from qualys.,alert,0
+2179,retrieve the report from qualys.,case,0
+2180,retrieve the report from qualys.,classifier,0
+2181,retrieve the report from qualys.,device,0
+2182,retrieve the report from qualys.,directory,0
+2183,retrieve the report from qualys.,email,0
+2184,retrieve the report from qualys.,endpoint,0
+2185,retrieve the report from qualys.,file,0
+2186,retrieve the report from qualys.,hash,0
+2187,retrieve the report from qualys.,host,0
+2188,retrieve the report from qualys.,id,0
+2189,retrieve the report from qualys.,incident,0
+2190,retrieve the report from qualys.,indicator,0
+2191,retrieve the report from qualys.,information,0
+2192,retrieve the report from qualys.,input,0
+2193,retrieve the report from qualys.,investigation,0
+2194,retrieve the report from qualys.,ips,0
+2195,retrieve the report from qualys.,manager,0
+2196,retrieve the report from qualys.,object,0
+2197,retrieve the report from qualys.,operation,0
+2198,retrieve the report from qualys.,playbook,0
+2199,retrieve the report from qualys.,property,0
+2200,retrieve the report from qualys.,report,1
+2201,retrieve the report from qualys.,reputation,0
+2202,retrieve the report from qualys.,response,0
+2203,retrieve the report from qualys.,result,0
+2204,retrieve the report from qualys.,sample,0
+2205,retrieve the report from qualys.,severity,0
+2206,retrieve the report from qualys.,url,0
+2207,retrieve the report from qualys.,username,0
+2208,retrieves detailed information about a user account.,account,0
+2209,retrieves detailed information about a user account.,address,0
+2210,retrieves detailed information about a user account.,alert,0
+2211,retrieves detailed information about a user account.,case,0
+2212,retrieves detailed information about a user account.,classifier,0
+2213,retrieves detailed information about a user account.,device,0
+2214,retrieves detailed information about a user account.,directory,0
+2215,retrieves detailed information about a user account.,email,0
+2216,retrieves detailed information about a user account.,endpoint,0
+2217,retrieves detailed information about a user account.,file,0
+2218,retrieves detailed information about a user account.,hash,0
+2219,retrieves detailed information about a user account.,host,0
+2220,retrieves detailed information about a user account.,id,0
+2221,retrieves detailed information about a user account.,incident,0
+2222,retrieves detailed information about a user account.,indicator,0
+2223,retrieves detailed information about a user account.,information,1
+2224,retrieves detailed information about a user account.,input,0
+2225,retrieves detailed information about a user account.,investigation,0
+2226,retrieves detailed information about a user account.,ips,0
+2227,retrieves detailed information about a user account.,manager,0
+2228,retrieves detailed information about a user account.,object,0
+2229,retrieves detailed information about a user account.,operation,0
+2230,retrieves detailed information about a user account.,playbook,0
+2231,retrieves detailed information about a user account.,property,0
+2232,retrieves detailed information about a user account.,report,0
+2233,retrieves detailed information about a user account.,reputation,0
+2234,retrieves detailed information about a user account.,response,0
+2235,retrieves detailed information about a user account.,result,0
+2236,retrieves detailed information about a user account.,sample,0
+2237,retrieves detailed information about a user account.,severity,0
+2238,retrieves detailed information about a user account.,url,0
+2239,retrieves detailed information about a user account.,username,0
+2240,return output 'no' for empty arrays,account,0
+2241,return output 'no' for empty arrays,address,0
+2242,return output 'no' for empty arrays,alert,0
+2243,return output 'no' for empty arrays,case,0
+2244,return output 'no' for empty arrays,classifier,0
+2245,return output 'no' for empty arrays,device,0
+2246,return output 'no' for empty arrays,directory,0
+2247,return output 'no' for empty arrays,email,0
+2248,return output 'no' for empty arrays,endpoint,0
+2249,return output 'no' for empty arrays,file,0
+2250,return output 'no' for empty arrays,hash,0
+2251,return output 'no' for empty arrays,host,0
+2252,return output 'no' for empty arrays,id,0
+2253,return output 'no' for empty arrays,incident,0
+2254,return output 'no' for empty arrays,indicator,0
+2255,return output 'no' for empty arrays,information,0
+2256,return output 'no' for empty arrays,input,0
+2257,return output 'no' for empty arrays,investigation,0
+2258,return output 'no' for empty arrays,ips,0
+2259,return output 'no' for empty arrays,manager,0
+2260,return output 'no' for empty arrays,object,1
+2261,return output 'no' for empty arrays,operation,0
+2262,return output 'no' for empty arrays,playbook,0
+2263,return output 'no' for empty arrays,property,0
+2264,return output 'no' for empty arrays,report,0
+2265,return output 'no' for empty arrays,reputation,0
+2266,return output 'no' for empty arrays,response,0
+2267,return output 'no' for empty arrays,result,0
+2268,return output 'no' for empty arrays,sample,0
+2269,return output 'no' for empty arrays,severity,0
+2270,return output 'no' for empty arrays,url,0
+2271,return output 'no' for empty arrays,username,0
+2272,returns all case event ids,account,0
+2273,returns all case event ids,address,0
+2274,returns all case event ids,alert,0
+2275,returns all case event ids,case,0
+2276,returns all case event ids,classifier,0
+2277,returns all case event ids,device,0
+2278,returns all case event ids,directory,0
+2279,returns all case event ids,email,0
+2280,returns all case event ids,endpoint,0
+2281,returns all case event ids,file,0
+2282,returns all case event ids,hash,0
+2283,returns all case event ids,host,0
+2284,returns all case event ids,id,1
+2285,returns all case event ids,incident,0
+2286,returns all case event ids,indicator,0
+2287,returns all case event ids,information,0
+2288,returns all case event ids,input,0
+2289,returns all case event ids,investigation,0
+2290,returns all case event ids,ips,0
+2291,returns all case event ids,manager,0
+2292,returns all case event ids,object,0
+2293,returns all case event ids,operation,0
+2294,returns all case event ids,playbook,0
+2295,returns all case event ids,property,0
+2296,returns all case event ids,report,0
+2297,returns all case event ids,reputation,0
+2298,returns all case event ids,response,0
+2299,returns all case event ids,result,0
+2300,returns all case event ids,sample,0
+2301,returns all case event ids,severity,0
+2302,returns all case event ids,url,0
+2303,returns all case event ids,username,0
+2304,returns information for the specified username.,account,0
+2305,returns information for the specified username.,address,0
+2306,returns information for the specified username.,alert,0
+2307,returns information for the specified username.,case,0
+2308,returns information for the specified username.,classifier,0
+2309,returns information for the specified username.,device,0
+2310,returns information for the specified username.,directory,0
+2311,returns information for the specified username.,email,0
+2312,returns information for the specified username.,endpoint,0
+2313,returns information for the specified username.,file,0
+2314,returns information for the specified username.,hash,0
+2315,returns information for the specified username.,host,0
+2316,returns information for the specified username.,id,0
+2317,returns information for the specified username.,incident,0
+2318,returns information for the specified username.,indicator,0
+2319,returns information for the specified username.,information,1
+2320,returns information for the specified username.,input,0
+2321,returns information for the specified username.,investigation,0
+2322,returns information for the specified username.,ips,0
+2323,returns information for the specified username.,manager,0
+2324,returns information for the specified username.,object,0
+2325,returns information for the specified username.,operation,0
+2326,returns information for the specified username.,playbook,0
+2327,returns information for the specified username.,property,0
+2328,returns information for the specified username.,report,0
+2329,returns information for the specified username.,reputation,0
+2330,returns information for the specified username.,response,0
+2331,returns information for the specified username.,result,0
+2332,returns information for the specified username.,sample,0
+2333,returns information for the specified username.,severity,0
+2334,returns information for the specified username.,url,0
+2335,returns information for the specified username.,username,0
+2336,review email address,account,0
+2337,review email address,address,1
+2338,review email address,alert,0
+2339,review email address,case,0
+2340,review email address,classifier,0
+2341,review email address,device,0
+2342,review email address,directory,0
+2343,review email address,email,0
+2344,review email address,endpoint,0
+2345,review email address,file,0
+2346,review email address,hash,0
+2347,review email address,host,0
+2348,review email address,id,0
+2349,review email address,incident,0
+2350,review email address,indicator,0
+2351,review email address,information,0
+2352,review email address,input,0
+2353,review email address,investigation,0
+2354,review email address,ips,0
+2355,review email address,manager,0
+2356,review email address,object,0
+2357,review email address,operation,0
+2358,review email address,playbook,0
+2359,review email address,property,0
+2360,review email address,report,0
+2361,review email address,reputation,0
+2362,review email address,response,0
+2363,review email address,result,0
+2364,review email address,sample,0
+2365,review email address,severity,0
+2366,review email address,url,0
+2367,review email address,username,0
+2368,review for active directory instance,account,0
+2369,review for active directory instance,address,0
+2370,review for active directory instance,alert,0
+2371,review for active directory instance,case,0
+2372,review for active directory instance,classifier,0
+2373,review for active directory instance,device,0
+2374,review for active directory instance,directory,1
+2375,review for active directory instance,email,0
+2376,review for active directory instance,endpoint,0
+2377,review for active directory instance,file,0
+2378,review for active directory instance,hash,0
+2379,review for active directory instance,host,0
+2380,review for active directory instance,id,0
+2381,review for active directory instance,incident,0
+2382,review for active directory instance,indicator,0
+2383,review for active directory instance,information,0
+2384,review for active directory instance,input,0
+2385,review for active directory instance,investigation,0
+2386,review for active directory instance,ips,0
+2387,review for active directory instance,manager,0
+2388,review for active directory instance,object,0
+2389,review for active directory instance,operation,0
+2390,review for active directory instance,playbook,0
+2391,review for active directory instance,property,0
+2392,review for active directory instance,report,0
+2393,review for active directory instance,reputation,0
+2394,review for active directory instance,response,0
+2395,review for active directory instance,result,0
+2396,review for active directory instance,sample,0
+2397,review for active directory instance,severity,0
+2398,review for active directory instance,url,0
+2399,review for active directory instance,username,0
+2400,review if a given value exists in the context,account,0
+2401,review if a given value exists in the context,address,0
+2402,review if a given value exists in the context,alert,0
+2403,review if a given value exists in the context,case,0
+2404,review if a given value exists in the context,classifier,0
+2405,review if a given value exists in the context,device,0
+2406,review if a given value exists in the context,directory,0
+2407,review if a given value exists in the context,email,0
+2408,review if a given value exists in the context,endpoint,0
+2409,review if a given value exists in the context,file,0
+2410,review if a given value exists in the context,hash,0
+2411,review if a given value exists in the context,host,0
+2412,review if a given value exists in the context,id,0
+2413,review if a given value exists in the context,incident,0
+2414,review if a given value exists in the context,indicator,0
+2415,review if a given value exists in the context,information,0
+2416,review if a given value exists in the context,input,0
+2417,review if a given value exists in the context,investigation,0
+2418,review if a given value exists in the context,ips,0
+2419,review if a given value exists in the context,manager,0
+2420,review if a given value exists in the context,object,1
+2421,review if a given value exists in the context,operation,0
+2422,review if a given value exists in the context,playbook,0
+2423,review if a given value exists in the context,property,0
+2424,review if a given value exists in the context,report,0
+2425,review if a given value exists in the context,reputation,0
+2426,review if a given value exists in the context,response,0
+2427,review if a given value exists in the context,result,0
+2428,review if a given value exists in the context,sample,0
+2429,review if a given value exists in the context,severity,0
+2430,review if a given value exists in the context,url,0
+2431,review if a given value exists in the context,username,0
+2432,review the account's privileges,account,1
+2433,review the account's privileges,address,0
+2434,review the account's privileges,alert,0
+2435,review the account's privileges,case,0
+2436,review the account's privileges,classifier,0
+2437,review the account's privileges,device,0
+2438,review the account's privileges,directory,0
+2439,review the account's privileges,email,0
+2440,review the account's privileges,endpoint,0
+2441,review the account's privileges,file,0
+2442,review the account's privileges,hash,0
+2443,review the account's privileges,host,0
+2444,review the account's privileges,id,0
+2445,review the account's privileges,incident,0
+2446,review the account's privileges,indicator,0
+2447,review the account's privileges,information,0
+2448,review the account's privileges,input,0
+2449,review the account's privileges,investigation,0
+2450,review the account's privileges,ips,0
+2451,review the account's privileges,manager,0
+2452,review the account's privileges,object,0
+2453,review the account's privileges,operation,0
+2454,review the account's privileges,playbook,0
+2455,review the account's privileges,property,0
+2456,review the account's privileges,report,0
+2457,review the account's privileges,reputation,0
+2458,review the account's privileges,response,0
+2459,review the account's privileges,result,0
+2460,review the account's privileges,sample,0
+2461,review the account's privileges,severity,0
+2462,review the account's privileges,url,0
+2463,review the account's privileges,username,0
+2464,review the incident to determine if the account activity is malicious.,account,0
+2465,review the incident to determine if the account activity is malicious.,address,0
+2466,review the incident to determine if the account activity is malicious.,alert,0
+2467,review the incident to determine if the account activity is malicious.,case,0
+2468,review the incident to determine if the account activity is malicious.,classifier,0
+2469,review the incident to determine if the account activity is malicious.,device,0
+2470,review the incident to determine if the account activity is malicious.,directory,0
+2471,review the incident to determine if the account activity is malicious.,email,0
+2472,review the incident to determine if the account activity is malicious.,endpoint,0
+2473,review the incident to determine if the account activity is malicious.,file,0
+2474,review the incident to determine if the account activity is malicious.,hash,0
+2475,review the incident to determine if the account activity is malicious.,host,0
+2476,review the incident to determine if the account activity is malicious.,id,0
+2477,review the incident to determine if the account activity is malicious.,incident,1
+2478,review the incident to determine if the account activity is malicious.,indicator,0
+2479,review the incident to determine if the account activity is malicious.,information,0
+2480,review the incident to determine if the account activity is malicious.,input,0
+2481,review the incident to determine if the account activity is malicious.,investigation,0
+2482,review the incident to determine if the account activity is malicious.,ips,0
+2483,review the incident to determine if the account activity is malicious.,manager,0
+2484,review the incident to determine if the account activity is malicious.,object,0
+2485,review the incident to determine if the account activity is malicious.,operation,0
+2486,review the incident to determine if the account activity is malicious.,playbook,0
+2487,review the incident to determine if the account activity is malicious.,property,0
+2488,review the incident to determine if the account activity is malicious.,report,0
+2489,review the incident to determine if the account activity is malicious.,reputation,0
+2490,review the incident to determine if the account activity is malicious.,response,0
+2491,review the incident to determine if the account activity is malicious.,result,0
+2492,review the incident to determine if the account activity is malicious.,sample,0
+2493,review the incident to determine if the account activity is malicious.,severity,0
+2494,review the incident to determine if the account activity is malicious.,url,0
+2495,review the incident to determine if the account activity is malicious.,username,0
+2496,review username to query,account,0
+2497,review username to query,address,0
+2498,review username to query,alert,0
+2499,review username to query,case,0
+2500,review username to query,classifier,0
+2501,review username to query,device,0
+2502,review username to query,directory,0
+2503,review username to query,email,0
+2504,review username to query,endpoint,0
+2505,review username to query,file,0
+2506,review username to query,hash,0
+2507,review username to query,host,0
+2508,review username to query,id,0
+2509,review username to query,incident,0
+2510,review username to query,indicator,0
+2511,review username to query,information,0
+2512,review username to query,input,0
+2513,review username to query,investigation,0
+2514,review username to query,ips,0
+2515,review username to query,manager,0
+2516,review username to query,object,0
+2517,review username to query,operation,0
+2518,review username to query,playbook,0
+2519,review username to query,property,0
+2520,review username to query,report,0
+2521,review username to query,reputation,0
+2522,review username to query,response,0
+2523,review username to query,result,0
+2524,review username to query,sample,0
+2525,review username to query,severity,0
+2526,review username to query,url,0
+2527,review username to query,username,1
+2528,send an alert to the csirt slack channel,account,0
+2529,send an alert to the csirt slack channel,address,0
+2530,send an alert to the csirt slack channel,alert,1
+2531,send an alert to the csirt slack channel,case,0
+2532,send an alert to the csirt slack channel,classifier,0
+2533,send an alert to the csirt slack channel,device,0
+2534,send an alert to the csirt slack channel,directory,0
+2535,send an alert to the csirt slack channel,email,0
+2536,send an alert to the csirt slack channel,endpoint,0
+2537,send an alert to the csirt slack channel,file,0
+2538,send an alert to the csirt slack channel,hash,0
+2539,send an alert to the csirt slack channel,host,0
+2540,send an alert to the csirt slack channel,id,0
+2541,send an alert to the csirt slack channel,incident,0
+2542,send an alert to the csirt slack channel,indicator,0
+2543,send an alert to the csirt slack channel,information,0
+2544,send an alert to the csirt slack channel,input,0
+2545,send an alert to the csirt slack channel,investigation,0
+2546,send an alert to the csirt slack channel,ips,0
+2547,send an alert to the csirt slack channel,manager,0
+2548,send an alert to the csirt slack channel,object,0
+2549,send an alert to the csirt slack channel,operation,0
+2550,send an alert to the csirt slack channel,playbook,0
+2551,send an alert to the csirt slack channel,property,0
+2552,send an alert to the csirt slack channel,report,0
+2553,send an alert to the csirt slack channel,reputation,0
+2554,send an alert to the csirt slack channel,response,0
+2555,send an alert to the csirt slack channel,result,0
+2556,send an alert to the csirt slack channel,sample,0
+2557,send an alert to the csirt slack channel,severity,0
+2558,send an alert to the csirt slack channel,url,0
+2559,send an alert to the csirt slack channel,username,0
+2560,send an email to the source user email address,account,0
+2561,send an email to the source user email address,address,0
+2562,send an email to the source user email address,alert,0
+2563,send an email to the source user email address,case,0
+2564,send an email to the source user email address,classifier,0
+2565,send an email to the source user email address,device,0
+2566,send an email to the source user email address,directory,0
+2567,send an email to the source user email address,email,1
+2568,send an email to the source user email address,endpoint,0
+2569,send an email to the source user email address,file,0
+2570,send an email to the source user email address,hash,0
+2571,send an email to the source user email address,host,0
+2572,send an email to the source user email address,id,0
+2573,send an email to the source user email address,incident,0
+2574,send an email to the source user email address,indicator,0
+2575,send an email to the source user email address,information,0
+2576,send an email to the source user email address,input,0
+2577,send an email to the source user email address,investigation,0
+2578,send an email to the source user email address,ips,0
+2579,send an email to the source user email address,manager,0
+2580,send an email to the source user email address,object,0
+2581,send an email to the source user email address,operation,0
+2582,send an email to the source user email address,playbook,0
+2583,send an email to the source user email address,property,0
+2584,send an email to the source user email address,report,0
+2585,send an email to the source user email address,reputation,0
+2586,send an email to the source user email address,response,0
+2587,send an email to the source user email address,result,0
+2588,send an email to the source user email address,sample,0
+2589,send an email to the source user email address,severity,0
+2590,send an email to the source user email address,url,0
+2591,send an email to the source user email address,username,0
+2592,send an sms alert using twilio.,account,0
+2593,send an sms alert using twilio.,address,0
+2594,send an sms alert using twilio.,alert,1
+2595,send an sms alert using twilio.,case,0
+2596,send an sms alert using twilio.,classifier,0
+2597,send an sms alert using twilio.,device,0
+2598,send an sms alert using twilio.,directory,0
+2599,send an sms alert using twilio.,email,0
+2600,send an sms alert using twilio.,endpoint,0
+2601,send an sms alert using twilio.,file,0
+2602,send an sms alert using twilio.,hash,0
+2603,send an sms alert using twilio.,host,0
+2604,send an sms alert using twilio.,id,0
+2605,send an sms alert using twilio.,incident,0
+2606,send an sms alert using twilio.,indicator,0
+2607,send an sms alert using twilio.,information,0
+2608,send an sms alert using twilio.,input,0
+2609,send an sms alert using twilio.,investigation,0
+2610,send an sms alert using twilio.,ips,0
+2611,send an sms alert using twilio.,manager,0
+2612,send an sms alert using twilio.,object,0
+2613,send an sms alert using twilio.,operation,0
+2614,send an sms alert using twilio.,playbook,0
+2615,send an sms alert using twilio.,property,0
+2616,send an sms alert using twilio.,report,0
+2617,send an sms alert using twilio.,reputation,0
+2618,send an sms alert using twilio.,response,0
+2619,send an sms alert using twilio.,result,0
+2620,send an sms alert using twilio.,sample,0
+2621,send an sms alert using twilio.,severity,0
+2622,send an sms alert using twilio.,url,0
+2623,send an sms alert using twilio.,username,0
+2624,send file to cuckoo,account,0
+2625,send file to cuckoo,address,0
+2626,send file to cuckoo,alert,0
+2627,send file to cuckoo,case,0
+2628,send file to cuckoo,classifier,0
+2629,send file to cuckoo,device,0
+2630,send file to cuckoo,directory,0
+2631,send file to cuckoo,email,0
+2632,send file to cuckoo,endpoint,0
+2633,send file to cuckoo,file,1
+2634,send file to cuckoo,hash,0
+2635,send file to cuckoo,host,0
+2636,send file to cuckoo,id,0
+2637,send file to cuckoo,incident,0
+2638,send file to cuckoo,indicator,0
+2639,send file to cuckoo,information,0
+2640,send file to cuckoo,input,0
+2641,send file to cuckoo,investigation,0
+2642,send file to cuckoo,ips,0
+2643,send file to cuckoo,manager,0
+2644,send file to cuckoo,object,0
+2645,send file to cuckoo,operation,0
+2646,send file to cuckoo,playbook,0
+2647,send file to cuckoo,property,0
+2648,send file to cuckoo,report,0
+2649,send file to cuckoo,reputation,0
+2650,send file to cuckoo,response,0
+2651,send file to cuckoo,result,0
+2652,send file to cuckoo,sample,0
+2653,send file to cuckoo,severity,0
+2654,send file to cuckoo,url,0
+2655,send file to cuckoo,username,0
+2656,set incident's severity to high,account,0
+2657,set incident's severity to high,address,0
+2658,set incident's severity to high,alert,0
+2659,set incident's severity to high,case,0
+2660,set incident's severity to high,classifier,0
+2661,set incident's severity to high,device,0
+2662,set incident's severity to high,directory,0
+2663,set incident's severity to high,email,0
+2664,set incident's severity to high,endpoint,0
+2665,set incident's severity to high,file,0
+2666,set incident's severity to high,hash,0
+2667,set incident's severity to high,host,0
+2668,set incident's severity to high,id,0
+2669,set incident's severity to high,incident,0
+2670,set incident's severity to high,indicator,0
+2671,set incident's severity to high,information,0
+2672,set incident's severity to high,input,0
+2673,set incident's severity to high,investigation,0
+2674,set incident's severity to high,ips,0
+2675,set incident's severity to high,manager,0
+2676,set incident's severity to high,object,0
+2677,set incident's severity to high,operation,0
+2678,set incident's severity to high,playbook,0
+2679,set incident's severity to high,property,0
+2680,set incident's severity to high,report,0
+2681,set incident's severity to high,reputation,0
+2682,set incident's severity to high,response,0
+2683,set incident's severity to high,result,0
+2684,set incident's severity to high,sample,0
+2685,set incident's severity to high,severity,1
+2686,set incident's severity to high,url,0
+2687,set incident's severity to high,username,0
+2688,set the file object into context.,account,0
+2689,set the file object into context.,address,0
+2690,set the file object into context.,alert,0
+2691,set the file object into context.,case,0
+2692,set the file object into context.,classifier,0
+2693,set the file object into context.,device,0
+2694,set the file object into context.,directory,0
+2695,set the file object into context.,email,0
+2696,set the file object into context.,endpoint,0
+2697,set the file object into context.,file,0
+2698,set the file object into context.,hash,0
+2699,set the file object into context.,host,0
+2700,set the file object into context.,id,0
+2701,set the file object into context.,incident,0
+2702,set the file object into context.,indicator,0
+2703,set the file object into context.,information,0
+2704,set the file object into context.,input,0
+2705,set the file object into context.,investigation,0
+2706,set the file object into context.,ips,0
+2707,set the file object into context.,manager,0
+2708,set the file object into context.,object,1
+2709,set the file object into context.,operation,0
+2710,set the file object into context.,playbook,0
+2711,set the file object into context.,property,0
+2712,set the file object into context.,report,0
+2713,set the file object into context.,reputation,0
+2714,set the file object into context.,response,0
+2715,set the file object into context.,result,0
+2716,set the file object into context.,sample,0
+2717,set the file object into context.,severity,0
+2718,set the file object into context.,url,0
+2719,set the file object into context.,username,0
+2720,set the incident severity to high.,account,0
+2721,set the incident severity to high.,address,0
+2722,set the incident severity to high.,alert,0
+2723,set the incident severity to high.,case,0
+2724,set the incident severity to high.,classifier,0
+2725,set the incident severity to high.,device,0
+2726,set the incident severity to high.,directory,0
+2727,set the incident severity to high.,email,0
+2728,set the incident severity to high.,endpoint,0
+2729,set the incident severity to high.,file,0
+2730,set the incident severity to high.,hash,0
+2731,set the incident severity to high.,host,0
+2732,set the incident severity to high.,id,0
+2733,set the incident severity to high.,incident,0
+2734,set the incident severity to high.,indicator,0
+2735,set the incident severity to high.,information,0
+2736,set the incident severity to high.,input,0
+2737,set the incident severity to high.,investigation,0
+2738,set the incident severity to high.,ips,0
+2739,set the incident severity to high.,manager,0
+2740,set the incident severity to high.,object,0
+2741,set the incident severity to high.,operation,0
+2742,set the incident severity to high.,playbook,0
+2743,set the incident severity to high.,property,0
+2744,set the incident severity to high.,report,0
+2745,set the incident severity to high.,reputation,0
+2746,set the incident severity to high.,response,0
+2747,set the incident severity to high.,result,0
+2748,set the incident severity to high.,sample,0
+2749,set the incident severity to high.,severity,1
+2750,set the incident severity to high.,url,0
+2751,set the incident severity to high.,username,0
+2752,set the incident severity to low.,account,0
+2753,set the incident severity to low.,address,0
+2754,set the incident severity to low.,alert,0
+2755,set the incident severity to low.,case,0
+2756,set the incident severity to low.,classifier,0
+2757,set the incident severity to low.,device,0
+2758,set the incident severity to low.,directory,0
+2759,set the incident severity to low.,email,0
+2760,set the incident severity to low.,endpoint,0
+2761,set the incident severity to low.,file,0
+2762,set the incident severity to low.,hash,0
+2763,set the incident severity to low.,host,0
+2764,set the incident severity to low.,id,0
+2765,set the incident severity to low.,incident,0
+2766,set the incident severity to low.,indicator,0
+2767,set the incident severity to low.,information,0
+2768,set the incident severity to low.,input,0
+2769,set the incident severity to low.,investigation,0
+2770,set the incident severity to low.,ips,0
+2771,set the incident severity to low.,manager,0
+2772,set the incident severity to low.,object,0
+2773,set the incident severity to low.,operation,0
+2774,set the incident severity to low.,playbook,0
+2775,set the incident severity to low.,property,0
+2776,set the incident severity to low.,report,0
+2777,set the incident severity to low.,reputation,0
+2778,set the incident severity to low.,response,0
+2779,set the incident severity to low.,result,0
+2780,set the incident severity to low.,sample,0
+2781,set the incident severity to low.,severity,1
+2782,set the incident severity to low.,url,0
+2783,set the incident severity to low.,username,0
+2784,set the information retrieved from qradar into access the incident,account,0
+2785,set the information retrieved from qradar into access the incident,address,0
+2786,set the information retrieved from qradar into access the incident,alert,0
+2787,set the information retrieved from qradar into access the incident,case,0
+2788,set the information retrieved from qradar into access the incident,classifier,0
+2789,set the information retrieved from qradar into access the incident,device,0
+2790,set the information retrieved from qradar into access the incident,directory,0
+2791,set the information retrieved from qradar into access the incident,email,0
+2792,set the information retrieved from qradar into access the incident,endpoint,0
+2793,set the information retrieved from qradar into access the incident,file,0
+2794,set the information retrieved from qradar into access the incident,hash,0
+2795,set the information retrieved from qradar into access the incident,host,0
+2796,set the information retrieved from qradar into access the incident,id,0
+2797,set the information retrieved from qradar into access the incident,incident,0
+2798,set the information retrieved from qradar into access the incident,indicator,0
+2799,set the information retrieved from qradar into access the incident,information,1
+2800,set the information retrieved from qradar into access the incident,input,0
+2801,set the information retrieved from qradar into access the incident,investigation,0
+2802,set the information retrieved from qradar into access the incident,ips,0
+2803,set the information retrieved from qradar into access the incident,manager,0
+2804,set the information retrieved from qradar into access the incident,object,0
+2805,set the information retrieved from qradar into access the incident,operation,0
+2806,set the information retrieved from qradar into access the incident,playbook,0
+2807,set the information retrieved from qradar into access the incident,property,0
+2808,set the information retrieved from qradar into access the incident,report,0
+2809,set the information retrieved from qradar into access the incident,reputation,0
+2810,set the information retrieved from qradar into access the incident,response,0
+2811,set the information retrieved from qradar into access the incident,result,0
+2812,set the information retrieved from qradar into access the incident,sample,0
+2813,set the information retrieved from qradar into access the incident,severity,0
+2814,set the information retrieved from qradar into access the incident,url,0
+2815,set the information retrieved from qradar into access the incident,username,0
+2816,set the qualys reports list into context,account,0
+2817,set the qualys reports list into context,address,0
+2818,set the qualys reports list into context,alert,0
+2819,set the qualys reports list into context,case,0
+2820,set the qualys reports list into context,classifier,0
+2821,set the qualys reports list into context,device,0
+2822,set the qualys reports list into context,directory,0
+2823,set the qualys reports list into context,email,0
+2824,set the qualys reports list into context,endpoint,0
+2825,set the qualys reports list into context,file,0
+2826,set the qualys reports list into context,hash,0
+2827,set the qualys reports list into context,host,0
+2828,set the qualys reports list into context,id,0
+2829,set the qualys reports list into context,incident,0
+2830,set the qualys reports list into context,indicator,0
+2831,set the qualys reports list into context,information,0
+2832,set the qualys reports list into context,input,0
+2833,set the qualys reports list into context,investigation,0
+2834,set the qualys reports list into context,ips,0
+2835,set the qualys reports list into context,manager,0
+2836,set the qualys reports list into context,object,0
+2837,set the qualys reports list into context,operation,0
+2838,set the qualys reports list into context,playbook,0
+2839,set the qualys reports list into context,property,0
+2840,set the qualys reports list into context,report,1
+2841,set the qualys reports list into context,reputation,0
+2842,set the qualys reports list into context,response,0
+2843,set the qualys reports list into context,result,0
+2844,set the qualys reports list into context,sample,0
+2845,set the qualys reports list into context,severity,0
+2846,set the qualys reports list into context,url,0
+2847,set the qualys reports list into context,username,0
+2848,submit a file for analysis.,account,0
+2849,submit a file for analysis.,address,0
+2850,submit a file for analysis.,alert,0
+2851,submit a file for analysis.,case,0
+2852,submit a file for analysis.,classifier,0
+2853,submit a file for analysis.,device,0
+2854,submit a file for analysis.,directory,0
+2855,submit a file for analysis.,email,0
+2856,submit a file for analysis.,endpoint,0
+2857,submit a file for analysis.,file,1
+2858,submit a file for analysis.,hash,0
+2859,submit a file for analysis.,host,0
+2860,submit a file for analysis.,id,0
+2861,submit a file for analysis.,incident,0
+2862,submit a file for analysis.,indicator,0
+2863,submit a file for analysis.,information,0
+2864,submit a file for analysis.,input,0
+2865,submit a file for analysis.,investigation,0
+2866,submit a file for analysis.,ips,0
+2867,submit a file for analysis.,manager,0
+2868,submit a file for analysis.,object,0
+2869,submit a file for analysis.,operation,0
+2870,submit a file for analysis.,playbook,0
+2871,submit a file for analysis.,property,0
+2872,submit a file for analysis.,report,0
+2873,submit a file for analysis.,reputation,0
+2874,submit a file for analysis.,response,0
+2875,submit a file for analysis.,result,0
+2876,submit a file for analysis.,sample,0
+2877,submit a file for analysis.,severity,0
+2878,submit a file for analysis.,url,0
+2879,submit a file for analysis.,username,0
+2880,submit url for analysis.,account,0
+2881,submit url for analysis.,address,0
+2882,submit url for analysis.,alert,0
+2883,submit url for analysis.,case,0
+2884,submit url for analysis.,classifier,0
+2885,submit url for analysis.,device,0
+2886,submit url for analysis.,directory,0
+2887,submit url for analysis.,email,0
+2888,submit url for analysis.,endpoint,0
+2889,submit url for analysis.,file,0
+2890,submit url for analysis.,hash,0
+2891,submit url for analysis.,host,0
+2892,submit url for analysis.,id,0
+2893,submit url for analysis.,incident,0
+2894,submit url for analysis.,indicator,0
+2895,submit url for analysis.,information,0
+2896,submit url for analysis.,input,0
+2897,submit url for analysis.,investigation,0
+2898,submit url for analysis.,ips,0
+2899,submit url for analysis.,manager,0
+2900,submit url for analysis.,object,0
+2901,submit url for analysis.,operation,0
+2902,submit url for analysis.,playbook,0
+2903,submit url for analysis.,property,0
+2904,submit url for analysis.,report,0
+2905,submit url for analysis.,reputation,0
+2906,submit url for analysis.,response,0
+2907,submit url for analysis.,result,0
+2908,submit url for analysis.,sample,0
+2909,submit url for analysis.,severity,0
+2910,submit url for analysis.,url,1
+2911,submit url for analysis.,username,0
+2912,submits a sample to crowdstrike,account,0
+2913,submits a sample to crowdstrike,address,0
+2914,submits a sample to crowdstrike,alert,0
+2915,submits a sample to crowdstrike,case,0
+2916,submits a sample to crowdstrike,classifier,0
+2917,submits a sample to crowdstrike,device,0
+2918,submits a sample to crowdstrike,directory,0
+2919,submits a sample to crowdstrike,email,0
+2920,submits a sample to crowdstrike,endpoint,0
+2921,submits a sample to crowdstrike,file,0
+2922,submits a sample to crowdstrike,hash,0
+2923,submits a sample to crowdstrike,host,0
+2924,submits a sample to crowdstrike,id,0
+2925,submits a sample to crowdstrike,incident,0
+2926,submits a sample to crowdstrike,indicator,0
+2927,submits a sample to crowdstrike,information,0
+2928,submits a sample to crowdstrike,input,0
+2929,submits a sample to crowdstrike,investigation,0
+2930,submits a sample to crowdstrike,ips,0
+2931,submits a sample to crowdstrike,manager,0
+2932,submits a sample to crowdstrike,object,0
+2933,submits a sample to crowdstrike,operation,0
+2934,submits a sample to crowdstrike,playbook,0
+2935,submits a sample to crowdstrike,property,0
+2936,submits a sample to crowdstrike,report,0
+2937,submits a sample to crowdstrike,reputation,0
+2938,submits a sample to crowdstrike,response,0
+2939,submits a sample to crowdstrike,result,0
+2940,submits a sample to crowdstrike,sample,1
+2941,submits a sample to crowdstrike,severity,0
+2942,submits a sample to crowdstrike,url,0
+2943,submits a sample to crowdstrike,username,0
+2944,submits a sample to fireeye ax,account,0
+2945,submits a sample to fireeye ax,address,0
+2946,submits a sample to fireeye ax,alert,0
+2947,submits a sample to fireeye ax,case,0
+2948,submits a sample to fireeye ax,classifier,0
+2949,submits a sample to fireeye ax,device,0
+2950,submits a sample to fireeye ax,directory,0
+2951,submits a sample to fireeye ax,email,0
+2952,submits a sample to fireeye ax,endpoint,0
+2953,submits a sample to fireeye ax,file,0
+2954,submits a sample to fireeye ax,hash,0
+2955,submits a sample to fireeye ax,host,0
+2956,submits a sample to fireeye ax,id,0
+2957,submits a sample to fireeye ax,incident,0
+2958,submits a sample to fireeye ax,indicator,0
+2959,submits a sample to fireeye ax,information,0
+2960,submits a sample to fireeye ax,input,0
+2961,submits a sample to fireeye ax,investigation,0
+2962,submits a sample to fireeye ax,ips,0
+2963,submits a sample to fireeye ax,manager,0
+2964,submits a sample to fireeye ax,object,0
+2965,submits a sample to fireeye ax,operation,0
+2966,submits a sample to fireeye ax,playbook,0
+2967,submits a sample to fireeye ax,property,0
+2968,submits a sample to fireeye ax,report,0
+2969,submits a sample to fireeye ax,reputation,0
+2970,submits a sample to fireeye ax,response,0
+2971,submits a sample to fireeye ax,result,0
+2972,submits a sample to fireeye ax,sample,1
+2973,submits a sample to fireeye ax,severity,0
+2974,submits a sample to fireeye ax,url,0
+2975,submits a sample to fireeye ax,username,0
+2976,upload a file sample to bitdam's service,account,0
+2977,upload a file sample to bitdam's service,address,0
+2978,upload a file sample to bitdam's service,alert,0
+2979,upload a file sample to bitdam's service,case,0
+2980,upload a file sample to bitdam's service,classifier,0
+2981,upload a file sample to bitdam's service,device,0
+2982,upload a file sample to bitdam's service,directory,0
+2983,upload a file sample to bitdam's service,email,0
+2984,upload a file sample to bitdam's service,endpoint,0
+2985,upload a file sample to bitdam's service,file,0
+2986,upload a file sample to bitdam's service,hash,0
+2987,upload a file sample to bitdam's service,host,0
+2988,upload a file sample to bitdam's service,id,0
+2989,upload a file sample to bitdam's service,incident,0
+2990,upload a file sample to bitdam's service,indicator,0
+2991,upload a file sample to bitdam's service,information,0
+2992,upload a file sample to bitdam's service,input,0
+2993,upload a file sample to bitdam's service,investigation,0
+2994,upload a file sample to bitdam's service,ips,0
+2995,upload a file sample to bitdam's service,manager,0
+2996,upload a file sample to bitdam's service,object,0
+2997,upload a file sample to bitdam's service,operation,0
+2998,upload a file sample to bitdam's service,playbook,0
+2999,upload a file sample to bitdam's service,property,0
+3000,upload a file sample to bitdam's service,report,0
+3001,upload a file sample to bitdam's service,reputation,0
+3002,upload a file sample to bitdam's service,response,0
+3003,upload a file sample to bitdam's service,result,0
+3004,upload a file sample to bitdam's service,sample,1
+3005,upload a file sample to bitdam's service,severity,0
+3006,upload a file sample to bitdam's service,url,0
+3007,upload a file sample to bitdam's service,username,0
+3008,upload sample to crowdstrike,account,0
+3009,upload sample to crowdstrike,address,0
+3010,upload sample to crowdstrike,alert,0
+3011,upload sample to crowdstrike,case,0
+3012,upload sample to crowdstrike,classifier,0
+3013,upload sample to crowdstrike,device,0
+3014,upload sample to crowdstrike,directory,0
+3015,upload sample to crowdstrike,email,0
+3016,upload sample to crowdstrike,endpoint,0
+3017,upload sample to crowdstrike,file,0
+3018,upload sample to crowdstrike,hash,0
+3019,upload sample to crowdstrike,host,0
+3020,upload sample to crowdstrike,id,0
+3021,upload sample to crowdstrike,incident,0
+3022,upload sample to crowdstrike,indicator,0
+3023,upload sample to crowdstrike,information,0
+3024,upload sample to crowdstrike,input,0
+3025,upload sample to crowdstrike,investigation,0
+3026,upload sample to crowdstrike,ips,0
+3027,upload sample to crowdstrike,manager,0
+3028,upload sample to crowdstrike,object,0
+3029,upload sample to crowdstrike,operation,0
+3030,upload sample to crowdstrike,playbook,0
+3031,upload sample to crowdstrike,property,0
+3032,upload sample to crowdstrike,report,0
+3033,upload sample to crowdstrike,reputation,0
+3034,upload sample to crowdstrike,response,0
+3035,upload sample to crowdstrike,result,0
+3036,upload sample to crowdstrike,sample,1
+3037,upload sample to crowdstrike,severity,0
+3038,upload sample to crowdstrike,url,0
+3039,upload sample to crowdstrike,username,0
+3040,upload sample to sandbox,account,0
+3041,upload sample to sandbox,address,0
+3042,upload sample to sandbox,alert,0
+3043,upload sample to sandbox,case,0
+3044,upload sample to sandbox,classifier,0
+3045,upload sample to sandbox,device,0
+3046,upload sample to sandbox,directory,0
+3047,upload sample to sandbox,email,0
+3048,upload sample to sandbox,endpoint,0
+3049,upload sample to sandbox,file,0
+3050,upload sample to sandbox,hash,0
+3051,upload sample to sandbox,host,0
+3052,upload sample to sandbox,id,0
+3053,upload sample to sandbox,incident,0
+3054,upload sample to sandbox,indicator,0
+3055,upload sample to sandbox,information,0
+3056,upload sample to sandbox,input,0
+3057,upload sample to sandbox,investigation,0
+3058,upload sample to sandbox,ips,0
+3059,upload sample to sandbox,manager,0
+3060,upload sample to sandbox,object,0
+3061,upload sample to sandbox,operation,0
+3062,upload sample to sandbox,playbook,0
+3063,upload sample to sandbox,property,0
+3064,upload sample to sandbox,report,0
+3065,upload sample to sandbox,reputation,0
+3066,upload sample to sandbox,response,0
+3067,upload sample to sandbox,result,0
+3068,upload sample to sandbox,sample,1
+3069,upload sample to sandbox,severity,0
+3070,upload sample to sandbox,url,0
+3071,upload sample to sandbox,username,0
+3072,use the user response (yes or no) to direct the playbook.,account,0
+3073,use the user response (yes or no) to direct the playbook.,address,0
+3074,use the user response (yes or no) to direct the playbook.,alert,0
+3075,use the user response (yes or no) to direct the playbook.,case,0
+3076,use the user response (yes or no) to direct the playbook.,classifier,0
+3077,use the user response (yes or no) to direct the playbook.,device,0
+3078,use the user response (yes or no) to direct the playbook.,directory,0
+3079,use the user response (yes or no) to direct the playbook.,email,0
+3080,use the user response (yes or no) to direct the playbook.,endpoint,0
+3081,use the user response (yes or no) to direct the playbook.,file,0
+3082,use the user response (yes or no) to direct the playbook.,hash,0
+3083,use the user response (yes or no) to direct the playbook.,host,0
+3084,use the user response (yes or no) to direct the playbook.,id,0
+3085,use the user response (yes or no) to direct the playbook.,incident,0
+3086,use the user response (yes or no) to direct the playbook.,indicator,0
+3087,use the user response (yes or no) to direct the playbook.,information,0
+3088,use the user response (yes or no) to direct the playbook.,input,0
+3089,use the user response (yes or no) to direct the playbook.,investigation,0
+3090,use the user response (yes or no) to direct the playbook.,ips,0
+3091,use the user response (yes or no) to direct the playbook.,manager,0
+3092,use the user response (yes or no) to direct the playbook.,object,0
+3093,use the user response (yes or no) to direct the playbook.,operation,0
+3094,use the user response (yes or no) to direct the playbook.,playbook,0
+3095,use the user response (yes or no) to direct the playbook.,property,0
+3096,use the user response (yes or no) to direct the playbook.,report,0
+3097,use the user response (yes or no) to direct the playbook.,reputation,0
+3098,use the user response (yes or no) to direct the playbook.,response,1
+3099,use the user response (yes or no) to direct the playbook.,result,0
+3100,use the user response (yes or no) to direct the playbook.,sample,0
+3101,use the user response (yes or no) to direct the playbook.,severity,0
+3102,use the user response (yes or no) to direct the playbook.,url,0
+3103,use the user response (yes or no) to direct the playbook.,username,0
+3104,verify that the playbook input includes at least one ip to block.,account,0
+3105,verify that the playbook input includes at least one ip to block.,address,0
+3106,verify that the playbook input includes at least one ip to block.,alert,0
+3107,verify that the playbook input includes at least one ip to block.,case,0
+3108,verify that the playbook input includes at least one ip to block.,classifier,0
+3109,verify that the playbook input includes at least one ip to block.,device,0
+3110,verify that the playbook input includes at least one ip to block.,directory,0
+3111,verify that the playbook input includes at least one ip to block.,email,0
+3112,verify that the playbook input includes at least one ip to block.,endpoint,0
+3113,verify that the playbook input includes at least one ip to block.,file,0
+3114,verify that the playbook input includes at least one ip to block.,hash,0
+3115,verify that the playbook input includes at least one ip to block.,host,0
+3116,verify that the playbook input includes at least one ip to block.,id,0
+3117,verify that the playbook input includes at least one ip to block.,incident,0
+3118,verify that the playbook input includes at least one ip to block.,indicator,0
+3119,verify that the playbook input includes at least one ip to block.,information,0
+3120,verify that the playbook input includes at least one ip to block.,input,1
+3121,verify that the playbook input includes at least one ip to block.,investigation,0
+3122,verify that the playbook input includes at least one ip to block.,ips,0
+3123,verify that the playbook input includes at least one ip to block.,manager,0
+3124,verify that the playbook input includes at least one ip to block.,object,0
+3125,verify that the playbook input includes at least one ip to block.,operation,0
+3126,verify that the playbook input includes at least one ip to block.,playbook,0
+3127,verify that the playbook input includes at least one ip to block.,property,0
+3128,verify that the playbook input includes at least one ip to block.,report,0
+3129,verify that the playbook input includes at least one ip to block.,reputation,0
+3130,verify that the playbook input includes at least one ip to block.,response,0
+3131,verify that the playbook input includes at least one ip to block.,result,0
+3132,verify that the playbook input includes at least one ip to block.,sample,0
+3133,verify that the playbook input includes at least one ip to block.,severity,0
+3134,verify that the playbook input includes at least one ip to block.,url,0
+3135,verify that the playbook input includes at least one ip to block.,username,0
+3136,verify that the playbook input includes at least one url to block.,account,0
+3137,verify that the playbook input includes at least one url to block.,address,0
+3138,verify that the playbook input includes at least one url to block.,alert,0
+3139,verify that the playbook input includes at least one url to block.,case,0
+3140,verify that the playbook input includes at least one url to block.,classifier,0
+3141,verify that the playbook input includes at least one url to block.,device,0
+3142,verify that the playbook input includes at least one url to block.,directory,0
+3143,verify that the playbook input includes at least one url to block.,email,0
+3144,verify that the playbook input includes at least one url to block.,endpoint,0
+3145,verify that the playbook input includes at least one url to block.,file,0
+3146,verify that the playbook input includes at least one url to block.,hash,0
+3147,verify that the playbook input includes at least one url to block.,host,0
+3148,verify that the playbook input includes at least one url to block.,id,0
+3149,verify that the playbook input includes at least one url to block.,incident,0
+3150,verify that the playbook input includes at least one url to block.,indicator,0
+3151,verify that the playbook input includes at least one url to block.,information,0
+3152,verify that the playbook input includes at least one url to block.,input,1
+3153,verify that the playbook input includes at least one url to block.,investigation,0
+3154,verify that the playbook input includes at least one url to block.,ips,0
+3155,verify that the playbook input includes at least one url to block.,manager,0
+3156,verify that the playbook input includes at least one url to block.,object,0
+3157,verify that the playbook input includes at least one url to block.,operation,0
+3158,verify that the playbook input includes at least one url to block.,playbook,0
+3159,verify that the playbook input includes at least one url to block.,property,0
+3160,verify that the playbook input includes at least one url to block.,report,0
+3161,verify that the playbook input includes at least one url to block.,reputation,0
+3162,verify that the playbook input includes at least one url to block.,response,0
+3163,verify that the playbook input includes at least one url to block.,result,0
+3164,verify that the playbook input includes at least one url to block.,sample,0
+3165,verify that the playbook input includes at least one url to block.,severity,0
+3166,verify that the playbook input includes at least one url to block.,url,0
+3167,verify that the playbook input includes at least one url to block.,username,0
+3168,verify that the playbook input includes at least one username to block.,account,0
+3169,verify that the playbook input includes at least one username to block.,address,0
+3170,verify that the playbook input includes at least one username to block.,alert,0
+3171,verify that the playbook input includes at least one username to block.,case,0
+3172,verify that the playbook input includes at least one username to block.,classifier,0
+3173,verify that the playbook input includes at least one username to block.,device,0
+3174,verify that the playbook input includes at least one username to block.,directory,0
+3175,verify that the playbook input includes at least one username to block.,email,0
+3176,verify that the playbook input includes at least one username to block.,endpoint,0
+3177,verify that the playbook input includes at least one username to block.,file,0
+3178,verify that the playbook input includes at least one username to block.,hash,0
+3179,verify that the playbook input includes at least one username to block.,host,0
+3180,verify that the playbook input includes at least one username to block.,id,0
+3181,verify that the playbook input includes at least one username to block.,incident,0
+3182,verify that the playbook input includes at least one username to block.,indicator,0
+3183,verify that the playbook input includes at least one username to block.,information,0
+3184,verify that the playbook input includes at least one username to block.,input,1
+3185,verify that the playbook input includes at least one username to block.,investigation,0
+3186,verify that the playbook input includes at least one username to block.,ips,0
+3187,verify that the playbook input includes at least one username to block.,manager,0
+3188,verify that the playbook input includes at least one username to block.,object,0
+3189,verify that the playbook input includes at least one username to block.,operation,0
+3190,verify that the playbook input includes at least one username to block.,playbook,0
+3191,verify that the playbook input includes at least one username to block.,property,0
+3192,verify that the playbook input includes at least one username to block.,report,0
+3193,verify that the playbook input includes at least one username to block.,reputation,0
+3194,verify that the playbook input includes at least one username to block.,response,0
+3195,verify that the playbook input includes at least one username to block.,result,0
+3196,verify that the playbook input includes at least one username to block.,sample,0
+3197,verify that the playbook input includes at least one username to block.,severity,0
+3198,verify that the playbook input includes at least one username to block.,url,0
+3199,verify that the playbook input includes at least one username to block.,username,0
+3200,verify the manager id (dn) of the source user account was returned in context.,account,0
+3201,verify the manager id (dn) of the source user account was returned in context.,address,0
+3202,verify the manager id (dn) of the source user account was returned in context.,alert,0
+3203,verify the manager id (dn) of the source user account was returned in context.,case,0
+3204,verify the manager id (dn) of the source user account was returned in context.,classifier,0
+3205,verify the manager id (dn) of the source user account was returned in context.,device,0
+3206,verify the manager id (dn) of the source user account was returned in context.,directory,0
+3207,verify the manager id (dn) of the source user account was returned in context.,email,0
+3208,verify the manager id (dn) of the source user account was returned in context.,endpoint,0
+3209,verify the manager id (dn) of the source user account was returned in context.,file,0
+3210,verify the manager id (dn) of the source user account was returned in context.,hash,0
+3211,verify the manager id (dn) of the source user account was returned in context.,host,0
+3212,verify the manager id (dn) of the source user account was returned in context.,id,0
+3213,verify the manager id (dn) of the source user account was returned in context.,incident,0
+3214,verify the manager id (dn) of the source user account was returned in context.,indicator,0
+3215,verify the manager id (dn) of the source user account was returned in context.,information,0
+3216,verify the manager id (dn) of the source user account was returned in context.,input,0
+3217,verify the manager id (dn) of the source user account was returned in context.,investigation,0
+3218,verify the manager id (dn) of the source user account was returned in context.,ips,0
+3219,verify the manager id (dn) of the source user account was returned in context.,manager,1
+3220,verify the manager id (dn) of the source user account was returned in context.,object,0
+3221,verify the manager id (dn) of the source user account was returned in context.,operation,0
+3222,verify the manager id (dn) of the source user account was returned in context.,playbook,0
+3223,verify the manager id (dn) of the source user account was returned in context.,property,0
+3224,verify the manager id (dn) of the source user account was returned in context.,report,0
+3225,verify the manager id (dn) of the source user account was returned in context.,reputation,0
+3226,verify the manager id (dn) of the source user account was returned in context.,response,0
+3227,verify the manager id (dn) of the source user account was returned in context.,result,0
+3228,verify the manager id (dn) of the source user account was returned in context.,sample,0
+3229,verify the manager id (dn) of the source user account was returned in context.,severity,0
+3230,verify the manager id (dn) of the source user account was returned in context.,url,0
+3231,verify the manager id (dn) of the source user account was returned in context.,username,0
+3232,verify the playbook input includes at least one cve id to enrich.,account,0
+3233,verify the playbook input includes at least one cve id to enrich.,address,0
+3234,verify the playbook input includes at least one cve id to enrich.,alert,0
+3235,verify the playbook input includes at least one cve id to enrich.,case,0
+3236,verify the playbook input includes at least one cve id to enrich.,classifier,0
+3237,verify the playbook input includes at least one cve id to enrich.,device,0
+3238,verify the playbook input includes at least one cve id to enrich.,directory,0
+3239,verify the playbook input includes at least one cve id to enrich.,email,0
+3240,verify the playbook input includes at least one cve id to enrich.,endpoint,0
+3241,verify the playbook input includes at least one cve id to enrich.,file,0
+3242,verify the playbook input includes at least one cve id to enrich.,hash,0
+3243,verify the playbook input includes at least one cve id to enrich.,host,0
+3244,verify the playbook input includes at least one cve id to enrich.,id,0
+3245,verify the playbook input includes at least one cve id to enrich.,incident,0
+3246,verify the playbook input includes at least one cve id to enrich.,indicator,0
+3247,verify the playbook input includes at least one cve id to enrich.,information,0
+3248,verify the playbook input includes at least one cve id to enrich.,input,1
+3249,verify the playbook input includes at least one cve id to enrich.,investigation,0
+3250,verify the playbook input includes at least one cve id to enrich.,ips,0
+3251,verify the playbook input includes at least one cve id to enrich.,manager,0
+3252,verify the playbook input includes at least one cve id to enrich.,object,0
+3253,verify the playbook input includes at least one cve id to enrich.,operation,0
+3254,verify the playbook input includes at least one cve id to enrich.,playbook,0
+3255,verify the playbook input includes at least one cve id to enrich.,property,0
+3256,verify the playbook input includes at least one cve id to enrich.,report,0
+3257,verify the playbook input includes at least one cve id to enrich.,reputation,0
+3258,verify the playbook input includes at least one cve id to enrich.,response,0
+3259,verify the playbook input includes at least one cve id to enrich.,result,0
+3260,verify the playbook input includes at least one cve id to enrich.,sample,0
+3261,verify the playbook input includes at least one cve id to enrich.,severity,0
+3262,verify the playbook input includes at least one cve id to enrich.,url,0
+3263,verify the playbook input includes at least one cve id to enrich.,username,0
+3264,verify the source user account associated email address.,account,1
+3265,verify the source user account associated email address.,address,0
+3266,verify the source user account associated email address.,alert,0
+3267,verify the source user account associated email address.,case,0
+3268,verify the source user account associated email address.,classifier,0
+3269,verify the source user account associated email address.,device,0
+3270,verify the source user account associated email address.,directory,0
+3271,verify the source user account associated email address.,email,0
+3272,verify the source user account associated email address.,endpoint,0
+3273,verify the source user account associated email address.,file,0
+3274,verify the source user account associated email address.,hash,0
+3275,verify the source user account associated email address.,host,0
+3276,verify the source user account associated email address.,id,0
+3277,verify the source user account associated email address.,incident,0
+3278,verify the source user account associated email address.,indicator,0
+3279,verify the source user account associated email address.,information,0
+3280,verify the source user account associated email address.,input,0
+3281,verify the source user account associated email address.,investigation,0
+3282,verify the source user account associated email address.,ips,0
+3283,verify the source user account associated email address.,manager,0
+3284,verify the source user account associated email address.,object,0
+3285,verify the source user account associated email address.,operation,0
+3286,verify the source user account associated email address.,playbook,0
+3287,verify the source user account associated email address.,property,0
+3288,verify the source user account associated email address.,report,0
+3289,verify the source user account associated email address.,reputation,0
+3290,verify the source user account associated email address.,response,0
+3291,verify the source user account associated email address.,result,0
+3292,verify the source user account associated email address.,sample,0
+3293,verify the source user account associated email address.,severity,0
+3294,verify the source user account associated email address.,url,0
+3295,verify the source user account associated email address.,username,0

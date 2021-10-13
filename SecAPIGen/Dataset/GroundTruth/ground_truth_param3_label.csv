@@ -1,0 +1,2370 @@
+,0,1,2
+0, isolate the host using carbon black response,active,0
+1, isolate the host using carbon black response,available,0
+2, isolate the host using carbon black response,bitdam,0
+3, isolate the host using carbon black response,carbonblack,1
+4, isolate the host using carbon black response,checkpoint,0
+5, isolate the host using carbon black response,crowdstrike.falcon,0
+6, isolate the host using carbon black response,csirt.slack,0
+7, isolate the host using carbon black response,email,0
+8, isolate the host using carbon black response,empty,0
+9, isolate the host using carbon black response,fireEye,0
+10, isolate the host using carbon black response,joe.security,0
+11, isolate the host using carbon black response,machine learning,0
+12, isolate the host using carbon black response,mcafee,0
+13, isolate the host using carbon black response,mcafee.advanced.threat.defence,0
+14, isolate the host using carbon black response,minemeld,0
+15, isolate the host using carbon black response,na,0
+16, isolate the host using carbon black response,paloAlto.network,0
+17, isolate the host using carbon black response,sandbox.joe.security,0
+18, isolate the host using carbon black response,sandbox.mcafee.advanced.threat.defence,0
+19, isolate the host using carbon black response,source.user,0
+20, isolate the host using carbon black response,source.user.email,0
+21, isolate the host using carbon black response,username,0
+22, isolate the host using carbon black response,war,0
+23,add indictor to the minemeld miner.,active,0
+24,add indictor to the minemeld miner.,available,0
+25,add indictor to the minemeld miner.,bitdam,0
+26,add indictor to the minemeld miner.,carbonblack,0
+27,add indictor to the minemeld miner.,checkpoint,0
+28,add indictor to the minemeld miner.,crowdstrike.falcon,0
+29,add indictor to the minemeld miner.,csirt.slack,0
+30,add indictor to the minemeld miner.,email,0
+31,add indictor to the minemeld miner.,empty,0
+32,add indictor to the minemeld miner.,fireEye,0
+33,add indictor to the minemeld miner.,joe.security,0
+34,add indictor to the minemeld miner.,machine learning,0
+35,add indictor to the minemeld miner.,mcafee,0
+36,add indictor to the minemeld miner.,mcafee.advanced.threat.defence,0
+37,add indictor to the minemeld miner.,minemeld,1
+38,add indictor to the minemeld miner.,na,0
+39,add indictor to the minemeld miner.,paloAlto.network,0
+40,add indictor to the minemeld miner.,sandbox.joe.security,0
+41,add indictor to the minemeld miner.,sandbox.mcafee.advanced.threat.defence,0
+42,add indictor to the minemeld miner.,source.user,0
+43,add indictor to the minemeld miner.,source.user.email,0
+44,add indictor to the minemeld miner.,username,0
+45,add indictor to the minemeld miner.,war,0
+46,add the relevant endpoint to the system,active,0
+47,add the relevant endpoint to the system,available,0
+48,add the relevant endpoint to the system,bitdam,0
+49,add the relevant endpoint to the system,carbonblack,0
+50,add the relevant endpoint to the system,checkpoint,0
+51,add the relevant endpoint to the system,crowdstrike.falcon,0
+52,add the relevant endpoint to the system,csirt.slack,0
+53,add the relevant endpoint to the system,email,0
+54,add the relevant endpoint to the system,empty,0
+55,add the relevant endpoint to the system,fireEye,0
+56,add the relevant endpoint to the system,joe.security,0
+57,add the relevant endpoint to the system,machine learning,0
+58,add the relevant endpoint to the system,mcafee,0
+59,add the relevant endpoint to the system,mcafee.advanced.threat.defence,0
+60,add the relevant endpoint to the system,minemeld,0
+61,add the relevant endpoint to the system,na,1
+62,add the relevant endpoint to the system,paloAlto.network,0
+63,add the relevant endpoint to the system,sandbox.joe.security,0
+64,add the relevant endpoint to the system,sandbox.mcafee.advanced.threat.defence,0
+65,add the relevant endpoint to the system,source.user,0
+66,add the relevant endpoint to the system,source.user.email,0
+67,add the relevant endpoint to the system,username,0
+68,add the relevant endpoint to the system,war,0
+69,adds the md5 hash to the blacklist in carbon black,active,0
+70,adds the md5 hash to the blacklist in carbon black,available,0
+71,adds the md5 hash to the blacklist in carbon black,bitdam,0
+72,adds the md5 hash to the blacklist in carbon black,carbonblack,1
+73,adds the md5 hash to the blacklist in carbon black,checkpoint,0
+74,adds the md5 hash to the blacklist in carbon black,crowdstrike.falcon,0
+75,adds the md5 hash to the blacklist in carbon black,csirt.slack,0
+76,adds the md5 hash to the blacklist in carbon black,email,0
+77,adds the md5 hash to the blacklist in carbon black,empty,0
+78,adds the md5 hash to the blacklist in carbon black,fireEye,0
+79,adds the md5 hash to the blacklist in carbon black,joe.security,0
+80,adds the md5 hash to the blacklist in carbon black,machine learning,0
+81,adds the md5 hash to the blacklist in carbon black,mcafee,0
+82,adds the md5 hash to the blacklist in carbon black,mcafee.advanced.threat.defence,0
+83,adds the md5 hash to the blacklist in carbon black,minemeld,0
+84,adds the md5 hash to the blacklist in carbon black,na,0
+85,adds the md5 hash to the blacklist in carbon black,paloAlto.network,0
+86,adds the md5 hash to the blacklist in carbon black,sandbox.joe.security,0
+87,adds the md5 hash to the blacklist in carbon black,sandbox.mcafee.advanced.threat.defence,0
+88,adds the md5 hash to the blacklist in carbon black,source.user,0
+89,adds the md5 hash to the blacklist in carbon black,source.user.email,0
+90,adds the md5 hash to the blacklist in carbon black,username,0
+91,adds the md5 hash to the blacklist in carbon black,war,0
+92,"assign the incident severity level  to ""critical"".",active,0
+93,"assign the incident severity level  to ""critical"".",available,0
+94,"assign the incident severity level  to ""critical"".",bitdam,0
+95,"assign the incident severity level  to ""critical"".",carbonblack,0
+96,"assign the incident severity level  to ""critical"".",checkpoint,0
+97,"assign the incident severity level  to ""critical"".",crowdstrike.falcon,0
+98,"assign the incident severity level  to ""critical"".",csirt.slack,0
+99,"assign the incident severity level  to ""critical"".",email,0
+100,"assign the incident severity level  to ""critical"".",empty,0
+101,"assign the incident severity level  to ""critical"".",fireEye,0
+102,"assign the incident severity level  to ""critical"".",joe.security,0
+103,"assign the incident severity level  to ""critical"".",machine learning,0
+104,"assign the incident severity level  to ""critical"".",mcafee,0
+105,"assign the incident severity level  to ""critical"".",mcafee.advanced.threat.defence,0
+106,"assign the incident severity level  to ""critical"".",minemeld,0
+107,"assign the incident severity level  to ""critical"".",na,1
+108,"assign the incident severity level  to ""critical"".",paloAlto.network,0
+109,"assign the incident severity level  to ""critical"".",sandbox.joe.security,0
+110,"assign the incident severity level  to ""critical"".",sandbox.mcafee.advanced.threat.defence,0
+111,"assign the incident severity level  to ""critical"".",source.user,0
+112,"assign the incident severity level  to ""critical"".",source.user.email,0
+113,"assign the incident severity level  to ""critical"".",username,0
+114,"assign the incident severity level  to ""critical"".",war,0
+115,"assign the incident severity level  to ""high"".",active,0
+116,"assign the incident severity level  to ""high"".",available,0
+117,"assign the incident severity level  to ""high"".",bitdam,0
+118,"assign the incident severity level  to ""high"".",carbonblack,0
+119,"assign the incident severity level  to ""high"".",checkpoint,0
+120,"assign the incident severity level  to ""high"".",crowdstrike.falcon,0
+121,"assign the incident severity level  to ""high"".",csirt.slack,0
+122,"assign the incident severity level  to ""high"".",email,0
+123,"assign the incident severity level  to ""high"".",empty,0
+124,"assign the incident severity level  to ""high"".",fireEye,0
+125,"assign the incident severity level  to ""high"".",joe.security,0
+126,"assign the incident severity level  to ""high"".",machine learning,0
+127,"assign the incident severity level  to ""high"".",mcafee,0
+128,"assign the incident severity level  to ""high"".",mcafee.advanced.threat.defence,0
+129,"assign the incident severity level  to ""high"".",minemeld,0
+130,"assign the incident severity level  to ""high"".",na,1
+131,"assign the incident severity level  to ""high"".",paloAlto.network,0
+132,"assign the incident severity level  to ""high"".",sandbox.joe.security,0
+133,"assign the incident severity level  to ""high"".",sandbox.mcafee.advanced.threat.defence,0
+134,"assign the incident severity level  to ""high"".",source.user,0
+135,"assign the incident severity level  to ""high"".",source.user.email,0
+136,"assign the incident severity level  to ""high"".",username,0
+137,"assign the incident severity level  to ""high"".",war,0
+138,"assign the incident severity level  to ""low"".",active,0
+139,"assign the incident severity level  to ""low"".",available,0
+140,"assign the incident severity level  to ""low"".",bitdam,0
+141,"assign the incident severity level  to ""low"".",carbonblack,0
+142,"assign the incident severity level  to ""low"".",checkpoint,0
+143,"assign the incident severity level  to ""low"".",crowdstrike.falcon,0
+144,"assign the incident severity level  to ""low"".",csirt.slack,0
+145,"assign the incident severity level  to ""low"".",email,0
+146,"assign the incident severity level  to ""low"".",empty,0
+147,"assign the incident severity level  to ""low"".",fireEye,0
+148,"assign the incident severity level  to ""low"".",joe.security,0
+149,"assign the incident severity level  to ""low"".",machine learning,0
+150,"assign the incident severity level  to ""low"".",mcafee,0
+151,"assign the incident severity level  to ""low"".",mcafee.advanced.threat.defence,0
+152,"assign the incident severity level  to ""low"".",minemeld,0
+153,"assign the incident severity level  to ""low"".",na,1
+154,"assign the incident severity level  to ""low"".",paloAlto.network,0
+155,"assign the incident severity level  to ""low"".",sandbox.joe.security,0
+156,"assign the incident severity level  to ""low"".",sandbox.mcafee.advanced.threat.defence,0
+157,"assign the incident severity level  to ""low"".",source.user,0
+158,"assign the incident severity level  to ""low"".",source.user.email,0
+159,"assign the incident severity level  to ""low"".",username,0
+160,"assign the incident severity level  to ""low"".",war,0
+161,"assign the incident severity level  to ""medium"".",active,0
+162,"assign the incident severity level  to ""medium"".",available,0
+163,"assign the incident severity level  to ""medium"".",bitdam,0
+164,"assign the incident severity level  to ""medium"".",carbonblack,0
+165,"assign the incident severity level  to ""medium"".",checkpoint,0
+166,"assign the incident severity level  to ""medium"".",crowdstrike.falcon,0
+167,"assign the incident severity level  to ""medium"".",csirt.slack,0
+168,"assign the incident severity level  to ""medium"".",email,0
+169,"assign the incident severity level  to ""medium"".",empty,0
+170,"assign the incident severity level  to ""medium"".",fireEye,0
+171,"assign the incident severity level  to ""medium"".",joe.security,0
+172,"assign the incident severity level  to ""medium"".",machine learning,0
+173,"assign the incident severity level  to ""medium"".",mcafee,0
+174,"assign the incident severity level  to ""medium"".",mcafee.advanced.threat.defence,0
+175,"assign the incident severity level  to ""medium"".",minemeld,0
+176,"assign the incident severity level  to ""medium"".",na,1
+177,"assign the incident severity level  to ""medium"".",paloAlto.network,0
+178,"assign the incident severity level  to ""medium"".",sandbox.joe.security,0
+179,"assign the incident severity level  to ""medium"".",sandbox.mcafee.advanced.threat.defence,0
+180,"assign the incident severity level  to ""medium"".",source.user,0
+181,"assign the incident severity level  to ""medium"".",source.user.email,0
+182,"assign the incident severity level  to ""medium"".",username,0
+183,"assign the incident severity level  to ""medium"".",war,0
+184,assign the incident to an analyst based on the analyst‚Äôs organizational role.,active,0
+185,assign the incident to an analyst based on the analyst‚Äôs organizational role.,available,0
+186,assign the incident to an analyst based on the analyst‚Äôs organizational role.,bitdam,0
+187,assign the incident to an analyst based on the analyst‚Äôs organizational role.,carbonblack,0
+188,assign the incident to an analyst based on the analyst‚Äôs organizational role.,checkpoint,0
+189,assign the incident to an analyst based on the analyst‚Äôs organizational role.,crowdstrike.falcon,0
+190,assign the incident to an analyst based on the analyst‚Äôs organizational role.,csirt.slack,0
+191,assign the incident to an analyst based on the analyst‚Äôs organizational role.,email,0
+192,assign the incident to an analyst based on the analyst‚Äôs organizational role.,empty,0
+193,assign the incident to an analyst based on the analyst‚Äôs organizational role.,fireEye,0
+194,assign the incident to an analyst based on the analyst‚Äôs organizational role.,joe.security,0
+195,assign the incident to an analyst based on the analyst‚Äôs organizational role.,machine learning,0
+196,assign the incident to an analyst based on the analyst‚Äôs organizational role.,mcafee,0
+197,assign the incident to an analyst based on the analyst‚Äôs organizational role.,mcafee.advanced.threat.defence,0
+198,assign the incident to an analyst based on the analyst‚Äôs organizational role.,minemeld,0
+199,assign the incident to an analyst based on the analyst‚Äôs organizational role.,na,1
+200,assign the incident to an analyst based on the analyst‚Äôs organizational role.,paloAlto.network,0
+201,assign the incident to an analyst based on the analyst‚Äôs organizational role.,sandbox.joe.security,0
+202,assign the incident to an analyst based on the analyst‚Äôs organizational role.,sandbox.mcafee.advanced.threat.defence,0
+203,assign the incident to an analyst based on the analyst‚Äôs organizational role.,source.user,0
+204,assign the incident to an analyst based on the analyst‚Äôs organizational role.,source.user.email,0
+205,assign the incident to an analyst based on the analyst‚Äôs organizational role.,username,0
+206,assign the incident to an analyst based on the analyst‚Äôs organizational role.,war,0
+207,auto-close this incident,active,0
+208,auto-close this incident,available,0
+209,auto-close this incident,bitdam,0
+210,auto-close this incident,carbonblack,0
+211,auto-close this incident,checkpoint,0
+212,auto-close this incident,crowdstrike.falcon,0
+213,auto-close this incident,csirt.slack,0
+214,auto-close this incident,email,0
+215,auto-close this incident,empty,0
+216,auto-close this incident,fireEye,0
+217,auto-close this incident,joe.security,0
+218,auto-close this incident,machine learning,0
+219,auto-close this incident,mcafee,0
+220,auto-close this incident,mcafee.advanced.threat.defence,0
+221,auto-close this incident,minemeld,0
+222,auto-close this incident,na,1
+223,auto-close this incident,paloAlto.network,0
+224,auto-close this incident,sandbox.joe.security,0
+225,auto-close this incident,sandbox.mcafee.advanced.threat.defence,0
+226,auto-close this incident,source.user,0
+227,auto-close this incident,source.user.email,0
+228,auto-close this incident,username,0
+229,auto-close this incident,war,0
+230,block the external ips in the firewall,active,0
+231,block the external ips in the firewall,available,0
+232,block the external ips in the firewall,bitdam,0
+233,block the external ips in the firewall,carbonblack,0
+234,block the external ips in the firewall,checkpoint,0
+235,block the external ips in the firewall,crowdstrike.falcon,0
+236,block the external ips in the firewall,csirt.slack,0
+237,block the external ips in the firewall,email,0
+238,block the external ips in the firewall,empty,0
+239,block the external ips in the firewall,fireEye,0
+240,block the external ips in the firewall,joe.security,0
+241,block the external ips in the firewall,machine learning,0
+242,block the external ips in the firewall,mcafee,0
+243,block the external ips in the firewall,mcafee.advanced.threat.defence,0
+244,block the external ips in the firewall,minemeld,0
+245,block the external ips in the firewall,na,1
+246,block the external ips in the firewall,paloAlto.network,0
+247,block the external ips in the firewall,sandbox.joe.security,0
+248,block the external ips in the firewall,sandbox.mcafee.advanced.threat.defence,0
+249,block the external ips in the firewall,source.user,0
+250,block the external ips in the firewall,source.user.email,0
+251,block the external ips in the firewall,username,0
+252,block the external ips in the firewall,war,0
+253,block the external ips in the proxy,active,0
+254,block the external ips in the proxy,available,0
+255,block the external ips in the proxy,bitdam,0
+256,block the external ips in the proxy,carbonblack,0
+257,block the external ips in the proxy,checkpoint,0
+258,block the external ips in the proxy,crowdstrike.falcon,0
+259,block the external ips in the proxy,csirt.slack,0
+260,block the external ips in the proxy,email,0
+261,block the external ips in the proxy,empty,0
+262,block the external ips in the proxy,fireEye,0
+263,block the external ips in the proxy,joe.security,0
+264,block the external ips in the proxy,machine learning,0
+265,block the external ips in the proxy,mcafee,0
+266,block the external ips in the proxy,mcafee.advanced.threat.defence,0
+267,block the external ips in the proxy,minemeld,0
+268,block the external ips in the proxy,na,1
+269,block the external ips in the proxy,paloAlto.network,0
+270,block the external ips in the proxy,sandbox.joe.security,0
+271,block the external ips in the proxy,sandbox.mcafee.advanced.threat.defence,0
+272,block the external ips in the proxy,source.user,0
+273,block the external ips in the proxy,source.user.email,0
+274,block the external ips in the proxy,username,0
+275,block the external ips in the proxy,war,0
+276,block the ips using check point firewall.,active,0
+277,block the ips using check point firewall.,available,0
+278,block the ips using check point firewall.,bitdam,0
+279,block the ips using check point firewall.,carbonblack,0
+280,block the ips using check point firewall.,checkpoint,1
+281,block the ips using check point firewall.,crowdstrike.falcon,0
+282,block the ips using check point firewall.,csirt.slack,0
+283,block the ips using check point firewall.,email,0
+284,block the ips using check point firewall.,empty,0
+285,block the ips using check point firewall.,fireEye,0
+286,block the ips using check point firewall.,joe.security,0
+287,block the ips using check point firewall.,machine learning,0
+288,block the ips using check point firewall.,mcafee,0
+289,block the ips using check point firewall.,mcafee.advanced.threat.defence,0
+290,block the ips using check point firewall.,minemeld,0
+291,block the ips using check point firewall.,na,0
+292,block the ips using check point firewall.,paloAlto.network,0
+293,block the ips using check point firewall.,sandbox.joe.security,0
+294,block the ips using check point firewall.,sandbox.mcafee.advanced.threat.defence,0
+295,block the ips using check point firewall.,source.user,0
+296,block the ips using check point firewall.,source.user.email,0
+297,block the ips using check point firewall.,username,0
+298,block the ips using check point firewall.,war,0
+299,block the ips using palo alto networks panorama.,active,0
+300,block the ips using palo alto networks panorama.,available,0
+301,block the ips using palo alto networks panorama.,bitdam,0
+302,block the ips using palo alto networks panorama.,carbonblack,0
+303,block the ips using palo alto networks panorama.,checkpoint,0
+304,block the ips using palo alto networks panorama.,crowdstrike.falcon,0
+305,block the ips using palo alto networks panorama.,csirt.slack,0
+306,block the ips using palo alto networks panorama.,email,0
+307,block the ips using palo alto networks panorama.,empty,0
+308,block the ips using palo alto networks panorama.,fireEye,0
+309,block the ips using palo alto networks panorama.,joe.security,0
+310,block the ips using palo alto networks panorama.,machine learning,0
+311,block the ips using palo alto networks panorama.,mcafee,0
+312,block the ips using palo alto networks panorama.,mcafee.advanced.threat.defence,0
+313,block the ips using palo alto networks panorama.,minemeld,0
+314,block the ips using palo alto networks panorama.,na,0
+315,block the ips using palo alto networks panorama.,paloAlto.network,1
+316,block the ips using palo alto networks panorama.,sandbox.joe.security,0
+317,block the ips using palo alto networks panorama.,sandbox.mcafee.advanced.threat.defence,0
+318,block the ips using palo alto networks panorama.,source.user,0
+319,block the ips using palo alto networks panorama.,source.user.email,0
+320,block the ips using palo alto networks panorama.,username,0
+321,block the ips using palo alto networks panorama.,war,0
+322,block the ips using zscaler.,active,0
+323,block the ips using zscaler.,available,0
+324,block the ips using zscaler.,bitdam,0
+325,block the ips using zscaler.,carbonblack,0
+326,block the ips using zscaler.,checkpoint,0
+327,block the ips using zscaler.,crowdstrike.falcon,0
+328,block the ips using zscaler.,csirt.slack,0
+329,block the ips using zscaler.,email,0
+330,block the ips using zscaler.,empty,0
+331,block the ips using zscaler.,fireEye,0
+332,block the ips using zscaler.,joe.security,0
+333,block the ips using zscaler.,machine learning,0
+334,block the ips using zscaler.,mcafee,0
+335,block the ips using zscaler.,mcafee.advanced.threat.defence,0
+336,block the ips using zscaler.,minemeld,0
+337,block the ips using zscaler.,na,1
+338,block the ips using zscaler.,paloAlto.network,0
+339,block the ips using zscaler.,sandbox.joe.security,0
+340,block the ips using zscaler.,sandbox.mcafee.advanced.threat.defence,0
+341,block the ips using zscaler.,source.user,0
+342,block the ips using zscaler.,source.user.email,0
+343,block the ips using zscaler.,username,0
+344,block the ips using zscaler.,war,0
+345,block the urls using zscaler.,active,0
+346,block the urls using zscaler.,available,0
+347,block the urls using zscaler.,bitdam,0
+348,block the urls using zscaler.,carbonblack,0
+349,block the urls using zscaler.,checkpoint,0
+350,block the urls using zscaler.,crowdstrike.falcon,0
+351,block the urls using zscaler.,csirt.slack,0
+352,block the urls using zscaler.,email,0
+353,block the urls using zscaler.,empty,0
+354,block the urls using zscaler.,fireEye,0
+355,block the urls using zscaler.,joe.security,0
+356,block the urls using zscaler.,machine learning,0
+357,block the urls using zscaler.,mcafee,0
+358,block the urls using zscaler.,mcafee.advanced.threat.defence,0
+359,block the urls using zscaler.,minemeld,0
+360,block the urls using zscaler.,na,1
+361,block the urls using zscaler.,paloAlto.network,0
+362,block the urls using zscaler.,sandbox.joe.security,0
+363,block the urls using zscaler.,sandbox.mcafee.advanced.threat.defence,0
+364,block the urls using zscaler.,source.user,0
+365,block the urls using zscaler.,source.user.email,0
+366,block the urls using zscaler.,username,0
+367,block the urls using zscaler.,war,0
+368,change the properties of an incident,active,0
+369,change the properties of an incident,available,0
+370,change the properties of an incident,bitdam,0
+371,change the properties of an incident,carbonblack,0
+372,change the properties of an incident,checkpoint,0
+373,change the properties of an incident,crowdstrike.falcon,0
+374,change the properties of an incident,csirt.slack,0
+375,change the properties of an incident,email,0
+376,change the properties of an incident,empty,0
+377,change the properties of an incident,fireEye,0
+378,change the properties of an incident,joe.security,0
+379,change the properties of an incident,machine learning,0
+380,change the properties of an incident,mcafee,0
+381,change the properties of an incident,mcafee.advanced.threat.defence,0
+382,change the properties of an incident,minemeld,0
+383,change the properties of an incident,na,1
+384,change the properties of an incident,paloAlto.network,0
+385,change the properties of an incident,sandbox.joe.security,0
+386,change the properties of an incident,sandbox.mcafee.advanced.threat.defence,0
+387,change the properties of an incident,source.user,0
+388,change the properties of an incident,source.user.email,0
+389,change the properties of an incident,username,0
+390,change the properties of an incident,war,0
+391,check email address,active,0
+392,check email address,available,0
+393,check email address,bitdam,0
+394,check email address,carbonblack,0
+395,check email address,checkpoint,0
+396,check email address,crowdstrike.falcon,0
+397,check email address,csirt.slack,0
+398,check email address,email,0
+399,check email address,empty,0
+400,check email address,fireEye,0
+401,check email address,joe.security,0
+402,check email address,machine learning,0
+403,check email address,mcafee,0
+404,check email address,mcafee.advanced.threat.defence,0
+405,check email address,minemeld,0
+406,check email address,na,1
+407,check email address,paloAlto.network,0
+408,check email address,sandbox.joe.security,0
+409,check email address,sandbox.mcafee.advanced.threat.defence,0
+410,check email address,source.user,0
+411,check email address,source.user.email,0
+412,check email address,username,0
+413,check email address,war,0
+414,check for active directory instance,active,0
+415,check for active directory instance,available,0
+416,check for active directory instance,bitdam,0
+417,check for active directory instance,carbonblack,0
+418,check for active directory instance,checkpoint,0
+419,check for active directory instance,crowdstrike.falcon,0
+420,check for active directory instance,csirt.slack,0
+421,check for active directory instance,email,0
+422,check for active directory instance,empty,0
+423,check for active directory instance,fireEye,0
+424,check for active directory instance,joe.security,0
+425,check for active directory instance,machine learning,0
+426,check for active directory instance,mcafee,0
+427,check for active directory instance,mcafee.advanced.threat.defence,0
+428,check for active directory instance,minemeld,0
+429,check for active directory instance,na,1
+430,check for active directory instance,paloAlto.network,0
+431,check for active directory instance,sandbox.joe.security,0
+432,check for active directory instance,sandbox.mcafee.advanced.threat.defence,0
+433,check for active directory instance,source.user,0
+434,check for active directory instance,source.user.email,0
+435,check for active directory instance,username,0
+436,check for active directory instance,war,0
+437,check operation status,active,0
+438,check operation status,available,0
+439,check operation status,bitdam,0
+440,check operation status,carbonblack,0
+441,check operation status,checkpoint,0
+442,check operation status,crowdstrike.falcon,0
+443,check operation status,csirt.slack,0
+444,check operation status,email,0
+445,check operation status,empty,0
+446,check operation status,fireEye,0
+447,check operation status,joe.security,0
+448,check operation status,machine learning,0
+449,check operation status,mcafee,0
+450,check operation status,mcafee.advanced.threat.defence,0
+451,check operation status,minemeld,0
+452,check operation status,na,1
+453,check operation status,paloAlto.network,0
+454,check operation status,sandbox.joe.security,0
+455,check operation status,sandbox.mcafee.advanced.threat.defence,0
+456,check operation status,source.user,0
+457,check operation status,source.user.email,0
+458,check operation status,username,0
+459,check operation status,war,0
+460,check username to query,active,0
+461,check username to query,available,0
+462,check username to query,bitdam,0
+463,check username to query,carbonblack,0
+464,check username to query,checkpoint,0
+465,check username to query,crowdstrike.falcon,0
+466,check username to query,csirt.slack,0
+467,check username to query,email,0
+468,check username to query,empty,0
+469,check username to query,fireEye,0
+470,check username to query,joe.security,0
+471,check username to query,machine learning,0
+472,check username to query,mcafee,0
+473,check username to query,mcafee.advanced.threat.defence,0
+474,check username to query,minemeld,0
+475,check username to query,na,1
+476,check username to query,paloAlto.network,0
+477,check username to query,sandbox.joe.security,0
+478,check username to query,sandbox.mcafee.advanced.threat.defence,0
+479,check username to query,source.user,0
+480,check username to query,source.user.email,0
+481,check username to query,username,0
+482,check username to query,war,0
+483,classify incident with qradar,active,0
+484,classify incident with qradar,available,0
+485,classify incident with qradar,bitdam,0
+486,classify incident with qradar,carbonblack,0
+487,classify incident with qradar,checkpoint,0
+488,classify incident with qradar,crowdstrike.falcon,0
+489,classify incident with qradar,csirt.slack,0
+490,classify incident with qradar,email,0
+491,classify incident with qradar,empty,0
+492,classify incident with qradar,fireEye,0
+493,classify incident with qradar,joe.security,0
+494,classify incident with qradar,machine learning,0
+495,classify incident with qradar,mcafee,0
+496,classify incident with qradar,mcafee.advanced.threat.defence,0
+497,classify incident with qradar,minemeld,0
+498,classify incident with qradar,na,1
+499,classify incident with qradar,paloAlto.network,0
+500,classify incident with qradar,sandbox.joe.security,0
+501,classify incident with qradar,sandbox.mcafee.advanced.threat.defence,0
+502,classify incident with qradar,source.user,0
+503,classify incident with qradar,source.user.email,0
+504,classify incident with qradar,username,0
+505,classify incident with qradar,war,0
+506,classify incident with trendmicro,active,0
+507,classify incident with trendmicro,available,0
+508,classify incident with trendmicro,bitdam,0
+509,classify incident with trendmicro,carbonblack,0
+510,classify incident with trendmicro,checkpoint,0
+511,classify incident with trendmicro,crowdstrike.falcon,0
+512,classify incident with trendmicro,csirt.slack,0
+513,classify incident with trendmicro,email,0
+514,classify incident with trendmicro,empty,0
+515,classify incident with trendmicro,fireEye,0
+516,classify incident with trendmicro,joe.security,0
+517,classify incident with trendmicro,machine learning,0
+518,classify incident with trendmicro,mcafee,0
+519,classify incident with trendmicro,mcafee.advanced.threat.defence,0
+520,classify incident with trendmicro,minemeld,0
+521,classify incident with trendmicro,na,1
+522,classify incident with trendmicro,paloAlto.network,0
+523,classify incident with trendmicro,sandbox.joe.security,0
+524,classify incident with trendmicro,sandbox.mcafee.advanced.threat.defence,0
+525,classify incident with trendmicro,source.user,0
+526,classify incident with trendmicro,source.user.email,0
+527,classify incident with trendmicro,username,0
+528,classify incident with trendmicro,war,0
+529,classify incident with vectra,active,0
+530,classify incident with vectra,available,0
+531,classify incident with vectra,bitdam,0
+532,classify incident with vectra,carbonblack,0
+533,classify incident with vectra,checkpoint,0
+534,classify incident with vectra,crowdstrike.falcon,0
+535,classify incident with vectra,csirt.slack,0
+536,classify incident with vectra,email,0
+537,classify incident with vectra,empty,0
+538,classify incident with vectra,fireEye,0
+539,classify incident with vectra,joe.security,0
+540,classify incident with vectra,machine learning,0
+541,classify incident with vectra,mcafee,0
+542,classify incident with vectra,mcafee.advanced.threat.defence,0
+543,classify incident with vectra,minemeld,0
+544,classify incident with vectra,na,1
+545,classify incident with vectra,paloAlto.network,0
+546,classify incident with vectra,sandbox.joe.security,0
+547,classify incident with vectra,sandbox.mcafee.advanced.threat.defence,0
+548,classify incident with vectra,source.user,0
+549,classify incident with vectra,source.user.email,0
+550,classify incident with vectra,username,0
+551,classify incident with vectra,war,0
+552,close the current incident,active,0
+553,close the current incident,available,0
+554,close the current incident,bitdam,0
+555,close the current incident,carbonblack,0
+556,close the current incident,checkpoint,0
+557,close the current incident,crowdstrike.falcon,0
+558,close the current incident,csirt.slack,0
+559,close the current incident,email,0
+560,close the current incident,empty,0
+561,close the current incident,fireEye,0
+562,close the current incident,joe.security,0
+563,close the current incident,machine learning,0
+564,close the current incident,mcafee,0
+565,close the current incident,mcafee.advanced.threat.defence,0
+566,close the current incident,minemeld,0
+567,close the current incident,na,1
+568,close the current incident,paloAlto.network,0
+569,close the current incident,sandbox.joe.security,0
+570,close the current incident,sandbox.mcafee.advanced.threat.defence,0
+571,close the current incident,source.user,0
+572,close the current incident,source.user.email,0
+573,close the current incident,username,0
+574,close the current incident,war,0
+575,close the investigation.,active,0
+576,close the investigation.,available,0
+577,close the investigation.,bitdam,0
+578,close the investigation.,carbonblack,0
+579,close the investigation.,checkpoint,0
+580,close the investigation.,crowdstrike.falcon,0
+581,close the investigation.,csirt.slack,0
+582,close the investigation.,email,0
+583,close the investigation.,empty,0
+584,close the investigation.,fireEye,0
+585,close the investigation.,joe.security,0
+586,close the investigation.,machine learning,0
+587,close the investigation.,mcafee,0
+588,close the investigation.,mcafee.advanced.threat.defence,0
+589,close the investigation.,minemeld,0
+590,close the investigation.,na,1
+591,close the investigation.,paloAlto.network,0
+592,close the investigation.,sandbox.joe.security,0
+593,close the investigation.,sandbox.mcafee.advanced.threat.defence,0
+594,close the investigation.,source.user,0
+595,close the investigation.,source.user.email,0
+596,close the investigation.,username,0
+597,close the investigation.,war,0
+598,"create a phishing classifier using machine learning technique, based on email content",active,0
+599,"create a phishing classifier using machine learning technique, based on email content",available,0
+600,"create a phishing classifier using machine learning technique, based on email content",bitdam,0
+601,"create a phishing classifier using machine learning technique, based on email content",carbonblack,0
+602,"create a phishing classifier using machine learning technique, based on email content",checkpoint,0
+603,"create a phishing classifier using machine learning technique, based on email content",crowdstrike.falcon,0
+604,"create a phishing classifier using machine learning technique, based on email content",csirt.slack,0
+605,"create a phishing classifier using machine learning technique, based on email content",email,0
+606,"create a phishing classifier using machine learning technique, based on email content",empty,0
+607,"create a phishing classifier using machine learning technique, based on email content",fireEye,0
+608,"create a phishing classifier using machine learning technique, based on email content",joe.security,0
+609,"create a phishing classifier using machine learning technique, based on email content",machine learning,1
+610,"create a phishing classifier using machine learning technique, based on email content",mcafee,0
+611,"create a phishing classifier using machine learning technique, based on email content",mcafee.advanced.threat.defence,0
+612,"create a phishing classifier using machine learning technique, based on email content",minemeld,0
+613,"create a phishing classifier using machine learning technique, based on email content",na,0
+614,"create a phishing classifier using machine learning technique, based on email content",paloAlto.network,0
+615,"create a phishing classifier using machine learning technique, based on email content",sandbox.joe.security,0
+616,"create a phishing classifier using machine learning technique, based on email content",sandbox.mcafee.advanced.threat.defence,0
+617,"create a phishing classifier using machine learning technique, based on email content",source.user,0
+618,"create a phishing classifier using machine learning technique, based on email content",source.user.email,0
+619,"create a phishing classifier using machine learning technique, based on email content",username,0
+620,"create a phishing classifier using machine learning technique, based on email content",war,0
+621,detonate the file in available sandboxes.,active,0
+622,detonate the file in available sandboxes.,available,1
+623,detonate the file in available sandboxes.,bitdam,0
+624,detonate the file in available sandboxes.,carbonblack,0
+625,detonate the file in available sandboxes.,checkpoint,0
+626,detonate the file in available sandboxes.,crowdstrike.falcon,0
+627,detonate the file in available sandboxes.,csirt.slack,0
+628,detonate the file in available sandboxes.,email,0
+629,detonate the file in available sandboxes.,empty,0
+630,detonate the file in available sandboxes.,fireEye,0
+631,detonate the file in available sandboxes.,joe.security,0
+632,detonate the file in available sandboxes.,machine learning,0
+633,detonate the file in available sandboxes.,mcafee,0
+634,detonate the file in available sandboxes.,mcafee.advanced.threat.defence,0
+635,detonate the file in available sandboxes.,minemeld,0
+636,detonate the file in available sandboxes.,na,0
+637,detonate the file in available sandboxes.,paloAlto.network,0
+638,detonate the file in available sandboxes.,sandbox.joe.security,0
+639,detonate the file in available sandboxes.,sandbox.mcafee.advanced.threat.defence,0
+640,detonate the file in available sandboxes.,source.user,0
+641,detonate the file in available sandboxes.,source.user.email,0
+642,detonate the file in available sandboxes.,username,0
+643,detonate the file in available sandboxes.,war,0
+644,detonate the file in crowdstrike falcon sandbox.,active,0
+645,detonate the file in crowdstrike falcon sandbox.,available,0
+646,detonate the file in crowdstrike falcon sandbox.,bitdam,0
+647,detonate the file in crowdstrike falcon sandbox.,carbonblack,0
+648,detonate the file in crowdstrike falcon sandbox.,checkpoint,0
+649,detonate the file in crowdstrike falcon sandbox.,crowdstrike.falcon,1
+650,detonate the file in crowdstrike falcon sandbox.,csirt.slack,0
+651,detonate the file in crowdstrike falcon sandbox.,email,0
+652,detonate the file in crowdstrike falcon sandbox.,empty,0
+653,detonate the file in crowdstrike falcon sandbox.,fireEye,0
+654,detonate the file in crowdstrike falcon sandbox.,joe.security,0
+655,detonate the file in crowdstrike falcon sandbox.,machine learning,0
+656,detonate the file in crowdstrike falcon sandbox.,mcafee,0
+657,detonate the file in crowdstrike falcon sandbox.,mcafee.advanced.threat.defence,0
+658,detonate the file in crowdstrike falcon sandbox.,minemeld,0
+659,detonate the file in crowdstrike falcon sandbox.,na,0
+660,detonate the file in crowdstrike falcon sandbox.,paloAlto.network,0
+661,detonate the file in crowdstrike falcon sandbox.,sandbox.joe.security,0
+662,detonate the file in crowdstrike falcon sandbox.,sandbox.mcafee.advanced.threat.defence,0
+663,detonate the file in crowdstrike falcon sandbox.,source.user,0
+664,detonate the file in crowdstrike falcon sandbox.,source.user.email,0
+665,detonate the file in crowdstrike falcon sandbox.,username,0
+666,detonate the file in crowdstrike falcon sandbox.,war,0
+667,detonate the file in mcafee atd,active,0
+668,detonate the file in mcafee atd,available,0
+669,detonate the file in mcafee atd,bitdam,0
+670,detonate the file in mcafee atd,carbonblack,0
+671,detonate the file in mcafee atd,checkpoint,0
+672,detonate the file in mcafee atd,crowdstrike.falcon,0
+673,detonate the file in mcafee atd,csirt.slack,0
+674,detonate the file in mcafee atd,email,0
+675,detonate the file in mcafee atd,empty,0
+676,detonate the file in mcafee atd,fireEye,0
+677,detonate the file in mcafee atd,joe.security,0
+678,detonate the file in mcafee atd,machine learning,0
+679,detonate the file in mcafee atd,mcafee,1
+680,detonate the file in mcafee atd,mcafee.advanced.threat.defence,0
+681,detonate the file in mcafee atd,minemeld,0
+682,detonate the file in mcafee atd,na,0
+683,detonate the file in mcafee atd,paloAlto.network,0
+684,detonate the file in mcafee atd,sandbox.joe.security,0
+685,detonate the file in mcafee atd,sandbox.mcafee.advanced.threat.defence,0
+686,detonate the file in mcafee atd,source.user,0
+687,detonate the file in mcafee atd,source.user.email,0
+688,detonate the file in mcafee atd,username,0
+689,detonate the file in mcafee atd,war,0
+690,detonates a file using anyrun,active,0
+691,detonates a file using anyrun,available,0
+692,detonates a file using anyrun,bitdam,0
+693,detonates a file using anyrun,carbonblack,0
+694,detonates a file using anyrun,checkpoint,0
+695,detonates a file using anyrun,crowdstrike.falcon,0
+696,detonates a file using anyrun,csirt.slack,0
+697,detonates a file using anyrun,email,0
+698,detonates a file using anyrun,empty,0
+699,detonates a file using anyrun,fireEye,0
+700,detonates a file using anyrun,joe.security,0
+701,detonates a file using anyrun,machine learning,0
+702,detonates a file using anyrun,mcafee,0
+703,detonates a file using anyrun,mcafee.advanced.threat.defence,0
+704,detonates a file using anyrun,minemeld,0
+705,detonates a file using anyrun,na,1
+706,detonates a file using anyrun,paloAlto.network,0
+707,detonates a file using anyrun,sandbox.joe.security,0
+708,detonates a file using anyrun,sandbox.mcafee.advanced.threat.defence,0
+709,detonates a file using anyrun,source.user,0
+710,detonates a file using anyrun,source.user.email,0
+711,detonates a file using anyrun,username,0
+712,detonates a file using anyrun,war,0
+713,detonates a url using the mcafee advanced threat defense sandbox integration.,active,0
+714,detonates a url using the mcafee advanced threat defense sandbox integration.,active,0
+715,detonates a url using the mcafee advanced threat defense sandbox integration.,available,0
+716,detonates a url using the mcafee advanced threat defense sandbox integration.,available,0
+717,detonates a url using the mcafee advanced threat defense sandbox integration.,bitdam,0
+718,detonates a url using the mcafee advanced threat defense sandbox integration.,bitdam,0
+719,detonates a url using the mcafee advanced threat defense sandbox integration.,carbonblack,0
+720,detonates a url using the mcafee advanced threat defense sandbox integration.,carbonblack,0
+721,detonates a url using the mcafee advanced threat defense sandbox integration.,checkpoint,0
+722,detonates a url using the mcafee advanced threat defense sandbox integration.,checkpoint,0
+723,detonates a url using the mcafee advanced threat defense sandbox integration.,crowdstrike.falcon,0
+724,detonates a url using the mcafee advanced threat defense sandbox integration.,crowdstrike.falcon,0
+725,detonates a url using the mcafee advanced threat defense sandbox integration.,csirt.slack,0
+726,detonates a url using the mcafee advanced threat defense sandbox integration.,csirt.slack,0
+727,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+728,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+729,detonates a url using the mcafee advanced threat defense sandbox integration.,empty,0
+730,detonates a url using the mcafee advanced threat defense sandbox integration.,empty,0
+731,detonates a url using the mcafee advanced threat defense sandbox integration.,fireEye,0
+732,detonates a url using the mcafee advanced threat defense sandbox integration.,fireEye,0
+733,detonates a url using the mcafee advanced threat defense sandbox integration.,joe.security,0
+734,detonates a url using the mcafee advanced threat defense sandbox integration.,joe.security,0
+735,detonates a url using the mcafee advanced threat defense sandbox integration.,machine learning,0
+736,detonates a url using the mcafee advanced threat defense sandbox integration.,machine learning,0
+737,detonates a url using the mcafee advanced threat defense sandbox integration.,mcafee,0
+738,detonates a url using the mcafee advanced threat defense sandbox integration.,mcafee,0
+739,detonates a url using the mcafee advanced threat defense sandbox integration.,mcafee.advanced.threat.defence,0
+740,detonates a url using the mcafee advanced threat defense sandbox integration.,mcafee.advanced.threat.defence,1
+741,detonates a url using the mcafee advanced threat defense sandbox integration.,minemeld,0
+742,detonates a url using the mcafee advanced threat defense sandbox integration.,minemeld,0
+743,detonates a url using the mcafee advanced threat defense sandbox integration.,na,0
+744,detonates a url using the mcafee advanced threat defense sandbox integration.,na,0
+745,detonates a url using the mcafee advanced threat defense sandbox integration.,paloAlto.network,0
+746,detonates a url using the mcafee advanced threat defense sandbox integration.,paloAlto.network,0
+747,detonates a url using the mcafee advanced threat defense sandbox integration.,sandbox.joe.security,0
+748,detonates a url using the mcafee advanced threat defense sandbox integration.,sandbox.joe.security,0
+749,detonates a url using the mcafee advanced threat defense sandbox integration.,sandbox.mcafee.advanced.threat.defence,0
+750,detonates a url using the mcafee advanced threat defense sandbox integration.,sandbox.mcafee.advanced.threat.defence,1
+751,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user,0
+752,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user,0
+753,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user.email,0
+754,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user.email,0
+755,detonates a url using the mcafee advanced threat defense sandbox integration.,username,0
+756,detonates a url using the mcafee advanced threat defense sandbox integration.,username,0
+757,detonates a url using the mcafee advanced threat defense sandbox integration.,war,0
+758,detonates a url using the mcafee advanced threat defense sandbox integration.,war,0
+759,detonates one or more files using joe sandbox integration.,active,0
+760,detonates one or more files using joe sandbox integration.,available,0
+761,detonates one or more files using joe sandbox integration.,bitdam,0
+762,detonates one or more files using joe sandbox integration.,carbonblack,0
+763,detonates one or more files using joe sandbox integration.,checkpoint,0
+764,detonates one or more files using joe sandbox integration.,crowdstrike.falcon,0
+765,detonates one or more files using joe sandbox integration.,csirt.slack,0
+766,detonates one or more files using joe sandbox integration.,email,0
+767,detonates one or more files using joe sandbox integration.,empty,0
+768,detonates one or more files using joe sandbox integration.,fireEye,0
+769,detonates one or more files using joe sandbox integration.,joe.security,0
+770,detonates one or more files using joe sandbox integration.,machine learning,0
+771,detonates one or more files using joe sandbox integration.,mcafee,0
+772,detonates one or more files using joe sandbox integration.,mcafee.advanced.threat.defence,0
+773,detonates one or more files using joe sandbox integration.,minemeld,0
+774,detonates one or more files using joe sandbox integration.,na,0
+775,detonates one or more files using joe sandbox integration.,paloAlto.network,0
+776,detonates one or more files using joe sandbox integration.,sandbox.joe.security,1
+777,detonates one or more files using joe sandbox integration.,sandbox.mcafee.advanced.threat.defence,0
+778,detonates one or more files using joe sandbox integration.,source.user,0
+779,detonates one or more files using joe sandbox integration.,source.user.email,0
+780,detonates one or more files using joe sandbox integration.,username,0
+781,detonates one or more files using joe sandbox integration.,war,0
+782,detonates one or more urls using the joe security sandbox integration.,active,0
+783,detonates one or more urls using the joe security sandbox integration.,active,0
+784,detonates one or more urls using the joe security sandbox integration.,available,0
+785,detonates one or more urls using the joe security sandbox integration.,available,0
+786,detonates one or more urls using the joe security sandbox integration.,bitdam,0
+787,detonates one or more urls using the joe security sandbox integration.,bitdam,0
+788,detonates one or more urls using the joe security sandbox integration.,carbonblack,0
+789,detonates one or more urls using the joe security sandbox integration.,carbonblack,0
+790,detonates one or more urls using the joe security sandbox integration.,checkpoint,0
+791,detonates one or more urls using the joe security sandbox integration.,checkpoint,0
+792,detonates one or more urls using the joe security sandbox integration.,crowdstrike.falcon,0
+793,detonates one or more urls using the joe security sandbox integration.,crowdstrike.falcon,0
+794,detonates one or more urls using the joe security sandbox integration.,csirt.slack,0
+795,detonates one or more urls using the joe security sandbox integration.,csirt.slack,0
+796,detonates one or more urls using the joe security sandbox integration.,email,0
+797,detonates one or more urls using the joe security sandbox integration.,email,0
+798,detonates one or more urls using the joe security sandbox integration.,empty,0
+799,detonates one or more urls using the joe security sandbox integration.,empty,0
+800,detonates one or more urls using the joe security sandbox integration.,fireEye,0
+801,detonates one or more urls using the joe security sandbox integration.,fireEye,0
+802,detonates one or more urls using the joe security sandbox integration.,joe.security,0
+803,detonates one or more urls using the joe security sandbox integration.,joe.security,1
+804,detonates one or more urls using the joe security sandbox integration.,machine learning,0
+805,detonates one or more urls using the joe security sandbox integration.,machine learning,0
+806,detonates one or more urls using the joe security sandbox integration.,mcafee,0
+807,detonates one or more urls using the joe security sandbox integration.,mcafee,0
+808,detonates one or more urls using the joe security sandbox integration.,mcafee.advanced.threat.defence,0
+809,detonates one or more urls using the joe security sandbox integration.,mcafee.advanced.threat.defence,0
+810,detonates one or more urls using the joe security sandbox integration.,minemeld,0
+811,detonates one or more urls using the joe security sandbox integration.,minemeld,0
+812,detonates one or more urls using the joe security sandbox integration.,na,0
+813,detonates one or more urls using the joe security sandbox integration.,na,0
+814,detonates one or more urls using the joe security sandbox integration.,paloAlto.network,0
+815,detonates one or more urls using the joe security sandbox integration.,paloAlto.network,0
+816,detonates one or more urls using the joe security sandbox integration.,sandbox.joe.security,0
+817,detonates one or more urls using the joe security sandbox integration.,sandbox.joe.security,1
+818,detonates one or more urls using the joe security sandbox integration.,sandbox.mcafee.advanced.threat.defence,0
+819,detonates one or more urls using the joe security sandbox integration.,sandbox.mcafee.advanced.threat.defence,0
+820,detonates one or more urls using the joe security sandbox integration.,source.user,0
+821,detonates one or more urls using the joe security sandbox integration.,source.user,0
+822,detonates one or more urls using the joe security sandbox integration.,source.user.email,0
+823,detonates one or more urls using the joe security sandbox integration.,source.user.email,0
+824,detonates one or more urls using the joe security sandbox integration.,username,0
+825,detonates one or more urls using the joe security sandbox integration.,username,0
+826,detonates one or more urls using the joe security sandbox integration.,war,0
+827,detonates one or more urls using the joe security sandbox integration.,war,0
+828,disable the account using active directory.,active,1
+829,disable the account using active directory.,available,0
+830,disable the account using active directory.,bitdam,0
+831,disable the account using active directory.,carbonblack,0
+832,disable the account using active directory.,checkpoint,0
+833,disable the account using active directory.,crowdstrike.falcon,0
+834,disable the account using active directory.,csirt.slack,0
+835,disable the account using active directory.,email,0
+836,disable the account using active directory.,empty,0
+837,disable the account using active directory.,fireEye,0
+838,disable the account using active directory.,joe.security,0
+839,disable the account using active directory.,machine learning,0
+840,disable the account using active directory.,mcafee,0
+841,disable the account using active directory.,mcafee.advanced.threat.defence,0
+842,disable the account using active directory.,minemeld,0
+843,disable the account using active directory.,na,0
+844,disable the account using active directory.,paloAlto.network,0
+845,disable the account using active directory.,sandbox.joe.security,0
+846,disable the account using active directory.,sandbox.mcafee.advanced.threat.defence,0
+847,disable the account using active directory.,source.user,0
+848,disable the account using active directory.,source.user.email,0
+849,disable the account using active directory.,username,0
+850,disable the account using active directory.,war,0
+851,download the pdf report to the war room.,active,0
+852,download the pdf report to the war room.,available,0
+853,download the pdf report to the war room.,bitdam,0
+854,download the pdf report to the war room.,carbonblack,0
+855,download the pdf report to the war room.,checkpoint,0
+856,download the pdf report to the war room.,crowdstrike.falcon,0
+857,download the pdf report to the war room.,csirt.slack,0
+858,download the pdf report to the war room.,email,0
+859,download the pdf report to the war room.,empty,0
+860,download the pdf report to the war room.,fireEye,0
+861,download the pdf report to the war room.,joe.security,0
+862,download the pdf report to the war room.,machine learning,0
+863,download the pdf report to the war room.,mcafee,0
+864,download the pdf report to the war room.,mcafee.advanced.threat.defence,0
+865,download the pdf report to the war room.,minemeld,0
+866,download the pdf report to the war room.,na,0
+867,download the pdf report to the war room.,paloAlto.network,0
+868,download the pdf report to the war room.,sandbox.joe.security,0
+869,download the pdf report to the war room.,sandbox.mcafee.advanced.threat.defence,0
+870,download the pdf report to the war room.,source.user,0
+871,download the pdf report to the war room.,source.user.email,0
+872,download the pdf report to the war room.,username,0
+873,download the pdf report to the war room.,war,1
+874,downloads file from archer to demisto's context,active,0
+875,downloads file from archer to demisto's context,available,0
+876,downloads file from archer to demisto's context,bitdam,0
+877,downloads file from archer to demisto's context,carbonblack,0
+878,downloads file from archer to demisto's context,checkpoint,0
+879,downloads file from archer to demisto's context,crowdstrike.falcon,0
+880,downloads file from archer to demisto's context,csirt.slack,0
+881,downloads file from archer to demisto's context,email,0
+882,downloads file from archer to demisto's context,empty,0
+883,downloads file from archer to demisto's context,fireEye,0
+884,downloads file from archer to demisto's context,joe.security,0
+885,downloads file from archer to demisto's context,machine learning,0
+886,downloads file from archer to demisto's context,mcafee,0
+887,downloads file from archer to demisto's context,mcafee.advanced.threat.defence,0
+888,downloads file from archer to demisto's context,minemeld,0
+889,downloads file from archer to demisto's context,na,1
+890,downloads file from archer to demisto's context,paloAlto.network,0
+891,downloads file from archer to demisto's context,sandbox.joe.security,0
+892,downloads file from archer to demisto's context,sandbox.mcafee.advanced.threat.defence,0
+893,downloads file from archer to demisto's context,source.user,0
+894,downloads file from archer to demisto's context,source.user.email,0
+895,downloads file from archer to demisto's context,username,0
+896,downloads file from archer to demisto's context,war,0
+897,dump the file to the war room (from base64 list),active,0
+898,dump the file to the war room (from base64 list),available,0
+899,dump the file to the war room (from base64 list),bitdam,0
+900,dump the file to the war room (from base64 list),carbonblack,0
+901,dump the file to the war room (from base64 list),checkpoint,0
+902,dump the file to the war room (from base64 list),crowdstrike.falcon,0
+903,dump the file to the war room (from base64 list),csirt.slack,0
+904,dump the file to the war room (from base64 list),email,0
+905,dump the file to the war room (from base64 list),empty,0
+906,dump the file to the war room (from base64 list),fireEye,0
+907,dump the file to the war room (from base64 list),joe.security,0
+908,dump the file to the war room (from base64 list),machine learning,0
+909,dump the file to the war room (from base64 list),mcafee,0
+910,dump the file to the war room (from base64 list),mcafee.advanced.threat.defence,0
+911,dump the file to the war room (from base64 list),minemeld,0
+912,dump the file to the war room (from base64 list),na,0
+913,dump the file to the war room (from base64 list),paloAlto.network,0
+914,dump the file to the war room (from base64 list),sandbox.joe.security,0
+915,dump the file to the war room (from base64 list),sandbox.mcafee.advanced.threat.defence,0
+916,dump the file to the war room (from base64 list),source.user,0
+917,dump the file to the war room (from base64 list),source.user.email,0
+918,dump the file to the war room (from base64 list),username,0
+919,dump the file to the war room (from base64 list),war,1
+920,enrich accounts using one or more integration,active,0
+921,enrich accounts using one or more integration,available,0
+922,enrich accounts using one or more integration,bitdam,0
+923,enrich accounts using one or more integration,carbonblack,0
+924,enrich accounts using one or more integration,checkpoint,0
+925,enrich accounts using one or more integration,crowdstrike.falcon,0
+926,enrich accounts using one or more integration,csirt.slack,0
+927,enrich accounts using one or more integration,email,0
+928,enrich accounts using one or more integration,empty,0
+929,enrich accounts using one or more integration,fireEye,0
+930,enrich accounts using one or more integration,joe.security,0
+931,enrich accounts using one or more integration,machine learning,0
+932,enrich accounts using one or more integration,mcafee,0
+933,enrich accounts using one or more integration,mcafee.advanced.threat.defence,0
+934,enrich accounts using one or more integration,minemeld,0
+935,enrich accounts using one or more integration,na,1
+936,enrich accounts using one or more integration,paloAlto.network,0
+937,enrich accounts using one or more integration,sandbox.joe.security,0
+938,enrich accounts using one or more integration,sandbox.mcafee.advanced.threat.defence,0
+939,enrich accounts using one or more integration,source.user,0
+940,enrich accounts using one or more integration,source.user.email,0
+941,enrich accounts using one or more integration,username,0
+942,enrich accounts using one or more integration,war,0
+943,get a specific case from esm,active,0
+944,get a specific case from esm,available,0
+945,get a specific case from esm,bitdam,0
+946,get a specific case from esm,carbonblack,0
+947,get a specific case from esm,checkpoint,0
+948,get a specific case from esm,crowdstrike.falcon,0
+949,get a specific case from esm,csirt.slack,0
+950,get a specific case from esm,email,0
+951,get a specific case from esm,empty,0
+952,get a specific case from esm,fireEye,0
+953,get a specific case from esm,joe.security,0
+954,get a specific case from esm,machine learning,0
+955,get a specific case from esm,mcafee,0
+956,get a specific case from esm,mcafee.advanced.threat.defence,0
+957,get a specific case from esm,minemeld,0
+958,get a specific case from esm,na,1
+959,get a specific case from esm,paloAlto.network,0
+960,get a specific case from esm,sandbox.joe.security,0
+961,get a specific case from esm,sandbox.mcafee.advanced.threat.defence,0
+962,get a specific case from esm,source.user,0
+963,get a specific case from esm,source.user.email,0
+964,get a specific case from esm,username,0
+965,get a specific case from esm,war,0
+966,get crowdstrike device id,active,0
+967,get crowdstrike device id,available,0
+968,get crowdstrike device id,bitdam,0
+969,get crowdstrike device id,carbonblack,0
+970,get crowdstrike device id,checkpoint,0
+971,get crowdstrike device id,crowdstrike.falcon,0
+972,get crowdstrike device id,csirt.slack,0
+973,get crowdstrike device id,email,0
+974,get crowdstrike device id,empty,0
+975,get crowdstrike device id,fireEye,0
+976,get crowdstrike device id,joe.security,0
+977,get crowdstrike device id,machine learning,0
+978,get crowdstrike device id,mcafee,0
+979,get crowdstrike device id,mcafee.advanced.threat.defence,0
+980,get crowdstrike device id,minemeld,0
+981,get crowdstrike device id,na,1
+982,get crowdstrike device id,paloAlto.network,0
+983,get crowdstrike device id,sandbox.joe.security,0
+984,get crowdstrike device id,sandbox.mcafee.advanced.threat.defence,0
+985,get crowdstrike device id,source.user,0
+986,get crowdstrike device id,source.user.email,0
+987,get crowdstrike device id,username,0
+988,get crowdstrike device id,war,0
+989,get hardware details from endpoint,active,0
+990,get hardware details from endpoint,available,0
+991,get hardware details from endpoint,bitdam,0
+992,get hardware details from endpoint,carbonblack,0
+993,get hardware details from endpoint,checkpoint,0
+994,get hardware details from endpoint,crowdstrike.falcon,0
+995,get hardware details from endpoint,csirt.slack,0
+996,get hardware details from endpoint,email,0
+997,get hardware details from endpoint,empty,0
+998,get hardware details from endpoint,fireEye,0
+999,get hardware details from endpoint,joe.security,0
+1000,get hardware details from endpoint,machine learning,0
+1001,get hardware details from endpoint,mcafee,0
+1002,get hardware details from endpoint,mcafee.advanced.threat.defence,0
+1003,get hardware details from endpoint,minemeld,0
+1004,get hardware details from endpoint,na,1
+1005,get hardware details from endpoint,paloAlto.network,0
+1006,get hardware details from endpoint,sandbox.joe.security,0
+1007,get hardware details from endpoint,sandbox.mcafee.advanced.threat.defence,0
+1008,get hardware details from endpoint,source.user,0
+1009,get hardware details from endpoint,source.user.email,0
+1010,get hardware details from endpoint,username,0
+1011,get hardware details from endpoint,war,0
+1012,get host information from crowdstrike falcon host,active,0
+1013,get host information from crowdstrike falcon host,available,0
+1014,get host information from crowdstrike falcon host,bitdam,0
+1015,get host information from crowdstrike falcon host,carbonblack,0
+1016,get host information from crowdstrike falcon host,checkpoint,0
+1017,get host information from crowdstrike falcon host,crowdstrike.falcon,1
+1018,get host information from crowdstrike falcon host,csirt.slack,0
+1019,get host information from crowdstrike falcon host,email,0
+1020,get host information from crowdstrike falcon host,empty,0
+1021,get host information from crowdstrike falcon host,fireEye,0
+1022,get host information from crowdstrike falcon host,joe.security,0
+1023,get host information from crowdstrike falcon host,machine learning,0
+1024,get host information from crowdstrike falcon host,mcafee,0
+1025,get host information from crowdstrike falcon host,mcafee.advanced.threat.defence,0
+1026,get host information from crowdstrike falcon host,minemeld,0
+1027,get host information from crowdstrike falcon host,na,0
+1028,get host information from crowdstrike falcon host,paloAlto.network,0
+1029,get host information from crowdstrike falcon host,sandbox.joe.security,0
+1030,get host information from crowdstrike falcon host,sandbox.mcafee.advanced.threat.defence,0
+1031,get host information from crowdstrike falcon host,source.user,0
+1032,get host information from crowdstrike falcon host,source.user.email,0
+1033,get host information from crowdstrike falcon host,username,0
+1034,get host information from crowdstrike falcon host,war,0
+1035,get the report for a task created for a submitted file or url.,active,0
+1036,get the report for a task created for a submitted file or url.,available,0
+1037,get the report for a task created for a submitted file or url.,bitdam,0
+1038,get the report for a task created for a submitted file or url.,carbonblack,0
+1039,get the report for a task created for a submitted file or url.,checkpoint,0
+1040,get the report for a task created for a submitted file or url.,crowdstrike.falcon,0
+1041,get the report for a task created for a submitted file or url.,csirt.slack,0
+1042,get the report for a task created for a submitted file or url.,email,0
+1043,get the report for a task created for a submitted file or url.,empty,0
+1044,get the report for a task created for a submitted file or url.,fireEye,0
+1045,get the report for a task created for a submitted file or url.,joe.security,0
+1046,get the report for a task created for a submitted file or url.,machine learning,0
+1047,get the report for a task created for a submitted file or url.,mcafee,0
+1048,get the report for a task created for a submitted file or url.,mcafee.advanced.threat.defence,0
+1049,get the report for a task created for a submitted file or url.,minemeld,0
+1050,get the report for a task created for a submitted file or url.,na,1
+1051,get the report for a task created for a submitted file or url.,paloAlto.network,0
+1052,get the report for a task created for a submitted file or url.,sandbox.joe.security,0
+1053,get the report for a task created for a submitted file or url.,sandbox.mcafee.advanced.threat.defence,0
+1054,get the report for a task created for a submitted file or url.,source.user,0
+1055,get the report for a task created for a submitted file or url.,source.user.email,0
+1056,get the report for a task created for a submitted file or url.,username,0
+1057,get the report for a task created for a submitted file or url.,war,0
+1058,get the results of the operation.,active,0
+1059,get the results of the operation.,available,0
+1060,get the results of the operation.,bitdam,0
+1061,get the results of the operation.,carbonblack,0
+1062,get the results of the operation.,checkpoint,0
+1063,get the results of the operation.,crowdstrike.falcon,0
+1064,get the results of the operation.,csirt.slack,0
+1065,get the results of the operation.,email,0
+1066,get the results of the operation.,empty,0
+1067,get the results of the operation.,fireEye,0
+1068,get the results of the operation.,joe.security,0
+1069,get the results of the operation.,machine learning,0
+1070,get the results of the operation.,mcafee,0
+1071,get the results of the operation.,mcafee.advanced.threat.defence,0
+1072,get the results of the operation.,minemeld,0
+1073,get the results of the operation.,na,1
+1074,get the results of the operation.,paloAlto.network,0
+1075,get the results of the operation.,sandbox.joe.security,0
+1076,get the results of the operation.,sandbox.mcafee.advanced.threat.defence,0
+1077,get the results of the operation.,source.user,0
+1078,get the results of the operation.,source.user.email,0
+1079,get the results of the operation.,username,0
+1080,get the results of the operation.,war,0
+1081,initiate the operation,active,0
+1082,initiate the operation,available,0
+1083,initiate the operation,bitdam,0
+1084,initiate the operation,carbonblack,0
+1085,initiate the operation,checkpoint,0
+1086,initiate the operation,crowdstrike.falcon,0
+1087,initiate the operation,csirt.slack,0
+1088,initiate the operation,email,0
+1089,initiate the operation,empty,0
+1090,initiate the operation,fireEye,0
+1091,initiate the operation,joe.security,0
+1092,initiate the operation,machine learning,0
+1093,initiate the operation,mcafee,0
+1094,initiate the operation,mcafee.advanced.threat.defence,0
+1095,initiate the operation,minemeld,0
+1096,initiate the operation,na,1
+1097,initiate the operation,paloAlto.network,0
+1098,initiate the operation,sandbox.joe.security,0
+1099,initiate the operation,sandbox.mcafee.advanced.threat.defence,0
+1100,initiate the operation,source.user,0
+1101,initiate the operation,source.user.email,0
+1102,initiate the operation,username,0
+1103,initiate the operation,war,0
+1104,initiated the generic polling playbook that will do the polling command,active,0
+1105,initiated the generic polling playbook that will do the polling command,available,0
+1106,initiated the generic polling playbook that will do the polling command,bitdam,0
+1107,initiated the generic polling playbook that will do the polling command,carbonblack,0
+1108,initiated the generic polling playbook that will do the polling command,checkpoint,0
+1109,initiated the generic polling playbook that will do the polling command,crowdstrike.falcon,0
+1110,initiated the generic polling playbook that will do the polling command,csirt.slack,0
+1111,initiated the generic polling playbook that will do the polling command,email,0
+1112,initiated the generic polling playbook that will do the polling command,empty,0
+1113,initiated the generic polling playbook that will do the polling command,fireEye,0
+1114,initiated the generic polling playbook that will do the polling command,joe.security,0
+1115,initiated the generic polling playbook that will do the polling command,machine learning,0
+1116,initiated the generic polling playbook that will do the polling command,mcafee,0
+1117,initiated the generic polling playbook that will do the polling command,mcafee.advanced.threat.defence,0
+1118,initiated the generic polling playbook that will do the polling command,minemeld,0
+1119,initiated the generic polling playbook that will do the polling command,na,1
+1120,initiated the generic polling playbook that will do the polling command,paloAlto.network,0
+1121,initiated the generic polling playbook that will do the polling command,sandbox.joe.security,0
+1122,initiated the generic polling playbook that will do the polling command,sandbox.mcafee.advanced.threat.defence,0
+1123,initiated the generic polling playbook that will do the polling command,source.user,0
+1124,initiated the generic polling playbook that will do the polling command,source.user.email,0
+1125,initiated the generic polling playbook that will do the polling command,username,0
+1126,initiated the generic polling playbook that will do the polling command,war,0
+1127,parse email with nexpose,active,0
+1128,parse email with nexpose,available,0
+1129,parse email with nexpose,bitdam,0
+1130,parse email with nexpose,carbonblack,0
+1131,parse email with nexpose,checkpoint,0
+1132,parse email with nexpose,crowdstrike.falcon,0
+1133,parse email with nexpose,csirt.slack,0
+1134,parse email with nexpose,email,0
+1135,parse email with nexpose,empty,0
+1136,parse email with nexpose,fireEye,0
+1137,parse email with nexpose,joe.security,0
+1138,parse email with nexpose,machine learning,0
+1139,parse email with nexpose,mcafee,0
+1140,parse email with nexpose,mcafee.advanced.threat.defence,0
+1141,parse email with nexpose,minemeld,0
+1142,parse email with nexpose,na,1
+1143,parse email with nexpose,paloAlto.network,0
+1144,parse email with nexpose,sandbox.joe.security,0
+1145,parse email with nexpose,sandbox.mcafee.advanced.threat.defence,0
+1146,parse email with nexpose,source.user,0
+1147,parse email with nexpose,source.user.email,0
+1148,parse email with nexpose,username,0
+1149,parse email with nexpose,war,0
+1150,parse email with sentinelone,active,0
+1151,parse email with sentinelone,available,0
+1152,parse email with sentinelone,bitdam,0
+1153,parse email with sentinelone,carbonblack,0
+1154,parse email with sentinelone,checkpoint,0
+1155,parse email with sentinelone,crowdstrike.falcon,0
+1156,parse email with sentinelone,csirt.slack,0
+1157,parse email with sentinelone,email,0
+1158,parse email with sentinelone,empty,0
+1159,parse email with sentinelone,fireEye,0
+1160,parse email with sentinelone,joe.security,0
+1161,parse email with sentinelone,machine learning,0
+1162,parse email with sentinelone,mcafee,0
+1163,parse email with sentinelone,mcafee.advanced.threat.defence,0
+1164,parse email with sentinelone,minemeld,0
+1165,parse email with sentinelone,na,1
+1166,parse email with sentinelone,paloAlto.network,0
+1167,parse email with sentinelone,sandbox.joe.security,0
+1168,parse email with sentinelone,sandbox.mcafee.advanced.threat.defence,0
+1169,parse email with sentinelone,source.user,0
+1170,parse email with sentinelone,source.user.email,0
+1171,parse email with sentinelone,username,0
+1172,parse email with sentinelone,war,0
+1173,parse email with splunk,active,0
+1174,parse email with splunk,available,0
+1175,parse email with splunk,bitdam,0
+1176,parse email with splunk,carbonblack,0
+1177,parse email with splunk,checkpoint,0
+1178,parse email with splunk,crowdstrike.falcon,0
+1179,parse email with splunk,csirt.slack,0
+1180,parse email with splunk,email,0
+1181,parse email with splunk,empty,0
+1182,parse email with splunk,fireEye,0
+1183,parse email with splunk,joe.security,0
+1184,parse email with splunk,machine learning,0
+1185,parse email with splunk,mcafee,0
+1186,parse email with splunk,mcafee.advanced.threat.defence,0
+1187,parse email with splunk,minemeld,0
+1188,parse email with splunk,na,1
+1189,parse email with splunk,paloAlto.network,0
+1190,parse email with splunk,sandbox.joe.security,0
+1191,parse email with splunk,sandbox.mcafee.advanced.threat.defence,0
+1192,parse email with splunk,source.user,0
+1193,parse email with splunk,source.user.email,0
+1194,parse email with splunk,username,0
+1195,parse email with splunk,war,0
+1196,poll the operation,active,0
+1197,poll the operation,available,0
+1198,poll the operation,bitdam,0
+1199,poll the operation,carbonblack,0
+1200,poll the operation,checkpoint,0
+1201,poll the operation,crowdstrike.falcon,0
+1202,poll the operation,csirt.slack,0
+1203,poll the operation,email,0
+1204,poll the operation,empty,0
+1205,poll the operation,fireEye,0
+1206,poll the operation,joe.security,0
+1207,poll the operation,machine learning,0
+1208,poll the operation,mcafee,0
+1209,poll the operation,mcafee.advanced.threat.defence,0
+1210,poll the operation,minemeld,0
+1211,poll the operation,na,1
+1212,poll the operation,paloAlto.network,0
+1213,poll the operation,sandbox.joe.security,0
+1214,poll the operation,sandbox.mcafee.advanced.threat.defence,0
+1215,poll the operation,source.user,0
+1216,poll the operation,source.user.email,0
+1217,poll the operation,username,0
+1218,poll the operation,war,0
+1219,prints report to war room,active,0
+1220,prints report to war room,available,0
+1221,prints report to war room,bitdam,0
+1222,prints report to war room,carbonblack,0
+1223,prints report to war room,checkpoint,0
+1224,prints report to war room,crowdstrike.falcon,0
+1225,prints report to war room,csirt.slack,0
+1226,prints report to war room,email,0
+1227,prints report to war room,empty,0
+1228,prints report to war room,fireEye,0
+1229,prints report to war room,joe.security,0
+1230,prints report to war room,machine learning,0
+1231,prints report to war room,mcafee,0
+1232,prints report to war room,mcafee.advanced.threat.defence,0
+1233,prints report to war room,minemeld,0
+1234,prints report to war room,na,1
+1235,prints report to war room,paloAlto.network,0
+1236,prints report to war room,sandbox.joe.security,0
+1237,prints report to war room,sandbox.mcafee.advanced.threat.defence,0
+1238,prints report to war room,source.user,0
+1239,prints report to war room,source.user.email,0
+1240,prints report to war room,username,0
+1241,prints report to war room,war,0
+1242,queries active directory for the username's information.,active,0
+1243,queries active directory for the username's information.,available,0
+1244,queries active directory for the username's information.,bitdam,0
+1245,queries active directory for the username's information.,carbonblack,0
+1246,queries active directory for the username's information.,checkpoint,0
+1247,queries active directory for the username's information.,crowdstrike.falcon,0
+1248,queries active directory for the username's information.,csirt.slack,0
+1249,queries active directory for the username's information.,email,0
+1250,queries active directory for the username's information.,empty,0
+1251,queries active directory for the username's information.,fireEye,0
+1252,queries active directory for the username's information.,joe.security,0
+1253,queries active directory for the username's information.,machine learning,0
+1254,queries active directory for the username's information.,mcafee,0
+1255,queries active directory for the username's information.,mcafee.advanced.threat.defence,0
+1256,queries active directory for the username's information.,minemeld,0
+1257,queries active directory for the username's information.,na,0
+1258,queries active directory for the username's information.,paloAlto.network,0
+1259,queries active directory for the username's information.,sandbox.joe.security,0
+1260,queries active directory for the username's information.,sandbox.mcafee.advanced.threat.defence,0
+1261,queries active directory for the username's information.,source.user,0
+1262,queries active directory for the username's information.,source.user.email,0
+1263,queries active directory for the username's information.,username,1
+1264,queries active directory for the username's information.,war,0
+1265,queries activie directory,active,0
+1266,queries activie directory,available,0
+1267,queries activie directory,bitdam,0
+1268,queries activie directory,carbonblack,0
+1269,queries activie directory,checkpoint,0
+1270,queries activie directory,crowdstrike.falcon,0
+1271,queries activie directory,csirt.slack,0
+1272,queries activie directory,email,0
+1273,queries activie directory,empty,0
+1274,queries activie directory,fireEye,0
+1275,queries activie directory,joe.security,0
+1276,queries activie directory,machine learning,0
+1277,queries activie directory,mcafee,0
+1278,queries activie directory,mcafee.advanced.threat.defence,0
+1279,queries activie directory,minemeld,0
+1280,queries activie directory,na,1
+1281,queries activie directory,paloAlto.network,0
+1282,queries activie directory,sandbox.joe.security,0
+1283,queries activie directory,sandbox.mcafee.advanced.threat.defence,0
+1284,queries activie directory,source.user,0
+1285,queries activie directory,source.user.email,0
+1286,queries activie directory,username,0
+1287,queries activie directory,war,0
+1288,"query ""active directory"" for the username's info",active,0
+1289,"query ""active directory"" for the username's info",available,0
+1290,"query ""active directory"" for the username's info",bitdam,0
+1291,"query ""active directory"" for the username's info",carbonblack,0
+1292,"query ""active directory"" for the username's info",checkpoint,0
+1293,"query ""active directory"" for the username's info",crowdstrike.falcon,0
+1294,"query ""active directory"" for the username's info",csirt.slack,0
+1295,"query ""active directory"" for the username's info",email,0
+1296,"query ""active directory"" for the username's info",empty,0
+1297,"query ""active directory"" for the username's info",fireEye,0
+1298,"query ""active directory"" for the username's info",joe.security,0
+1299,"query ""active directory"" for the username's info",machine learning,0
+1300,"query ""active directory"" for the username's info",mcafee,0
+1301,"query ""active directory"" for the username's info",mcafee.advanced.threat.defence,0
+1302,"query ""active directory"" for the username's info",minemeld,0
+1303,"query ""active directory"" for the username's info",na,1
+1304,"query ""active directory"" for the username's info",paloAlto.network,0
+1305,"query ""active directory"" for the username's info",sandbox.joe.security,0
+1306,"query ""active directory"" for the username's info",sandbox.mcafee.advanced.threat.defence,0
+1307,"query ""active directory"" for the username's info",source.user,0
+1308,"query ""active directory"" for the username's info",source.user.email,0
+1309,"query ""active directory"" for the username's info",username,0
+1310,"query ""active directory"" for the username's info",war,0
+1311,query active directory for the email address information,active,0
+1312,query active directory for the email address information,available,0
+1313,query active directory for the email address information,bitdam,0
+1314,query active directory for the email address information,carbonblack,0
+1315,query active directory for the email address information,checkpoint,0
+1316,query active directory for the email address information,crowdstrike.falcon,0
+1317,query active directory for the email address information,csirt.slack,0
+1318,query active directory for the email address information,email,1
+1319,query active directory for the email address information,empty,0
+1320,query active directory for the email address information,fireEye,0
+1321,query active directory for the email address information,joe.security,0
+1322,query active directory for the email address information,machine learning,0
+1323,query active directory for the email address information,mcafee,0
+1324,query active directory for the email address information,mcafee.advanced.threat.defence,0
+1325,query active directory for the email address information,minemeld,0
+1326,query active directory for the email address information,na,0
+1327,query active directory for the email address information,paloAlto.network,0
+1328,query active directory for the email address information,sandbox.joe.security,0
+1329,query active directory for the email address information,sandbox.mcafee.advanced.threat.defence,0
+1330,query active directory for the email address information,source.user,0
+1331,query active directory for the email address information,source.user.email,0
+1332,query active directory for the email address information,username,0
+1333,query active directory for the email address information,war,0
+1334,query the account logs in siem,active,0
+1335,query the account logs in siem,available,0
+1336,query the account logs in siem,bitdam,0
+1337,query the account logs in siem,carbonblack,0
+1338,query the account logs in siem,checkpoint,0
+1339,query the account logs in siem,crowdstrike.falcon,0
+1340,query the account logs in siem,csirt.slack,0
+1341,query the account logs in siem,email,0
+1342,query the account logs in siem,empty,0
+1343,query the account logs in siem,fireEye,0
+1344,query the account logs in siem,joe.security,0
+1345,query the account logs in siem,machine learning,0
+1346,query the account logs in siem,mcafee,0
+1347,query the account logs in siem,mcafee.advanced.threat.defence,0
+1348,query the account logs in siem,minemeld,0
+1349,query the account logs in siem,na,1
+1350,query the account logs in siem,paloAlto.network,0
+1351,query the account logs in siem,sandbox.joe.security,0
+1352,query the account logs in siem,sandbox.mcafee.advanced.threat.defence,0
+1353,query the account logs in siem,source.user,0
+1354,query the account logs in siem,source.user.email,0
+1355,query the account logs in siem,username,0
+1356,query the account logs in siem,war,0
+1357,query the ips logs in the siem,active,0
+1358,query the ips logs in the siem,available,0
+1359,query the ips logs in the siem,bitdam,0
+1360,query the ips logs in the siem,carbonblack,0
+1361,query the ips logs in the siem,checkpoint,0
+1362,query the ips logs in the siem,crowdstrike.falcon,0
+1363,query the ips logs in the siem,csirt.slack,0
+1364,query the ips logs in the siem,email,0
+1365,query the ips logs in the siem,empty,0
+1366,query the ips logs in the siem,fireEye,0
+1367,query the ips logs in the siem,joe.security,0
+1368,query the ips logs in the siem,machine learning,0
+1369,query the ips logs in the siem,mcafee,0
+1370,query the ips logs in the siem,mcafee.advanced.threat.defence,0
+1371,query the ips logs in the siem,minemeld,0
+1372,query the ips logs in the siem,na,1
+1373,query the ips logs in the siem,paloAlto.network,0
+1374,query the ips logs in the siem,sandbox.joe.security,0
+1375,query the ips logs in the siem,sandbox.mcafee.advanced.threat.defence,0
+1376,query the ips logs in the siem,source.user,0
+1377,query the ips logs in the siem,source.user.email,0
+1378,query the ips logs in the siem,username,0
+1379,query the ips logs in the siem,war,0
+1380,qurantine the account,active,0
+1381,qurantine the account,available,0
+1382,qurantine the account,bitdam,0
+1383,qurantine the account,carbonblack,0
+1384,qurantine the account,checkpoint,0
+1385,qurantine the account,crowdstrike.falcon,0
+1386,qurantine the account,csirt.slack,0
+1387,qurantine the account,email,0
+1388,qurantine the account,empty,0
+1389,qurantine the account,fireEye,0
+1390,qurantine the account,joe.security,0
+1391,qurantine the account,machine learning,0
+1392,qurantine the account,mcafee,0
+1393,qurantine the account,mcafee.advanced.threat.defence,0
+1394,qurantine the account,minemeld,0
+1395,qurantine the account,na,1
+1396,qurantine the account,paloAlto.network,0
+1397,qurantine the account,sandbox.joe.security,0
+1398,qurantine the account,sandbox.mcafee.advanced.threat.defence,0
+1399,qurantine the account,source.user,0
+1400,qurantine the account,source.user.email,0
+1401,qurantine the account,username,0
+1402,qurantine the account,war,0
+1403,qurantine the endpoint,active,0
+1404,qurantine the endpoint,available,0
+1405,qurantine the endpoint,bitdam,0
+1406,qurantine the endpoint,carbonblack,0
+1407,qurantine the endpoint,checkpoint,0
+1408,qurantine the endpoint,crowdstrike.falcon,0
+1409,qurantine the endpoint,csirt.slack,0
+1410,qurantine the endpoint,email,0
+1411,qurantine the endpoint,empty,0
+1412,qurantine the endpoint,fireEye,0
+1413,qurantine the endpoint,joe.security,0
+1414,qurantine the endpoint,machine learning,0
+1415,qurantine the endpoint,mcafee,0
+1416,qurantine the endpoint,mcafee.advanced.threat.defence,0
+1417,qurantine the endpoint,minemeld,0
+1418,qurantine the endpoint,na,1
+1419,qurantine the endpoint,paloAlto.network,0
+1420,qurantine the endpoint,sandbox.joe.security,0
+1421,qurantine the endpoint,sandbox.mcafee.advanced.threat.defence,0
+1422,qurantine the endpoint,source.user,0
+1423,qurantine the endpoint,source.user.email,0
+1424,qurantine the endpoint,username,0
+1425,qurantine the endpoint,war,0
+1426,"retrieve cve information from ""cve search"".",active,0
+1427,"retrieve cve information from ""cve search"".",available,0
+1428,"retrieve cve information from ""cve search"".",bitdam,0
+1429,"retrieve cve information from ""cve search"".",carbonblack,0
+1430,"retrieve cve information from ""cve search"".",checkpoint,0
+1431,"retrieve cve information from ""cve search"".",crowdstrike.falcon,0
+1432,"retrieve cve information from ""cve search"".",csirt.slack,0
+1433,"retrieve cve information from ""cve search"".",email,0
+1434,"retrieve cve information from ""cve search"".",empty,0
+1435,"retrieve cve information from ""cve search"".",fireEye,0
+1436,"retrieve cve information from ""cve search"".",joe.security,0
+1437,"retrieve cve information from ""cve search"".",machine learning,0
+1438,"retrieve cve information from ""cve search"".",mcafee,0
+1439,"retrieve cve information from ""cve search"".",mcafee.advanced.threat.defence,0
+1440,"retrieve cve information from ""cve search"".",minemeld,0
+1441,"retrieve cve information from ""cve search"".",na,1
+1442,"retrieve cve information from ""cve search"".",paloAlto.network,0
+1443,"retrieve cve information from ""cve search"".",sandbox.joe.security,0
+1444,"retrieve cve information from ""cve search"".",sandbox.mcafee.advanced.threat.defence,0
+1445,"retrieve cve information from ""cve search"".",source.user,0
+1446,"retrieve cve information from ""cve search"".",source.user.email,0
+1447,"retrieve cve information from ""cve search"".",username,0
+1448,"retrieve cve information from ""cve search"".",war,0
+1449,retrieve cve information from xfe.,active,0
+1450,retrieve cve information from xfe.,available,0
+1451,retrieve cve information from xfe.,bitdam,0
+1452,retrieve cve information from xfe.,carbonblack,0
+1453,retrieve cve information from xfe.,checkpoint,0
+1454,retrieve cve information from xfe.,crowdstrike.falcon,0
+1455,retrieve cve information from xfe.,csirt.slack,0
+1456,retrieve cve information from xfe.,email,0
+1457,retrieve cve information from xfe.,empty,0
+1458,retrieve cve information from xfe.,fireEye,0
+1459,retrieve cve information from xfe.,joe.security,0
+1460,retrieve cve information from xfe.,machine learning,0
+1461,retrieve cve information from xfe.,mcafee,0
+1462,retrieve cve information from xfe.,mcafee.advanced.threat.defence,0
+1463,retrieve cve information from xfe.,minemeld,0
+1464,retrieve cve information from xfe.,na,1
+1465,retrieve cve information from xfe.,paloAlto.network,0
+1466,retrieve cve information from xfe.,sandbox.joe.security,0
+1467,retrieve cve information from xfe.,sandbox.mcafee.advanced.threat.defence,0
+1468,retrieve cve information from xfe.,source.user,0
+1469,retrieve cve information from xfe.,source.user.email,0
+1470,retrieve cve information from xfe.,username,0
+1471,retrieve cve information from xfe.,war,0
+1472,retrieve cve reputation using one or more integrations.,active,0
+1473,retrieve cve reputation using one or more integrations.,available,0
+1474,retrieve cve reputation using one or more integrations.,bitdam,0
+1475,retrieve cve reputation using one or more integrations.,carbonblack,0
+1476,retrieve cve reputation using one or more integrations.,checkpoint,0
+1477,retrieve cve reputation using one or more integrations.,crowdstrike.falcon,0
+1478,retrieve cve reputation using one or more integrations.,csirt.slack,0
+1479,retrieve cve reputation using one or more integrations.,email,0
+1480,retrieve cve reputation using one or more integrations.,empty,0
+1481,retrieve cve reputation using one or more integrations.,fireEye,0
+1482,retrieve cve reputation using one or more integrations.,joe.security,0
+1483,retrieve cve reputation using one or more integrations.,machine learning,0
+1484,retrieve cve reputation using one or more integrations.,mcafee,0
+1485,retrieve cve reputation using one or more integrations.,mcafee.advanced.threat.defence,0
+1486,retrieve cve reputation using one or more integrations.,minemeld,0
+1487,retrieve cve reputation using one or more integrations.,na,1
+1488,retrieve cve reputation using one or more integrations.,paloAlto.network,0
+1489,retrieve cve reputation using one or more integrations.,sandbox.joe.security,0
+1490,retrieve cve reputation using one or more integrations.,sandbox.mcafee.advanced.threat.defence,0
+1491,retrieve cve reputation using one or more integrations.,source.user,0
+1492,retrieve cve reputation using one or more integrations.,source.user.email,0
+1493,retrieve cve reputation using one or more integrations.,username,0
+1494,retrieve cve reputation using one or more integrations.,war,0
+1495,retrieve result data upon a file.,active,0
+1496,retrieve result data upon a file.,available,0
+1497,retrieve result data upon a file.,bitdam,0
+1498,retrieve result data upon a file.,carbonblack,0
+1499,retrieve result data upon a file.,checkpoint,0
+1500,retrieve result data upon a file.,crowdstrike.falcon,0
+1501,retrieve result data upon a file.,csirt.slack,0
+1502,retrieve result data upon a file.,email,0
+1503,retrieve result data upon a file.,empty,0
+1504,retrieve result data upon a file.,fireEye,0
+1505,retrieve result data upon a file.,joe.security,0
+1506,retrieve result data upon a file.,machine learning,0
+1507,retrieve result data upon a file.,mcafee,0
+1508,retrieve result data upon a file.,mcafee.advanced.threat.defence,0
+1509,retrieve result data upon a file.,minemeld,0
+1510,retrieve result data upon a file.,na,1
+1511,retrieve result data upon a file.,paloAlto.network,0
+1512,retrieve result data upon a file.,sandbox.joe.security,0
+1513,retrieve result data upon a file.,sandbox.mcafee.advanced.threat.defence,0
+1514,retrieve result data upon a file.,source.user,0
+1515,retrieve result data upon a file.,source.user.email,0
+1516,retrieve result data upon a file.,username,0
+1517,retrieve result data upon a file.,war,0
+1518,retrieve the ad account information for the manager of the source user account.,active,0
+1519,retrieve the ad account information for the manager of the source user account.,available,0
+1520,retrieve the ad account information for the manager of the source user account.,bitdam,0
+1521,retrieve the ad account information for the manager of the source user account.,carbonblack,0
+1522,retrieve the ad account information for the manager of the source user account.,checkpoint,0
+1523,retrieve the ad account information for the manager of the source user account.,crowdstrike.falcon,0
+1524,retrieve the ad account information for the manager of the source user account.,csirt.slack,0
+1525,retrieve the ad account information for the manager of the source user account.,email,0
+1526,retrieve the ad account information for the manager of the source user account.,empty,0
+1527,retrieve the ad account information for the manager of the source user account.,fireEye,0
+1528,retrieve the ad account information for the manager of the source user account.,joe.security,0
+1529,retrieve the ad account information for the manager of the source user account.,machine learning,0
+1530,retrieve the ad account information for the manager of the source user account.,mcafee,0
+1531,retrieve the ad account information for the manager of the source user account.,mcafee.advanced.threat.defence,0
+1532,retrieve the ad account information for the manager of the source user account.,minemeld,0
+1533,retrieve the ad account information for the manager of the source user account.,na,0
+1534,retrieve the ad account information for the manager of the source user account.,paloAlto.network,0
+1535,retrieve the ad account information for the manager of the source user account.,sandbox.joe.security,0
+1536,retrieve the ad account information for the manager of the source user account.,sandbox.mcafee.advanced.threat.defence,0
+1537,retrieve the ad account information for the manager of the source user account.,source.user,1
+1538,retrieve the ad account information for the manager of the source user account.,source.user.email,0
+1539,retrieve the ad account information for the manager of the source user account.,username,0
+1540,retrieve the ad account information for the manager of the source user account.,war,0
+1541,retrieve the report from qualys.,active,0
+1542,retrieve the report from qualys.,available,0
+1543,retrieve the report from qualys.,bitdam,0
+1544,retrieve the report from qualys.,carbonblack,0
+1545,retrieve the report from qualys.,checkpoint,0
+1546,retrieve the report from qualys.,crowdstrike.falcon,0
+1547,retrieve the report from qualys.,csirt.slack,0
+1548,retrieve the report from qualys.,email,0
+1549,retrieve the report from qualys.,empty,0
+1550,retrieve the report from qualys.,fireEye,0
+1551,retrieve the report from qualys.,joe.security,0
+1552,retrieve the report from qualys.,machine learning,0
+1553,retrieve the report from qualys.,mcafee,0
+1554,retrieve the report from qualys.,mcafee.advanced.threat.defence,0
+1555,retrieve the report from qualys.,minemeld,0
+1556,retrieve the report from qualys.,na,1
+1557,retrieve the report from qualys.,paloAlto.network,0
+1558,retrieve the report from qualys.,sandbox.joe.security,0
+1559,retrieve the report from qualys.,sandbox.mcafee.advanced.threat.defence,0
+1560,retrieve the report from qualys.,source.user,0
+1561,retrieve the report from qualys.,source.user.email,0
+1562,retrieve the report from qualys.,username,0
+1563,retrieve the report from qualys.,war,0
+1564,retrieves detailed information about a user account.,active,0
+1565,retrieves detailed information about a user account.,available,0
+1566,retrieves detailed information about a user account.,bitdam,0
+1567,retrieves detailed information about a user account.,carbonblack,0
+1568,retrieves detailed information about a user account.,checkpoint,0
+1569,retrieves detailed information about a user account.,crowdstrike.falcon,0
+1570,retrieves detailed information about a user account.,csirt.slack,0
+1571,retrieves detailed information about a user account.,email,0
+1572,retrieves detailed information about a user account.,empty,0
+1573,retrieves detailed information about a user account.,fireEye,0
+1574,retrieves detailed information about a user account.,joe.security,0
+1575,retrieves detailed information about a user account.,machine learning,0
+1576,retrieves detailed information about a user account.,mcafee,0
+1577,retrieves detailed information about a user account.,mcafee.advanced.threat.defence,0
+1578,retrieves detailed information about a user account.,minemeld,0
+1579,retrieves detailed information about a user account.,na,1
+1580,retrieves detailed information about a user account.,paloAlto.network,0
+1581,retrieves detailed information about a user account.,sandbox.joe.security,0
+1582,retrieves detailed information about a user account.,sandbox.mcafee.advanced.threat.defence,0
+1583,retrieves detailed information about a user account.,source.user,0
+1584,retrieves detailed information about a user account.,source.user.email,0
+1585,retrieves detailed information about a user account.,username,0
+1586,retrieves detailed information about a user account.,war,0
+1587,returns all case event ids,active,0
+1588,returns all case event ids,available,0
+1589,returns all case event ids,bitdam,0
+1590,returns all case event ids,carbonblack,0
+1591,returns all case event ids,checkpoint,0
+1592,returns all case event ids,crowdstrike.falcon,0
+1593,returns all case event ids,csirt.slack,0
+1594,returns all case event ids,email,0
+1595,returns all case event ids,empty,0
+1596,returns all case event ids,fireEye,0
+1597,returns all case event ids,joe.security,0
+1598,returns all case event ids,machine learning,0
+1599,returns all case event ids,mcafee,0
+1600,returns all case event ids,mcafee.advanced.threat.defence,0
+1601,returns all case event ids,minemeld,0
+1602,returns all case event ids,na,1
+1603,returns all case event ids,paloAlto.network,0
+1604,returns all case event ids,sandbox.joe.security,0
+1605,returns all case event ids,sandbox.mcafee.advanced.threat.defence,0
+1606,returns all case event ids,source.user,0
+1607,returns all case event ids,source.user.email,0
+1608,returns all case event ids,username,0
+1609,returns all case event ids,war,0
+1610,returns information for the specified username.,active,0
+1611,returns information for the specified username.,available,0
+1612,returns information for the specified username.,bitdam,0
+1613,returns information for the specified username.,carbonblack,0
+1614,returns information for the specified username.,checkpoint,0
+1615,returns information for the specified username.,crowdstrike.falcon,0
+1616,returns information for the specified username.,csirt.slack,0
+1617,returns information for the specified username.,email,0
+1618,returns information for the specified username.,empty,0
+1619,returns information for the specified username.,fireEye,0
+1620,returns information for the specified username.,joe.security,0
+1621,returns information for the specified username.,machine learning,0
+1622,returns information for the specified username.,mcafee,0
+1623,returns information for the specified username.,mcafee.advanced.threat.defence,0
+1624,returns information for the specified username.,minemeld,0
+1625,returns information for the specified username.,na,1
+1626,returns information for the specified username.,paloAlto.network,0
+1627,returns information for the specified username.,sandbox.joe.security,0
+1628,returns information for the specified username.,sandbox.mcafee.advanced.threat.defence,0
+1629,returns information for the specified username.,source.user,0
+1630,returns information for the specified username.,source.user.email,0
+1631,returns information for the specified username.,username,0
+1632,returns information for the specified username.,war,0
+1633,review email address,active,0
+1634,review email address,available,0
+1635,review email address,bitdam,0
+1636,review email address,carbonblack,0
+1637,review email address,checkpoint,0
+1638,review email address,crowdstrike.falcon,0
+1639,review email address,csirt.slack,0
+1640,review email address,email,0
+1641,review email address,empty,0
+1642,review email address,fireEye,0
+1643,review email address,joe.security,0
+1644,review email address,machine learning,0
+1645,review email address,mcafee,0
+1646,review email address,mcafee.advanced.threat.defence,0
+1647,review email address,minemeld,0
+1648,review email address,na,1
+1649,review email address,paloAlto.network,0
+1650,review email address,sandbox.joe.security,0
+1651,review email address,sandbox.mcafee.advanced.threat.defence,0
+1652,review email address,source.user,0
+1653,review email address,source.user.email,0
+1654,review email address,username,0
+1655,review email address,war,0
+1656,review for active directory instance,active,0
+1657,review for active directory instance,available,0
+1658,review for active directory instance,bitdam,0
+1659,review for active directory instance,carbonblack,0
+1660,review for active directory instance,checkpoint,0
+1661,review for active directory instance,crowdstrike.falcon,0
+1662,review for active directory instance,csirt.slack,0
+1663,review for active directory instance,email,0
+1664,review for active directory instance,empty,0
+1665,review for active directory instance,fireEye,0
+1666,review for active directory instance,joe.security,0
+1667,review for active directory instance,machine learning,0
+1668,review for active directory instance,mcafee,0
+1669,review for active directory instance,mcafee.advanced.threat.defence,0
+1670,review for active directory instance,minemeld,0
+1671,review for active directory instance,na,1
+1672,review for active directory instance,paloAlto.network,0
+1673,review for active directory instance,sandbox.joe.security,0
+1674,review for active directory instance,sandbox.mcafee.advanced.threat.defence,0
+1675,review for active directory instance,source.user,0
+1676,review for active directory instance,source.user.email,0
+1677,review for active directory instance,username,0
+1678,review for active directory instance,war,0
+1679,review if a given value exists in the context,active,0
+1680,review if a given value exists in the context,available,0
+1681,review if a given value exists in the context,bitdam,0
+1682,review if a given value exists in the context,carbonblack,0
+1683,review if a given value exists in the context,checkpoint,0
+1684,review if a given value exists in the context,crowdstrike.falcon,0
+1685,review if a given value exists in the context,csirt.slack,0
+1686,review if a given value exists in the context,email,0
+1687,review if a given value exists in the context,empty,0
+1688,review if a given value exists in the context,fireEye,0
+1689,review if a given value exists in the context,joe.security,0
+1690,review if a given value exists in the context,machine learning,0
+1691,review if a given value exists in the context,mcafee,0
+1692,review if a given value exists in the context,mcafee.advanced.threat.defence,0
+1693,review if a given value exists in the context,minemeld,0
+1694,review if a given value exists in the context,na,1
+1695,review if a given value exists in the context,paloAlto.network,0
+1696,review if a given value exists in the context,sandbox.joe.security,0
+1697,review if a given value exists in the context,sandbox.mcafee.advanced.threat.defence,0
+1698,review if a given value exists in the context,source.user,0
+1699,review if a given value exists in the context,source.user.email,0
+1700,review if a given value exists in the context,username,0
+1701,review if a given value exists in the context,war,0
+1702,review the account's privileges,active,0
+1703,review the account's privileges,available,0
+1704,review the account's privileges,bitdam,0
+1705,review the account's privileges,carbonblack,0
+1706,review the account's privileges,checkpoint,0
+1707,review the account's privileges,crowdstrike.falcon,0
+1708,review the account's privileges,csirt.slack,0
+1709,review the account's privileges,email,0
+1710,review the account's privileges,empty,0
+1711,review the account's privileges,fireEye,0
+1712,review the account's privileges,joe.security,0
+1713,review the account's privileges,machine learning,0
+1714,review the account's privileges,mcafee,0
+1715,review the account's privileges,mcafee.advanced.threat.defence,0
+1716,review the account's privileges,minemeld,0
+1717,review the account's privileges,na,1
+1718,review the account's privileges,paloAlto.network,0
+1719,review the account's privileges,sandbox.joe.security,0
+1720,review the account's privileges,sandbox.mcafee.advanced.threat.defence,0
+1721,review the account's privileges,source.user,0
+1722,review the account's privileges,source.user.email,0
+1723,review the account's privileges,username,0
+1724,review the account's privileges,war,0
+1725,review the incident to determine if the account activity is malicious.,active,0
+1726,review the incident to determine if the account activity is malicious.,available,0
+1727,review the incident to determine if the account activity is malicious.,bitdam,0
+1728,review the incident to determine if the account activity is malicious.,carbonblack,0
+1729,review the incident to determine if the account activity is malicious.,checkpoint,0
+1730,review the incident to determine if the account activity is malicious.,crowdstrike.falcon,0
+1731,review the incident to determine if the account activity is malicious.,csirt.slack,0
+1732,review the incident to determine if the account activity is malicious.,email,0
+1733,review the incident to determine if the account activity is malicious.,empty,0
+1734,review the incident to determine if the account activity is malicious.,fireEye,0
+1735,review the incident to determine if the account activity is malicious.,joe.security,0
+1736,review the incident to determine if the account activity is malicious.,machine learning,0
+1737,review the incident to determine if the account activity is malicious.,mcafee,0
+1738,review the incident to determine if the account activity is malicious.,mcafee.advanced.threat.defence,0
+1739,review the incident to determine if the account activity is malicious.,minemeld,0
+1740,review the incident to determine if the account activity is malicious.,na,1
+1741,review the incident to determine if the account activity is malicious.,paloAlto.network,0
+1742,review the incident to determine if the account activity is malicious.,sandbox.joe.security,0
+1743,review the incident to determine if the account activity is malicious.,sandbox.mcafee.advanced.threat.defence,0
+1744,review the incident to determine if the account activity is malicious.,source.user,0
+1745,review the incident to determine if the account activity is malicious.,source.user.email,0
+1746,review the incident to determine if the account activity is malicious.,username,0
+1747,review the incident to determine if the account activity is malicious.,war,0
+1748,review username to query,active,0
+1749,review username to query,available,0
+1750,review username to query,bitdam,0
+1751,review username to query,carbonblack,0
+1752,review username to query,checkpoint,0
+1753,review username to query,crowdstrike.falcon,0
+1754,review username to query,csirt.slack,0
+1755,review username to query,email,0
+1756,review username to query,empty,0
+1757,review username to query,fireEye,0
+1758,review username to query,joe.security,0
+1759,review username to query,machine learning,0
+1760,review username to query,mcafee,0
+1761,review username to query,mcafee.advanced.threat.defence,0
+1762,review username to query,minemeld,0
+1763,review username to query,na,1
+1764,review username to query,paloAlto.network,0
+1765,review username to query,sandbox.joe.security,0
+1766,review username to query,sandbox.mcafee.advanced.threat.defence,0
+1767,review username to query,source.user,0
+1768,review username to query,source.user.email,0
+1769,review username to query,username,0
+1770,review username to query,war,0
+1771,send an alert to the csirt slack channel,active,0
+1772,send an alert to the csirt slack channel,available,0
+1773,send an alert to the csirt slack channel,bitdam,0
+1774,send an alert to the csirt slack channel,carbonblack,0
+1775,send an alert to the csirt slack channel,checkpoint,0
+1776,send an alert to the csirt slack channel,crowdstrike.falcon,0
+1777,send an alert to the csirt slack channel,csirt.slack,1
+1778,send an alert to the csirt slack channel,email,0
+1779,send an alert to the csirt slack channel,empty,0
+1780,send an alert to the csirt slack channel,fireEye,0
+1781,send an alert to the csirt slack channel,joe.security,0
+1782,send an alert to the csirt slack channel,machine learning,0
+1783,send an alert to the csirt slack channel,mcafee,0
+1784,send an alert to the csirt slack channel,mcafee.advanced.threat.defence,0
+1785,send an alert to the csirt slack channel,minemeld,0
+1786,send an alert to the csirt slack channel,na,0
+1787,send an alert to the csirt slack channel,paloAlto.network,0
+1788,send an alert to the csirt slack channel,sandbox.joe.security,0
+1789,send an alert to the csirt slack channel,sandbox.mcafee.advanced.threat.defence,0
+1790,send an alert to the csirt slack channel,source.user,0
+1791,send an alert to the csirt slack channel,source.user.email,0
+1792,send an alert to the csirt slack channel,username,0
+1793,send an alert to the csirt slack channel,war,0
+1794,send an email to the source user email address,active,0
+1795,send an email to the source user email address,available,0
+1796,send an email to the source user email address,bitdam,0
+1797,send an email to the source user email address,carbonblack,0
+1798,send an email to the source user email address,checkpoint,0
+1799,send an email to the source user email address,crowdstrike.falcon,0
+1800,send an email to the source user email address,csirt.slack,0
+1801,send an email to the source user email address,email,0
+1802,send an email to the source user email address,empty,0
+1803,send an email to the source user email address,fireEye,0
+1804,send an email to the source user email address,joe.security,0
+1805,send an email to the source user email address,machine learning,0
+1806,send an email to the source user email address,mcafee,0
+1807,send an email to the source user email address,mcafee.advanced.threat.defence,0
+1808,send an email to the source user email address,minemeld,0
+1809,send an email to the source user email address,na,0
+1810,send an email to the source user email address,paloAlto.network,0
+1811,send an email to the source user email address,sandbox.joe.security,0
+1812,send an email to the source user email address,sandbox.mcafee.advanced.threat.defence,0
+1813,send an email to the source user email address,source.user,0
+1814,send an email to the source user email address,source.user.email,1
+1815,send an email to the source user email address,username,0
+1816,send an email to the source user email address,war,0
+1817,send an sms alert using twilio.,active,0
+1818,send an sms alert using twilio.,available,0
+1819,send an sms alert using twilio.,bitdam,0
+1820,send an sms alert using twilio.,carbonblack,0
+1821,send an sms alert using twilio.,checkpoint,0
+1822,send an sms alert using twilio.,crowdstrike.falcon,0
+1823,send an sms alert using twilio.,csirt.slack,0
+1824,send an sms alert using twilio.,email,0
+1825,send an sms alert using twilio.,empty,0
+1826,send an sms alert using twilio.,fireEye,0
+1827,send an sms alert using twilio.,joe.security,0
+1828,send an sms alert using twilio.,machine learning,0
+1829,send an sms alert using twilio.,mcafee,0
+1830,send an sms alert using twilio.,mcafee.advanced.threat.defence,0
+1831,send an sms alert using twilio.,minemeld,0
+1832,send an sms alert using twilio.,na,1
+1833,send an sms alert using twilio.,paloAlto.network,0
+1834,send an sms alert using twilio.,sandbox.joe.security,0
+1835,send an sms alert using twilio.,sandbox.mcafee.advanced.threat.defence,0
+1836,send an sms alert using twilio.,source.user,0
+1837,send an sms alert using twilio.,source.user.email,0
+1838,send an sms alert using twilio.,username,0
+1839,send an sms alert using twilio.,war,0
+1840,send file to cuckoo,active,0
+1841,send file to cuckoo,available,0
+1842,send file to cuckoo,bitdam,0
+1843,send file to cuckoo,carbonblack,0
+1844,send file to cuckoo,checkpoint,0
+1845,send file to cuckoo,crowdstrike.falcon,0
+1846,send file to cuckoo,csirt.slack,0
+1847,send file to cuckoo,email,0
+1848,send file to cuckoo,empty,0
+1849,send file to cuckoo,fireEye,0
+1850,send file to cuckoo,joe.security,0
+1851,send file to cuckoo,machine learning,0
+1852,send file to cuckoo,mcafee,0
+1853,send file to cuckoo,mcafee.advanced.threat.defence,0
+1854,send file to cuckoo,minemeld,0
+1855,send file to cuckoo,na,1
+1856,send file to cuckoo,paloAlto.network,0
+1857,send file to cuckoo,sandbox.joe.security,0
+1858,send file to cuckoo,sandbox.mcafee.advanced.threat.defence,0
+1859,send file to cuckoo,source.user,0
+1860,send file to cuckoo,source.user.email,0
+1861,send file to cuckoo,username,0
+1862,send file to cuckoo,war,0
+1863,set incident's severity to high,active,0
+1864,set incident's severity to high,available,0
+1865,set incident's severity to high,bitdam,0
+1866,set incident's severity to high,carbonblack,0
+1867,set incident's severity to high,checkpoint,0
+1868,set incident's severity to high,crowdstrike.falcon,0
+1869,set incident's severity to high,csirt.slack,0
+1870,set incident's severity to high,email,0
+1871,set incident's severity to high,empty,0
+1872,set incident's severity to high,fireEye,0
+1873,set incident's severity to high,joe.security,0
+1874,set incident's severity to high,machine learning,0
+1875,set incident's severity to high,mcafee,0
+1876,set incident's severity to high,mcafee.advanced.threat.defence,0
+1877,set incident's severity to high,minemeld,0
+1878,set incident's severity to high,na,1
+1879,set incident's severity to high,paloAlto.network,0
+1880,set incident's severity to high,sandbox.joe.security,0
+1881,set incident's severity to high,sandbox.mcafee.advanced.threat.defence,0
+1882,set incident's severity to high,source.user,0
+1883,set incident's severity to high,source.user.email,0
+1884,set incident's severity to high,username,0
+1885,set incident's severity to high,war,0
+1886,set the file object into context.,active,0
+1887,set the file object into context.,available,0
+1888,set the file object into context.,bitdam,0
+1889,set the file object into context.,carbonblack,0
+1890,set the file object into context.,checkpoint,0
+1891,set the file object into context.,crowdstrike.falcon,0
+1892,set the file object into context.,csirt.slack,0
+1893,set the file object into context.,email,0
+1894,set the file object into context.,empty,0
+1895,set the file object into context.,fireEye,0
+1896,set the file object into context.,joe.security,0
+1897,set the file object into context.,machine learning,0
+1898,set the file object into context.,mcafee,0
+1899,set the file object into context.,mcafee.advanced.threat.defence,0
+1900,set the file object into context.,minemeld,0
+1901,set the file object into context.,na,1
+1902,set the file object into context.,paloAlto.network,0
+1903,set the file object into context.,sandbox.joe.security,0
+1904,set the file object into context.,sandbox.mcafee.advanced.threat.defence,0
+1905,set the file object into context.,source.user,0
+1906,set the file object into context.,source.user.email,0
+1907,set the file object into context.,username,0
+1908,set the file object into context.,war,0
+1909,set the incident severity to high.,active,0
+1910,set the incident severity to high.,available,0
+1911,set the incident severity to high.,bitdam,0
+1912,set the incident severity to high.,carbonblack,0
+1913,set the incident severity to high.,checkpoint,0
+1914,set the incident severity to high.,crowdstrike.falcon,0
+1915,set the incident severity to high.,csirt.slack,0
+1916,set the incident severity to high.,email,0
+1917,set the incident severity to high.,empty,0
+1918,set the incident severity to high.,fireEye,0
+1919,set the incident severity to high.,joe.security,0
+1920,set the incident severity to high.,machine learning,0
+1921,set the incident severity to high.,mcafee,0
+1922,set the incident severity to high.,mcafee.advanced.threat.defence,0
+1923,set the incident severity to high.,minemeld,0
+1924,set the incident severity to high.,na,1
+1925,set the incident severity to high.,paloAlto.network,0
+1926,set the incident severity to high.,sandbox.joe.security,0
+1927,set the incident severity to high.,sandbox.mcafee.advanced.threat.defence,0
+1928,set the incident severity to high.,source.user,0
+1929,set the incident severity to high.,source.user.email,0
+1930,set the incident severity to high.,username,0
+1931,set the incident severity to high.,war,0
+1932,set the incident severity to low.,active,0
+1933,set the incident severity to low.,available,0
+1934,set the incident severity to low.,bitdam,0
+1935,set the incident severity to low.,carbonblack,0
+1936,set the incident severity to low.,checkpoint,0
+1937,set the incident severity to low.,crowdstrike.falcon,0
+1938,set the incident severity to low.,csirt.slack,0
+1939,set the incident severity to low.,email,0
+1940,set the incident severity to low.,empty,0
+1941,set the incident severity to low.,fireEye,0
+1942,set the incident severity to low.,joe.security,0
+1943,set the incident severity to low.,machine learning,0
+1944,set the incident severity to low.,mcafee,0
+1945,set the incident severity to low.,mcafee.advanced.threat.defence,0
+1946,set the incident severity to low.,minemeld,0
+1947,set the incident severity to low.,na,1
+1948,set the incident severity to low.,paloAlto.network,0
+1949,set the incident severity to low.,sandbox.joe.security,0
+1950,set the incident severity to low.,sandbox.mcafee.advanced.threat.defence,0
+1951,set the incident severity to low.,source.user,0
+1952,set the incident severity to low.,source.user.email,0
+1953,set the incident severity to low.,username,0
+1954,set the incident severity to low.,war,0
+1955,set the information retrieved from qradar into access the incident,active,0
+1956,set the information retrieved from qradar into access the incident,available,0
+1957,set the information retrieved from qradar into access the incident,bitdam,0
+1958,set the information retrieved from qradar into access the incident,carbonblack,0
+1959,set the information retrieved from qradar into access the incident,checkpoint,0
+1960,set the information retrieved from qradar into access the incident,crowdstrike.falcon,0
+1961,set the information retrieved from qradar into access the incident,csirt.slack,0
+1962,set the information retrieved from qradar into access the incident,email,0
+1963,set the information retrieved from qradar into access the incident,empty,0
+1964,set the information retrieved from qradar into access the incident,fireEye,0
+1965,set the information retrieved from qradar into access the incident,joe.security,0
+1966,set the information retrieved from qradar into access the incident,machine learning,0
+1967,set the information retrieved from qradar into access the incident,mcafee,0
+1968,set the information retrieved from qradar into access the incident,mcafee.advanced.threat.defence,0
+1969,set the information retrieved from qradar into access the incident,minemeld,0
+1970,set the information retrieved from qradar into access the incident,na,1
+1971,set the information retrieved from qradar into access the incident,paloAlto.network,0
+1972,set the information retrieved from qradar into access the incident,sandbox.joe.security,0
+1973,set the information retrieved from qradar into access the incident,sandbox.mcafee.advanced.threat.defence,0
+1974,set the information retrieved from qradar into access the incident,source.user,0
+1975,set the information retrieved from qradar into access the incident,source.user.email,0
+1976,set the information retrieved from qradar into access the incident,username,0
+1977,set the information retrieved from qradar into access the incident,war,0
+1978,set the qualys reports list into context,active,0
+1979,set the qualys reports list into context,available,0
+1980,set the qualys reports list into context,bitdam,0
+1981,set the qualys reports list into context,carbonblack,0
+1982,set the qualys reports list into context,checkpoint,0
+1983,set the qualys reports list into context,crowdstrike.falcon,0
+1984,set the qualys reports list into context,csirt.slack,0
+1985,set the qualys reports list into context,email,0
+1986,set the qualys reports list into context,empty,0
+1987,set the qualys reports list into context,fireEye,0
+1988,set the qualys reports list into context,joe.security,0
+1989,set the qualys reports list into context,machine learning,0
+1990,set the qualys reports list into context,mcafee,0
+1991,set the qualys reports list into context,mcafee.advanced.threat.defence,0
+1992,set the qualys reports list into context,minemeld,0
+1993,set the qualys reports list into context,na,1
+1994,set the qualys reports list into context,paloAlto.network,0
+1995,set the qualys reports list into context,sandbox.joe.security,0
+1996,set the qualys reports list into context,sandbox.mcafee.advanced.threat.defence,0
+1997,set the qualys reports list into context,source.user,0
+1998,set the qualys reports list into context,source.user.email,0
+1999,set the qualys reports list into context,username,0
+2000,set the qualys reports list into context,war,0
+2001,submit a file for analysis.,active,0
+2002,submit a file for analysis.,available,0
+2003,submit a file for analysis.,bitdam,0
+2004,submit a file for analysis.,carbonblack,0
+2005,submit a file for analysis.,checkpoint,0
+2006,submit a file for analysis.,crowdstrike.falcon,0
+2007,submit a file for analysis.,csirt.slack,0
+2008,submit a file for analysis.,email,0
+2009,submit a file for analysis.,empty,0
+2010,submit a file for analysis.,fireEye,0
+2011,submit a file for analysis.,joe.security,0
+2012,submit a file for analysis.,machine learning,0
+2013,submit a file for analysis.,mcafee,0
+2014,submit a file for analysis.,mcafee.advanced.threat.defence,0
+2015,submit a file for analysis.,minemeld,0
+2016,submit a file for analysis.,na,1
+2017,submit a file for analysis.,paloAlto.network,0
+2018,submit a file for analysis.,sandbox.joe.security,0
+2019,submit a file for analysis.,sandbox.mcafee.advanced.threat.defence,0
+2020,submit a file for analysis.,source.user,0
+2021,submit a file for analysis.,source.user.email,0
+2022,submit a file for analysis.,username,0
+2023,submit a file for analysis.,war,0
+2024,submit url for analysis.,active,0
+2025,submit url for analysis.,available,0
+2026,submit url for analysis.,bitdam,0
+2027,submit url for analysis.,carbonblack,0
+2028,submit url for analysis.,checkpoint,0
+2029,submit url for analysis.,crowdstrike.falcon,0
+2030,submit url for analysis.,csirt.slack,0
+2031,submit url for analysis.,email,0
+2032,submit url for analysis.,empty,0
+2033,submit url for analysis.,fireEye,0
+2034,submit url for analysis.,joe.security,0
+2035,submit url for analysis.,machine learning,0
+2036,submit url for analysis.,mcafee,0
+2037,submit url for analysis.,mcafee.advanced.threat.defence,0
+2038,submit url for analysis.,minemeld,0
+2039,submit url for analysis.,na,1
+2040,submit url for analysis.,paloAlto.network,0
+2041,submit url for analysis.,sandbox.joe.security,0
+2042,submit url for analysis.,sandbox.mcafee.advanced.threat.defence,0
+2043,submit url for analysis.,source.user,0
+2044,submit url for analysis.,source.user.email,0
+2045,submit url for analysis.,username,0
+2046,submit url for analysis.,war,0
+2047,submits a sample to crowdstrike,active,0
+2048,submits a sample to crowdstrike,available,0
+2049,submits a sample to crowdstrike,bitdam,0
+2050,submits a sample to crowdstrike,carbonblack,0
+2051,submits a sample to crowdstrike,checkpoint,0
+2052,submits a sample to crowdstrike,crowdstrike.falcon,0
+2053,submits a sample to crowdstrike,csirt.slack,0
+2054,submits a sample to crowdstrike,email,0
+2055,submits a sample to crowdstrike,empty,0
+2056,submits a sample to crowdstrike,fireEye,0
+2057,submits a sample to crowdstrike,joe.security,0
+2058,submits a sample to crowdstrike,machine learning,0
+2059,submits a sample to crowdstrike,mcafee,0
+2060,submits a sample to crowdstrike,mcafee.advanced.threat.defence,0
+2061,submits a sample to crowdstrike,minemeld,0
+2062,submits a sample to crowdstrike,na,1
+2063,submits a sample to crowdstrike,paloAlto.network,0
+2064,submits a sample to crowdstrike,sandbox.joe.security,0
+2065,submits a sample to crowdstrike,sandbox.mcafee.advanced.threat.defence,0
+2066,submits a sample to crowdstrike,source.user,0
+2067,submits a sample to crowdstrike,source.user.email,0
+2068,submits a sample to crowdstrike,username,0
+2069,submits a sample to crowdstrike,war,0
+2070,submits a sample to fireeye ax,active,0
+2071,submits a sample to fireeye ax,available,0
+2072,submits a sample to fireeye ax,bitdam,0
+2073,submits a sample to fireeye ax,carbonblack,0
+2074,submits a sample to fireeye ax,checkpoint,0
+2075,submits a sample to fireeye ax,crowdstrike.falcon,0
+2076,submits a sample to fireeye ax,csirt.slack,0
+2077,submits a sample to fireeye ax,email,0
+2078,submits a sample to fireeye ax,empty,0
+2079,submits a sample to fireeye ax,fireEye,1
+2080,submits a sample to fireeye ax,joe.security,0
+2081,submits a sample to fireeye ax,machine learning,0
+2082,submits a sample to fireeye ax,mcafee,0
+2083,submits a sample to fireeye ax,mcafee.advanced.threat.defence,0
+2084,submits a sample to fireeye ax,minemeld,0
+2085,submits a sample to fireeye ax,na,0
+2086,submits a sample to fireeye ax,paloAlto.network,0
+2087,submits a sample to fireeye ax,sandbox.joe.security,0
+2088,submits a sample to fireeye ax,sandbox.mcafee.advanced.threat.defence,0
+2089,submits a sample to fireeye ax,source.user,0
+2090,submits a sample to fireeye ax,source.user.email,0
+2091,submits a sample to fireeye ax,username,0
+2092,submits a sample to fireeye ax,war,0
+2093,this playbook blocks malicious usernames using all integrations that you have enabled.,active,0
+2094,this playbook blocks malicious usernames using all integrations that you have enabled.,available,0
+2095,this playbook blocks malicious usernames using all integrations that you have enabled.,bitdam,0
+2096,this playbook blocks malicious usernames using all integrations that you have enabled.,carbonblack,0
+2097,this playbook blocks malicious usernames using all integrations that you have enabled.,checkpoint,0
+2098,this playbook blocks malicious usernames using all integrations that you have enabled.,crowdstrike.falcon,0
+2099,this playbook blocks malicious usernames using all integrations that you have enabled.,csirt.slack,0
+2100,this playbook blocks malicious usernames using all integrations that you have enabled.,email,0
+2101,this playbook blocks malicious usernames using all integrations that you have enabled.,empty,0
+2102,this playbook blocks malicious usernames using all integrations that you have enabled.,fireEye,0
+2103,this playbook blocks malicious usernames using all integrations that you have enabled.,joe.security,0
+2104,this playbook blocks malicious usernames using all integrations that you have enabled.,machine learning,0
+2105,this playbook blocks malicious usernames using all integrations that you have enabled.,mcafee,0
+2106,this playbook blocks malicious usernames using all integrations that you have enabled.,mcafee.advanced.threat.defence,0
+2107,this playbook blocks malicious usernames using all integrations that you have enabled.,minemeld,0
+2108,this playbook blocks malicious usernames using all integrations that you have enabled.,na,1
+2109,this playbook blocks malicious usernames using all integrations that you have enabled.,paloAlto.network,0
+2110,this playbook blocks malicious usernames using all integrations that you have enabled.,sandbox.joe.security,0
+2111,this playbook blocks malicious usernames using all integrations that you have enabled.,sandbox.mcafee.advanced.threat.defence,0
+2112,this playbook blocks malicious usernames using all integrations that you have enabled.,source.user,0
+2113,this playbook blocks malicious usernames using all integrations that you have enabled.,source.user.email,0
+2114,this playbook blocks malicious usernames using all integrations that you have enabled.,username,0
+2115,this playbook blocks malicious usernames using all integrations that you have enabled.,war,0
+2116,upload a file sample to bitdam's service,active,0
+2117,upload a file sample to bitdam's service,available,0
+2118,upload a file sample to bitdam's service,bitdam,1
+2119,upload a file sample to bitdam's service,carbonblack,0
+2120,upload a file sample to bitdam's service,checkpoint,0
+2121,upload a file sample to bitdam's service,crowdstrike.falcon,0
+2122,upload a file sample to bitdam's service,csirt.slack,0
+2123,upload a file sample to bitdam's service,email,0
+2124,upload a file sample to bitdam's service,empty,0
+2125,upload a file sample to bitdam's service,fireEye,0
+2126,upload a file sample to bitdam's service,joe.security,0
+2127,upload a file sample to bitdam's service,machine learning,0
+2128,upload a file sample to bitdam's service,mcafee,0
+2129,upload a file sample to bitdam's service,mcafee.advanced.threat.defence,0
+2130,upload a file sample to bitdam's service,minemeld,0
+2131,upload a file sample to bitdam's service,na,0
+2132,upload a file sample to bitdam's service,paloAlto.network,0
+2133,upload a file sample to bitdam's service,sandbox.joe.security,0
+2134,upload a file sample to bitdam's service,sandbox.mcafee.advanced.threat.defence,0
+2135,upload a file sample to bitdam's service,source.user,0
+2136,upload a file sample to bitdam's service,source.user.email,0
+2137,upload a file sample to bitdam's service,username,0
+2138,upload a file sample to bitdam's service,war,0
+2139,upload samle to sandbox,active,0
+2140,upload samle to sandbox,available,0
+2141,upload samle to sandbox,bitdam,0
+2142,upload samle to sandbox,carbonblack,0
+2143,upload samle to sandbox,checkpoint,0
+2144,upload samle to sandbox,crowdstrike.falcon,0
+2145,upload samle to sandbox,csirt.slack,0
+2146,upload samle to sandbox,email,0
+2147,upload samle to sandbox,empty,0
+2148,upload samle to sandbox,fireEye,0
+2149,upload samle to sandbox,joe.security,0
+2150,upload samle to sandbox,machine learning,0
+2151,upload samle to sandbox,mcafee,0
+2152,upload samle to sandbox,mcafee.advanced.threat.defence,0
+2153,upload samle to sandbox,minemeld,0
+2154,upload samle to sandbox,na,1
+2155,upload samle to sandbox,paloAlto.network,0
+2156,upload samle to sandbox,sandbox.joe.security,0
+2157,upload samle to sandbox,sandbox.mcafee.advanced.threat.defence,0
+2158,upload samle to sandbox,source.user,0
+2159,upload samle to sandbox,source.user.email,0
+2160,upload samle to sandbox,username,0
+2161,upload samle to sandbox,war,0
+2162,upload sample to crowdstrike,active,0
+2163,upload sample to crowdstrike,available,0
+2164,upload sample to crowdstrike,bitdam,0
+2165,upload sample to crowdstrike,carbonblack,0
+2166,upload sample to crowdstrike,checkpoint,0
+2167,upload sample to crowdstrike,crowdstrike.falcon,0
+2168,upload sample to crowdstrike,csirt.slack,0
+2169,upload sample to crowdstrike,email,0
+2170,upload sample to crowdstrike,empty,0
+2171,upload sample to crowdstrike,fireEye,0
+2172,upload sample to crowdstrike,joe.security,0
+2173,upload sample to crowdstrike,machine learning,0
+2174,upload sample to crowdstrike,mcafee,0
+2175,upload sample to crowdstrike,mcafee.advanced.threat.defence,0
+2176,upload sample to crowdstrike,minemeld,0
+2177,upload sample to crowdstrike,na,1
+2178,upload sample to crowdstrike,paloAlto.network,0
+2179,upload sample to crowdstrike,sandbox.joe.security,0
+2180,upload sample to crowdstrike,sandbox.mcafee.advanced.threat.defence,0
+2181,upload sample to crowdstrike,source.user,0
+2182,upload sample to crowdstrike,source.user.email,0
+2183,upload sample to crowdstrike,username,0
+2184,upload sample to crowdstrike,war,0
+2185,use the user response (yes or no) to direct the playbook.,active,0
+2186,use the user response (yes or no) to direct the playbook.,available,0
+2187,use the user response (yes or no) to direct the playbook.,bitdam,0
+2188,use the user response (yes or no) to direct the playbook.,carbonblack,0
+2189,use the user response (yes or no) to direct the playbook.,checkpoint,0
+2190,use the user response (yes or no) to direct the playbook.,crowdstrike.falcon,0
+2191,use the user response (yes or no) to direct the playbook.,csirt.slack,0
+2192,use the user response (yes or no) to direct the playbook.,email,0
+2193,use the user response (yes or no) to direct the playbook.,empty,0
+2194,use the user response (yes or no) to direct the playbook.,fireEye,0
+2195,use the user response (yes or no) to direct the playbook.,joe.security,0
+2196,use the user response (yes or no) to direct the playbook.,machine learning,0
+2197,use the user response (yes or no) to direct the playbook.,mcafee,0
+2198,use the user response (yes or no) to direct the playbook.,mcafee.advanced.threat.defence,0
+2199,use the user response (yes or no) to direct the playbook.,minemeld,0
+2200,use the user response (yes or no) to direct the playbook.,na,1
+2201,use the user response (yes or no) to direct the playbook.,paloAlto.network,0
+2202,use the user response (yes or no) to direct the playbook.,sandbox.joe.security,0
+2203,use the user response (yes or no) to direct the playbook.,sandbox.mcafee.advanced.threat.defence,0
+2204,use the user response (yes or no) to direct the playbook.,source.user,0
+2205,use the user response (yes or no) to direct the playbook.,source.user.email,0
+2206,use the user response (yes or no) to direct the playbook.,username,0
+2207,use the user response (yes or no) to direct the playbook.,war,0
+2208,verify that the playbook input includes at least one ip to block.,active,0
+2209,verify that the playbook input includes at least one ip to block.,available,0
+2210,verify that the playbook input includes at least one ip to block.,bitdam,0
+2211,verify that the playbook input includes at least one ip to block.,carbonblack,0
+2212,verify that the playbook input includes at least one ip to block.,checkpoint,0
+2213,verify that the playbook input includes at least one ip to block.,crowdstrike.falcon,0
+2214,verify that the playbook input includes at least one ip to block.,csirt.slack,0
+2215,verify that the playbook input includes at least one ip to block.,email,0
+2216,verify that the playbook input includes at least one ip to block.,empty,0
+2217,verify that the playbook input includes at least one ip to block.,fireEye,0
+2218,verify that the playbook input includes at least one ip to block.,joe.security,0
+2219,verify that the playbook input includes at least one ip to block.,machine learning,0
+2220,verify that the playbook input includes at least one ip to block.,mcafee,0
+2221,verify that the playbook input includes at least one ip to block.,mcafee.advanced.threat.defence,0
+2222,verify that the playbook input includes at least one ip to block.,minemeld,0
+2223,verify that the playbook input includes at least one ip to block.,na,1
+2224,verify that the playbook input includes at least one ip to block.,paloAlto.network,0
+2225,verify that the playbook input includes at least one ip to block.,sandbox.joe.security,0
+2226,verify that the playbook input includes at least one ip to block.,sandbox.mcafee.advanced.threat.defence,0
+2227,verify that the playbook input includes at least one ip to block.,source.user,0
+2228,verify that the playbook input includes at least one ip to block.,source.user.email,0
+2229,verify that the playbook input includes at least one ip to block.,username,0
+2230,verify that the playbook input includes at least one ip to block.,war,0
+2231,verify that the playbook input includes at least one url to block.,active,0
+2232,verify that the playbook input includes at least one url to block.,available,0
+2233,verify that the playbook input includes at least one url to block.,bitdam,0
+2234,verify that the playbook input includes at least one url to block.,carbonblack,0
+2235,verify that the playbook input includes at least one url to block.,checkpoint,0
+2236,verify that the playbook input includes at least one url to block.,crowdstrike.falcon,0
+2237,verify that the playbook input includes at least one url to block.,csirt.slack,0
+2238,verify that the playbook input includes at least one url to block.,email,0
+2239,verify that the playbook input includes at least one url to block.,empty,0
+2240,verify that the playbook input includes at least one url to block.,fireEye,0
+2241,verify that the playbook input includes at least one url to block.,joe.security,0
+2242,verify that the playbook input includes at least one url to block.,machine learning,0
+2243,verify that the playbook input includes at least one url to block.,mcafee,0
+2244,verify that the playbook input includes at least one url to block.,mcafee.advanced.threat.defence,0
+2245,verify that the playbook input includes at least one url to block.,minemeld,0
+2246,verify that the playbook input includes at least one url to block.,na,1
+2247,verify that the playbook input includes at least one url to block.,paloAlto.network,0
+2248,verify that the playbook input includes at least one url to block.,sandbox.joe.security,0
+2249,verify that the playbook input includes at least one url to block.,sandbox.mcafee.advanced.threat.defence,0
+2250,verify that the playbook input includes at least one url to block.,source.user,0
+2251,verify that the playbook input includes at least one url to block.,source.user.email,0
+2252,verify that the playbook input includes at least one url to block.,username,0
+2253,verify that the playbook input includes at least one url to block.,war,0
+2254,verify that the playbook input includes at least one username to block.,active,0
+2255,verify that the playbook input includes at least one username to block.,available,0
+2256,verify that the playbook input includes at least one username to block.,bitdam,0
+2257,verify that the playbook input includes at least one username to block.,carbonblack,0
+2258,verify that the playbook input includes at least one username to block.,checkpoint,0
+2259,verify that the playbook input includes at least one username to block.,crowdstrike.falcon,0
+2260,verify that the playbook input includes at least one username to block.,csirt.slack,0
+2261,verify that the playbook input includes at least one username to block.,email,0
+2262,verify that the playbook input includes at least one username to block.,empty,0
+2263,verify that the playbook input includes at least one username to block.,fireEye,0
+2264,verify that the playbook input includes at least one username to block.,joe.security,0
+2265,verify that the playbook input includes at least one username to block.,machine learning,0
+2266,verify that the playbook input includes at least one username to block.,mcafee,0
+2267,verify that the playbook input includes at least one username to block.,mcafee.advanced.threat.defence,0
+2268,verify that the playbook input includes at least one username to block.,minemeld,0
+2269,verify that the playbook input includes at least one username to block.,na,1
+2270,verify that the playbook input includes at least one username to block.,paloAlto.network,0
+2271,verify that the playbook input includes at least one username to block.,sandbox.joe.security,0
+2272,verify that the playbook input includes at least one username to block.,sandbox.mcafee.advanced.threat.defence,0
+2273,verify that the playbook input includes at least one username to block.,source.user,0
+2274,verify that the playbook input includes at least one username to block.,source.user.email,0
+2275,verify that the playbook input includes at least one username to block.,username,0
+2276,verify that the playbook input includes at least one username to block.,war,0
+2277,verify the manager id (dn) of the source user account was returned in context.,active,0
+2278,verify the manager id (dn) of the source user account was returned in context.,available,0
+2279,verify the manager id (dn) of the source user account was returned in context.,bitdam,0
+2280,verify the manager id (dn) of the source user account was returned in context.,carbonblack,0
+2281,verify the manager id (dn) of the source user account was returned in context.,checkpoint,0
+2282,verify the manager id (dn) of the source user account was returned in context.,crowdstrike.falcon,0
+2283,verify the manager id (dn) of the source user account was returned in context.,csirt.slack,0
+2284,verify the manager id (dn) of the source user account was returned in context.,email,0
+2285,verify the manager id (dn) of the source user account was returned in context.,empty,0
+2286,verify the manager id (dn) of the source user account was returned in context.,fireEye,0
+2287,verify the manager id (dn) of the source user account was returned in context.,joe.security,0
+2288,verify the manager id (dn) of the source user account was returned in context.,machine learning,0
+2289,verify the manager id (dn) of the source user account was returned in context.,mcafee,0
+2290,verify the manager id (dn) of the source user account was returned in context.,mcafee.advanced.threat.defence,0
+2291,verify the manager id (dn) of the source user account was returned in context.,minemeld,0
+2292,verify the manager id (dn) of the source user account was returned in context.,na,0
+2293,verify the manager id (dn) of the source user account was returned in context.,paloAlto.network,0
+2294,verify the manager id (dn) of the source user account was returned in context.,sandbox.joe.security,0
+2295,verify the manager id (dn) of the source user account was returned in context.,sandbox.mcafee.advanced.threat.defence,0
+2296,verify the manager id (dn) of the source user account was returned in context.,source.user,1
+2297,verify the manager id (dn) of the source user account was returned in context.,source.user.email,0
+2298,verify the manager id (dn) of the source user account was returned in context.,username,0
+2299,verify the manager id (dn) of the source user account was returned in context.,war,0
+2300,verify the playbook input includes at least one cve id to enrich.,active,0
+2301,verify the playbook input includes at least one cve id to enrich.,available,0
+2302,verify the playbook input includes at least one cve id to enrich.,bitdam,0
+2303,verify the playbook input includes at least one cve id to enrich.,carbonblack,0
+2304,verify the playbook input includes at least one cve id to enrich.,checkpoint,0
+2305,verify the playbook input includes at least one cve id to enrich.,crowdstrike.falcon,0
+2306,verify the playbook input includes at least one cve id to enrich.,csirt.slack,0
+2307,verify the playbook input includes at least one cve id to enrich.,email,0
+2308,verify the playbook input includes at least one cve id to enrich.,empty,0
+2309,verify the playbook input includes at least one cve id to enrich.,fireEye,0
+2310,verify the playbook input includes at least one cve id to enrich.,joe.security,0
+2311,verify the playbook input includes at least one cve id to enrich.,machine learning,0
+2312,verify the playbook input includes at least one cve id to enrich.,mcafee,0
+2313,verify the playbook input includes at least one cve id to enrich.,mcafee.advanced.threat.defence,0
+2314,verify the playbook input includes at least one cve id to enrich.,minemeld,0
+2315,verify the playbook input includes at least one cve id to enrich.,na,1
+2316,verify the playbook input includes at least one cve id to enrich.,paloAlto.network,0
+2317,verify the playbook input includes at least one cve id to enrich.,sandbox.joe.security,0
+2318,verify the playbook input includes at least one cve id to enrich.,sandbox.mcafee.advanced.threat.defence,0
+2319,verify the playbook input includes at least one cve id to enrich.,source.user,0
+2320,verify the playbook input includes at least one cve id to enrich.,source.user.email,0
+2321,verify the playbook input includes at least one cve id to enrich.,username,0
+2322,verify the playbook input includes at least one cve id to enrich.,war,0
+2323,verify the source user account has an associated email address.,active,0
+2324,verify the source user account has an associated email address.,available,0
+2325,verify the source user account has an associated email address.,bitdam,0
+2326,verify the source user account has an associated email address.,carbonblack,0
+2327,verify the source user account has an associated email address.,checkpoint,0
+2328,verify the source user account has an associated email address.,crowdstrike.falcon,0
+2329,verify the source user account has an associated email address.,csirt.slack,0
+2330,verify the source user account has an associated email address.,email,1
+2331,verify the source user account has an associated email address.,empty,0
+2332,verify the source user account has an associated email address.,fireEye,0
+2333,verify the source user account has an associated email address.,joe.security,0
+2334,verify the source user account has an associated email address.,machine learning,0
+2335,verify the source user account has an associated email address.,mcafee,0
+2336,verify the source user account has an associated email address.,mcafee.advanced.threat.defence,0
+2337,verify the source user account has an associated email address.,minemeld,0
+2338,verify the source user account has an associated email address.,na,0
+2339,verify the source user account has an associated email address.,paloAlto.network,0
+2340,verify the source user account has an associated email address.,sandbox.joe.security,0
+2341,verify the source user account has an associated email address.,sandbox.mcafee.advanced.threat.defence,0
+2342,verify the source user account has an associated email address.,source.user,0
+2343,verify the source user account has an associated email address.,source.user.email,0
+2344,verify the source user account has an associated email address.,username,0
+2345,verify the source user account has an associated email address.,war,0
+2346,will return 'no' for empty arrays,active,0
+2347,will return 'no' for empty arrays,available,0
+2348,will return 'no' for empty arrays,bitdam,0
+2349,will return 'no' for empty arrays,carbonblack,0
+2350,will return 'no' for empty arrays,checkpoint,0
+2351,will return 'no' for empty arrays,crowdstrike.falcon,0
+2352,will return 'no' for empty arrays,csirt.slack,0
+2353,will return 'no' for empty arrays,email,0
+2354,will return 'no' for empty arrays,empty,1
+2355,will return 'no' for empty arrays,fireEye,0
+2356,will return 'no' for empty arrays,joe.security,0
+2357,will return 'no' for empty arrays,machine learning,0
+2358,will return 'no' for empty arrays,mcafee,0
+2359,will return 'no' for empty arrays,mcafee.advanced.threat.defence,0
+2360,will return 'no' for empty arrays,minemeld,0
+2361,will return 'no' for empty arrays,na,0
+2362,will return 'no' for empty arrays,paloAlto.network,0
+2363,will return 'no' for empty arrays,sandbox.joe.security,0
+2364,will return 'no' for empty arrays,sandbox.mcafee.advanced.threat.defence,0
+2365,will return 'no' for empty arrays,source.user,0
+2366,will return 'no' for empty arrays,source.user.email,0
+2367,will return 'no' for empty arrays,username,0
+2368,will return 'no' for empty arrays,war,0

@@ -1,0 +1,3091 @@
+,0,1,2
+0, isolate the host using carbon black response,accounts,0
+1, isolate the host using carbon black response,active,0
+2, isolate the host using carbon black response,ad.account,0
+3, isolate the host using carbon black response,case.event,0
+4, isolate the host using carbon black response,crowdstrike,0
+5, isolate the host using carbon black response,cve,0
+6, isolate the host using carbon black response,email,0
+7, isolate the host using carbon black response,external,0
+8, isolate the host using carbon black response,file,0
+9, isolate the host using carbon black response,generic.polling,0
+10, isolate the host using carbon black response,hardware,0
+11, isolate the host using carbon black response,host,0
+12, isolate the host using carbon black response,id.dn,0
+13, isolate the host using carbon black response,incident,0
+14, isolate the host using carbon black response,logs,0
+15, isolate the host using carbon black response,malicious,0
+16, isolate the host using carbon black response,md5,0
+17, isolate the host using carbon black response,na,1
+18, isolate the host using carbon black response,no,0
+19, isolate the host using carbon black response,pdf,0
+20, isolate the host using carbon black response,phishe,0
+21, isolate the host using carbon black response,playbook,0
+22, isolate the host using carbon black response,priviledge,0
+23, isolate the host using carbon black response,qualys,0
+24, isolate the host using carbon black response,relevant,0
+25, isolate the host using carbon black response,sms,0
+26, isolate the host using carbon black response,source.user,0
+27, isolate the host using carbon black response,status,0
+28, isolate the host using carbon black response,user,0
+29, isolate the host using carbon black response,user.account,0
+30,add indictor to the minemeld miner.,accounts,0
+31,add indictor to the minemeld miner.,active,0
+32,add indictor to the minemeld miner.,ad.account,0
+33,add indictor to the minemeld miner.,case.event,0
+34,add indictor to the minemeld miner.,crowdstrike,0
+35,add indictor to the minemeld miner.,cve,0
+36,add indictor to the minemeld miner.,email,0
+37,add indictor to the minemeld miner.,external,0
+38,add indictor to the minemeld miner.,file,0
+39,add indictor to the minemeld miner.,generic.polling,0
+40,add indictor to the minemeld miner.,hardware,0
+41,add indictor to the minemeld miner.,host,0
+42,add indictor to the minemeld miner.,id.dn,0
+43,add indictor to the minemeld miner.,incident,0
+44,add indictor to the minemeld miner.,logs,0
+45,add indictor to the minemeld miner.,malicious,0
+46,add indictor to the minemeld miner.,md5,0
+47,add indictor to the minemeld miner.,na,1
+48,add indictor to the minemeld miner.,no,0
+49,add indictor to the minemeld miner.,pdf,0
+50,add indictor to the minemeld miner.,phishe,0
+51,add indictor to the minemeld miner.,playbook,0
+52,add indictor to the minemeld miner.,priviledge,0
+53,add indictor to the minemeld miner.,qualys,0
+54,add indictor to the minemeld miner.,relevant,0
+55,add indictor to the minemeld miner.,sms,0
+56,add indictor to the minemeld miner.,source.user,0
+57,add indictor to the minemeld miner.,status,0
+58,add indictor to the minemeld miner.,user,0
+59,add indictor to the minemeld miner.,user.account,0
+60,add the relevant endpoint to the system,accounts,0
+61,add the relevant endpoint to the system,active,0
+62,add the relevant endpoint to the system,ad.account,0
+63,add the relevant endpoint to the system,case.event,0
+64,add the relevant endpoint to the system,crowdstrike,0
+65,add the relevant endpoint to the system,cve,0
+66,add the relevant endpoint to the system,email,0
+67,add the relevant endpoint to the system,external,0
+68,add the relevant endpoint to the system,file,0
+69,add the relevant endpoint to the system,generic.polling,0
+70,add the relevant endpoint to the system,hardware,0
+71,add the relevant endpoint to the system,host,0
+72,add the relevant endpoint to the system,id.dn,0
+73,add the relevant endpoint to the system,incident,0
+74,add the relevant endpoint to the system,logs,0
+75,add the relevant endpoint to the system,malicious,0
+76,add the relevant endpoint to the system,md5,0
+77,add the relevant endpoint to the system,na,0
+78,add the relevant endpoint to the system,no,0
+79,add the relevant endpoint to the system,pdf,0
+80,add the relevant endpoint to the system,phishe,0
+81,add the relevant endpoint to the system,playbook,0
+82,add the relevant endpoint to the system,priviledge,0
+83,add the relevant endpoint to the system,qualys,0
+84,add the relevant endpoint to the system,relevant,1
+85,add the relevant endpoint to the system,sms,0
+86,add the relevant endpoint to the system,source.user,0
+87,add the relevant endpoint to the system,status,0
+88,add the relevant endpoint to the system,user,0
+89,add the relevant endpoint to the system,user.account,0
+90,adds the md5 hash to the blacklist in carbon black,accounts,0
+91,adds the md5 hash to the blacklist in carbon black,active,0
+92,adds the md5 hash to the blacklist in carbon black,ad.account,0
+93,adds the md5 hash to the blacklist in carbon black,case.event,0
+94,adds the md5 hash to the blacklist in carbon black,crowdstrike,0
+95,adds the md5 hash to the blacklist in carbon black,cve,0
+96,adds the md5 hash to the blacklist in carbon black,email,0
+97,adds the md5 hash to the blacklist in carbon black,external,0
+98,adds the md5 hash to the blacklist in carbon black,file,0
+99,adds the md5 hash to the blacklist in carbon black,generic.polling,0
+100,adds the md5 hash to the blacklist in carbon black,hardware,0
+101,adds the md5 hash to the blacklist in carbon black,host,0
+102,adds the md5 hash to the blacklist in carbon black,id.dn,0
+103,adds the md5 hash to the blacklist in carbon black,incident,0
+104,adds the md5 hash to the blacklist in carbon black,logs,0
+105,adds the md5 hash to the blacklist in carbon black,malicious,0
+106,adds the md5 hash to the blacklist in carbon black,md5,1
+107,adds the md5 hash to the blacklist in carbon black,na,0
+108,adds the md5 hash to the blacklist in carbon black,no,0
+109,adds the md5 hash to the blacklist in carbon black,pdf,0
+110,adds the md5 hash to the blacklist in carbon black,phishe,0
+111,adds the md5 hash to the blacklist in carbon black,playbook,0
+112,adds the md5 hash to the blacklist in carbon black,priviledge,0
+113,adds the md5 hash to the blacklist in carbon black,qualys,0
+114,adds the md5 hash to the blacklist in carbon black,relevant,0
+115,adds the md5 hash to the blacklist in carbon black,sms,0
+116,adds the md5 hash to the blacklist in carbon black,source.user,0
+117,adds the md5 hash to the blacklist in carbon black,status,0
+118,adds the md5 hash to the blacklist in carbon black,user,0
+119,adds the md5 hash to the blacklist in carbon black,user.account,0
+120,"assign the incident severity level  to ""critical"".",accounts,0
+121,"assign the incident severity level  to ""critical"".",active,0
+122,"assign the incident severity level  to ""critical"".",ad.account,0
+123,"assign the incident severity level  to ""critical"".",case.event,0
+124,"assign the incident severity level  to ""critical"".",crowdstrike,0
+125,"assign the incident severity level  to ""critical"".",cve,0
+126,"assign the incident severity level  to ""critical"".",email,0
+127,"assign the incident severity level  to ""critical"".",external,0
+128,"assign the incident severity level  to ""critical"".",file,0
+129,"assign the incident severity level  to ""critical"".",generic.polling,0
+130,"assign the incident severity level  to ""critical"".",hardware,0
+131,"assign the incident severity level  to ""critical"".",host,0
+132,"assign the incident severity level  to ""critical"".",id.dn,0
+133,"assign the incident severity level  to ""critical"".",incident,1
+134,"assign the incident severity level  to ""critical"".",logs,0
+135,"assign the incident severity level  to ""critical"".",malicious,0
+136,"assign the incident severity level  to ""critical"".",md5,0
+137,"assign the incident severity level  to ""critical"".",na,0
+138,"assign the incident severity level  to ""critical"".",no,0
+139,"assign the incident severity level  to ""critical"".",pdf,0
+140,"assign the incident severity level  to ""critical"".",phishe,0
+141,"assign the incident severity level  to ""critical"".",playbook,0
+142,"assign the incident severity level  to ""critical"".",priviledge,0
+143,"assign the incident severity level  to ""critical"".",qualys,0
+144,"assign the incident severity level  to ""critical"".",relevant,0
+145,"assign the incident severity level  to ""critical"".",sms,0
+146,"assign the incident severity level  to ""critical"".",source.user,0
+147,"assign the incident severity level  to ""critical"".",status,0
+148,"assign the incident severity level  to ""critical"".",user,0
+149,"assign the incident severity level  to ""critical"".",user.account,0
+150,"assign the incident severity level  to ""high"".",accounts,0
+151,"assign the incident severity level  to ""high"".",active,0
+152,"assign the incident severity level  to ""high"".",ad.account,0
+153,"assign the incident severity level  to ""high"".",case.event,0
+154,"assign the incident severity level  to ""high"".",crowdstrike,0
+155,"assign the incident severity level  to ""high"".",cve,0
+156,"assign the incident severity level  to ""high"".",email,0
+157,"assign the incident severity level  to ""high"".",external,0
+158,"assign the incident severity level  to ""high"".",file,0
+159,"assign the incident severity level  to ""high"".",generic.polling,0
+160,"assign the incident severity level  to ""high"".",hardware,0
+161,"assign the incident severity level  to ""high"".",host,0
+162,"assign the incident severity level  to ""high"".",id.dn,0
+163,"assign the incident severity level  to ""high"".",incident,1
+164,"assign the incident severity level  to ""high"".",logs,0
+165,"assign the incident severity level  to ""high"".",malicious,0
+166,"assign the incident severity level  to ""high"".",md5,0
+167,"assign the incident severity level  to ""high"".",na,0
+168,"assign the incident severity level  to ""high"".",no,0
+169,"assign the incident severity level  to ""high"".",pdf,0
+170,"assign the incident severity level  to ""high"".",phishe,0
+171,"assign the incident severity level  to ""high"".",playbook,0
+172,"assign the incident severity level  to ""high"".",priviledge,0
+173,"assign the incident severity level  to ""high"".",qualys,0
+174,"assign the incident severity level  to ""high"".",relevant,0
+175,"assign the incident severity level  to ""high"".",sms,0
+176,"assign the incident severity level  to ""high"".",source.user,0
+177,"assign the incident severity level  to ""high"".",status,0
+178,"assign the incident severity level  to ""high"".",user,0
+179,"assign the incident severity level  to ""high"".",user.account,0
+180,"assign the incident severity level  to ""low"".",accounts,0
+181,"assign the incident severity level  to ""low"".",active,0
+182,"assign the incident severity level  to ""low"".",ad.account,0
+183,"assign the incident severity level  to ""low"".",case.event,0
+184,"assign the incident severity level  to ""low"".",crowdstrike,0
+185,"assign the incident severity level  to ""low"".",cve,0
+186,"assign the incident severity level  to ""low"".",email,0
+187,"assign the incident severity level  to ""low"".",external,0
+188,"assign the incident severity level  to ""low"".",file,0
+189,"assign the incident severity level  to ""low"".",generic.polling,0
+190,"assign the incident severity level  to ""low"".",hardware,0
+191,"assign the incident severity level  to ""low"".",host,0
+192,"assign the incident severity level  to ""low"".",id.dn,0
+193,"assign the incident severity level  to ""low"".",incident,1
+194,"assign the incident severity level  to ""low"".",logs,0
+195,"assign the incident severity level  to ""low"".",malicious,0
+196,"assign the incident severity level  to ""low"".",md5,0
+197,"assign the incident severity level  to ""low"".",na,0
+198,"assign the incident severity level  to ""low"".",no,0
+199,"assign the incident severity level  to ""low"".",pdf,0
+200,"assign the incident severity level  to ""low"".",phishe,0
+201,"assign the incident severity level  to ""low"".",playbook,0
+202,"assign the incident severity level  to ""low"".",priviledge,0
+203,"assign the incident severity level  to ""low"".",qualys,0
+204,"assign the incident severity level  to ""low"".",relevant,0
+205,"assign the incident severity level  to ""low"".",sms,0
+206,"assign the incident severity level  to ""low"".",source.user,0
+207,"assign the incident severity level  to ""low"".",status,0
+208,"assign the incident severity level  to ""low"".",user,0
+209,"assign the incident severity level  to ""low"".",user.account,0
+210,"assign the incident severity level  to ""medium"".",accounts,0
+211,"assign the incident severity level  to ""medium"".",active,0
+212,"assign the incident severity level  to ""medium"".",ad.account,0
+213,"assign the incident severity level  to ""medium"".",case.event,0
+214,"assign the incident severity level  to ""medium"".",crowdstrike,0
+215,"assign the incident severity level  to ""medium"".",cve,0
+216,"assign the incident severity level  to ""medium"".",email,0
+217,"assign the incident severity level  to ""medium"".",external,0
+218,"assign the incident severity level  to ""medium"".",file,0
+219,"assign the incident severity level  to ""medium"".",generic.polling,0
+220,"assign the incident severity level  to ""medium"".",hardware,0
+221,"assign the incident severity level  to ""medium"".",host,0
+222,"assign the incident severity level  to ""medium"".",id.dn,0
+223,"assign the incident severity level  to ""medium"".",incident,1
+224,"assign the incident severity level  to ""medium"".",logs,0
+225,"assign the incident severity level  to ""medium"".",malicious,0
+226,"assign the incident severity level  to ""medium"".",md5,0
+227,"assign the incident severity level  to ""medium"".",na,0
+228,"assign the incident severity level  to ""medium"".",no,0
+229,"assign the incident severity level  to ""medium"".",pdf,0
+230,"assign the incident severity level  to ""medium"".",phishe,0
+231,"assign the incident severity level  to ""medium"".",playbook,0
+232,"assign the incident severity level  to ""medium"".",priviledge,0
+233,"assign the incident severity level  to ""medium"".",qualys,0
+234,"assign the incident severity level  to ""medium"".",relevant,0
+235,"assign the incident severity level  to ""medium"".",sms,0
+236,"assign the incident severity level  to ""medium"".",source.user,0
+237,"assign the incident severity level  to ""medium"".",status,0
+238,"assign the incident severity level  to ""medium"".",user,0
+239,"assign the incident severity level  to ""medium"".",user.account,0
+240,assign the incident to an analyst based on the analyst‚Äôs organizational role.,accounts,0
+241,assign the incident to an analyst based on the analyst‚Äôs organizational role.,active,0
+242,assign the incident to an analyst based on the analyst‚Äôs organizational role.,ad.account,0
+243,assign the incident to an analyst based on the analyst‚Äôs organizational role.,case.event,0
+244,assign the incident to an analyst based on the analyst‚Äôs organizational role.,crowdstrike,0
+245,assign the incident to an analyst based on the analyst‚Äôs organizational role.,cve,0
+246,assign the incident to an analyst based on the analyst‚Äôs organizational role.,email,0
+247,assign the incident to an analyst based on the analyst‚Äôs organizational role.,external,0
+248,assign the incident to an analyst based on the analyst‚Äôs organizational role.,file,0
+249,assign the incident to an analyst based on the analyst‚Äôs organizational role.,generic.polling,0
+250,assign the incident to an analyst based on the analyst‚Äôs organizational role.,hardware,0
+251,assign the incident to an analyst based on the analyst‚Äôs organizational role.,host,0
+252,assign the incident to an analyst based on the analyst‚Äôs organizational role.,id.dn,0
+253,assign the incident to an analyst based on the analyst‚Äôs organizational role.,incident,0
+254,assign the incident to an analyst based on the analyst‚Äôs organizational role.,logs,0
+255,assign the incident to an analyst based on the analyst‚Äôs organizational role.,malicious,0
+256,assign the incident to an analyst based on the analyst‚Äôs organizational role.,md5,0
+257,assign the incident to an analyst based on the analyst‚Äôs organizational role.,na,1
+258,assign the incident to an analyst based on the analyst‚Äôs organizational role.,no,0
+259,assign the incident to an analyst based on the analyst‚Äôs organizational role.,pdf,0
+260,assign the incident to an analyst based on the analyst‚Äôs organizational role.,phishe,0
+261,assign the incident to an analyst based on the analyst‚Äôs organizational role.,playbook,0
+262,assign the incident to an analyst based on the analyst‚Äôs organizational role.,priviledge,0
+263,assign the incident to an analyst based on the analyst‚Äôs organizational role.,qualys,0
+264,assign the incident to an analyst based on the analyst‚Äôs organizational role.,relevant,0
+265,assign the incident to an analyst based on the analyst‚Äôs organizational role.,sms,0
+266,assign the incident to an analyst based on the analyst‚Äôs organizational role.,source.user,0
+267,assign the incident to an analyst based on the analyst‚Äôs organizational role.,status,0
+268,assign the incident to an analyst based on the analyst‚Äôs organizational role.,user,0
+269,assign the incident to an analyst based on the analyst‚Äôs organizational role.,user.account,0
+270,auto-close this incident,accounts,0
+271,auto-close this incident,active,0
+272,auto-close this incident,ad.account,0
+273,auto-close this incident,case.event,0
+274,auto-close this incident,crowdstrike,0
+275,auto-close this incident,cve,0
+276,auto-close this incident,email,0
+277,auto-close this incident,external,0
+278,auto-close this incident,file,0
+279,auto-close this incident,generic.polling,0
+280,auto-close this incident,hardware,0
+281,auto-close this incident,host,0
+282,auto-close this incident,id.dn,0
+283,auto-close this incident,incident,0
+284,auto-close this incident,logs,0
+285,auto-close this incident,malicious,0
+286,auto-close this incident,md5,0
+287,auto-close this incident,na,1
+288,auto-close this incident,no,0
+289,auto-close this incident,pdf,0
+290,auto-close this incident,phishe,0
+291,auto-close this incident,playbook,0
+292,auto-close this incident,priviledge,0
+293,auto-close this incident,qualys,0
+294,auto-close this incident,relevant,0
+295,auto-close this incident,sms,0
+296,auto-close this incident,source.user,0
+297,auto-close this incident,status,0
+298,auto-close this incident,user,0
+299,auto-close this incident,user.account,0
+300,block the external ips in the firewall,accounts,0
+301,block the external ips in the firewall,active,0
+302,block the external ips in the firewall,ad.account,0
+303,block the external ips in the firewall,case.event,0
+304,block the external ips in the firewall,crowdstrike,0
+305,block the external ips in the firewall,cve,0
+306,block the external ips in the firewall,email,0
+307,block the external ips in the firewall,external,1
+308,block the external ips in the firewall,file,0
+309,block the external ips in the firewall,generic.polling,0
+310,block the external ips in the firewall,hardware,0
+311,block the external ips in the firewall,host,0
+312,block the external ips in the firewall,id.dn,0
+313,block the external ips in the firewall,incident,0
+314,block the external ips in the firewall,logs,0
+315,block the external ips in the firewall,malicious,0
+316,block the external ips in the firewall,md5,0
+317,block the external ips in the firewall,na,0
+318,block the external ips in the firewall,no,0
+319,block the external ips in the firewall,pdf,0
+320,block the external ips in the firewall,phishe,0
+321,block the external ips in the firewall,playbook,0
+322,block the external ips in the firewall,priviledge,0
+323,block the external ips in the firewall,qualys,0
+324,block the external ips in the firewall,relevant,0
+325,block the external ips in the firewall,sms,0
+326,block the external ips in the firewall,source.user,0
+327,block the external ips in the firewall,status,0
+328,block the external ips in the firewall,user,0
+329,block the external ips in the firewall,user.account,0
+330,block the external ips in the proxy,accounts,0
+331,block the external ips in the proxy,active,0
+332,block the external ips in the proxy,ad.account,0
+333,block the external ips in the proxy,case.event,0
+334,block the external ips in the proxy,crowdstrike,0
+335,block the external ips in the proxy,cve,0
+336,block the external ips in the proxy,email,0
+337,block the external ips in the proxy,external,1
+338,block the external ips in the proxy,file,0
+339,block the external ips in the proxy,generic.polling,0
+340,block the external ips in the proxy,hardware,0
+341,block the external ips in the proxy,host,0
+342,block the external ips in the proxy,id.dn,0
+343,block the external ips in the proxy,incident,0
+344,block the external ips in the proxy,logs,0
+345,block the external ips in the proxy,malicious,0
+346,block the external ips in the proxy,md5,0
+347,block the external ips in the proxy,na,0
+348,block the external ips in the proxy,no,0
+349,block the external ips in the proxy,pdf,0
+350,block the external ips in the proxy,phishe,0
+351,block the external ips in the proxy,playbook,0
+352,block the external ips in the proxy,priviledge,0
+353,block the external ips in the proxy,qualys,0
+354,block the external ips in the proxy,relevant,0
+355,block the external ips in the proxy,sms,0
+356,block the external ips in the proxy,source.user,0
+357,block the external ips in the proxy,status,0
+358,block the external ips in the proxy,user,0
+359,block the external ips in the proxy,user.account,0
+360,block the ips using check point firewall.,accounts,0
+361,block the ips using check point firewall.,active,0
+362,block the ips using check point firewall.,ad.account,0
+363,block the ips using check point firewall.,case.event,0
+364,block the ips using check point firewall.,crowdstrike,0
+365,block the ips using check point firewall.,cve,0
+366,block the ips using check point firewall.,email,0
+367,block the ips using check point firewall.,external,0
+368,block the ips using check point firewall.,file,0
+369,block the ips using check point firewall.,generic.polling,0
+370,block the ips using check point firewall.,hardware,0
+371,block the ips using check point firewall.,host,0
+372,block the ips using check point firewall.,id.dn,0
+373,block the ips using check point firewall.,incident,0
+374,block the ips using check point firewall.,logs,0
+375,block the ips using check point firewall.,malicious,0
+376,block the ips using check point firewall.,md5,0
+377,block the ips using check point firewall.,na,1
+378,block the ips using check point firewall.,no,0
+379,block the ips using check point firewall.,pdf,0
+380,block the ips using check point firewall.,phishe,0
+381,block the ips using check point firewall.,playbook,0
+382,block the ips using check point firewall.,priviledge,0
+383,block the ips using check point firewall.,qualys,0
+384,block the ips using check point firewall.,relevant,0
+385,block the ips using check point firewall.,sms,0
+386,block the ips using check point firewall.,source.user,0
+387,block the ips using check point firewall.,status,0
+388,block the ips using check point firewall.,user,0
+389,block the ips using check point firewall.,user.account,0
+390,block the ips using palo alto networks panorama.,accounts,0
+391,block the ips using palo alto networks panorama.,active,0
+392,block the ips using palo alto networks panorama.,ad.account,0
+393,block the ips using palo alto networks panorama.,case.event,0
+394,block the ips using palo alto networks panorama.,crowdstrike,0
+395,block the ips using palo alto networks panorama.,cve,0
+396,block the ips using palo alto networks panorama.,email,0
+397,block the ips using palo alto networks panorama.,external,0
+398,block the ips using palo alto networks panorama.,file,0
+399,block the ips using palo alto networks panorama.,generic.polling,0
+400,block the ips using palo alto networks panorama.,hardware,0
+401,block the ips using palo alto networks panorama.,host,0
+402,block the ips using palo alto networks panorama.,id.dn,0
+403,block the ips using palo alto networks panorama.,incident,0
+404,block the ips using palo alto networks panorama.,logs,0
+405,block the ips using palo alto networks panorama.,malicious,0
+406,block the ips using palo alto networks panorama.,md5,0
+407,block the ips using palo alto networks panorama.,na,1
+408,block the ips using palo alto networks panorama.,no,0
+409,block the ips using palo alto networks panorama.,pdf,0
+410,block the ips using palo alto networks panorama.,phishe,0
+411,block the ips using palo alto networks panorama.,playbook,0
+412,block the ips using palo alto networks panorama.,priviledge,0
+413,block the ips using palo alto networks panorama.,qualys,0
+414,block the ips using palo alto networks panorama.,relevant,0
+415,block the ips using palo alto networks panorama.,sms,0
+416,block the ips using palo alto networks panorama.,source.user,0
+417,block the ips using palo alto networks panorama.,status,0
+418,block the ips using palo alto networks panorama.,user,0
+419,block the ips using palo alto networks panorama.,user.account,0
+420,block the ips using zscaler.,accounts,0
+421,block the ips using zscaler.,active,0
+422,block the ips using zscaler.,ad.account,0
+423,block the ips using zscaler.,case.event,0
+424,block the ips using zscaler.,crowdstrike,0
+425,block the ips using zscaler.,cve,0
+426,block the ips using zscaler.,email,0
+427,block the ips using zscaler.,external,0
+428,block the ips using zscaler.,file,0
+429,block the ips using zscaler.,generic.polling,0
+430,block the ips using zscaler.,hardware,0
+431,block the ips using zscaler.,host,0
+432,block the ips using zscaler.,id.dn,0
+433,block the ips using zscaler.,incident,0
+434,block the ips using zscaler.,logs,0
+435,block the ips using zscaler.,malicious,0
+436,block the ips using zscaler.,md5,0
+437,block the ips using zscaler.,na,1
+438,block the ips using zscaler.,no,0
+439,block the ips using zscaler.,pdf,0
+440,block the ips using zscaler.,phishe,0
+441,block the ips using zscaler.,playbook,0
+442,block the ips using zscaler.,priviledge,0
+443,block the ips using zscaler.,qualys,0
+444,block the ips using zscaler.,relevant,0
+445,block the ips using zscaler.,sms,0
+446,block the ips using zscaler.,source.user,0
+447,block the ips using zscaler.,status,0
+448,block the ips using zscaler.,user,0
+449,block the ips using zscaler.,user.account,0
+450,block the urls using zscaler.,accounts,0
+451,block the urls using zscaler.,active,0
+452,block the urls using zscaler.,ad.account,0
+453,block the urls using zscaler.,case.event,0
+454,block the urls using zscaler.,crowdstrike,0
+455,block the urls using zscaler.,cve,0
+456,block the urls using zscaler.,email,0
+457,block the urls using zscaler.,external,0
+458,block the urls using zscaler.,file,0
+459,block the urls using zscaler.,generic.polling,0
+460,block the urls using zscaler.,hardware,0
+461,block the urls using zscaler.,host,0
+462,block the urls using zscaler.,id.dn,0
+463,block the urls using zscaler.,incident,0
+464,block the urls using zscaler.,logs,0
+465,block the urls using zscaler.,malicious,0
+466,block the urls using zscaler.,md5,0
+467,block the urls using zscaler.,na,1
+468,block the urls using zscaler.,no,0
+469,block the urls using zscaler.,pdf,0
+470,block the urls using zscaler.,phishe,0
+471,block the urls using zscaler.,playbook,0
+472,block the urls using zscaler.,priviledge,0
+473,block the urls using zscaler.,qualys,0
+474,block the urls using zscaler.,relevant,0
+475,block the urls using zscaler.,sms,0
+476,block the urls using zscaler.,source.user,0
+477,block the urls using zscaler.,status,0
+478,block the urls using zscaler.,user,0
+479,block the urls using zscaler.,user.account,0
+480,change the properties of an incident,accounts,0
+481,change the properties of an incident,active,0
+482,change the properties of an incident,ad.account,0
+483,change the properties of an incident,case.event,0
+484,change the properties of an incident,crowdstrike,0
+485,change the properties of an incident,cve,0
+486,change the properties of an incident,email,0
+487,change the properties of an incident,external,0
+488,change the properties of an incident,file,0
+489,change the properties of an incident,generic.polling,0
+490,change the properties of an incident,hardware,0
+491,change the properties of an incident,host,0
+492,change the properties of an incident,id.dn,0
+493,change the properties of an incident,incident,0
+494,change the properties of an incident,logs,0
+495,change the properties of an incident,malicious,0
+496,change the properties of an incident,md5,0
+497,change the properties of an incident,na,1
+498,change the properties of an incident,no,0
+499,change the properties of an incident,pdf,0
+500,change the properties of an incident,phishe,0
+501,change the properties of an incident,playbook,0
+502,change the properties of an incident,priviledge,0
+503,change the properties of an incident,qualys,0
+504,change the properties of an incident,relevant,0
+505,change the properties of an incident,sms,0
+506,change the properties of an incident,source.user,0
+507,change the properties of an incident,status,0
+508,change the properties of an incident,user,0
+509,change the properties of an incident,user.account,0
+510,check email address,accounts,0
+511,check email address,active,0
+512,check email address,ad.account,0
+513,check email address,case.event,0
+514,check email address,crowdstrike,0
+515,check email address,cve,0
+516,check email address,email,1
+517,check email address,external,0
+518,check email address,file,0
+519,check email address,generic.polling,0
+520,check email address,hardware,0
+521,check email address,host,0
+522,check email address,id.dn,0
+523,check email address,incident,0
+524,check email address,logs,0
+525,check email address,malicious,0
+526,check email address,md5,0
+527,check email address,na,0
+528,check email address,no,0
+529,check email address,pdf,0
+530,check email address,phishe,0
+531,check email address,playbook,0
+532,check email address,priviledge,0
+533,check email address,qualys,0
+534,check email address,relevant,0
+535,check email address,sms,0
+536,check email address,source.user,0
+537,check email address,status,0
+538,check email address,user,0
+539,check email address,user.account,0
+540,check for active directory instance,accounts,1
+541,check for active directory instance,active,0
+542,check for active directory instance,ad.account,0
+543,check for active directory instance,case.event,0
+544,check for active directory instance,crowdstrike,0
+545,check for active directory instance,cve,0
+546,check for active directory instance,email,0
+547,check for active directory instance,external,0
+548,check for active directory instance,file,0
+549,check for active directory instance,generic.polling,0
+550,check for active directory instance,hardware,0
+551,check for active directory instance,host,0
+552,check for active directory instance,id.dn,0
+553,check for active directory instance,incident,0
+554,check for active directory instance,logs,0
+555,check for active directory instance,malicious,0
+556,check for active directory instance,md5,0
+557,check for active directory instance,na,0
+558,check for active directory instance,no,0
+559,check for active directory instance,pdf,0
+560,check for active directory instance,phishe,0
+561,check for active directory instance,playbook,0
+562,check for active directory instance,priviledge,0
+563,check for active directory instance,qualys,0
+564,check for active directory instance,relevant,0
+565,check for active directory instance,sms,0
+566,check for active directory instance,source.user,0
+567,check for active directory instance,status,0
+568,check for active directory instance,user,0
+569,check for active directory instance,user.account,0
+570,check operation status,accounts,0
+571,check operation status,active,0
+572,check operation status,ad.account,0
+573,check operation status,case.event,0
+574,check operation status,crowdstrike,0
+575,check operation status,cve,0
+576,check operation status,email,0
+577,check operation status,external,0
+578,check operation status,file,0
+579,check operation status,generic.polling,0
+580,check operation status,hardware,0
+581,check operation status,host,0
+582,check operation status,id.dn,0
+583,check operation status,incident,0
+584,check operation status,logs,0
+585,check operation status,malicious,0
+586,check operation status,md5,0
+587,check operation status,na,0
+588,check operation status,no,0
+589,check operation status,pdf,0
+590,check operation status,phishe,0
+591,check operation status,playbook,0
+592,check operation status,priviledge,0
+593,check operation status,qualys,0
+594,check operation status,relevant,0
+595,check operation status,sms,0
+596,check operation status,source.user,0
+597,check operation status,status,1
+598,check operation status,user,0
+599,check operation status,user.account,0
+600,check username to query,accounts,0
+601,check username to query,active,0
+602,check username to query,ad.account,0
+603,check username to query,case.event,0
+604,check username to query,crowdstrike,0
+605,check username to query,cve,0
+606,check username to query,email,0
+607,check username to query,external,0
+608,check username to query,file,0
+609,check username to query,generic.polling,0
+610,check username to query,hardware,0
+611,check username to query,host,0
+612,check username to query,id.dn,0
+613,check username to query,incident,0
+614,check username to query,logs,0
+615,check username to query,malicious,0
+616,check username to query,md5,0
+617,check username to query,na,1
+618,check username to query,no,0
+619,check username to query,pdf,0
+620,check username to query,phishe,0
+621,check username to query,playbook,0
+622,check username to query,priviledge,0
+623,check username to query,qualys,0
+624,check username to query,relevant,0
+625,check username to query,sms,0
+626,check username to query,source.user,0
+627,check username to query,status,0
+628,check username to query,user,0
+629,check username to query,user.account,0
+630,classify incident with qradar,accounts,0
+631,classify incident with qradar,active,0
+632,classify incident with qradar,ad.account,0
+633,classify incident with qradar,case.event,0
+634,classify incident with qradar,crowdstrike,0
+635,classify incident with qradar,cve,0
+636,classify incident with qradar,email,0
+637,classify incident with qradar,external,0
+638,classify incident with qradar,file,0
+639,classify incident with qradar,generic.polling,0
+640,classify incident with qradar,hardware,0
+641,classify incident with qradar,host,0
+642,classify incident with qradar,id.dn,0
+643,classify incident with qradar,incident,0
+644,classify incident with qradar,logs,0
+645,classify incident with qradar,malicious,0
+646,classify incident with qradar,md5,0
+647,classify incident with qradar,na,1
+648,classify incident with qradar,no,0
+649,classify incident with qradar,pdf,0
+650,classify incident with qradar,phishe,0
+651,classify incident with qradar,playbook,0
+652,classify incident with qradar,priviledge,0
+653,classify incident with qradar,qualys,0
+654,classify incident with qradar,relevant,0
+655,classify incident with qradar,sms,0
+656,classify incident with qradar,source.user,0
+657,classify incident with qradar,status,0
+658,classify incident with qradar,user,0
+659,classify incident with qradar,user.account,0
+660,classify incident with trendmicro,accounts,0
+661,classify incident with trendmicro,active,0
+662,classify incident with trendmicro,ad.account,0
+663,classify incident with trendmicro,case.event,0
+664,classify incident with trendmicro,crowdstrike,0
+665,classify incident with trendmicro,cve,0
+666,classify incident with trendmicro,email,0
+667,classify incident with trendmicro,external,0
+668,classify incident with trendmicro,file,0
+669,classify incident with trendmicro,generic.polling,0
+670,classify incident with trendmicro,hardware,0
+671,classify incident with trendmicro,host,0
+672,classify incident with trendmicro,id.dn,0
+673,classify incident with trendmicro,incident,0
+674,classify incident with trendmicro,logs,0
+675,classify incident with trendmicro,malicious,0
+676,classify incident with trendmicro,md5,0
+677,classify incident with trendmicro,na,1
+678,classify incident with trendmicro,no,0
+679,classify incident with trendmicro,pdf,0
+680,classify incident with trendmicro,phishe,0
+681,classify incident with trendmicro,playbook,0
+682,classify incident with trendmicro,priviledge,0
+683,classify incident with trendmicro,qualys,0
+684,classify incident with trendmicro,relevant,0
+685,classify incident with trendmicro,sms,0
+686,classify incident with trendmicro,source.user,0
+687,classify incident with trendmicro,status,0
+688,classify incident with trendmicro,user,0
+689,classify incident with trendmicro,user.account,0
+690,classify incident with vectra,accounts,0
+691,classify incident with vectra,active,0
+692,classify incident with vectra,ad.account,0
+693,classify incident with vectra,case.event,0
+694,classify incident with vectra,crowdstrike,0
+695,classify incident with vectra,cve,0
+696,classify incident with vectra,email,0
+697,classify incident with vectra,external,0
+698,classify incident with vectra,file,0
+699,classify incident with vectra,generic.polling,0
+700,classify incident with vectra,hardware,0
+701,classify incident with vectra,host,0
+702,classify incident with vectra,id.dn,0
+703,classify incident with vectra,incident,0
+704,classify incident with vectra,logs,0
+705,classify incident with vectra,malicious,0
+706,classify incident with vectra,md5,0
+707,classify incident with vectra,na,1
+708,classify incident with vectra,no,0
+709,classify incident with vectra,pdf,0
+710,classify incident with vectra,phishe,0
+711,classify incident with vectra,playbook,0
+712,classify incident with vectra,priviledge,0
+713,classify incident with vectra,qualys,0
+714,classify incident with vectra,relevant,0
+715,classify incident with vectra,sms,0
+716,classify incident with vectra,source.user,0
+717,classify incident with vectra,status,0
+718,classify incident with vectra,user,0
+719,classify incident with vectra,user.account,0
+720,close the current incident,accounts,0
+721,close the current incident,active,0
+722,close the current incident,ad.account,0
+723,close the current incident,case.event,0
+724,close the current incident,crowdstrike,0
+725,close the current incident,cve,0
+726,close the current incident,email,0
+727,close the current incident,external,0
+728,close the current incident,file,0
+729,close the current incident,generic.polling,0
+730,close the current incident,hardware,0
+731,close the current incident,host,0
+732,close the current incident,id.dn,0
+733,close the current incident,incident,0
+734,close the current incident,logs,0
+735,close the current incident,malicious,0
+736,close the current incident,md5,0
+737,close the current incident,na,1
+738,close the current incident,no,0
+739,close the current incident,pdf,0
+740,close the current incident,phishe,0
+741,close the current incident,playbook,0
+742,close the current incident,priviledge,0
+743,close the current incident,qualys,0
+744,close the current incident,relevant,0
+745,close the current incident,sms,0
+746,close the current incident,source.user,0
+747,close the current incident,status,0
+748,close the current incident,user,0
+749,close the current incident,user.account,0
+750,close the investigation.,accounts,0
+751,close the investigation.,active,0
+752,close the investigation.,ad.account,0
+753,close the investigation.,case.event,0
+754,close the investigation.,crowdstrike,0
+755,close the investigation.,cve,0
+756,close the investigation.,email,0
+757,close the investigation.,external,0
+758,close the investigation.,file,0
+759,close the investigation.,generic.polling,0
+760,close the investigation.,hardware,0
+761,close the investigation.,host,0
+762,close the investigation.,id.dn,0
+763,close the investigation.,incident,0
+764,close the investigation.,logs,0
+765,close the investigation.,malicious,0
+766,close the investigation.,md5,0
+767,close the investigation.,na,1
+768,close the investigation.,no,0
+769,close the investigation.,pdf,0
+770,close the investigation.,phishe,0
+771,close the investigation.,playbook,0
+772,close the investigation.,priviledge,0
+773,close the investigation.,qualys,0
+774,close the investigation.,relevant,0
+775,close the investigation.,sms,0
+776,close the investigation.,source.user,0
+777,close the investigation.,status,0
+778,close the investigation.,user,0
+779,close the investigation.,user.account,0
+780,"create a phishing classifier using machine learning technique, based on email content",accounts,0
+781,"create a phishing classifier using machine learning technique, based on email content",active,0
+782,"create a phishing classifier using machine learning technique, based on email content",ad.account,0
+783,"create a phishing classifier using machine learning technique, based on email content",case.event,0
+784,"create a phishing classifier using machine learning technique, based on email content",crowdstrike,0
+785,"create a phishing classifier using machine learning technique, based on email content",cve,0
+786,"create a phishing classifier using machine learning technique, based on email content",email,0
+787,"create a phishing classifier using machine learning technique, based on email content",external,0
+788,"create a phishing classifier using machine learning technique, based on email content",file,0
+789,"create a phishing classifier using machine learning technique, based on email content",generic.polling,0
+790,"create a phishing classifier using machine learning technique, based on email content",hardware,0
+791,"create a phishing classifier using machine learning technique, based on email content",host,0
+792,"create a phishing classifier using machine learning technique, based on email content",id.dn,0
+793,"create a phishing classifier using machine learning technique, based on email content",incident,0
+794,"create a phishing classifier using machine learning technique, based on email content",logs,0
+795,"create a phishing classifier using machine learning technique, based on email content",malicious,0
+796,"create a phishing classifier using machine learning technique, based on email content",md5,0
+797,"create a phishing classifier using machine learning technique, based on email content",na,0
+798,"create a phishing classifier using machine learning technique, based on email content",no,0
+799,"create a phishing classifier using machine learning technique, based on email content",pdf,0
+800,"create a phishing classifier using machine learning technique, based on email content",phishe,1
+801,"create a phishing classifier using machine learning technique, based on email content",playbook,0
+802,"create a phishing classifier using machine learning technique, based on email content",priviledge,0
+803,"create a phishing classifier using machine learning technique, based on email content",qualys,0
+804,"create a phishing classifier using machine learning technique, based on email content",relevant,0
+805,"create a phishing classifier using machine learning technique, based on email content",sms,0
+806,"create a phishing classifier using machine learning technique, based on email content",source.user,0
+807,"create a phishing classifier using machine learning technique, based on email content",status,0
+808,"create a phishing classifier using machine learning technique, based on email content",user,0
+809,"create a phishing classifier using machine learning technique, based on email content",user.account,0
+810,detonate the file in available sandboxes.,accounts,0
+811,detonate the file in available sandboxes.,active,0
+812,detonate the file in available sandboxes.,ad.account,0
+813,detonate the file in available sandboxes.,case.event,0
+814,detonate the file in available sandboxes.,crowdstrike,0
+815,detonate the file in available sandboxes.,cve,0
+816,detonate the file in available sandboxes.,email,0
+817,detonate the file in available sandboxes.,external,0
+818,detonate the file in available sandboxes.,file,0
+819,detonate the file in available sandboxes.,generic.polling,0
+820,detonate the file in available sandboxes.,hardware,0
+821,detonate the file in available sandboxes.,host,0
+822,detonate the file in available sandboxes.,id.dn,0
+823,detonate the file in available sandboxes.,incident,0
+824,detonate the file in available sandboxes.,logs,0
+825,detonate the file in available sandboxes.,malicious,0
+826,detonate the file in available sandboxes.,md5,0
+827,detonate the file in available sandboxes.,na,1
+828,detonate the file in available sandboxes.,no,0
+829,detonate the file in available sandboxes.,pdf,0
+830,detonate the file in available sandboxes.,phishe,0
+831,detonate the file in available sandboxes.,playbook,0
+832,detonate the file in available sandboxes.,priviledge,0
+833,detonate the file in available sandboxes.,qualys,0
+834,detonate the file in available sandboxes.,relevant,0
+835,detonate the file in available sandboxes.,sms,0
+836,detonate the file in available sandboxes.,source.user,0
+837,detonate the file in available sandboxes.,status,0
+838,detonate the file in available sandboxes.,user,0
+839,detonate the file in available sandboxes.,user.account,0
+840,detonate the file in crowdstrike falcon sandbox.,accounts,0
+841,detonate the file in crowdstrike falcon sandbox.,active,0
+842,detonate the file in crowdstrike falcon sandbox.,ad.account,0
+843,detonate the file in crowdstrike falcon sandbox.,case.event,0
+844,detonate the file in crowdstrike falcon sandbox.,crowdstrike,0
+845,detonate the file in crowdstrike falcon sandbox.,cve,0
+846,detonate the file in crowdstrike falcon sandbox.,email,0
+847,detonate the file in crowdstrike falcon sandbox.,external,0
+848,detonate the file in crowdstrike falcon sandbox.,file,0
+849,detonate the file in crowdstrike falcon sandbox.,generic.polling,0
+850,detonate the file in crowdstrike falcon sandbox.,hardware,0
+851,detonate the file in crowdstrike falcon sandbox.,host,0
+852,detonate the file in crowdstrike falcon sandbox.,id.dn,0
+853,detonate the file in crowdstrike falcon sandbox.,incident,0
+854,detonate the file in crowdstrike falcon sandbox.,logs,0
+855,detonate the file in crowdstrike falcon sandbox.,malicious,0
+856,detonate the file in crowdstrike falcon sandbox.,md5,0
+857,detonate the file in crowdstrike falcon sandbox.,na,1
+858,detonate the file in crowdstrike falcon sandbox.,no,0
+859,detonate the file in crowdstrike falcon sandbox.,pdf,0
+860,detonate the file in crowdstrike falcon sandbox.,phishe,0
+861,detonate the file in crowdstrike falcon sandbox.,playbook,0
+862,detonate the file in crowdstrike falcon sandbox.,priviledge,0
+863,detonate the file in crowdstrike falcon sandbox.,qualys,0
+864,detonate the file in crowdstrike falcon sandbox.,relevant,0
+865,detonate the file in crowdstrike falcon sandbox.,sms,0
+866,detonate the file in crowdstrike falcon sandbox.,source.user,0
+867,detonate the file in crowdstrike falcon sandbox.,status,0
+868,detonate the file in crowdstrike falcon sandbox.,user,0
+869,detonate the file in crowdstrike falcon sandbox.,user.account,0
+870,detonate the file in mcafee atd,accounts,0
+871,detonate the file in mcafee atd,active,0
+872,detonate the file in mcafee atd,ad.account,0
+873,detonate the file in mcafee atd,case.event,0
+874,detonate the file in mcafee atd,crowdstrike,0
+875,detonate the file in mcafee atd,cve,0
+876,detonate the file in mcafee atd,email,0
+877,detonate the file in mcafee atd,external,0
+878,detonate the file in mcafee atd,file,0
+879,detonate the file in mcafee atd,generic.polling,0
+880,detonate the file in mcafee atd,hardware,0
+881,detonate the file in mcafee atd,host,0
+882,detonate the file in mcafee atd,id.dn,0
+883,detonate the file in mcafee atd,incident,0
+884,detonate the file in mcafee atd,logs,0
+885,detonate the file in mcafee atd,malicious,0
+886,detonate the file in mcafee atd,md5,0
+887,detonate the file in mcafee atd,na,1
+888,detonate the file in mcafee atd,no,0
+889,detonate the file in mcafee atd,pdf,0
+890,detonate the file in mcafee atd,phishe,0
+891,detonate the file in mcafee atd,playbook,0
+892,detonate the file in mcafee atd,priviledge,0
+893,detonate the file in mcafee atd,qualys,0
+894,detonate the file in mcafee atd,relevant,0
+895,detonate the file in mcafee atd,sms,0
+896,detonate the file in mcafee atd,source.user,0
+897,detonate the file in mcafee atd,status,0
+898,detonate the file in mcafee atd,user,0
+899,detonate the file in mcafee atd,user.account,0
+900,detonates a file using anyrun,accounts,0
+901,detonates a file using anyrun,active,0
+902,detonates a file using anyrun,ad.account,0
+903,detonates a file using anyrun,case.event,0
+904,detonates a file using anyrun,crowdstrike,0
+905,detonates a file using anyrun,cve,0
+906,detonates a file using anyrun,email,0
+907,detonates a file using anyrun,external,0
+908,detonates a file using anyrun,file,0
+909,detonates a file using anyrun,generic.polling,0
+910,detonates a file using anyrun,hardware,0
+911,detonates a file using anyrun,host,0
+912,detonates a file using anyrun,id.dn,0
+913,detonates a file using anyrun,incident,0
+914,detonates a file using anyrun,logs,0
+915,detonates a file using anyrun,malicious,0
+916,detonates a file using anyrun,md5,0
+917,detonates a file using anyrun,na,1
+918,detonates a file using anyrun,no,0
+919,detonates a file using anyrun,pdf,0
+920,detonates a file using anyrun,phishe,0
+921,detonates a file using anyrun,playbook,0
+922,detonates a file using anyrun,priviledge,0
+923,detonates a file using anyrun,qualys,0
+924,detonates a file using anyrun,relevant,0
+925,detonates a file using anyrun,sms,0
+926,detonates a file using anyrun,source.user,0
+927,detonates a file using anyrun,status,0
+928,detonates a file using anyrun,user,0
+929,detonates a file using anyrun,user.account,0
+930,detonates a url using the mcafee advanced threat defense sandbox integration.,accounts,0
+931,detonates a url using the mcafee advanced threat defense sandbox integration.,accounts,0
+932,detonates a url using the mcafee advanced threat defense sandbox integration.,active,0
+933,detonates a url using the mcafee advanced threat defense sandbox integration.,active,0
+934,detonates a url using the mcafee advanced threat defense sandbox integration.,ad.account,0
+935,detonates a url using the mcafee advanced threat defense sandbox integration.,ad.account,0
+936,detonates a url using the mcafee advanced threat defense sandbox integration.,case.event,0
+937,detonates a url using the mcafee advanced threat defense sandbox integration.,case.event,0
+938,detonates a url using the mcafee advanced threat defense sandbox integration.,crowdstrike,0
+939,detonates a url using the mcafee advanced threat defense sandbox integration.,crowdstrike,0
+940,detonates a url using the mcafee advanced threat defense sandbox integration.,cve,0
+941,detonates a url using the mcafee advanced threat defense sandbox integration.,cve,0
+942,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+943,detonates a url using the mcafee advanced threat defense sandbox integration.,email,0
+944,detonates a url using the mcafee advanced threat defense sandbox integration.,external,0
+945,detonates a url using the mcafee advanced threat defense sandbox integration.,external,0
+946,detonates a url using the mcafee advanced threat defense sandbox integration.,file,0
+947,detonates a url using the mcafee advanced threat defense sandbox integration.,file,0
+948,detonates a url using the mcafee advanced threat defense sandbox integration.,generic.polling,0
+949,detonates a url using the mcafee advanced threat defense sandbox integration.,generic.polling,0
+950,detonates a url using the mcafee advanced threat defense sandbox integration.,hardware,0
+951,detonates a url using the mcafee advanced threat defense sandbox integration.,hardware,0
+952,detonates a url using the mcafee advanced threat defense sandbox integration.,host,0
+953,detonates a url using the mcafee advanced threat defense sandbox integration.,host,0
+954,detonates a url using the mcafee advanced threat defense sandbox integration.,id.dn,0
+955,detonates a url using the mcafee advanced threat defense sandbox integration.,id.dn,0
+956,detonates a url using the mcafee advanced threat defense sandbox integration.,incident,0
+957,detonates a url using the mcafee advanced threat defense sandbox integration.,incident,0
+958,detonates a url using the mcafee advanced threat defense sandbox integration.,logs,0
+959,detonates a url using the mcafee advanced threat defense sandbox integration.,logs,0
+960,detonates a url using the mcafee advanced threat defense sandbox integration.,malicious,0
+961,detonates a url using the mcafee advanced threat defense sandbox integration.,malicious,0
+962,detonates a url using the mcafee advanced threat defense sandbox integration.,md5,0
+963,detonates a url using the mcafee advanced threat defense sandbox integration.,md5,0
+964,detonates a url using the mcafee advanced threat defense sandbox integration.,na,1
+965,detonates a url using the mcafee advanced threat defense sandbox integration.,na,1
+966,detonates a url using the mcafee advanced threat defense sandbox integration.,no,0
+967,detonates a url using the mcafee advanced threat defense sandbox integration.,no,0
+968,detonates a url using the mcafee advanced threat defense sandbox integration.,pdf,0
+969,detonates a url using the mcafee advanced threat defense sandbox integration.,pdf,0
+970,detonates a url using the mcafee advanced threat defense sandbox integration.,phishe,0
+971,detonates a url using the mcafee advanced threat defense sandbox integration.,phishe,0
+972,detonates a url using the mcafee advanced threat defense sandbox integration.,playbook,0
+973,detonates a url using the mcafee advanced threat defense sandbox integration.,playbook,0
+974,detonates a url using the mcafee advanced threat defense sandbox integration.,priviledge,0
+975,detonates a url using the mcafee advanced threat defense sandbox integration.,priviledge,0
+976,detonates a url using the mcafee advanced threat defense sandbox integration.,qualys,0
+977,detonates a url using the mcafee advanced threat defense sandbox integration.,qualys,0
+978,detonates a url using the mcafee advanced threat defense sandbox integration.,relevant,0
+979,detonates a url using the mcafee advanced threat defense sandbox integration.,relevant,0
+980,detonates a url using the mcafee advanced threat defense sandbox integration.,sms,0
+981,detonates a url using the mcafee advanced threat defense sandbox integration.,sms,0
+982,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user,0
+983,detonates a url using the mcafee advanced threat defense sandbox integration.,source.user,0
+984,detonates a url using the mcafee advanced threat defense sandbox integration.,status,0
+985,detonates a url using the mcafee advanced threat defense sandbox integration.,status,0
+986,detonates a url using the mcafee advanced threat defense sandbox integration.,user,0
+987,detonates a url using the mcafee advanced threat defense sandbox integration.,user,0
+988,detonates a url using the mcafee advanced threat defense sandbox integration.,user.account,0
+989,detonates a url using the mcafee advanced threat defense sandbox integration.,user.account,0
+990,detonates one or more files using joe sandbox integration.,accounts,0
+991,detonates one or more files using joe sandbox integration.,active,0
+992,detonates one or more files using joe sandbox integration.,ad.account,0
+993,detonates one or more files using joe sandbox integration.,case.event,0
+994,detonates one or more files using joe sandbox integration.,crowdstrike,0
+995,detonates one or more files using joe sandbox integration.,cve,0
+996,detonates one or more files using joe sandbox integration.,email,0
+997,detonates one or more files using joe sandbox integration.,external,0
+998,detonates one or more files using joe sandbox integration.,file,0
+999,detonates one or more files using joe sandbox integration.,generic.polling,0
+1000,detonates one or more files using joe sandbox integration.,hardware,0
+1001,detonates one or more files using joe sandbox integration.,host,0
+1002,detonates one or more files using joe sandbox integration.,id.dn,0
+1003,detonates one or more files using joe sandbox integration.,incident,0
+1004,detonates one or more files using joe sandbox integration.,logs,0
+1005,detonates one or more files using joe sandbox integration.,malicious,0
+1006,detonates one or more files using joe sandbox integration.,md5,0
+1007,detonates one or more files using joe sandbox integration.,na,1
+1008,detonates one or more files using joe sandbox integration.,no,0
+1009,detonates one or more files using joe sandbox integration.,pdf,0
+1010,detonates one or more files using joe sandbox integration.,phishe,0
+1011,detonates one or more files using joe sandbox integration.,playbook,0
+1012,detonates one or more files using joe sandbox integration.,priviledge,0
+1013,detonates one or more files using joe sandbox integration.,qualys,0
+1014,detonates one or more files using joe sandbox integration.,relevant,0
+1015,detonates one or more files using joe sandbox integration.,sms,0
+1016,detonates one or more files using joe sandbox integration.,source.user,0
+1017,detonates one or more files using joe sandbox integration.,status,0
+1018,detonates one or more files using joe sandbox integration.,user,0
+1019,detonates one or more files using joe sandbox integration.,user.account,0
+1020,detonates one or more urls using the joe security sandbox integration.,accounts,0
+1021,detonates one or more urls using the joe security sandbox integration.,accounts,0
+1022,detonates one or more urls using the joe security sandbox integration.,active,0
+1023,detonates one or more urls using the joe security sandbox integration.,active,0
+1024,detonates one or more urls using the joe security sandbox integration.,ad.account,0
+1025,detonates one or more urls using the joe security sandbox integration.,ad.account,0
+1026,detonates one or more urls using the joe security sandbox integration.,case.event,0
+1027,detonates one or more urls using the joe security sandbox integration.,case.event,0
+1028,detonates one or more urls using the joe security sandbox integration.,crowdstrike,0
+1029,detonates one or more urls using the joe security sandbox integration.,crowdstrike,0
+1030,detonates one or more urls using the joe security sandbox integration.,cve,0
+1031,detonates one or more urls using the joe security sandbox integration.,cve,0
+1032,detonates one or more urls using the joe security sandbox integration.,email,0
+1033,detonates one or more urls using the joe security sandbox integration.,email,0
+1034,detonates one or more urls using the joe security sandbox integration.,external,0
+1035,detonates one or more urls using the joe security sandbox integration.,external,0
+1036,detonates one or more urls using the joe security sandbox integration.,file,0
+1037,detonates one or more urls using the joe security sandbox integration.,file,0
+1038,detonates one or more urls using the joe security sandbox integration.,generic.polling,0
+1039,detonates one or more urls using the joe security sandbox integration.,generic.polling,0
+1040,detonates one or more urls using the joe security sandbox integration.,hardware,0
+1041,detonates one or more urls using the joe security sandbox integration.,hardware,0
+1042,detonates one or more urls using the joe security sandbox integration.,host,0
+1043,detonates one or more urls using the joe security sandbox integration.,host,0
+1044,detonates one or more urls using the joe security sandbox integration.,id.dn,0
+1045,detonates one or more urls using the joe security sandbox integration.,id.dn,0
+1046,detonates one or more urls using the joe security sandbox integration.,incident,0
+1047,detonates one or more urls using the joe security sandbox integration.,incident,0
+1048,detonates one or more urls using the joe security sandbox integration.,logs,0
+1049,detonates one or more urls using the joe security sandbox integration.,logs,0
+1050,detonates one or more urls using the joe security sandbox integration.,malicious,0
+1051,detonates one or more urls using the joe security sandbox integration.,malicious,0
+1052,detonates one or more urls using the joe security sandbox integration.,md5,0
+1053,detonates one or more urls using the joe security sandbox integration.,md5,0
+1054,detonates one or more urls using the joe security sandbox integration.,na,1
+1055,detonates one or more urls using the joe security sandbox integration.,na,1
+1056,detonates one or more urls using the joe security sandbox integration.,no,0
+1057,detonates one or more urls using the joe security sandbox integration.,no,0
+1058,detonates one or more urls using the joe security sandbox integration.,pdf,0
+1059,detonates one or more urls using the joe security sandbox integration.,pdf,0
+1060,detonates one or more urls using the joe security sandbox integration.,phishe,0
+1061,detonates one or more urls using the joe security sandbox integration.,phishe,0
+1062,detonates one or more urls using the joe security sandbox integration.,playbook,0
+1063,detonates one or more urls using the joe security sandbox integration.,playbook,0
+1064,detonates one or more urls using the joe security sandbox integration.,priviledge,0
+1065,detonates one or more urls using the joe security sandbox integration.,priviledge,0
+1066,detonates one or more urls using the joe security sandbox integration.,qualys,0
+1067,detonates one or more urls using the joe security sandbox integration.,qualys,0
+1068,detonates one or more urls using the joe security sandbox integration.,relevant,0
+1069,detonates one or more urls using the joe security sandbox integration.,relevant,0
+1070,detonates one or more urls using the joe security sandbox integration.,sms,0
+1071,detonates one or more urls using the joe security sandbox integration.,sms,0
+1072,detonates one or more urls using the joe security sandbox integration.,source.user,0
+1073,detonates one or more urls using the joe security sandbox integration.,source.user,0
+1074,detonates one or more urls using the joe security sandbox integration.,status,0
+1075,detonates one or more urls using the joe security sandbox integration.,status,0
+1076,detonates one or more urls using the joe security sandbox integration.,user,0
+1077,detonates one or more urls using the joe security sandbox integration.,user,0
+1078,detonates one or more urls using the joe security sandbox integration.,user.account,0
+1079,detonates one or more urls using the joe security sandbox integration.,user.account,0
+1080,disable the account using active directory.,accounts,0
+1081,disable the account using active directory.,active,0
+1082,disable the account using active directory.,ad.account,0
+1083,disable the account using active directory.,case.event,0
+1084,disable the account using active directory.,crowdstrike,0
+1085,disable the account using active directory.,cve,0
+1086,disable the account using active directory.,email,0
+1087,disable the account using active directory.,external,0
+1088,disable the account using active directory.,file,0
+1089,disable the account using active directory.,generic.polling,0
+1090,disable the account using active directory.,hardware,0
+1091,disable the account using active directory.,host,0
+1092,disable the account using active directory.,id.dn,0
+1093,disable the account using active directory.,incident,0
+1094,disable the account using active directory.,logs,0
+1095,disable the account using active directory.,malicious,0
+1096,disable the account using active directory.,md5,0
+1097,disable the account using active directory.,na,1
+1098,disable the account using active directory.,no,0
+1099,disable the account using active directory.,pdf,0
+1100,disable the account using active directory.,phishe,0
+1101,disable the account using active directory.,playbook,0
+1102,disable the account using active directory.,priviledge,0
+1103,disable the account using active directory.,qualys,0
+1104,disable the account using active directory.,relevant,0
+1105,disable the account using active directory.,sms,0
+1106,disable the account using active directory.,source.user,0
+1107,disable the account using active directory.,status,0
+1108,disable the account using active directory.,user,0
+1109,disable the account using active directory.,user.account,0
+1110,download the pdf report to the war room.,accounts,0
+1111,download the pdf report to the war room.,active,0
+1112,download the pdf report to the war room.,ad.account,0
+1113,download the pdf report to the war room.,case.event,0
+1114,download the pdf report to the war room.,crowdstrike,0
+1115,download the pdf report to the war room.,cve,0
+1116,download the pdf report to the war room.,email,0
+1117,download the pdf report to the war room.,external,0
+1118,download the pdf report to the war room.,file,0
+1119,download the pdf report to the war room.,generic.polling,0
+1120,download the pdf report to the war room.,hardware,0
+1121,download the pdf report to the war room.,host,0
+1122,download the pdf report to the war room.,id.dn,0
+1123,download the pdf report to the war room.,incident,0
+1124,download the pdf report to the war room.,logs,0
+1125,download the pdf report to the war room.,malicious,0
+1126,download the pdf report to the war room.,md5,0
+1127,download the pdf report to the war room.,na,0
+1128,download the pdf report to the war room.,no,0
+1129,download the pdf report to the war room.,pdf,1
+1130,download the pdf report to the war room.,phishe,0
+1131,download the pdf report to the war room.,playbook,0
+1132,download the pdf report to the war room.,priviledge,0
+1133,download the pdf report to the war room.,qualys,0
+1134,download the pdf report to the war room.,relevant,0
+1135,download the pdf report to the war room.,sms,0
+1136,download the pdf report to the war room.,source.user,0
+1137,download the pdf report to the war room.,status,0
+1138,download the pdf report to the war room.,user,0
+1139,download the pdf report to the war room.,user.account,0
+1140,downloads file from archer to demisto's context,accounts,0
+1141,downloads file from archer to demisto's context,active,0
+1142,downloads file from archer to demisto's context,ad.account,0
+1143,downloads file from archer to demisto's context,case.event,0
+1144,downloads file from archer to demisto's context,crowdstrike,0
+1145,downloads file from archer to demisto's context,cve,0
+1146,downloads file from archer to demisto's context,email,0
+1147,downloads file from archer to demisto's context,external,0
+1148,downloads file from archer to demisto's context,file,0
+1149,downloads file from archer to demisto's context,generic.polling,0
+1150,downloads file from archer to demisto's context,hardware,0
+1151,downloads file from archer to demisto's context,host,0
+1152,downloads file from archer to demisto's context,id.dn,0
+1153,downloads file from archer to demisto's context,incident,0
+1154,downloads file from archer to demisto's context,logs,0
+1155,downloads file from archer to demisto's context,malicious,0
+1156,downloads file from archer to demisto's context,md5,0
+1157,downloads file from archer to demisto's context,na,1
+1158,downloads file from archer to demisto's context,no,0
+1159,downloads file from archer to demisto's context,pdf,0
+1160,downloads file from archer to demisto's context,phishe,0
+1161,downloads file from archer to demisto's context,playbook,0
+1162,downloads file from archer to demisto's context,priviledge,0
+1163,downloads file from archer to demisto's context,qualys,0
+1164,downloads file from archer to demisto's context,relevant,0
+1165,downloads file from archer to demisto's context,sms,0
+1166,downloads file from archer to demisto's context,source.user,0
+1167,downloads file from archer to demisto's context,status,0
+1168,downloads file from archer to demisto's context,user,0
+1169,downloads file from archer to demisto's context,user.account,0
+1170,dump the file to the war room (from base64 list),accounts,0
+1171,dump the file to the war room (from base64 list),active,0
+1172,dump the file to the war room (from base64 list),ad.account,0
+1173,dump the file to the war room (from base64 list),case.event,0
+1174,dump the file to the war room (from base64 list),crowdstrike,0
+1175,dump the file to the war room (from base64 list),cve,0
+1176,dump the file to the war room (from base64 list),email,0
+1177,dump the file to the war room (from base64 list),external,0
+1178,dump the file to the war room (from base64 list),file,0
+1179,dump the file to the war room (from base64 list),generic.polling,0
+1180,dump the file to the war room (from base64 list),hardware,0
+1181,dump the file to the war room (from base64 list),host,0
+1182,dump the file to the war room (from base64 list),id.dn,0
+1183,dump the file to the war room (from base64 list),incident,0
+1184,dump the file to the war room (from base64 list),logs,0
+1185,dump the file to the war room (from base64 list),malicious,0
+1186,dump the file to the war room (from base64 list),md5,0
+1187,dump the file to the war room (from base64 list),na,1
+1188,dump the file to the war room (from base64 list),no,0
+1189,dump the file to the war room (from base64 list),pdf,0
+1190,dump the file to the war room (from base64 list),phishe,0
+1191,dump the file to the war room (from base64 list),playbook,0
+1192,dump the file to the war room (from base64 list),priviledge,0
+1193,dump the file to the war room (from base64 list),qualys,0
+1194,dump the file to the war room (from base64 list),relevant,0
+1195,dump the file to the war room (from base64 list),sms,0
+1196,dump the file to the war room (from base64 list),source.user,0
+1197,dump the file to the war room (from base64 list),status,0
+1198,dump the file to the war room (from base64 list),user,0
+1199,dump the file to the war room (from base64 list),user.account,0
+1200,enrich accounts using one or more integration,accounts,0
+1201,enrich accounts using one or more integration,active,0
+1202,enrich accounts using one or more integration,ad.account,0
+1203,enrich accounts using one or more integration,case.event,0
+1204,enrich accounts using one or more integration,crowdstrike,0
+1205,enrich accounts using one or more integration,cve,0
+1206,enrich accounts using one or more integration,email,0
+1207,enrich accounts using one or more integration,external,0
+1208,enrich accounts using one or more integration,file,0
+1209,enrich accounts using one or more integration,generic.polling,0
+1210,enrich accounts using one or more integration,hardware,0
+1211,enrich accounts using one or more integration,host,0
+1212,enrich accounts using one or more integration,id.dn,0
+1213,enrich accounts using one or more integration,incident,0
+1214,enrich accounts using one or more integration,logs,0
+1215,enrich accounts using one or more integration,malicious,0
+1216,enrich accounts using one or more integration,md5,0
+1217,enrich accounts using one or more integration,na,1
+1218,enrich accounts using one or more integration,no,0
+1219,enrich accounts using one or more integration,pdf,0
+1220,enrich accounts using one or more integration,phishe,0
+1221,enrich accounts using one or more integration,playbook,0
+1222,enrich accounts using one or more integration,priviledge,0
+1223,enrich accounts using one or more integration,qualys,0
+1224,enrich accounts using one or more integration,relevant,0
+1225,enrich accounts using one or more integration,sms,0
+1226,enrich accounts using one or more integration,source.user,0
+1227,enrich accounts using one or more integration,status,0
+1228,enrich accounts using one or more integration,user,0
+1229,enrich accounts using one or more integration,user.account,0
+1230,get a specific case from esm,accounts,0
+1231,get a specific case from esm,active,0
+1232,get a specific case from esm,ad.account,0
+1233,get a specific case from esm,case.event,0
+1234,get a specific case from esm,crowdstrike,0
+1235,get a specific case from esm,cve,0
+1236,get a specific case from esm,email,0
+1237,get a specific case from esm,external,0
+1238,get a specific case from esm,file,0
+1239,get a specific case from esm,generic.polling,0
+1240,get a specific case from esm,hardware,0
+1241,get a specific case from esm,host,0
+1242,get a specific case from esm,id.dn,0
+1243,get a specific case from esm,incident,0
+1244,get a specific case from esm,logs,0
+1245,get a specific case from esm,malicious,0
+1246,get a specific case from esm,md5,0
+1247,get a specific case from esm,na,1
+1248,get a specific case from esm,no,0
+1249,get a specific case from esm,pdf,0
+1250,get a specific case from esm,phishe,0
+1251,get a specific case from esm,playbook,0
+1252,get a specific case from esm,priviledge,0
+1253,get a specific case from esm,qualys,0
+1254,get a specific case from esm,relevant,0
+1255,get a specific case from esm,sms,0
+1256,get a specific case from esm,source.user,0
+1257,get a specific case from esm,status,0
+1258,get a specific case from esm,user,0
+1259,get a specific case from esm,user.account,0
+1260,get crowdstrike device id,accounts,0
+1261,get crowdstrike device id,active,0
+1262,get crowdstrike device id,ad.account,0
+1263,get crowdstrike device id,case.event,0
+1264,get crowdstrike device id,crowdstrike,1
+1265,get crowdstrike device id,cve,0
+1266,get crowdstrike device id,email,0
+1267,get crowdstrike device id,external,0
+1268,get crowdstrike device id,file,0
+1269,get crowdstrike device id,generic.polling,0
+1270,get crowdstrike device id,hardware,0
+1271,get crowdstrike device id,host,0
+1272,get crowdstrike device id,id.dn,0
+1273,get crowdstrike device id,incident,0
+1274,get crowdstrike device id,logs,0
+1275,get crowdstrike device id,malicious,0
+1276,get crowdstrike device id,md5,0
+1277,get crowdstrike device id,na,0
+1278,get crowdstrike device id,no,0
+1279,get crowdstrike device id,pdf,0
+1280,get crowdstrike device id,phishe,0
+1281,get crowdstrike device id,playbook,0
+1282,get crowdstrike device id,priviledge,0
+1283,get crowdstrike device id,qualys,0
+1284,get crowdstrike device id,relevant,0
+1285,get crowdstrike device id,sms,0
+1286,get crowdstrike device id,source.user,0
+1287,get crowdstrike device id,status,0
+1288,get crowdstrike device id,user,0
+1289,get crowdstrike device id,user.account,0
+1290,get hardware details from endpoint,accounts,0
+1291,get hardware details from endpoint,active,0
+1292,get hardware details from endpoint,ad.account,0
+1293,get hardware details from endpoint,case.event,0
+1294,get hardware details from endpoint,crowdstrike,0
+1295,get hardware details from endpoint,cve,0
+1296,get hardware details from endpoint,email,0
+1297,get hardware details from endpoint,external,0
+1298,get hardware details from endpoint,file,0
+1299,get hardware details from endpoint,generic.polling,0
+1300,get hardware details from endpoint,hardware,1
+1301,get hardware details from endpoint,host,0
+1302,get hardware details from endpoint,id.dn,0
+1303,get hardware details from endpoint,incident,0
+1304,get hardware details from endpoint,logs,0
+1305,get hardware details from endpoint,malicious,0
+1306,get hardware details from endpoint,md5,0
+1307,get hardware details from endpoint,na,0
+1308,get hardware details from endpoint,no,0
+1309,get hardware details from endpoint,pdf,0
+1310,get hardware details from endpoint,phishe,0
+1311,get hardware details from endpoint,playbook,0
+1312,get hardware details from endpoint,priviledge,0
+1313,get hardware details from endpoint,qualys,0
+1314,get hardware details from endpoint,relevant,0
+1315,get hardware details from endpoint,sms,0
+1316,get hardware details from endpoint,source.user,0
+1317,get hardware details from endpoint,status,0
+1318,get hardware details from endpoint,user,0
+1319,get hardware details from endpoint,user.account,0
+1320,get host information from crowdstrike falcon host,accounts,0
+1321,get host information from crowdstrike falcon host,active,0
+1322,get host information from crowdstrike falcon host,ad.account,0
+1323,get host information from crowdstrike falcon host,case.event,0
+1324,get host information from crowdstrike falcon host,crowdstrike,0
+1325,get host information from crowdstrike falcon host,cve,0
+1326,get host information from crowdstrike falcon host,email,0
+1327,get host information from crowdstrike falcon host,external,0
+1328,get host information from crowdstrike falcon host,file,0
+1329,get host information from crowdstrike falcon host,generic.polling,0
+1330,get host information from crowdstrike falcon host,hardware,0
+1331,get host information from crowdstrike falcon host,host,1
+1332,get host information from crowdstrike falcon host,id.dn,0
+1333,get host information from crowdstrike falcon host,incident,0
+1334,get host information from crowdstrike falcon host,logs,0
+1335,get host information from crowdstrike falcon host,malicious,0
+1336,get host information from crowdstrike falcon host,md5,0
+1337,get host information from crowdstrike falcon host,na,0
+1338,get host information from crowdstrike falcon host,no,0
+1339,get host information from crowdstrike falcon host,pdf,0
+1340,get host information from crowdstrike falcon host,phishe,0
+1341,get host information from crowdstrike falcon host,playbook,0
+1342,get host information from crowdstrike falcon host,priviledge,0
+1343,get host information from crowdstrike falcon host,qualys,0
+1344,get host information from crowdstrike falcon host,relevant,0
+1345,get host information from crowdstrike falcon host,sms,0
+1346,get host information from crowdstrike falcon host,source.user,0
+1347,get host information from crowdstrike falcon host,status,0
+1348,get host information from crowdstrike falcon host,user,0
+1349,get host information from crowdstrike falcon host,user.account,0
+1350,get the report for a task created for a submitted file or url.,accounts,0
+1351,get the report for a task created for a submitted file or url.,active,0
+1352,get the report for a task created for a submitted file or url.,ad.account,0
+1353,get the report for a task created for a submitted file or url.,case.event,0
+1354,get the report for a task created for a submitted file or url.,crowdstrike,0
+1355,get the report for a task created for a submitted file or url.,cve,0
+1356,get the report for a task created for a submitted file or url.,email,0
+1357,get the report for a task created for a submitted file or url.,external,0
+1358,get the report for a task created for a submitted file or url.,file,0
+1359,get the report for a task created for a submitted file or url.,generic.polling,0
+1360,get the report for a task created for a submitted file or url.,hardware,0
+1361,get the report for a task created for a submitted file or url.,host,0
+1362,get the report for a task created for a submitted file or url.,id.dn,0
+1363,get the report for a task created for a submitted file or url.,incident,0
+1364,get the report for a task created for a submitted file or url.,logs,0
+1365,get the report for a task created for a submitted file or url.,malicious,0
+1366,get the report for a task created for a submitted file or url.,md5,0
+1367,get the report for a task created for a submitted file or url.,na,1
+1368,get the report for a task created for a submitted file or url.,no,0
+1369,get the report for a task created for a submitted file or url.,pdf,0
+1370,get the report for a task created for a submitted file or url.,phishe,0
+1371,get the report for a task created for a submitted file or url.,playbook,0
+1372,get the report for a task created for a submitted file or url.,priviledge,0
+1373,get the report for a task created for a submitted file or url.,qualys,0
+1374,get the report for a task created for a submitted file or url.,relevant,0
+1375,get the report for a task created for a submitted file or url.,sms,0
+1376,get the report for a task created for a submitted file or url.,source.user,0
+1377,get the report for a task created for a submitted file or url.,status,0
+1378,get the report for a task created for a submitted file or url.,user,0
+1379,get the report for a task created for a submitted file or url.,user.account,0
+1380,get the results of the operation.,accounts,0
+1381,get the results of the operation.,active,0
+1382,get the results of the operation.,ad.account,0
+1383,get the results of the operation.,case.event,0
+1384,get the results of the operation.,crowdstrike,0
+1385,get the results of the operation.,cve,0
+1386,get the results of the operation.,email,0
+1387,get the results of the operation.,external,0
+1388,get the results of the operation.,file,0
+1389,get the results of the operation.,generic.polling,0
+1390,get the results of the operation.,hardware,0
+1391,get the results of the operation.,host,0
+1392,get the results of the operation.,id.dn,0
+1393,get the results of the operation.,incident,0
+1394,get the results of the operation.,logs,0
+1395,get the results of the operation.,malicious,0
+1396,get the results of the operation.,md5,0
+1397,get the results of the operation.,na,1
+1398,get the results of the operation.,no,0
+1399,get the results of the operation.,pdf,0
+1400,get the results of the operation.,phishe,0
+1401,get the results of the operation.,playbook,0
+1402,get the results of the operation.,priviledge,0
+1403,get the results of the operation.,qualys,0
+1404,get the results of the operation.,relevant,0
+1405,get the results of the operation.,sms,0
+1406,get the results of the operation.,source.user,0
+1407,get the results of the operation.,status,0
+1408,get the results of the operation.,user,0
+1409,get the results of the operation.,user.account,0
+1410,initiate the operation,accounts,0
+1411,initiate the operation,active,0
+1412,initiate the operation,ad.account,0
+1413,initiate the operation,case.event,0
+1414,initiate the operation,crowdstrike,0
+1415,initiate the operation,cve,0
+1416,initiate the operation,email,0
+1417,initiate the operation,external,0
+1418,initiate the operation,file,0
+1419,initiate the operation,generic.polling,0
+1420,initiate the operation,hardware,0
+1421,initiate the operation,host,0
+1422,initiate the operation,id.dn,0
+1423,initiate the operation,incident,0
+1424,initiate the operation,logs,0
+1425,initiate the operation,malicious,0
+1426,initiate the operation,md5,0
+1427,initiate the operation,na,1
+1428,initiate the operation,no,0
+1429,initiate the operation,pdf,0
+1430,initiate the operation,phishe,0
+1431,initiate the operation,playbook,0
+1432,initiate the operation,priviledge,0
+1433,initiate the operation,qualys,0
+1434,initiate the operation,relevant,0
+1435,initiate the operation,sms,0
+1436,initiate the operation,source.user,0
+1437,initiate the operation,status,0
+1438,initiate the operation,user,0
+1439,initiate the operation,user.account,0
+1440,initiated the generic polling playbook that will do the polling command,accounts,0
+1441,initiated the generic polling playbook that will do the polling command,active,0
+1442,initiated the generic polling playbook that will do the polling command,ad.account,0
+1443,initiated the generic polling playbook that will do the polling command,case.event,0
+1444,initiated the generic polling playbook that will do the polling command,crowdstrike,0
+1445,initiated the generic polling playbook that will do the polling command,cve,0
+1446,initiated the generic polling playbook that will do the polling command,email,0
+1447,initiated the generic polling playbook that will do the polling command,external,0
+1448,initiated the generic polling playbook that will do the polling command,file,0
+1449,initiated the generic polling playbook that will do the polling command,generic.polling,1
+1450,initiated the generic polling playbook that will do the polling command,hardware,0
+1451,initiated the generic polling playbook that will do the polling command,host,0
+1452,initiated the generic polling playbook that will do the polling command,id.dn,0
+1453,initiated the generic polling playbook that will do the polling command,incident,0
+1454,initiated the generic polling playbook that will do the polling command,logs,0
+1455,initiated the generic polling playbook that will do the polling command,malicious,0
+1456,initiated the generic polling playbook that will do the polling command,md5,0
+1457,initiated the generic polling playbook that will do the polling command,na,0
+1458,initiated the generic polling playbook that will do the polling command,no,0
+1459,initiated the generic polling playbook that will do the polling command,pdf,0
+1460,initiated the generic polling playbook that will do the polling command,phishe,0
+1461,initiated the generic polling playbook that will do the polling command,playbook,0
+1462,initiated the generic polling playbook that will do the polling command,priviledge,0
+1463,initiated the generic polling playbook that will do the polling command,qualys,0
+1464,initiated the generic polling playbook that will do the polling command,relevant,0
+1465,initiated the generic polling playbook that will do the polling command,sms,0
+1466,initiated the generic polling playbook that will do the polling command,source.user,0
+1467,initiated the generic polling playbook that will do the polling command,status,0
+1468,initiated the generic polling playbook that will do the polling command,user,0
+1469,initiated the generic polling playbook that will do the polling command,user.account,0
+1470,parse email with nexpose,accounts,0
+1471,parse email with nexpose,active,0
+1472,parse email with nexpose,ad.account,0
+1473,parse email with nexpose,case.event,0
+1474,parse email with nexpose,crowdstrike,0
+1475,parse email with nexpose,cve,0
+1476,parse email with nexpose,email,0
+1477,parse email with nexpose,external,0
+1478,parse email with nexpose,file,0
+1479,parse email with nexpose,generic.polling,0
+1480,parse email with nexpose,hardware,0
+1481,parse email with nexpose,host,0
+1482,parse email with nexpose,id.dn,0
+1483,parse email with nexpose,incident,0
+1484,parse email with nexpose,logs,0
+1485,parse email with nexpose,malicious,0
+1486,parse email with nexpose,md5,0
+1487,parse email with nexpose,na,1
+1488,parse email with nexpose,no,0
+1489,parse email with nexpose,pdf,0
+1490,parse email with nexpose,phishe,0
+1491,parse email with nexpose,playbook,0
+1492,parse email with nexpose,priviledge,0
+1493,parse email with nexpose,qualys,0
+1494,parse email with nexpose,relevant,0
+1495,parse email with nexpose,sms,0
+1496,parse email with nexpose,source.user,0
+1497,parse email with nexpose,status,0
+1498,parse email with nexpose,user,0
+1499,parse email with nexpose,user.account,0
+1500,parse email with sentinelone,accounts,0
+1501,parse email with sentinelone,active,0
+1502,parse email with sentinelone,ad.account,0
+1503,parse email with sentinelone,case.event,0
+1504,parse email with sentinelone,crowdstrike,0
+1505,parse email with sentinelone,cve,0
+1506,parse email with sentinelone,email,0
+1507,parse email with sentinelone,external,0
+1508,parse email with sentinelone,file,0
+1509,parse email with sentinelone,generic.polling,0
+1510,parse email with sentinelone,hardware,0
+1511,parse email with sentinelone,host,0
+1512,parse email with sentinelone,id.dn,0
+1513,parse email with sentinelone,incident,0
+1514,parse email with sentinelone,logs,0
+1515,parse email with sentinelone,malicious,0
+1516,parse email with sentinelone,md5,0
+1517,parse email with sentinelone,na,1
+1518,parse email with sentinelone,no,0
+1519,parse email with sentinelone,pdf,0
+1520,parse email with sentinelone,phishe,0
+1521,parse email with sentinelone,playbook,0
+1522,parse email with sentinelone,priviledge,0
+1523,parse email with sentinelone,qualys,0
+1524,parse email with sentinelone,relevant,0
+1525,parse email with sentinelone,sms,0
+1526,parse email with sentinelone,source.user,0
+1527,parse email with sentinelone,status,0
+1528,parse email with sentinelone,user,0
+1529,parse email with sentinelone,user.account,0
+1530,parse email with splunk,accounts,0
+1531,parse email with splunk,active,0
+1532,parse email with splunk,ad.account,0
+1533,parse email with splunk,case.event,0
+1534,parse email with splunk,crowdstrike,0
+1535,parse email with splunk,cve,0
+1536,parse email with splunk,email,0
+1537,parse email with splunk,external,0
+1538,parse email with splunk,file,0
+1539,parse email with splunk,generic.polling,0
+1540,parse email with splunk,hardware,0
+1541,parse email with splunk,host,0
+1542,parse email with splunk,id.dn,0
+1543,parse email with splunk,incident,0
+1544,parse email with splunk,logs,0
+1545,parse email with splunk,malicious,0
+1546,parse email with splunk,md5,0
+1547,parse email with splunk,na,1
+1548,parse email with splunk,no,0
+1549,parse email with splunk,pdf,0
+1550,parse email with splunk,phishe,0
+1551,parse email with splunk,playbook,0
+1552,parse email with splunk,priviledge,0
+1553,parse email with splunk,qualys,0
+1554,parse email with splunk,relevant,0
+1555,parse email with splunk,sms,0
+1556,parse email with splunk,source.user,0
+1557,parse email with splunk,status,0
+1558,parse email with splunk,user,0
+1559,parse email with splunk,user.account,0
+1560,poll the operation,accounts,0
+1561,poll the operation,active,0
+1562,poll the operation,ad.account,0
+1563,poll the operation,case.event,0
+1564,poll the operation,crowdstrike,0
+1565,poll the operation,cve,0
+1566,poll the operation,email,0
+1567,poll the operation,external,0
+1568,poll the operation,file,0
+1569,poll the operation,generic.polling,0
+1570,poll the operation,hardware,0
+1571,poll the operation,host,0
+1572,poll the operation,id.dn,0
+1573,poll the operation,incident,0
+1574,poll the operation,logs,0
+1575,poll the operation,malicious,0
+1576,poll the operation,md5,0
+1577,poll the operation,na,1
+1578,poll the operation,no,0
+1579,poll the operation,pdf,0
+1580,poll the operation,phishe,0
+1581,poll the operation,playbook,0
+1582,poll the operation,priviledge,0
+1583,poll the operation,qualys,0
+1584,poll the operation,relevant,0
+1585,poll the operation,sms,0
+1586,poll the operation,source.user,0
+1587,poll the operation,status,0
+1588,poll the operation,user,0
+1589,poll the operation,user.account,0
+1590,prints report to war room,accounts,0
+1591,prints report to war room,active,0
+1592,prints report to war room,ad.account,0
+1593,prints report to war room,case.event,0
+1594,prints report to war room,crowdstrike,0
+1595,prints report to war room,cve,0
+1596,prints report to war room,email,0
+1597,prints report to war room,external,0
+1598,prints report to war room,file,0
+1599,prints report to war room,generic.polling,0
+1600,prints report to war room,hardware,0
+1601,prints report to war room,host,0
+1602,prints report to war room,id.dn,0
+1603,prints report to war room,incident,0
+1604,prints report to war room,logs,0
+1605,prints report to war room,malicious,0
+1606,prints report to war room,md5,0
+1607,prints report to war room,na,1
+1608,prints report to war room,no,0
+1609,prints report to war room,pdf,0
+1610,prints report to war room,phishe,0
+1611,prints report to war room,playbook,0
+1612,prints report to war room,priviledge,0
+1613,prints report to war room,qualys,0
+1614,prints report to war room,relevant,0
+1615,prints report to war room,sms,0
+1616,prints report to war room,source.user,0
+1617,prints report to war room,status,0
+1618,prints report to war room,user,0
+1619,prints report to war room,user.account,0
+1620,queries active directory for the username's information.,accounts,0
+1621,queries active directory for the username's information.,active,1
+1622,queries active directory for the username's information.,ad.account,0
+1623,queries active directory for the username's information.,case.event,0
+1624,queries active directory for the username's information.,crowdstrike,0
+1625,queries active directory for the username's information.,cve,0
+1626,queries active directory for the username's information.,email,0
+1627,queries active directory for the username's information.,external,0
+1628,queries active directory for the username's information.,file,0
+1629,queries active directory for the username's information.,generic.polling,0
+1630,queries active directory for the username's information.,hardware,0
+1631,queries active directory for the username's information.,host,0
+1632,queries active directory for the username's information.,id.dn,0
+1633,queries active directory for the username's information.,incident,0
+1634,queries active directory for the username's information.,logs,0
+1635,queries active directory for the username's information.,malicious,0
+1636,queries active directory for the username's information.,md5,0
+1637,queries active directory for the username's information.,na,0
+1638,queries active directory for the username's information.,no,0
+1639,queries active directory for the username's information.,pdf,0
+1640,queries active directory for the username's information.,phishe,0
+1641,queries active directory for the username's information.,playbook,0
+1642,queries active directory for the username's information.,priviledge,0
+1643,queries active directory for the username's information.,qualys,0
+1644,queries active directory for the username's information.,relevant,0
+1645,queries active directory for the username's information.,sms,0
+1646,queries active directory for the username's information.,source.user,0
+1647,queries active directory for the username's information.,status,0
+1648,queries active directory for the username's information.,user,0
+1649,queries active directory for the username's information.,user.account,0
+1650,queries activie directory,accounts,0
+1651,queries activie directory,active,1
+1652,queries activie directory,ad.account,0
+1653,queries activie directory,case.event,0
+1654,queries activie directory,crowdstrike,0
+1655,queries activie directory,cve,0
+1656,queries activie directory,email,0
+1657,queries activie directory,external,0
+1658,queries activie directory,file,0
+1659,queries activie directory,generic.polling,0
+1660,queries activie directory,hardware,0
+1661,queries activie directory,host,0
+1662,queries activie directory,id.dn,0
+1663,queries activie directory,incident,0
+1664,queries activie directory,logs,0
+1665,queries activie directory,malicious,0
+1666,queries activie directory,md5,0
+1667,queries activie directory,na,0
+1668,queries activie directory,no,0
+1669,queries activie directory,pdf,0
+1670,queries activie directory,phishe,0
+1671,queries activie directory,playbook,0
+1672,queries activie directory,priviledge,0
+1673,queries activie directory,qualys,0
+1674,queries activie directory,relevant,0
+1675,queries activie directory,sms,0
+1676,queries activie directory,source.user,0
+1677,queries activie directory,status,0
+1678,queries activie directory,user,0
+1679,queries activie directory,user.account,0
+1680,"query ""active directory"" for the username's info",accounts,0
+1681,"query ""active directory"" for the username's info",active,1
+1682,"query ""active directory"" for the username's info",ad.account,0
+1683,"query ""active directory"" for the username's info",case.event,0
+1684,"query ""active directory"" for the username's info",crowdstrike,0
+1685,"query ""active directory"" for the username's info",cve,0
+1686,"query ""active directory"" for the username's info",email,0
+1687,"query ""active directory"" for the username's info",external,0
+1688,"query ""active directory"" for the username's info",file,0
+1689,"query ""active directory"" for the username's info",generic.polling,0
+1690,"query ""active directory"" for the username's info",hardware,0
+1691,"query ""active directory"" for the username's info",host,0
+1692,"query ""active directory"" for the username's info",id.dn,0
+1693,"query ""active directory"" for the username's info",incident,0
+1694,"query ""active directory"" for the username's info",logs,0
+1695,"query ""active directory"" for the username's info",malicious,0
+1696,"query ""active directory"" for the username's info",md5,0
+1697,"query ""active directory"" for the username's info",na,0
+1698,"query ""active directory"" for the username's info",no,0
+1699,"query ""active directory"" for the username's info",pdf,0
+1700,"query ""active directory"" for the username's info",phishe,0
+1701,"query ""active directory"" for the username's info",playbook,0
+1702,"query ""active directory"" for the username's info",priviledge,0
+1703,"query ""active directory"" for the username's info",qualys,0
+1704,"query ""active directory"" for the username's info",relevant,0
+1705,"query ""active directory"" for the username's info",sms,0
+1706,"query ""active directory"" for the username's info",source.user,0
+1707,"query ""active directory"" for the username's info",status,0
+1708,"query ""active directory"" for the username's info",user,0
+1709,"query ""active directory"" for the username's info",user.account,0
+1710,query active directory for the email address information,accounts,0
+1711,query active directory for the email address information,active,1
+1712,query active directory for the email address information,ad.account,0
+1713,query active directory for the email address information,case.event,0
+1714,query active directory for the email address information,crowdstrike,0
+1715,query active directory for the email address information,cve,0
+1716,query active directory for the email address information,email,0
+1717,query active directory for the email address information,external,0
+1718,query active directory for the email address information,file,0
+1719,query active directory for the email address information,generic.polling,0
+1720,query active directory for the email address information,hardware,0
+1721,query active directory for the email address information,host,0
+1722,query active directory for the email address information,id.dn,0
+1723,query active directory for the email address information,incident,0
+1724,query active directory for the email address information,logs,0
+1725,query active directory for the email address information,malicious,0
+1726,query active directory for the email address information,md5,0
+1727,query active directory for the email address information,na,0
+1728,query active directory for the email address information,no,0
+1729,query active directory for the email address information,pdf,0
+1730,query active directory for the email address information,phishe,0
+1731,query active directory for the email address information,playbook,0
+1732,query active directory for the email address information,priviledge,0
+1733,query active directory for the email address information,qualys,0
+1734,query active directory for the email address information,relevant,0
+1735,query active directory for the email address information,sms,0
+1736,query active directory for the email address information,source.user,0
+1737,query active directory for the email address information,status,0
+1738,query active directory for the email address information,user,0
+1739,query active directory for the email address information,user.account,0
+1740,query the account logs in siem,accounts,0
+1741,query the account logs in siem,active,0
+1742,query the account logs in siem,ad.account,0
+1743,query the account logs in siem,case.event,0
+1744,query the account logs in siem,crowdstrike,0
+1745,query the account logs in siem,cve,0
+1746,query the account logs in siem,email,0
+1747,query the account logs in siem,external,0
+1748,query the account logs in siem,file,0
+1749,query the account logs in siem,generic.polling,0
+1750,query the account logs in siem,hardware,0
+1751,query the account logs in siem,host,0
+1752,query the account logs in siem,id.dn,0
+1753,query the account logs in siem,incident,0
+1754,query the account logs in siem,logs,1
+1755,query the account logs in siem,malicious,0
+1756,query the account logs in siem,md5,0
+1757,query the account logs in siem,na,0
+1758,query the account logs in siem,no,0
+1759,query the account logs in siem,pdf,0
+1760,query the account logs in siem,phishe,0
+1761,query the account logs in siem,playbook,0
+1762,query the account logs in siem,priviledge,0
+1763,query the account logs in siem,qualys,0
+1764,query the account logs in siem,relevant,0
+1765,query the account logs in siem,sms,0
+1766,query the account logs in siem,source.user,0
+1767,query the account logs in siem,status,0
+1768,query the account logs in siem,user,0
+1769,query the account logs in siem,user.account,0
+1770,query the ips logs in the siem,accounts,0
+1771,query the ips logs in the siem,active,0
+1772,query the ips logs in the siem,ad.account,0
+1773,query the ips logs in the siem,case.event,0
+1774,query the ips logs in the siem,crowdstrike,0
+1775,query the ips logs in the siem,cve,0
+1776,query the ips logs in the siem,email,0
+1777,query the ips logs in the siem,external,0
+1778,query the ips logs in the siem,file,0
+1779,query the ips logs in the siem,generic.polling,0
+1780,query the ips logs in the siem,hardware,0
+1781,query the ips logs in the siem,host,0
+1782,query the ips logs in the siem,id.dn,0
+1783,query the ips logs in the siem,incident,0
+1784,query the ips logs in the siem,logs,1
+1785,query the ips logs in the siem,malicious,0
+1786,query the ips logs in the siem,md5,0
+1787,query the ips logs in the siem,na,0
+1788,query the ips logs in the siem,no,0
+1789,query the ips logs in the siem,pdf,0
+1790,query the ips logs in the siem,phishe,0
+1791,query the ips logs in the siem,playbook,0
+1792,query the ips logs in the siem,priviledge,0
+1793,query the ips logs in the siem,qualys,0
+1794,query the ips logs in the siem,relevant,0
+1795,query the ips logs in the siem,sms,0
+1796,query the ips logs in the siem,source.user,0
+1797,query the ips logs in the siem,status,0
+1798,query the ips logs in the siem,user,0
+1799,query the ips logs in the siem,user.account,0
+1800,qurantine the account,accounts,0
+1801,qurantine the account,active,0
+1802,qurantine the account,ad.account,0
+1803,qurantine the account,case.event,0
+1804,qurantine the account,crowdstrike,0
+1805,qurantine the account,cve,0
+1806,qurantine the account,email,0
+1807,qurantine the account,external,0
+1808,qurantine the account,file,0
+1809,qurantine the account,generic.polling,0
+1810,qurantine the account,hardware,0
+1811,qurantine the account,host,0
+1812,qurantine the account,id.dn,0
+1813,qurantine the account,incident,0
+1814,qurantine the account,logs,0
+1815,qurantine the account,malicious,0
+1816,qurantine the account,md5,0
+1817,qurantine the account,na,1
+1818,qurantine the account,no,0
+1819,qurantine the account,pdf,0
+1820,qurantine the account,phishe,0
+1821,qurantine the account,playbook,0
+1822,qurantine the account,priviledge,0
+1823,qurantine the account,qualys,0
+1824,qurantine the account,relevant,0
+1825,qurantine the account,sms,0
+1826,qurantine the account,source.user,0
+1827,qurantine the account,status,0
+1828,qurantine the account,user,0
+1829,qurantine the account,user.account,0
+1830,qurantine the endpoint,accounts,0
+1831,qurantine the endpoint,active,0
+1832,qurantine the endpoint,ad.account,0
+1833,qurantine the endpoint,case.event,0
+1834,qurantine the endpoint,crowdstrike,0
+1835,qurantine the endpoint,cve,0
+1836,qurantine the endpoint,email,0
+1837,qurantine the endpoint,external,0
+1838,qurantine the endpoint,file,0
+1839,qurantine the endpoint,generic.polling,0
+1840,qurantine the endpoint,hardware,0
+1841,qurantine the endpoint,host,0
+1842,qurantine the endpoint,id.dn,0
+1843,qurantine the endpoint,incident,0
+1844,qurantine the endpoint,logs,0
+1845,qurantine the endpoint,malicious,0
+1846,qurantine the endpoint,md5,0
+1847,qurantine the endpoint,na,1
+1848,qurantine the endpoint,no,0
+1849,qurantine the endpoint,pdf,0
+1850,qurantine the endpoint,phishe,0
+1851,qurantine the endpoint,playbook,0
+1852,qurantine the endpoint,priviledge,0
+1853,qurantine the endpoint,qualys,0
+1854,qurantine the endpoint,relevant,0
+1855,qurantine the endpoint,sms,0
+1856,qurantine the endpoint,source.user,0
+1857,qurantine the endpoint,status,0
+1858,qurantine the endpoint,user,0
+1859,qurantine the endpoint,user.account,0
+1860,"retrieve cve information from ""cve search"".",accounts,0
+1861,"retrieve cve information from ""cve search"".",active,0
+1862,"retrieve cve information from ""cve search"".",ad.account,0
+1863,"retrieve cve information from ""cve search"".",case.event,0
+1864,"retrieve cve information from ""cve search"".",crowdstrike,0
+1865,"retrieve cve information from ""cve search"".",cve,1
+1866,"retrieve cve information from ""cve search"".",email,0
+1867,"retrieve cve information from ""cve search"".",external,0
+1868,"retrieve cve information from ""cve search"".",file,0
+1869,"retrieve cve information from ""cve search"".",generic.polling,0
+1870,"retrieve cve information from ""cve search"".",hardware,0
+1871,"retrieve cve information from ""cve search"".",host,0
+1872,"retrieve cve information from ""cve search"".",id.dn,0
+1873,"retrieve cve information from ""cve search"".",incident,0
+1874,"retrieve cve information from ""cve search"".",logs,0
+1875,"retrieve cve information from ""cve search"".",malicious,0
+1876,"retrieve cve information from ""cve search"".",md5,0
+1877,"retrieve cve information from ""cve search"".",na,0
+1878,"retrieve cve information from ""cve search"".",no,0
+1879,"retrieve cve information from ""cve search"".",pdf,0
+1880,"retrieve cve information from ""cve search"".",phishe,0
+1881,"retrieve cve information from ""cve search"".",playbook,0
+1882,"retrieve cve information from ""cve search"".",priviledge,0
+1883,"retrieve cve information from ""cve search"".",qualys,0
+1884,"retrieve cve information from ""cve search"".",relevant,0
+1885,"retrieve cve information from ""cve search"".",sms,0
+1886,"retrieve cve information from ""cve search"".",source.user,0
+1887,"retrieve cve information from ""cve search"".",status,0
+1888,"retrieve cve information from ""cve search"".",user,0
+1889,"retrieve cve information from ""cve search"".",user.account,0
+1890,retrieve cve information from xfe.,accounts,0
+1891,retrieve cve information from xfe.,active,0
+1892,retrieve cve information from xfe.,ad.account,0
+1893,retrieve cve information from xfe.,case.event,0
+1894,retrieve cve information from xfe.,crowdstrike,0
+1895,retrieve cve information from xfe.,cve,1
+1896,retrieve cve information from xfe.,email,0
+1897,retrieve cve information from xfe.,external,0
+1898,retrieve cve information from xfe.,file,0
+1899,retrieve cve information from xfe.,generic.polling,0
+1900,retrieve cve information from xfe.,hardware,0
+1901,retrieve cve information from xfe.,host,0
+1902,retrieve cve information from xfe.,id.dn,0
+1903,retrieve cve information from xfe.,incident,0
+1904,retrieve cve information from xfe.,logs,0
+1905,retrieve cve information from xfe.,malicious,0
+1906,retrieve cve information from xfe.,md5,0
+1907,retrieve cve information from xfe.,na,0
+1908,retrieve cve information from xfe.,no,0
+1909,retrieve cve information from xfe.,pdf,0
+1910,retrieve cve information from xfe.,phishe,0
+1911,retrieve cve information from xfe.,playbook,0
+1912,retrieve cve information from xfe.,priviledge,0
+1913,retrieve cve information from xfe.,qualys,0
+1914,retrieve cve information from xfe.,relevant,0
+1915,retrieve cve information from xfe.,sms,0
+1916,retrieve cve information from xfe.,source.user,0
+1917,retrieve cve information from xfe.,status,0
+1918,retrieve cve information from xfe.,user,0
+1919,retrieve cve information from xfe.,user.account,0
+1920,retrieve cve reputation using one or more integrations.,accounts,0
+1921,retrieve cve reputation using one or more integrations.,active,0
+1922,retrieve cve reputation using one or more integrations.,ad.account,0
+1923,retrieve cve reputation using one or more integrations.,case.event,0
+1924,retrieve cve reputation using one or more integrations.,crowdstrike,0
+1925,retrieve cve reputation using one or more integrations.,cve,1
+1926,retrieve cve reputation using one or more integrations.,email,0
+1927,retrieve cve reputation using one or more integrations.,external,0
+1928,retrieve cve reputation using one or more integrations.,file,0
+1929,retrieve cve reputation using one or more integrations.,generic.polling,0
+1930,retrieve cve reputation using one or more integrations.,hardware,0
+1931,retrieve cve reputation using one or more integrations.,host,0
+1932,retrieve cve reputation using one or more integrations.,id.dn,0
+1933,retrieve cve reputation using one or more integrations.,incident,0
+1934,retrieve cve reputation using one or more integrations.,logs,0
+1935,retrieve cve reputation using one or more integrations.,malicious,0
+1936,retrieve cve reputation using one or more integrations.,md5,0
+1937,retrieve cve reputation using one or more integrations.,na,0
+1938,retrieve cve reputation using one or more integrations.,no,0
+1939,retrieve cve reputation using one or more integrations.,pdf,0
+1940,retrieve cve reputation using one or more integrations.,phishe,0
+1941,retrieve cve reputation using one or more integrations.,playbook,0
+1942,retrieve cve reputation using one or more integrations.,priviledge,0
+1943,retrieve cve reputation using one or more integrations.,qualys,0
+1944,retrieve cve reputation using one or more integrations.,relevant,0
+1945,retrieve cve reputation using one or more integrations.,sms,0
+1946,retrieve cve reputation using one or more integrations.,source.user,0
+1947,retrieve cve reputation using one or more integrations.,status,0
+1948,retrieve cve reputation using one or more integrations.,user,0
+1949,retrieve cve reputation using one or more integrations.,user.account,0
+1950,retrieve result data upon a file.,accounts,0
+1951,retrieve result data upon a file.,active,0
+1952,retrieve result data upon a file.,ad.account,0
+1953,retrieve result data upon a file.,case.event,0
+1954,retrieve result data upon a file.,crowdstrike,0
+1955,retrieve result data upon a file.,cve,0
+1956,retrieve result data upon a file.,email,0
+1957,retrieve result data upon a file.,external,0
+1958,retrieve result data upon a file.,file,0
+1959,retrieve result data upon a file.,generic.polling,0
+1960,retrieve result data upon a file.,hardware,0
+1961,retrieve result data upon a file.,host,0
+1962,retrieve result data upon a file.,id.dn,0
+1963,retrieve result data upon a file.,incident,0
+1964,retrieve result data upon a file.,logs,0
+1965,retrieve result data upon a file.,malicious,0
+1966,retrieve result data upon a file.,md5,0
+1967,retrieve result data upon a file.,na,1
+1968,retrieve result data upon a file.,no,0
+1969,retrieve result data upon a file.,pdf,0
+1970,retrieve result data upon a file.,phishe,0
+1971,retrieve result data upon a file.,playbook,0
+1972,retrieve result data upon a file.,priviledge,0
+1973,retrieve result data upon a file.,qualys,0
+1974,retrieve result data upon a file.,relevant,0
+1975,retrieve result data upon a file.,sms,0
+1976,retrieve result data upon a file.,source.user,0
+1977,retrieve result data upon a file.,status,0
+1978,retrieve result data upon a file.,user,0
+1979,retrieve result data upon a file.,user.account,0
+1980,retrieve the ad account information for the manager of the source user account.,accounts,0
+1981,retrieve the ad account information for the manager of the source user account.,active,0
+1982,retrieve the ad account information for the manager of the source user account.,ad.account,1
+1983,retrieve the ad account information for the manager of the source user account.,case.event,0
+1984,retrieve the ad account information for the manager of the source user account.,crowdstrike,0
+1985,retrieve the ad account information for the manager of the source user account.,cve,0
+1986,retrieve the ad account information for the manager of the source user account.,email,0
+1987,retrieve the ad account information for the manager of the source user account.,external,0
+1988,retrieve the ad account information for the manager of the source user account.,file,0
+1989,retrieve the ad account information for the manager of the source user account.,generic.polling,0
+1990,retrieve the ad account information for the manager of the source user account.,hardware,0
+1991,retrieve the ad account information for the manager of the source user account.,host,0
+1992,retrieve the ad account information for the manager of the source user account.,id.dn,0
+1993,retrieve the ad account information for the manager of the source user account.,incident,0
+1994,retrieve the ad account information for the manager of the source user account.,logs,0
+1995,retrieve the ad account information for the manager of the source user account.,malicious,0
+1996,retrieve the ad account information for the manager of the source user account.,md5,0
+1997,retrieve the ad account information for the manager of the source user account.,na,0
+1998,retrieve the ad account information for the manager of the source user account.,no,0
+1999,retrieve the ad account information for the manager of the source user account.,pdf,0
+2000,retrieve the ad account information for the manager of the source user account.,phishe,0
+2001,retrieve the ad account information for the manager of the source user account.,playbook,0
+2002,retrieve the ad account information for the manager of the source user account.,priviledge,0
+2003,retrieve the ad account information for the manager of the source user account.,qualys,0
+2004,retrieve the ad account information for the manager of the source user account.,relevant,0
+2005,retrieve the ad account information for the manager of the source user account.,sms,0
+2006,retrieve the ad account information for the manager of the source user account.,source.user,0
+2007,retrieve the ad account information for the manager of the source user account.,status,0
+2008,retrieve the ad account information for the manager of the source user account.,user,0
+2009,retrieve the ad account information for the manager of the source user account.,user.account,0
+2010,retrieve the report from qualys.,accounts,0
+2011,retrieve the report from qualys.,active,0
+2012,retrieve the report from qualys.,ad.account,0
+2013,retrieve the report from qualys.,case.event,0
+2014,retrieve the report from qualys.,crowdstrike,0
+2015,retrieve the report from qualys.,cve,0
+2016,retrieve the report from qualys.,email,0
+2017,retrieve the report from qualys.,external,0
+2018,retrieve the report from qualys.,file,0
+2019,retrieve the report from qualys.,generic.polling,0
+2020,retrieve the report from qualys.,hardware,0
+2021,retrieve the report from qualys.,host,0
+2022,retrieve the report from qualys.,id.dn,0
+2023,retrieve the report from qualys.,incident,0
+2024,retrieve the report from qualys.,logs,0
+2025,retrieve the report from qualys.,malicious,0
+2026,retrieve the report from qualys.,md5,0
+2027,retrieve the report from qualys.,na,1
+2028,retrieve the report from qualys.,no,0
+2029,retrieve the report from qualys.,pdf,0
+2030,retrieve the report from qualys.,phishe,0
+2031,retrieve the report from qualys.,playbook,0
+2032,retrieve the report from qualys.,priviledge,0
+2033,retrieve the report from qualys.,qualys,0
+2034,retrieve the report from qualys.,relevant,0
+2035,retrieve the report from qualys.,sms,0
+2036,retrieve the report from qualys.,source.user,0
+2037,retrieve the report from qualys.,status,0
+2038,retrieve the report from qualys.,user,0
+2039,retrieve the report from qualys.,user.account,0
+2040,retrieves detailed information about a user account.,accounts,0
+2041,retrieves detailed information about a user account.,active,0
+2042,retrieves detailed information about a user account.,ad.account,0
+2043,retrieves detailed information about a user account.,case.event,0
+2044,retrieves detailed information about a user account.,crowdstrike,0
+2045,retrieves detailed information about a user account.,cve,0
+2046,retrieves detailed information about a user account.,email,0
+2047,retrieves detailed information about a user account.,external,0
+2048,retrieves detailed information about a user account.,file,0
+2049,retrieves detailed information about a user account.,generic.polling,0
+2050,retrieves detailed information about a user account.,hardware,0
+2051,retrieves detailed information about a user account.,host,0
+2052,retrieves detailed information about a user account.,id.dn,0
+2053,retrieves detailed information about a user account.,incident,0
+2054,retrieves detailed information about a user account.,logs,0
+2055,retrieves detailed information about a user account.,malicious,0
+2056,retrieves detailed information about a user account.,md5,0
+2057,retrieves detailed information about a user account.,na,0
+2058,retrieves detailed information about a user account.,no,0
+2059,retrieves detailed information about a user account.,pdf,0
+2060,retrieves detailed information about a user account.,phishe,0
+2061,retrieves detailed information about a user account.,playbook,0
+2062,retrieves detailed information about a user account.,priviledge,0
+2063,retrieves detailed information about a user account.,qualys,0
+2064,retrieves detailed information about a user account.,relevant,0
+2065,retrieves detailed information about a user account.,sms,0
+2066,retrieves detailed information about a user account.,source.user,0
+2067,retrieves detailed information about a user account.,status,0
+2068,retrieves detailed information about a user account.,user,0
+2069,retrieves detailed information about a user account.,user.account,1
+2070,returns all case event ids,accounts,0
+2071,returns all case event ids,active,0
+2072,returns all case event ids,ad.account,0
+2073,returns all case event ids,case.event,1
+2074,returns all case event ids,crowdstrike,0
+2075,returns all case event ids,cve,0
+2076,returns all case event ids,email,0
+2077,returns all case event ids,external,0
+2078,returns all case event ids,file,0
+2079,returns all case event ids,generic.polling,0
+2080,returns all case event ids,hardware,0
+2081,returns all case event ids,host,0
+2082,returns all case event ids,id.dn,0
+2083,returns all case event ids,incident,0
+2084,returns all case event ids,logs,0
+2085,returns all case event ids,malicious,0
+2086,returns all case event ids,md5,0
+2087,returns all case event ids,na,0
+2088,returns all case event ids,no,0
+2089,returns all case event ids,pdf,0
+2090,returns all case event ids,phishe,0
+2091,returns all case event ids,playbook,0
+2092,returns all case event ids,priviledge,0
+2093,returns all case event ids,qualys,0
+2094,returns all case event ids,relevant,0
+2095,returns all case event ids,sms,0
+2096,returns all case event ids,source.user,0
+2097,returns all case event ids,status,0
+2098,returns all case event ids,user,0
+2099,returns all case event ids,user.account,0
+2100,returns information for the specified username.,accounts,0
+2101,returns information for the specified username.,active,0
+2102,returns information for the specified username.,ad.account,0
+2103,returns information for the specified username.,case.event,0
+2104,returns information for the specified username.,crowdstrike,0
+2105,returns information for the specified username.,cve,0
+2106,returns information for the specified username.,email,0
+2107,returns information for the specified username.,external,0
+2108,returns information for the specified username.,file,0
+2109,returns information for the specified username.,generic.polling,0
+2110,returns information for the specified username.,hardware,0
+2111,returns information for the specified username.,host,0
+2112,returns information for the specified username.,id.dn,0
+2113,returns information for the specified username.,incident,0
+2114,returns information for the specified username.,logs,0
+2115,returns information for the specified username.,malicious,0
+2116,returns information for the specified username.,md5,0
+2117,returns information for the specified username.,na,1
+2118,returns information for the specified username.,no,0
+2119,returns information for the specified username.,pdf,0
+2120,returns information for the specified username.,phishe,0
+2121,returns information for the specified username.,playbook,0
+2122,returns information for the specified username.,priviledge,0
+2123,returns information for the specified username.,qualys,0
+2124,returns information for the specified username.,relevant,0
+2125,returns information for the specified username.,sms,0
+2126,returns information for the specified username.,source.user,0
+2127,returns information for the specified username.,status,0
+2128,returns information for the specified username.,user,0
+2129,returns information for the specified username.,user.account,0
+2130,review email address,accounts,0
+2131,review email address,active,0
+2132,review email address,ad.account,0
+2133,review email address,case.event,0
+2134,review email address,crowdstrike,0
+2135,review email address,cve,0
+2136,review email address,email,1
+2137,review email address,external,0
+2138,review email address,file,0
+2139,review email address,generic.polling,0
+2140,review email address,hardware,0
+2141,review email address,host,0
+2142,review email address,id.dn,0
+2143,review email address,incident,0
+2144,review email address,logs,0
+2145,review email address,malicious,0
+2146,review email address,md5,0
+2147,review email address,na,0
+2148,review email address,no,0
+2149,review email address,pdf,0
+2150,review email address,phishe,0
+2151,review email address,playbook,0
+2152,review email address,priviledge,0
+2153,review email address,qualys,0
+2154,review email address,relevant,0
+2155,review email address,sms,0
+2156,review email address,source.user,0
+2157,review email address,status,0
+2158,review email address,user,0
+2159,review email address,user.account,0
+2160,review for active directory instance,accounts,1
+2161,review for active directory instance,active,0
+2162,review for active directory instance,ad.account,0
+2163,review for active directory instance,case.event,0
+2164,review for active directory instance,crowdstrike,0
+2165,review for active directory instance,cve,0
+2166,review for active directory instance,email,0
+2167,review for active directory instance,external,0
+2168,review for active directory instance,file,0
+2169,review for active directory instance,generic.polling,0
+2170,review for active directory instance,hardware,0
+2171,review for active directory instance,host,0
+2172,review for active directory instance,id.dn,0
+2173,review for active directory instance,incident,0
+2174,review for active directory instance,logs,0
+2175,review for active directory instance,malicious,0
+2176,review for active directory instance,md5,0
+2177,review for active directory instance,na,0
+2178,review for active directory instance,no,0
+2179,review for active directory instance,pdf,0
+2180,review for active directory instance,phishe,0
+2181,review for active directory instance,playbook,0
+2182,review for active directory instance,priviledge,0
+2183,review for active directory instance,qualys,0
+2184,review for active directory instance,relevant,0
+2185,review for active directory instance,sms,0
+2186,review for active directory instance,source.user,0
+2187,review for active directory instance,status,0
+2188,review for active directory instance,user,0
+2189,review for active directory instance,user.account,0
+2190,review if a given value exists in the context,accounts,0
+2191,review if a given value exists in the context,active,0
+2192,review if a given value exists in the context,ad.account,0
+2193,review if a given value exists in the context,case.event,0
+2194,review if a given value exists in the context,crowdstrike,0
+2195,review if a given value exists in the context,cve,0
+2196,review if a given value exists in the context,email,0
+2197,review if a given value exists in the context,external,0
+2198,review if a given value exists in the context,file,0
+2199,review if a given value exists in the context,generic.polling,0
+2200,review if a given value exists in the context,hardware,0
+2201,review if a given value exists in the context,host,0
+2202,review if a given value exists in the context,id.dn,0
+2203,review if a given value exists in the context,incident,0
+2204,review if a given value exists in the context,logs,0
+2205,review if a given value exists in the context,malicious,0
+2206,review if a given value exists in the context,md5,0
+2207,review if a given value exists in the context,na,1
+2208,review if a given value exists in the context,no,0
+2209,review if a given value exists in the context,pdf,0
+2210,review if a given value exists in the context,phishe,0
+2211,review if a given value exists in the context,playbook,0
+2212,review if a given value exists in the context,priviledge,0
+2213,review if a given value exists in the context,qualys,0
+2214,review if a given value exists in the context,relevant,0
+2215,review if a given value exists in the context,sms,0
+2216,review if a given value exists in the context,source.user,0
+2217,review if a given value exists in the context,status,0
+2218,review if a given value exists in the context,user,0
+2219,review if a given value exists in the context,user.account,0
+2220,review the account's privileges,accounts,0
+2221,review the account's privileges,active,0
+2222,review the account's privileges,ad.account,0
+2223,review the account's privileges,case.event,0
+2224,review the account's privileges,crowdstrike,0
+2225,review the account's privileges,cve,0
+2226,review the account's privileges,email,0
+2227,review the account's privileges,external,0
+2228,review the account's privileges,file,0
+2229,review the account's privileges,generic.polling,0
+2230,review the account's privileges,hardware,0
+2231,review the account's privileges,host,0
+2232,review the account's privileges,id.dn,0
+2233,review the account's privileges,incident,0
+2234,review the account's privileges,logs,0
+2235,review the account's privileges,malicious,0
+2236,review the account's privileges,md5,0
+2237,review the account's privileges,na,0
+2238,review the account's privileges,no,0
+2239,review the account's privileges,pdf,0
+2240,review the account's privileges,phishe,0
+2241,review the account's privileges,playbook,0
+2242,review the account's privileges,priviledge,1
+2243,review the account's privileges,qualys,0
+2244,review the account's privileges,relevant,0
+2245,review the account's privileges,sms,0
+2246,review the account's privileges,source.user,0
+2247,review the account's privileges,status,0
+2248,review the account's privileges,user,0
+2249,review the account's privileges,user.account,0
+2250,review the incident to determine if the account activity is malicious.,accounts,0
+2251,review the incident to determine if the account activity is malicious.,active,0
+2252,review the incident to determine if the account activity is malicious.,ad.account,0
+2253,review the incident to determine if the account activity is malicious.,case.event,0
+2254,review the incident to determine if the account activity is malicious.,crowdstrike,0
+2255,review the incident to determine if the account activity is malicious.,cve,0
+2256,review the incident to determine if the account activity is malicious.,email,0
+2257,review the incident to determine if the account activity is malicious.,external,0
+2258,review the incident to determine if the account activity is malicious.,file,0
+2259,review the incident to determine if the account activity is malicious.,generic.polling,0
+2260,review the incident to determine if the account activity is malicious.,hardware,0
+2261,review the incident to determine if the account activity is malicious.,host,0
+2262,review the incident to determine if the account activity is malicious.,id.dn,0
+2263,review the incident to determine if the account activity is malicious.,incident,0
+2264,review the incident to determine if the account activity is malicious.,logs,0
+2265,review the incident to determine if the account activity is malicious.,malicious,0
+2266,review the incident to determine if the account activity is malicious.,md5,0
+2267,review the incident to determine if the account activity is malicious.,na,1
+2268,review the incident to determine if the account activity is malicious.,no,0
+2269,review the incident to determine if the account activity is malicious.,pdf,0
+2270,review the incident to determine if the account activity is malicious.,phishe,0
+2271,review the incident to determine if the account activity is malicious.,playbook,0
+2272,review the incident to determine if the account activity is malicious.,priviledge,0
+2273,review the incident to determine if the account activity is malicious.,qualys,0
+2274,review the incident to determine if the account activity is malicious.,relevant,0
+2275,review the incident to determine if the account activity is malicious.,sms,0
+2276,review the incident to determine if the account activity is malicious.,source.user,0
+2277,review the incident to determine if the account activity is malicious.,status,0
+2278,review the incident to determine if the account activity is malicious.,user,0
+2279,review the incident to determine if the account activity is malicious.,user.account,0
+2280,review username to query,accounts,0
+2281,review username to query,active,0
+2282,review username to query,ad.account,0
+2283,review username to query,case.event,0
+2284,review username to query,crowdstrike,0
+2285,review username to query,cve,0
+2286,review username to query,email,0
+2287,review username to query,external,0
+2288,review username to query,file,0
+2289,review username to query,generic.polling,0
+2290,review username to query,hardware,0
+2291,review username to query,host,0
+2292,review username to query,id.dn,0
+2293,review username to query,incident,0
+2294,review username to query,logs,0
+2295,review username to query,malicious,0
+2296,review username to query,md5,0
+2297,review username to query,na,1
+2298,review username to query,no,0
+2299,review username to query,pdf,0
+2300,review username to query,phishe,0
+2301,review username to query,playbook,0
+2302,review username to query,priviledge,0
+2303,review username to query,qualys,0
+2304,review username to query,relevant,0
+2305,review username to query,sms,0
+2306,review username to query,source.user,0
+2307,review username to query,status,0
+2308,review username to query,user,0
+2309,review username to query,user.account,0
+2310,send an alert to the csirt slack channel,accounts,0
+2311,send an alert to the csirt slack channel,active,0
+2312,send an alert to the csirt slack channel,ad.account,0
+2313,send an alert to the csirt slack channel,case.event,0
+2314,send an alert to the csirt slack channel,crowdstrike,0
+2315,send an alert to the csirt slack channel,cve,0
+2316,send an alert to the csirt slack channel,email,0
+2317,send an alert to the csirt slack channel,external,0
+2318,send an alert to the csirt slack channel,file,0
+2319,send an alert to the csirt slack channel,generic.polling,0
+2320,send an alert to the csirt slack channel,hardware,0
+2321,send an alert to the csirt slack channel,host,0
+2322,send an alert to the csirt slack channel,id.dn,0
+2323,send an alert to the csirt slack channel,incident,0
+2324,send an alert to the csirt slack channel,logs,0
+2325,send an alert to the csirt slack channel,malicious,0
+2326,send an alert to the csirt slack channel,md5,0
+2327,send an alert to the csirt slack channel,na,1
+2328,send an alert to the csirt slack channel,no,0
+2329,send an alert to the csirt slack channel,pdf,0
+2330,send an alert to the csirt slack channel,phishe,0
+2331,send an alert to the csirt slack channel,playbook,0
+2332,send an alert to the csirt slack channel,priviledge,0
+2333,send an alert to the csirt slack channel,qualys,0
+2334,send an alert to the csirt slack channel,relevant,0
+2335,send an alert to the csirt slack channel,sms,0
+2336,send an alert to the csirt slack channel,source.user,0
+2337,send an alert to the csirt slack channel,status,0
+2338,send an alert to the csirt slack channel,user,0
+2339,send an alert to the csirt slack channel,user.account,0
+2340,send an email to the source user email address,accounts,0
+2341,send an email to the source user email address,active,0
+2342,send an email to the source user email address,ad.account,0
+2343,send an email to the source user email address,case.event,0
+2344,send an email to the source user email address,crowdstrike,0
+2345,send an email to the source user email address,cve,0
+2346,send an email to the source user email address,email,0
+2347,send an email to the source user email address,external,0
+2348,send an email to the source user email address,file,0
+2349,send an email to the source user email address,generic.polling,0
+2350,send an email to the source user email address,hardware,0
+2351,send an email to the source user email address,host,0
+2352,send an email to the source user email address,id.dn,0
+2353,send an email to the source user email address,incident,0
+2354,send an email to the source user email address,logs,0
+2355,send an email to the source user email address,malicious,0
+2356,send an email to the source user email address,md5,0
+2357,send an email to the source user email address,na,1
+2358,send an email to the source user email address,no,0
+2359,send an email to the source user email address,pdf,0
+2360,send an email to the source user email address,phishe,0
+2361,send an email to the source user email address,playbook,0
+2362,send an email to the source user email address,priviledge,0
+2363,send an email to the source user email address,qualys,0
+2364,send an email to the source user email address,relevant,0
+2365,send an email to the source user email address,sms,0
+2366,send an email to the source user email address,source.user,0
+2367,send an email to the source user email address,status,0
+2368,send an email to the source user email address,user,0
+2369,send an email to the source user email address,user.account,0
+2370,send an sms alert using twilio.,accounts,0
+2371,send an sms alert using twilio.,active,0
+2372,send an sms alert using twilio.,ad.account,0
+2373,send an sms alert using twilio.,case.event,0
+2374,send an sms alert using twilio.,crowdstrike,0
+2375,send an sms alert using twilio.,cve,0
+2376,send an sms alert using twilio.,email,0
+2377,send an sms alert using twilio.,external,0
+2378,send an sms alert using twilio.,file,0
+2379,send an sms alert using twilio.,generic.polling,0
+2380,send an sms alert using twilio.,hardware,0
+2381,send an sms alert using twilio.,host,0
+2382,send an sms alert using twilio.,id.dn,0
+2383,send an sms alert using twilio.,incident,0
+2384,send an sms alert using twilio.,logs,0
+2385,send an sms alert using twilio.,malicious,0
+2386,send an sms alert using twilio.,md5,0
+2387,send an sms alert using twilio.,na,0
+2388,send an sms alert using twilio.,no,0
+2389,send an sms alert using twilio.,pdf,0
+2390,send an sms alert using twilio.,phishe,0
+2391,send an sms alert using twilio.,playbook,0
+2392,send an sms alert using twilio.,priviledge,0
+2393,send an sms alert using twilio.,qualys,0
+2394,send an sms alert using twilio.,relevant,0
+2395,send an sms alert using twilio.,sms,1
+2396,send an sms alert using twilio.,source.user,0
+2397,send an sms alert using twilio.,status,0
+2398,send an sms alert using twilio.,user,0
+2399,send an sms alert using twilio.,user.account,0
+2400,send file to cuckoo,accounts,0
+2401,send file to cuckoo,active,0
+2402,send file to cuckoo,ad.account,0
+2403,send file to cuckoo,case.event,0
+2404,send file to cuckoo,crowdstrike,0
+2405,send file to cuckoo,cve,0
+2406,send file to cuckoo,email,0
+2407,send file to cuckoo,external,0
+2408,send file to cuckoo,file,0
+2409,send file to cuckoo,generic.polling,0
+2410,send file to cuckoo,hardware,0
+2411,send file to cuckoo,host,0
+2412,send file to cuckoo,id.dn,0
+2413,send file to cuckoo,incident,0
+2414,send file to cuckoo,logs,0
+2415,send file to cuckoo,malicious,0
+2416,send file to cuckoo,md5,0
+2417,send file to cuckoo,na,1
+2418,send file to cuckoo,no,0
+2419,send file to cuckoo,pdf,0
+2420,send file to cuckoo,phishe,0
+2421,send file to cuckoo,playbook,0
+2422,send file to cuckoo,priviledge,0
+2423,send file to cuckoo,qualys,0
+2424,send file to cuckoo,relevant,0
+2425,send file to cuckoo,sms,0
+2426,send file to cuckoo,source.user,0
+2427,send file to cuckoo,status,0
+2428,send file to cuckoo,user,0
+2429,send file to cuckoo,user.account,0
+2430,set incident's severity to high,accounts,0
+2431,set incident's severity to high,active,0
+2432,set incident's severity to high,ad.account,0
+2433,set incident's severity to high,case.event,0
+2434,set incident's severity to high,crowdstrike,0
+2435,set incident's severity to high,cve,0
+2436,set incident's severity to high,email,0
+2437,set incident's severity to high,external,0
+2438,set incident's severity to high,file,0
+2439,set incident's severity to high,generic.polling,0
+2440,set incident's severity to high,hardware,0
+2441,set incident's severity to high,host,0
+2442,set incident's severity to high,id.dn,0
+2443,set incident's severity to high,incident,1
+2444,set incident's severity to high,logs,0
+2445,set incident's severity to high,malicious,0
+2446,set incident's severity to high,md5,0
+2447,set incident's severity to high,na,0
+2448,set incident's severity to high,no,0
+2449,set incident's severity to high,pdf,0
+2450,set incident's severity to high,phishe,0
+2451,set incident's severity to high,playbook,0
+2452,set incident's severity to high,priviledge,0
+2453,set incident's severity to high,qualys,0
+2454,set incident's severity to high,relevant,0
+2455,set incident's severity to high,sms,0
+2456,set incident's severity to high,source.user,0
+2457,set incident's severity to high,status,0
+2458,set incident's severity to high,user,0
+2459,set incident's severity to high,user.account,0
+2460,set the file object into context.,accounts,0
+2461,set the file object into context.,active,0
+2462,set the file object into context.,ad.account,0
+2463,set the file object into context.,case.event,0
+2464,set the file object into context.,crowdstrike,0
+2465,set the file object into context.,cve,0
+2466,set the file object into context.,email,0
+2467,set the file object into context.,external,0
+2468,set the file object into context.,file,1
+2469,set the file object into context.,generic.polling,0
+2470,set the file object into context.,hardware,0
+2471,set the file object into context.,host,0
+2472,set the file object into context.,id.dn,0
+2473,set the file object into context.,incident,0
+2474,set the file object into context.,logs,0
+2475,set the file object into context.,malicious,0
+2476,set the file object into context.,md5,0
+2477,set the file object into context.,na,0
+2478,set the file object into context.,no,0
+2479,set the file object into context.,pdf,0
+2480,set the file object into context.,phishe,0
+2481,set the file object into context.,playbook,0
+2482,set the file object into context.,priviledge,0
+2483,set the file object into context.,qualys,0
+2484,set the file object into context.,relevant,0
+2485,set the file object into context.,sms,0
+2486,set the file object into context.,source.user,0
+2487,set the file object into context.,status,0
+2488,set the file object into context.,user,0
+2489,set the file object into context.,user.account,0
+2490,set the incident severity to high.,accounts,0
+2491,set the incident severity to high.,active,0
+2492,set the incident severity to high.,ad.account,0
+2493,set the incident severity to high.,case.event,0
+2494,set the incident severity to high.,crowdstrike,0
+2495,set the incident severity to high.,cve,0
+2496,set the incident severity to high.,email,0
+2497,set the incident severity to high.,external,0
+2498,set the incident severity to high.,file,0
+2499,set the incident severity to high.,generic.polling,0
+2500,set the incident severity to high.,hardware,0
+2501,set the incident severity to high.,host,0
+2502,set the incident severity to high.,id.dn,0
+2503,set the incident severity to high.,incident,1
+2504,set the incident severity to high.,logs,0
+2505,set the incident severity to high.,malicious,0
+2506,set the incident severity to high.,md5,0
+2507,set the incident severity to high.,na,0
+2508,set the incident severity to high.,no,0
+2509,set the incident severity to high.,pdf,0
+2510,set the incident severity to high.,phishe,0
+2511,set the incident severity to high.,playbook,0
+2512,set the incident severity to high.,priviledge,0
+2513,set the incident severity to high.,qualys,0
+2514,set the incident severity to high.,relevant,0
+2515,set the incident severity to high.,sms,0
+2516,set the incident severity to high.,source.user,0
+2517,set the incident severity to high.,status,0
+2518,set the incident severity to high.,user,0
+2519,set the incident severity to high.,user.account,0
+2520,set the incident severity to low.,accounts,0
+2521,set the incident severity to low.,active,0
+2522,set the incident severity to low.,ad.account,0
+2523,set the incident severity to low.,case.event,0
+2524,set the incident severity to low.,crowdstrike,0
+2525,set the incident severity to low.,cve,0
+2526,set the incident severity to low.,email,0
+2527,set the incident severity to low.,external,0
+2528,set the incident severity to low.,file,0
+2529,set the incident severity to low.,generic.polling,0
+2530,set the incident severity to low.,hardware,0
+2531,set the incident severity to low.,host,0
+2532,set the incident severity to low.,id.dn,0
+2533,set the incident severity to low.,incident,1
+2534,set the incident severity to low.,logs,0
+2535,set the incident severity to low.,malicious,0
+2536,set the incident severity to low.,md5,0
+2537,set the incident severity to low.,na,0
+2538,set the incident severity to low.,no,0
+2539,set the incident severity to low.,pdf,0
+2540,set the incident severity to low.,phishe,0
+2541,set the incident severity to low.,playbook,0
+2542,set the incident severity to low.,priviledge,0
+2543,set the incident severity to low.,qualys,0
+2544,set the incident severity to low.,relevant,0
+2545,set the incident severity to low.,sms,0
+2546,set the incident severity to low.,source.user,0
+2547,set the incident severity to low.,status,0
+2548,set the incident severity to low.,user,0
+2549,set the incident severity to low.,user.account,0
+2550,set the information retrieved from qradar into access the incident,accounts,0
+2551,set the information retrieved from qradar into access the incident,active,0
+2552,set the information retrieved from qradar into access the incident,ad.account,0
+2553,set the information retrieved from qradar into access the incident,case.event,0
+2554,set the information retrieved from qradar into access the incident,crowdstrike,0
+2555,set the information retrieved from qradar into access the incident,cve,0
+2556,set the information retrieved from qradar into access the incident,email,0
+2557,set the information retrieved from qradar into access the incident,external,0
+2558,set the information retrieved from qradar into access the incident,file,0
+2559,set the information retrieved from qradar into access the incident,generic.polling,0
+2560,set the information retrieved from qradar into access the incident,hardware,0
+2561,set the information retrieved from qradar into access the incident,host,0
+2562,set the information retrieved from qradar into access the incident,id.dn,0
+2563,set the information retrieved from qradar into access the incident,incident,0
+2564,set the information retrieved from qradar into access the incident,logs,0
+2565,set the information retrieved from qradar into access the incident,malicious,0
+2566,set the information retrieved from qradar into access the incident,md5,0
+2567,set the information retrieved from qradar into access the incident,na,1
+2568,set the information retrieved from qradar into access the incident,no,0
+2569,set the information retrieved from qradar into access the incident,pdf,0
+2570,set the information retrieved from qradar into access the incident,phishe,0
+2571,set the information retrieved from qradar into access the incident,playbook,0
+2572,set the information retrieved from qradar into access the incident,priviledge,0
+2573,set the information retrieved from qradar into access the incident,qualys,0
+2574,set the information retrieved from qradar into access the incident,relevant,0
+2575,set the information retrieved from qradar into access the incident,sms,0
+2576,set the information retrieved from qradar into access the incident,source.user,0
+2577,set the information retrieved from qradar into access the incident,status,0
+2578,set the information retrieved from qradar into access the incident,user,0
+2579,set the information retrieved from qradar into access the incident,user.account,0
+2580,set the qualys reports list into context,accounts,0
+2581,set the qualys reports list into context,active,0
+2582,set the qualys reports list into context,ad.account,0
+2583,set the qualys reports list into context,case.event,0
+2584,set the qualys reports list into context,crowdstrike,0
+2585,set the qualys reports list into context,cve,0
+2586,set the qualys reports list into context,email,0
+2587,set the qualys reports list into context,external,0
+2588,set the qualys reports list into context,file,0
+2589,set the qualys reports list into context,generic.polling,0
+2590,set the qualys reports list into context,hardware,0
+2591,set the qualys reports list into context,host,0
+2592,set the qualys reports list into context,id.dn,0
+2593,set the qualys reports list into context,incident,0
+2594,set the qualys reports list into context,logs,0
+2595,set the qualys reports list into context,malicious,0
+2596,set the qualys reports list into context,md5,0
+2597,set the qualys reports list into context,na,0
+2598,set the qualys reports list into context,no,0
+2599,set the qualys reports list into context,pdf,0
+2600,set the qualys reports list into context,phishe,0
+2601,set the qualys reports list into context,playbook,0
+2602,set the qualys reports list into context,priviledge,0
+2603,set the qualys reports list into context,qualys,1
+2604,set the qualys reports list into context,relevant,0
+2605,set the qualys reports list into context,sms,0
+2606,set the qualys reports list into context,source.user,0
+2607,set the qualys reports list into context,status,0
+2608,set the qualys reports list into context,user,0
+2609,set the qualys reports list into context,user.account,0
+2610,submit a file for analysis.,accounts,0
+2611,submit a file for analysis.,active,0
+2612,submit a file for analysis.,ad.account,0
+2613,submit a file for analysis.,case.event,0
+2614,submit a file for analysis.,crowdstrike,0
+2615,submit a file for analysis.,cve,0
+2616,submit a file for analysis.,email,0
+2617,submit a file for analysis.,external,0
+2618,submit a file for analysis.,file,0
+2619,submit a file for analysis.,generic.polling,0
+2620,submit a file for analysis.,hardware,0
+2621,submit a file for analysis.,host,0
+2622,submit a file for analysis.,id.dn,0
+2623,submit a file for analysis.,incident,0
+2624,submit a file for analysis.,logs,0
+2625,submit a file for analysis.,malicious,0
+2626,submit a file for analysis.,md5,0
+2627,submit a file for analysis.,na,1
+2628,submit a file for analysis.,no,0
+2629,submit a file for analysis.,pdf,0
+2630,submit a file for analysis.,phishe,0
+2631,submit a file for analysis.,playbook,0
+2632,submit a file for analysis.,priviledge,0
+2633,submit a file for analysis.,qualys,0
+2634,submit a file for analysis.,relevant,0
+2635,submit a file for analysis.,sms,0
+2636,submit a file for analysis.,source.user,0
+2637,submit a file for analysis.,status,0
+2638,submit a file for analysis.,user,0
+2639,submit a file for analysis.,user.account,0
+2640,submit url for analysis.,accounts,0
+2641,submit url for analysis.,active,0
+2642,submit url for analysis.,ad.account,0
+2643,submit url for analysis.,case.event,0
+2644,submit url for analysis.,crowdstrike,0
+2645,submit url for analysis.,cve,0
+2646,submit url for analysis.,email,0
+2647,submit url for analysis.,external,0
+2648,submit url for analysis.,file,0
+2649,submit url for analysis.,generic.polling,0
+2650,submit url for analysis.,hardware,0
+2651,submit url for analysis.,host,0
+2652,submit url for analysis.,id.dn,0
+2653,submit url for analysis.,incident,0
+2654,submit url for analysis.,logs,0
+2655,submit url for analysis.,malicious,0
+2656,submit url for analysis.,md5,0
+2657,submit url for analysis.,na,1
+2658,submit url for analysis.,no,0
+2659,submit url for analysis.,pdf,0
+2660,submit url for analysis.,phishe,0
+2661,submit url for analysis.,playbook,0
+2662,submit url for analysis.,priviledge,0
+2663,submit url for analysis.,qualys,0
+2664,submit url for analysis.,relevant,0
+2665,submit url for analysis.,sms,0
+2666,submit url for analysis.,source.user,0
+2667,submit url for analysis.,status,0
+2668,submit url for analysis.,user,0
+2669,submit url for analysis.,user.account,0
+2670,submits a sample to crowdstrike,accounts,0
+2671,submits a sample to crowdstrike,active,0
+2672,submits a sample to crowdstrike,ad.account,0
+2673,submits a sample to crowdstrike,case.event,0
+2674,submits a sample to crowdstrike,crowdstrike,0
+2675,submits a sample to crowdstrike,cve,0
+2676,submits a sample to crowdstrike,email,0
+2677,submits a sample to crowdstrike,external,0
+2678,submits a sample to crowdstrike,file,0
+2679,submits a sample to crowdstrike,generic.polling,0
+2680,submits a sample to crowdstrike,hardware,0
+2681,submits a sample to crowdstrike,host,0
+2682,submits a sample to crowdstrike,id.dn,0
+2683,submits a sample to crowdstrike,incident,0
+2684,submits a sample to crowdstrike,logs,0
+2685,submits a sample to crowdstrike,malicious,0
+2686,submits a sample to crowdstrike,md5,0
+2687,submits a sample to crowdstrike,na,1
+2688,submits a sample to crowdstrike,no,0
+2689,submits a sample to crowdstrike,pdf,0
+2690,submits a sample to crowdstrike,phishe,0
+2691,submits a sample to crowdstrike,playbook,0
+2692,submits a sample to crowdstrike,priviledge,0
+2693,submits a sample to crowdstrike,qualys,0
+2694,submits a sample to crowdstrike,relevant,0
+2695,submits a sample to crowdstrike,sms,0
+2696,submits a sample to crowdstrike,source.user,0
+2697,submits a sample to crowdstrike,status,0
+2698,submits a sample to crowdstrike,user,0
+2699,submits a sample to crowdstrike,user.account,0
+2700,submits a sample to fireeye ax,accounts,0
+2701,submits a sample to fireeye ax,active,0
+2702,submits a sample to fireeye ax,ad.account,0
+2703,submits a sample to fireeye ax,case.event,0
+2704,submits a sample to fireeye ax,crowdstrike,0
+2705,submits a sample to fireeye ax,cve,0
+2706,submits a sample to fireeye ax,email,0
+2707,submits a sample to fireeye ax,external,0
+2708,submits a sample to fireeye ax,file,0
+2709,submits a sample to fireeye ax,generic.polling,0
+2710,submits a sample to fireeye ax,hardware,0
+2711,submits a sample to fireeye ax,host,0
+2712,submits a sample to fireeye ax,id.dn,0
+2713,submits a sample to fireeye ax,incident,0
+2714,submits a sample to fireeye ax,logs,0
+2715,submits a sample to fireeye ax,malicious,0
+2716,submits a sample to fireeye ax,md5,0
+2717,submits a sample to fireeye ax,na,1
+2718,submits a sample to fireeye ax,no,0
+2719,submits a sample to fireeye ax,pdf,0
+2720,submits a sample to fireeye ax,phishe,0
+2721,submits a sample to fireeye ax,playbook,0
+2722,submits a sample to fireeye ax,priviledge,0
+2723,submits a sample to fireeye ax,qualys,0
+2724,submits a sample to fireeye ax,relevant,0
+2725,submits a sample to fireeye ax,sms,0
+2726,submits a sample to fireeye ax,source.user,0
+2727,submits a sample to fireeye ax,status,0
+2728,submits a sample to fireeye ax,user,0
+2729,submits a sample to fireeye ax,user.account,0
+2730,this playbook blocks malicious usernames using all integrations that you have enabled.,accounts,0
+2731,this playbook blocks malicious usernames using all integrations that you have enabled.,active,0
+2732,this playbook blocks malicious usernames using all integrations that you have enabled.,ad.account,0
+2733,this playbook blocks malicious usernames using all integrations that you have enabled.,case.event,0
+2734,this playbook blocks malicious usernames using all integrations that you have enabled.,crowdstrike,0
+2735,this playbook blocks malicious usernames using all integrations that you have enabled.,cve,0
+2736,this playbook blocks malicious usernames using all integrations that you have enabled.,email,0
+2737,this playbook blocks malicious usernames using all integrations that you have enabled.,external,0
+2738,this playbook blocks malicious usernames using all integrations that you have enabled.,file,0
+2739,this playbook blocks malicious usernames using all integrations that you have enabled.,generic.polling,0
+2740,this playbook blocks malicious usernames using all integrations that you have enabled.,hardware,0
+2741,this playbook blocks malicious usernames using all integrations that you have enabled.,host,0
+2742,this playbook blocks malicious usernames using all integrations that you have enabled.,id.dn,0
+2743,this playbook blocks malicious usernames using all integrations that you have enabled.,incident,0
+2744,this playbook blocks malicious usernames using all integrations that you have enabled.,logs,0
+2745,this playbook blocks malicious usernames using all integrations that you have enabled.,malicious,1
+2746,this playbook blocks malicious usernames using all integrations that you have enabled.,md5,0
+2747,this playbook blocks malicious usernames using all integrations that you have enabled.,na,0
+2748,this playbook blocks malicious usernames using all integrations that you have enabled.,no,0
+2749,this playbook blocks malicious usernames using all integrations that you have enabled.,pdf,0
+2750,this playbook blocks malicious usernames using all integrations that you have enabled.,phishe,0
+2751,this playbook blocks malicious usernames using all integrations that you have enabled.,playbook,0
+2752,this playbook blocks malicious usernames using all integrations that you have enabled.,priviledge,0
+2753,this playbook blocks malicious usernames using all integrations that you have enabled.,qualys,0
+2754,this playbook blocks malicious usernames using all integrations that you have enabled.,relevant,0
+2755,this playbook blocks malicious usernames using all integrations that you have enabled.,sms,0
+2756,this playbook blocks malicious usernames using all integrations that you have enabled.,source.user,0
+2757,this playbook blocks malicious usernames using all integrations that you have enabled.,status,0
+2758,this playbook blocks malicious usernames using all integrations that you have enabled.,user,0
+2759,this playbook blocks malicious usernames using all integrations that you have enabled.,user.account,0
+2760,upload a file sample to bitdam's service,accounts,0
+2761,upload a file sample to bitdam's service,active,0
+2762,upload a file sample to bitdam's service,ad.account,0
+2763,upload a file sample to bitdam's service,case.event,0
+2764,upload a file sample to bitdam's service,crowdstrike,0
+2765,upload a file sample to bitdam's service,cve,0
+2766,upload a file sample to bitdam's service,email,0
+2767,upload a file sample to bitdam's service,external,0
+2768,upload a file sample to bitdam's service,file,1
+2769,upload a file sample to bitdam's service,generic.polling,0
+2770,upload a file sample to bitdam's service,hardware,0
+2771,upload a file sample to bitdam's service,host,0
+2772,upload a file sample to bitdam's service,id.dn,0
+2773,upload a file sample to bitdam's service,incident,0
+2774,upload a file sample to bitdam's service,logs,0
+2775,upload a file sample to bitdam's service,malicious,0
+2776,upload a file sample to bitdam's service,md5,0
+2777,upload a file sample to bitdam's service,na,0
+2778,upload a file sample to bitdam's service,no,0
+2779,upload a file sample to bitdam's service,pdf,0
+2780,upload a file sample to bitdam's service,phishe,0
+2781,upload a file sample to bitdam's service,playbook,0
+2782,upload a file sample to bitdam's service,priviledge,0
+2783,upload a file sample to bitdam's service,qualys,0
+2784,upload a file sample to bitdam's service,relevant,0
+2785,upload a file sample to bitdam's service,sms,0
+2786,upload a file sample to bitdam's service,source.user,0
+2787,upload a file sample to bitdam's service,status,0
+2788,upload a file sample to bitdam's service,user,0
+2789,upload a file sample to bitdam's service,user.account,0
+2790,upload samle to sandbox,accounts,0
+2791,upload samle to sandbox,active,0
+2792,upload samle to sandbox,ad.account,0
+2793,upload samle to sandbox,case.event,0
+2794,upload samle to sandbox,crowdstrike,0
+2795,upload samle to sandbox,cve,0
+2796,upload samle to sandbox,email,0
+2797,upload samle to sandbox,external,0
+2798,upload samle to sandbox,file,0
+2799,upload samle to sandbox,generic.polling,0
+2800,upload samle to sandbox,hardware,0
+2801,upload samle to sandbox,host,0
+2802,upload samle to sandbox,id.dn,0
+2803,upload samle to sandbox,incident,0
+2804,upload samle to sandbox,logs,0
+2805,upload samle to sandbox,malicious,0
+2806,upload samle to sandbox,md5,0
+2807,upload samle to sandbox,na,1
+2808,upload samle to sandbox,no,0
+2809,upload samle to sandbox,pdf,0
+2810,upload samle to sandbox,phishe,0
+2811,upload samle to sandbox,playbook,0
+2812,upload samle to sandbox,priviledge,0
+2813,upload samle to sandbox,qualys,0
+2814,upload samle to sandbox,relevant,0
+2815,upload samle to sandbox,sms,0
+2816,upload samle to sandbox,source.user,0
+2817,upload samle to sandbox,status,0
+2818,upload samle to sandbox,user,0
+2819,upload samle to sandbox,user.account,0
+2820,upload sample to crowdstrike,accounts,0
+2821,upload sample to crowdstrike,active,0
+2822,upload sample to crowdstrike,ad.account,0
+2823,upload sample to crowdstrike,case.event,0
+2824,upload sample to crowdstrike,crowdstrike,0
+2825,upload sample to crowdstrike,cve,0
+2826,upload sample to crowdstrike,email,0
+2827,upload sample to crowdstrike,external,0
+2828,upload sample to crowdstrike,file,0
+2829,upload sample to crowdstrike,generic.polling,0
+2830,upload sample to crowdstrike,hardware,0
+2831,upload sample to crowdstrike,host,0
+2832,upload sample to crowdstrike,id.dn,0
+2833,upload sample to crowdstrike,incident,0
+2834,upload sample to crowdstrike,logs,0
+2835,upload sample to crowdstrike,malicious,0
+2836,upload sample to crowdstrike,md5,0
+2837,upload sample to crowdstrike,na,1
+2838,upload sample to crowdstrike,no,0
+2839,upload sample to crowdstrike,pdf,0
+2840,upload sample to crowdstrike,phishe,0
+2841,upload sample to crowdstrike,playbook,0
+2842,upload sample to crowdstrike,priviledge,0
+2843,upload sample to crowdstrike,qualys,0
+2844,upload sample to crowdstrike,relevant,0
+2845,upload sample to crowdstrike,sms,0
+2846,upload sample to crowdstrike,source.user,0
+2847,upload sample to crowdstrike,status,0
+2848,upload sample to crowdstrike,user,0
+2849,upload sample to crowdstrike,user.account,0
+2850,use the user response (yes or no) to direct the playbook.,accounts,0
+2851,use the user response (yes or no) to direct the playbook.,active,0
+2852,use the user response (yes or no) to direct the playbook.,ad.account,0
+2853,use the user response (yes or no) to direct the playbook.,case.event,0
+2854,use the user response (yes or no) to direct the playbook.,crowdstrike,0
+2855,use the user response (yes or no) to direct the playbook.,cve,0
+2856,use the user response (yes or no) to direct the playbook.,email,0
+2857,use the user response (yes or no) to direct the playbook.,external,0
+2858,use the user response (yes or no) to direct the playbook.,file,0
+2859,use the user response (yes or no) to direct the playbook.,generic.polling,0
+2860,use the user response (yes or no) to direct the playbook.,hardware,0
+2861,use the user response (yes or no) to direct the playbook.,host,0
+2862,use the user response (yes or no) to direct the playbook.,id.dn,0
+2863,use the user response (yes or no) to direct the playbook.,incident,0
+2864,use the user response (yes or no) to direct the playbook.,logs,0
+2865,use the user response (yes or no) to direct the playbook.,malicious,0
+2866,use the user response (yes or no) to direct the playbook.,md5,0
+2867,use the user response (yes or no) to direct the playbook.,na,0
+2868,use the user response (yes or no) to direct the playbook.,no,0
+2869,use the user response (yes or no) to direct the playbook.,pdf,0
+2870,use the user response (yes or no) to direct the playbook.,phishe,0
+2871,use the user response (yes or no) to direct the playbook.,playbook,0
+2872,use the user response (yes or no) to direct the playbook.,priviledge,0
+2873,use the user response (yes or no) to direct the playbook.,qualys,0
+2874,use the user response (yes or no) to direct the playbook.,relevant,0
+2875,use the user response (yes or no) to direct the playbook.,sms,0
+2876,use the user response (yes or no) to direct the playbook.,source.user,0
+2877,use the user response (yes or no) to direct the playbook.,status,0
+2878,use the user response (yes or no) to direct the playbook.,user,1
+2879,use the user response (yes or no) to direct the playbook.,user.account,0
+2880,verify that the playbook input includes at least one ip to block.,accounts,0
+2881,verify that the playbook input includes at least one ip to block.,active,0
+2882,verify that the playbook input includes at least one ip to block.,ad.account,0
+2883,verify that the playbook input includes at least one ip to block.,case.event,0
+2884,verify that the playbook input includes at least one ip to block.,crowdstrike,0
+2885,verify that the playbook input includes at least one ip to block.,cve,0
+2886,verify that the playbook input includes at least one ip to block.,email,0
+2887,verify that the playbook input includes at least one ip to block.,external,0
+2888,verify that the playbook input includes at least one ip to block.,file,0
+2889,verify that the playbook input includes at least one ip to block.,generic.polling,0
+2890,verify that the playbook input includes at least one ip to block.,hardware,0
+2891,verify that the playbook input includes at least one ip to block.,host,0
+2892,verify that the playbook input includes at least one ip to block.,id.dn,0
+2893,verify that the playbook input includes at least one ip to block.,incident,0
+2894,verify that the playbook input includes at least one ip to block.,logs,0
+2895,verify that the playbook input includes at least one ip to block.,malicious,0
+2896,verify that the playbook input includes at least one ip to block.,md5,0
+2897,verify that the playbook input includes at least one ip to block.,na,0
+2898,verify that the playbook input includes at least one ip to block.,no,0
+2899,verify that the playbook input includes at least one ip to block.,pdf,0
+2900,verify that the playbook input includes at least one ip to block.,phishe,0
+2901,verify that the playbook input includes at least one ip to block.,playbook,1
+2902,verify that the playbook input includes at least one ip to block.,priviledge,0
+2903,verify that the playbook input includes at least one ip to block.,qualys,0
+2904,verify that the playbook input includes at least one ip to block.,relevant,0
+2905,verify that the playbook input includes at least one ip to block.,sms,0
+2906,verify that the playbook input includes at least one ip to block.,source.user,0
+2907,verify that the playbook input includes at least one ip to block.,status,0
+2908,verify that the playbook input includes at least one ip to block.,user,0
+2909,verify that the playbook input includes at least one ip to block.,user.account,0
+2910,verify that the playbook input includes at least one url to block.,accounts,0
+2911,verify that the playbook input includes at least one url to block.,active,0
+2912,verify that the playbook input includes at least one url to block.,ad.account,0
+2913,verify that the playbook input includes at least one url to block.,case.event,0
+2914,verify that the playbook input includes at least one url to block.,crowdstrike,0
+2915,verify that the playbook input includes at least one url to block.,cve,0
+2916,verify that the playbook input includes at least one url to block.,email,0
+2917,verify that the playbook input includes at least one url to block.,external,0
+2918,verify that the playbook input includes at least one url to block.,file,0
+2919,verify that the playbook input includes at least one url to block.,generic.polling,0
+2920,verify that the playbook input includes at least one url to block.,hardware,0
+2921,verify that the playbook input includes at least one url to block.,host,0
+2922,verify that the playbook input includes at least one url to block.,id.dn,0
+2923,verify that the playbook input includes at least one url to block.,incident,0
+2924,verify that the playbook input includes at least one url to block.,logs,0
+2925,verify that the playbook input includes at least one url to block.,malicious,0
+2926,verify that the playbook input includes at least one url to block.,md5,0
+2927,verify that the playbook input includes at least one url to block.,na,0
+2928,verify that the playbook input includes at least one url to block.,no,0
+2929,verify that the playbook input includes at least one url to block.,pdf,0
+2930,verify that the playbook input includes at least one url to block.,phishe,0
+2931,verify that the playbook input includes at least one url to block.,playbook,1
+2932,verify that the playbook input includes at least one url to block.,priviledge,0
+2933,verify that the playbook input includes at least one url to block.,qualys,0
+2934,verify that the playbook input includes at least one url to block.,relevant,0
+2935,verify that the playbook input includes at least one url to block.,sms,0
+2936,verify that the playbook input includes at least one url to block.,source.user,0
+2937,verify that the playbook input includes at least one url to block.,status,0
+2938,verify that the playbook input includes at least one url to block.,user,0
+2939,verify that the playbook input includes at least one url to block.,user.account,0
+2940,verify that the playbook input includes at least one username to block.,accounts,0
+2941,verify that the playbook input includes at least one username to block.,active,0
+2942,verify that the playbook input includes at least one username to block.,ad.account,0
+2943,verify that the playbook input includes at least one username to block.,case.event,0
+2944,verify that the playbook input includes at least one username to block.,crowdstrike,0
+2945,verify that the playbook input includes at least one username to block.,cve,0
+2946,verify that the playbook input includes at least one username to block.,email,0
+2947,verify that the playbook input includes at least one username to block.,external,0
+2948,verify that the playbook input includes at least one username to block.,file,0
+2949,verify that the playbook input includes at least one username to block.,generic.polling,0
+2950,verify that the playbook input includes at least one username to block.,hardware,0
+2951,verify that the playbook input includes at least one username to block.,host,0
+2952,verify that the playbook input includes at least one username to block.,id.dn,0
+2953,verify that the playbook input includes at least one username to block.,incident,0
+2954,verify that the playbook input includes at least one username to block.,logs,0
+2955,verify that the playbook input includes at least one username to block.,malicious,0
+2956,verify that the playbook input includes at least one username to block.,md5,0
+2957,verify that the playbook input includes at least one username to block.,na,0
+2958,verify that the playbook input includes at least one username to block.,no,0
+2959,verify that the playbook input includes at least one username to block.,pdf,0
+2960,verify that the playbook input includes at least one username to block.,phishe,0
+2961,verify that the playbook input includes at least one username to block.,playbook,1
+2962,verify that the playbook input includes at least one username to block.,priviledge,0
+2963,verify that the playbook input includes at least one username to block.,qualys,0
+2964,verify that the playbook input includes at least one username to block.,relevant,0
+2965,verify that the playbook input includes at least one username to block.,sms,0
+2966,verify that the playbook input includes at least one username to block.,source.user,0
+2967,verify that the playbook input includes at least one username to block.,status,0
+2968,verify that the playbook input includes at least one username to block.,user,0
+2969,verify that the playbook input includes at least one username to block.,user.account,0
+2970,verify the manager id (dn) of the source user account was returned in context.,accounts,0
+2971,verify the manager id (dn) of the source user account was returned in context.,active,0
+2972,verify the manager id (dn) of the source user account was returned in context.,ad.account,0
+2973,verify the manager id (dn) of the source user account was returned in context.,case.event,0
+2974,verify the manager id (dn) of the source user account was returned in context.,crowdstrike,0
+2975,verify the manager id (dn) of the source user account was returned in context.,cve,0
+2976,verify the manager id (dn) of the source user account was returned in context.,email,0
+2977,verify the manager id (dn) of the source user account was returned in context.,external,0
+2978,verify the manager id (dn) of the source user account was returned in context.,file,0
+2979,verify the manager id (dn) of the source user account was returned in context.,generic.polling,0
+2980,verify the manager id (dn) of the source user account was returned in context.,hardware,0
+2981,verify the manager id (dn) of the source user account was returned in context.,host,0
+2982,verify the manager id (dn) of the source user account was returned in context.,id.dn,1
+2983,verify the manager id (dn) of the source user account was returned in context.,incident,0
+2984,verify the manager id (dn) of the source user account was returned in context.,logs,0
+2985,verify the manager id (dn) of the source user account was returned in context.,malicious,0
+2986,verify the manager id (dn) of the source user account was returned in context.,md5,0
+2987,verify the manager id (dn) of the source user account was returned in context.,na,0
+2988,verify the manager id (dn) of the source user account was returned in context.,no,0
+2989,verify the manager id (dn) of the source user account was returned in context.,pdf,0
+2990,verify the manager id (dn) of the source user account was returned in context.,phishe,0
+2991,verify the manager id (dn) of the source user account was returned in context.,playbook,0
+2992,verify the manager id (dn) of the source user account was returned in context.,priviledge,0
+2993,verify the manager id (dn) of the source user account was returned in context.,qualys,0
+2994,verify the manager id (dn) of the source user account was returned in context.,relevant,0
+2995,verify the manager id (dn) of the source user account was returned in context.,sms,0
+2996,verify the manager id (dn) of the source user account was returned in context.,source.user,0
+2997,verify the manager id (dn) of the source user account was returned in context.,status,0
+2998,verify the manager id (dn) of the source user account was returned in context.,user,0
+2999,verify the manager id (dn) of the source user account was returned in context.,user.account,0
+3000,verify the playbook input includes at least one cve id to enrich.,accounts,0
+3001,verify the playbook input includes at least one cve id to enrich.,active,0
+3002,verify the playbook input includes at least one cve id to enrich.,ad.account,0
+3003,verify the playbook input includes at least one cve id to enrich.,case.event,0
+3004,verify the playbook input includes at least one cve id to enrich.,crowdstrike,0
+3005,verify the playbook input includes at least one cve id to enrich.,cve,0
+3006,verify the playbook input includes at least one cve id to enrich.,email,0
+3007,verify the playbook input includes at least one cve id to enrich.,external,0
+3008,verify the playbook input includes at least one cve id to enrich.,file,0
+3009,verify the playbook input includes at least one cve id to enrich.,generic.polling,0
+3010,verify the playbook input includes at least one cve id to enrich.,hardware,0
+3011,verify the playbook input includes at least one cve id to enrich.,host,0
+3012,verify the playbook input includes at least one cve id to enrich.,id.dn,0
+3013,verify the playbook input includes at least one cve id to enrich.,incident,0
+3014,verify the playbook input includes at least one cve id to enrich.,logs,0
+3015,verify the playbook input includes at least one cve id to enrich.,malicious,0
+3016,verify the playbook input includes at least one cve id to enrich.,md5,0
+3017,verify the playbook input includes at least one cve id to enrich.,na,0
+3018,verify the playbook input includes at least one cve id to enrich.,no,0
+3019,verify the playbook input includes at least one cve id to enrich.,pdf,0
+3020,verify the playbook input includes at least one cve id to enrich.,phishe,0
+3021,verify the playbook input includes at least one cve id to enrich.,playbook,1
+3022,verify the playbook input includes at least one cve id to enrich.,priviledge,0
+3023,verify the playbook input includes at least one cve id to enrich.,qualys,0
+3024,verify the playbook input includes at least one cve id to enrich.,relevant,0
+3025,verify the playbook input includes at least one cve id to enrich.,sms,0
+3026,verify the playbook input includes at least one cve id to enrich.,source.user,0
+3027,verify the playbook input includes at least one cve id to enrich.,status,0
+3028,verify the playbook input includes at least one cve id to enrich.,user,0
+3029,verify the playbook input includes at least one cve id to enrich.,user.account,0
+3030,verify the source user account has an associated email address.,accounts,0
+3031,verify the source user account has an associated email address.,active,0
+3032,verify the source user account has an associated email address.,ad.account,0
+3033,verify the source user account has an associated email address.,case.event,0
+3034,verify the source user account has an associated email address.,crowdstrike,0
+3035,verify the source user account has an associated email address.,cve,0
+3036,verify the source user account has an associated email address.,email,0
+3037,verify the source user account has an associated email address.,external,0
+3038,verify the source user account has an associated email address.,file,0
+3039,verify the source user account has an associated email address.,generic.polling,0
+3040,verify the source user account has an associated email address.,hardware,0
+3041,verify the source user account has an associated email address.,host,0
+3042,verify the source user account has an associated email address.,id.dn,0
+3043,verify the source user account has an associated email address.,incident,0
+3044,verify the source user account has an associated email address.,logs,0
+3045,verify the source user account has an associated email address.,malicious,0
+3046,verify the source user account has an associated email address.,md5,0
+3047,verify the source user account has an associated email address.,na,0
+3048,verify the source user account has an associated email address.,no,0
+3049,verify the source user account has an associated email address.,pdf,0
+3050,verify the source user account has an associated email address.,phishe,0
+3051,verify the source user account has an associated email address.,playbook,0
+3052,verify the source user account has an associated email address.,priviledge,0
+3053,verify the source user account has an associated email address.,qualys,0
+3054,verify the source user account has an associated email address.,relevant,0
+3055,verify the source user account has an associated email address.,sms,0
+3056,verify the source user account has an associated email address.,source.user,1
+3057,verify the source user account has an associated email address.,status,0
+3058,verify the source user account has an associated email address.,user,0
+3059,verify the source user account has an associated email address.,user.account,0
+3060,will return 'no' for empty arrays,accounts,0
+3061,will return 'no' for empty arrays,active,0
+3062,will return 'no' for empty arrays,ad.account,0
+3063,will return 'no' for empty arrays,case.event,0
+3064,will return 'no' for empty arrays,crowdstrike,0
+3065,will return 'no' for empty arrays,cve,0
+3066,will return 'no' for empty arrays,email,0
+3067,will return 'no' for empty arrays,external,0
+3068,will return 'no' for empty arrays,file,0
+3069,will return 'no' for empty arrays,generic.polling,0
+3070,will return 'no' for empty arrays,hardware,0
+3071,will return 'no' for empty arrays,host,0
+3072,will return 'no' for empty arrays,id.dn,0
+3073,will return 'no' for empty arrays,incident,0
+3074,will return 'no' for empty arrays,logs,0
+3075,will return 'no' for empty arrays,malicious,0
+3076,will return 'no' for empty arrays,md5,0
+3077,will return 'no' for empty arrays,na,0
+3078,will return 'no' for empty arrays,no,1
+3079,will return 'no' for empty arrays,pdf,0
+3080,will return 'no' for empty arrays,phishe,0
+3081,will return 'no' for empty arrays,playbook,0
+3082,will return 'no' for empty arrays,priviledge,0
+3083,will return 'no' for empty arrays,qualys,0
+3084,will return 'no' for empty arrays,relevant,0
+3085,will return 'no' for empty arrays,sms,0
+3086,will return 'no' for empty arrays,source.user,0
+3087,will return 'no' for empty arrays,status,0
+3088,will return 'no' for empty arrays,user,0
+3089,will return 'no' for empty arrays,user.account,0

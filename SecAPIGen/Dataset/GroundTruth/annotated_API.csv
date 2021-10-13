@@ -1,0 +1,148 @@
+index,task,first_method,second_method,param2,third_method,param3,Full_API
+1,enrich accounts using one or more integration,enrich,account,na,integration,na,enrich.account.integration
+2,verify the source user account associated email address.,verify,account,source.user,address,associated.email,verify.account(source.user).address(email)
+3,send an email to the source user email address,send,email,na,address,source.user.email,send.email.address(source.user.email)
+4,use the user response (yes or no) to direct the playbook.,use,response,user,playbook,na,use.response(user).playbook
+5,verify the manager id (dn) of the source user account was returned in context.,verify,manager,id.dn,account,source.user,verify.manager(id.dn).account(source.user)
+6,retrieve the ad account information for the manager of the source user account.,retrieve,information,ad.account,manager,source.user,send.information(ad.account).manager(source.user)
+7,set the incident severity to low.,set,severity,incident,low,na,set.severity(incident).low
+8,close the investigation.,close,investigation,na,na,na,close.investigation
+9,set the incident severity to high.,set,severity,incident,high,na,set.severity(incident).high
+10,assign the incident to an analyst based on the analysts organizational role.,assing,incident,na,analyst,na,set.incident.analyst
+11,review the incident to determine if the account activity is malicious.,review,incident,na,na,na,verify.incident
+12,quarantine the account,quarantine,account,na,na,na,quarantine.account
+13,quarantine the endpoint,quarantine,endpoint,na,na,na,quarantine.endpoint
+14,query the account logs in siem,query,logs,account,siem,na,query.account(logs).siem
+15,query the ips logs in the siem,query,logs,ips,siem,na,query.ips(logs).siem
+16,block the external ips in the firewall,block,ips,external,firewall,na,block.ips(external).firewall
+17,block the external ips in the proxy,block,ips,external,proxy,na,block.ips(external).proxy
+18,review the account's privileges,review,account,priviledge,na,na,verify.account(priviledge)
+19,set the information retrieved from qradar into access the incident,set,information,na,qradar,na,set.information.qradar
+20,review if a given value exists in the context,review,value,na,na,na,verify.object
+21,return output 'no' for empty arrays,return,output,no,array,empty,send.object(no).array(empty)
+22,query active directory for the email address information,query,directory,active,information,email.address,query.directory(active).address(email)
+23,check email address,check,address,email,na,na,verify.address(email)
+24,check username to query,check,username,na,na,na,verify.username
+25,check for active directory instance,check,directory,instance,na,na,verify.directory(accounts)
+26,review email address,review,address,email,na,na,verify.address(email)
+27,review username to query,review,username,na,na,na,verify.username
+28,review for active directory instance,review,directory,instance,na,na,verify.directory(accounts)
+29,query active directory for the username's information,query,directory,active,information,na,query.directory(active).information
+30,retrieves detailed information about a user account.,retrieve,information,detailed,account,user,retrieve.information(detailed).account(user)
+31,queries active directory,query,directory,active,na,na,query.directory(active)
+32,returns information for the specified username.,return,information,na,username,na,send.information.username
+33,queries active directory for the username's information.,query,directory,active,information,username,query.directory(active).information (username)
+34,add indictor to the minemeld miner.,add,indicator,na,miner,minemeld,enrich.indicator.miner(minemeld)
+35,downloads file from archer to demisto's context,download,file,na,archer,na,downlaod.file.archer
+36,get a specific case from esm,get,case,na,esm,na,retrieve.case.esm
+37,returns all case event ids,return,id,case.event,na,na,send.id(case.event)
+38,change the properties of an incident,change,property,na,incident,na,set.property.incident
+39,detonate the file in mcafee atd,detonate,file,na,atd,mcafee,detonate.file.atd(mcafee)
+40,initiate the operation,initiate,operation,na,na,na,set.operation
+41,poll the operation,poll,operation,na,na,na,set.operation
+42,check operation status,check,operation,status,na,na,verify.operation(status)
+43,get the results of the operation.,get,result,na,operation,na,get.result.operation
+44,upload a file sample to bitdam's service,upload,sample,file,service,bitdam,send.sample(file).service(bitdam)
+45,verify that the playbook input includes at least one username to block.,verify,input,playbook,username,na,verify.input(playbook).username
+46,disable the account using active directory.,disable,account,na,directory,active,disable.account.directory(active)
+47, isolate the host using carbon black response,isolate,host,na,response,carbonblack,quarantine.host.response(cardbonblack)
+48,adds the md5 hash to the blacklist in carbon black,add,hash,md5,blacklist,carbonblack,enrich.hash(md5).blacklist(carbonblack)
+49,blocks malicious usernames using all integrations that you have enabled.,block,username,malicious,integration,na,block.username(malicious).integration
+50,block the ips using check point firewall.,block,ips,na,firewall,checkpoint,block.ips.firewall(checkpoint)
+51,verify that the playbook input includes at least one ip to block.,verify,input,playbook,ip,na,verify.input(playbook).ip
+52,block the ips using palo alto networks panorama.,block,ips,na,panorama,paloAlto.network,block.ips.panorama(paloalto.network)
+53,block the ips using zscaler.,block,ips,na,zscaler,na,block.ips.zscaler
+54,verify that the playbook input includes at least one url to block.,verify,input,playbook,url,na,verify.input(playbook).url
+55,block the urls using zscaler.,block,url,na,zscaler,na,block.url.zscaler
+56,set incident's severity to high,set,severity,incident,high,na,set.severity(incident).high
+57,"assign the incident severity level  to ""low"".",assign,severity,incident,low,na,set.severity(incident).low
+58,"assign the incident severity level  to ""medium"".",assign,severity,incident,medium,na,set.severity.(incident).medium
+59,"assign the incident severity level  to ""high"".",assign,severity,incident,high,na,set.severity(incident).high
+60,"assign the incident severity level  to ""critical"".",assign,severity,incident,critical,na,set.severity(incident).critical
+61,get host information from crowdstrike falcon host,get,information,host,host,crowdstrike.falcon,retrieve.information(host).host(crowdstrike.falcon)
+62,get crowdstrike device id,get,device,crowdstrike,na,na,retrieve.tool(crowdstrike)
+63,send file to cuckoo,send,file,na,cuckoo,na,send.file.cuckoo
+64,verify the playbook input includes at least one cve id to enrich.,verify,input,playbook,cve,id,verify.input(playbook).cve
+65,"retrieve cve information from ""cve search"".",retrieve,information,cve,search,cve,retrieve.information(cve).search
+66,retrieve cve information from xfe.,retrieve,information,cve,xfe,na,retrieve.information(cve).xfe
+67,retrieve cve reputation using one or more integrations.,retrieve,reputation,cve,integration,na,retrieve.reputation(cve).integration
+68,add the relevant endpoint to the system,add,endpoint,relevant,system,na,enrich.endpoint(relevant).system
+69,get hardware details from endpoint,get,detail,hardware,endpoint,na,retrieve.report.endpoint
+70,dump the file to the war room,dump,file,na,room,war,send.file.room(war)
+71,"create a phishing classifier using machine learning technique, based on email content",create,classifier,phishing,technique,machine learning,creat.classifier(phishe).technique(machine learning)
+72,parse email with splunk,parse,email,na,splunk,na,parse.email.splunk
+73,parse email with nexpose,parse,email,na,nexpose,na,parse.email.nexpose
+74,parse email with sentinelone,parse,email,na,sentinelone,na,parse.email.sentinelone
+75,classify incident with qradar,classify,incident,na,qradar,na,categorise.incident.qradar
+76,prints report to war room,print,report,na,room,war,print.report.room(war)
+77,classify incident with vectra,classify,incident,na,vectra,na,categorise.incident.vectra
+78,classify incident with trendmicro,classify,incident,na,trendmicro,na,categorise.incident.trendmicro
+79,close the current incident,close,incident,current,na,na,close.incident
+80,send an alert to the csirt slack channel,send,alert,na,channel,csirt.slack,send.alert.channel(csirt.slack)
+81,send an sms alert using twilio.,send,alert,sms,twilio,na,send.alert(sms).twilio
+82,auto-close this incident,close,incident,na,na,na,close.incident
+83,detonate the file in available sandboxes.,detonate,file,na,sandbox,available,detonate.file.sandbox(available)
+84,detonates a file using anyrun,detonate,file,na,anyrun,na,detonate.file.anyrun
+85,submit a file for analysis.,submit,file,na,analysis,na,send.file.analysis
+86,submit url for analysis.,submit,url,na,analysis,na,send.url.analysis
+87,get the report for a task created for a submitted file or url.,get,report,na,task,na,retrieve.report.task
+88,download the pdf report to the war room.,download,report,pdf,room,war,download.report(pdf).room(war)
+89,set the file object into context.,set,object,file,context,na,set.object(file).context
+90,submits a sample to crowdstrike,submit,sample,na,crowdstrike,na,send.sample.crowdstrike
+91,initiated the generic polling playbook that will do the polling command,initiate,playbook,generic.polling,na,na,set.playbook(generic.polling)
+92,detonate the file in crowdstrike falcon sandbox.,detonate,file,na,sandbox,crowdstrike.falcon,detonate.file.sandbox(crowdstrike.falcon)
+93,submits a sample to fireeye ax,submit,sample,na,ax,fireEye,send.sample.ax(fireeye)
+94,retrieve result data upon a file.,retrieve,result,na,file,na,retrieve.result.file
+95,upload sample to crowdstrike,upload,sample,na,crowdstrike,na,send.sample.crowdstrike
+96,upload sample to sandbox,upload,sample,na,sandbox,na,send.sample.sandbox
+97,detonates a url using the mcafee advanced threat defense sandbox integration.,detonate,url,na,sandbox,mcafee.advanced.threat.defence,detonate.url.sanbox(mcafee.advanced.threat.defence)
+98,detonates one or more urls using the joe security sandbox integration.,detonate,url,na,sandbox,joe.security,detonate.url.sanbox(joe.security)
+99,detonates a url using the mcafee advanced threat defense sandbox integration.,detonate,url,na,integration,sandbox.mcafee.advanced.threat.defence,detonate.url.integration(sandbox.mcafee.advanced.threat.defence)
+100,detonates one or more urls using the joe security sandbox integration.,detonate,url,na,integration,sandbox.joe.security,detonate.url.integration(sandbox.joe.security)
+101,detonates one or more files using joe sandbox integration.,detonate,file,na,integration,sandbox.joe.security,detonate.file.integration(sandbox.joe.security)
+102,retrieve the report from qualys.,retrieve,report,na,qualys,na,retrieve.report.qualys
+103,set the qualys reports list into context,set,report,qualys,context,na,set.report.qualys(context)
+104,create list of blacklisted hash,create,list,na,hash,blacklist,create.list.hash(blacklist)
+105,returns a list of blacklisted hashes,return,list,na,hash,blacklist,send.list.hash(blacklist)
+106,checks the md5 on the blacklist.,check,md5,na,blacklist ,na,verify.md5.blacklist()
+107,checks for md5 input field.,check,field,md5.input,na,na,verify.field(md5.input)
+108,blocks malicious usernames using all integrations,block,username,malicious,na,na,block.username(malicious)
+109,retrieve Ips address from repository into the incident context,retrieve,address,ips,repository,na,retrieve.address(IP).repository
+110,retrive UTLs from repository into the incident context,retrieve,url,na,repository,na,retrieve.URL.repository
+111,retrieve domain from repository into the incident context,retrieve,domain,na,repository,na,retrieve.domain.repository
+112,review domains  using all reputation sources,review,domain,na,souce,reputation,verify.domain.source(reputation)
+113,block access to the compromised user account,block,access,na,account,compromise.user,block.access.account(compromise.user)
+114,initiates a re-scan of a domain that was already scanned.,initiate,scan,na,domain,na,set.scan().domain
+115,get the issues located under the provided domain.,get,issue,na,domain,na,retrieve.issue.domain
+116,retrieves a report for leaked credentials.,retrieve,report,na,credential,leaked,retrieve.report.credential(leaked)
+117,checks vulnerabilities of reported application,check,vulnerability,na,application,report,verify.vulnerability.application(reported)
+118,retrieves a report for application vulnerabilities.,retrieve,report,na,vulnerability,application,retrieve.report.vulnerability(application)
+119,retrieves a report for exposed network services.,retrieve,report,na,service,expose.network,retrieve.report.service(expose.network)
+120,returns a severity level from the investigation,return,level,severity,investigation,na,send.level(severity)
+121,returns a list of device ids on which an indicator ran,return,list,na,id ,device,send.list().id
+122,check for active instance,check,instance,active,na,na,verify.instance(active)
+123,send file to cuckoo,send,file,na,cuckoo,na,send.file.cuckoo
+124,get task report,get,report,na,task,na,retrieve.task.report
+125,get screenshots from the machine running the file,get,screenshot,na,machine,run.file,retrieve.screenshot.machine((run.file))
+126,check for url,check,url,na,na,na,verify.URL
+127,create task from url,create,task,na,url,na,create.task.URL
+128,create a phishing classifier,create,classifier,phishing,na,na,create.classifier(phishing)
+129,upload file for analysis,upload,file,na,analysis,na,send.file.analysis
+130,check submissions status,check,submission,na,status,na,verify.submission.status
+131,uploads a file to wildfire for analysis.,upload,file,na,wildfire,na,send.file.wildfire
+132,create a file from url,create,file,na,url,na,create.file.URL
+133,gets host information from mcafee epolicy orchestrator.,get,information,host,orchestrator,mcafee. epolicy,retrieve.information(host).orchestrator(mcafee.Policy)
+134,gets host information from carbonblack enterprise,get,information,host,enterprise,carbonblack,retrieve.information(host).enterprise(carbon.black)
+135,enriches endpoints using the cylanceprotectv2 integration.,enrich,endpoint,na,integration,cylanceprotectv2,enrich.endpoint.integration(cylance.protect.v2)
+136,enrich ips using one or more integrations,enrich,ips,na,integration,na,enrich.IP.integration
+137,enrich url using one or more integrations,enrich,url,na,integration,na,enrich.URL.integration
+138,enrich an endpoint hostname using one or more integrations,enrich,hostname,endpoint,integration,na,enrich.hostname(endpoint)
+139,enrich domain using one or more integrations,enrich,domain,na,integration,na,enrich.domain.integration
+140,display the diagnosis html in the war room.,display,html,diagnosis,room,war,print.html(diagnosis)
+141,block Ips,block,ips,na,na,na,block.IP
+142,block files,block,file,na,na,na,block.file
+143,isolate compromised host from network,isolate,host,compromise,network,na,isolate.host(compromise)
+144,hunt for devices accessing bad domains,hunt,device,na,domain,bad,retrieve.device.domain(bad)
+145,hunt for devices running MD5,hunt,device,na,md5,na,retrieve.device.MD5
+146,hunt for devices accessing SHA1,hunt,device,na,sha1,na,retrieve. Device.Sha1
+147,hunt for devices accessing SHA256,hunt,device,na,sha256,na,retrieve.device.Sha235

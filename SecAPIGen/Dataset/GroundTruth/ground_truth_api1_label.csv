@@ -1,0 +1,1855 @@
+,0,1,2
+0, isolate the host using carbon black response,assing,0
+1, isolate the host using carbon black response,block,0
+2, isolate the host using carbon black response,categorise,0
+3, isolate the host using carbon black response,close,0
+4, isolate the host using carbon black response,create,0
+5, isolate the host using carbon black response,detonate,0
+6, isolate the host using carbon black response,disable,0
+7, isolate the host using carbon black response,download,0
+8, isolate the host using carbon black response,enrich,0
+9, isolate the host using carbon black response,parse,0
+10, isolate the host using carbon black response,print,0
+11, isolate the host using carbon black response,quarantine,1
+12, isolate the host using carbon black response,query,0
+13, isolate the host using carbon black response,retrieve,0
+14, isolate the host using carbon black response,send,0
+15, isolate the host using carbon black response,set,0
+16, isolate the host using carbon black response,use,0
+17, isolate the host using carbon black response,verify,0
+18,add indictor to the minemeld miner.,assing,0
+19,add indictor to the minemeld miner.,block,0
+20,add indictor to the minemeld miner.,categorise,0
+21,add indictor to the minemeld miner.,close,0
+22,add indictor to the minemeld miner.,create,0
+23,add indictor to the minemeld miner.,detonate,0
+24,add indictor to the minemeld miner.,disable,0
+25,add indictor to the minemeld miner.,download,0
+26,add indictor to the minemeld miner.,enrich,1
+27,add indictor to the minemeld miner.,parse,0
+28,add indictor to the minemeld miner.,print,0
+29,add indictor to the minemeld miner.,quarantine,0
+30,add indictor to the minemeld miner.,query,0
+31,add indictor to the minemeld miner.,retrieve,0
+32,add indictor to the minemeld miner.,send,0
+33,add indictor to the minemeld miner.,set,0
+34,add indictor to the minemeld miner.,use,0
+35,add indictor to the minemeld miner.,verify,0
+36,add the relevant endpoint to the system,assing,0
+37,add the relevant endpoint to the system,block,0
+38,add the relevant endpoint to the system,categorise,0
+39,add the relevant endpoint to the system,close,0
+40,add the relevant endpoint to the system,create,0
+41,add the relevant endpoint to the system,detonate,0
+42,add the relevant endpoint to the system,disable,0
+43,add the relevant endpoint to the system,download,0
+44,add the relevant endpoint to the system,enrich,1
+45,add the relevant endpoint to the system,parse,0
+46,add the relevant endpoint to the system,print,0
+47,add the relevant endpoint to the system,quarantine,0
+48,add the relevant endpoint to the system,query,0
+49,add the relevant endpoint to the system,retrieve,0
+50,add the relevant endpoint to the system,send,0
+51,add the relevant endpoint to the system,set,0
+52,add the relevant endpoint to the system,use,0
+53,add the relevant endpoint to the system,verify,0
+54,adds the md5 hash to the blacklist in carbon black,assing,0
+55,adds the md5 hash to the blacklist in carbon black,block,0
+56,adds the md5 hash to the blacklist in carbon black,categorise,0
+57,adds the md5 hash to the blacklist in carbon black,close,0
+58,adds the md5 hash to the blacklist in carbon black,create,0
+59,adds the md5 hash to the blacklist in carbon black,detonate,0
+60,adds the md5 hash to the blacklist in carbon black,disable,0
+61,adds the md5 hash to the blacklist in carbon black,download,0
+62,adds the md5 hash to the blacklist in carbon black,enrich,1
+63,adds the md5 hash to the blacklist in carbon black,parse,0
+64,adds the md5 hash to the blacklist in carbon black,print,0
+65,adds the md5 hash to the blacklist in carbon black,quarantine,0
+66,adds the md5 hash to the blacklist in carbon black,query,0
+67,adds the md5 hash to the blacklist in carbon black,retrieve,0
+68,adds the md5 hash to the blacklist in carbon black,send,0
+69,adds the md5 hash to the blacklist in carbon black,set,0
+70,adds the md5 hash to the blacklist in carbon black,use,0
+71,adds the md5 hash to the blacklist in carbon black,verify,0
+72,"assign the incident severity level  to ""critical"".",assing,0
+73,"assign the incident severity level  to ""critical"".",block,0
+74,"assign the incident severity level  to ""critical"".",categorise,0
+75,"assign the incident severity level  to ""critical"".",close,0
+76,"assign the incident severity level  to ""critical"".",create,0
+77,"assign the incident severity level  to ""critical"".",detonate,0
+78,"assign the incident severity level  to ""critical"".",disable,0
+79,"assign the incident severity level  to ""critical"".",download,0
+80,"assign the incident severity level  to ""critical"".",enrich,0
+81,"assign the incident severity level  to ""critical"".",parse,0
+82,"assign the incident severity level  to ""critical"".",print,0
+83,"assign the incident severity level  to ""critical"".",quarantine,0
+84,"assign the incident severity level  to ""critical"".",query,0
+85,"assign the incident severity level  to ""critical"".",retrieve,0
+86,"assign the incident severity level  to ""critical"".",send,0
+87,"assign the incident severity level  to ""critical"".",set,1
+88,"assign the incident severity level  to ""critical"".",use,0
+89,"assign the incident severity level  to ""critical"".",verify,0
+90,"assign the incident severity level  to ""high"".",assing,0
+91,"assign the incident severity level  to ""high"".",block,0
+92,"assign the incident severity level  to ""high"".",categorise,0
+93,"assign the incident severity level  to ""high"".",close,0
+94,"assign the incident severity level  to ""high"".",create,0
+95,"assign the incident severity level  to ""high"".",detonate,0
+96,"assign the incident severity level  to ""high"".",disable,0
+97,"assign the incident severity level  to ""high"".",download,0
+98,"assign the incident severity level  to ""high"".",enrich,0
+99,"assign the incident severity level  to ""high"".",parse,0
+100,"assign the incident severity level  to ""high"".",print,0
+101,"assign the incident severity level  to ""high"".",quarantine,0
+102,"assign the incident severity level  to ""high"".",query,0
+103,"assign the incident severity level  to ""high"".",retrieve,0
+104,"assign the incident severity level  to ""high"".",send,0
+105,"assign the incident severity level  to ""high"".",set,1
+106,"assign the incident severity level  to ""high"".",use,0
+107,"assign the incident severity level  to ""high"".",verify,0
+108,"assign the incident severity level  to ""low"".",assing,0
+109,"assign the incident severity level  to ""low"".",block,0
+110,"assign the incident severity level  to ""low"".",categorise,0
+111,"assign the incident severity level  to ""low"".",close,0
+112,"assign the incident severity level  to ""low"".",create,0
+113,"assign the incident severity level  to ""low"".",detonate,0
+114,"assign the incident severity level  to ""low"".",disable,0
+115,"assign the incident severity level  to ""low"".",download,0
+116,"assign the incident severity level  to ""low"".",enrich,0
+117,"assign the incident severity level  to ""low"".",parse,0
+118,"assign the incident severity level  to ""low"".",print,0
+119,"assign the incident severity level  to ""low"".",quarantine,0
+120,"assign the incident severity level  to ""low"".",query,0
+121,"assign the incident severity level  to ""low"".",retrieve,0
+122,"assign the incident severity level  to ""low"".",send,0
+123,"assign the incident severity level  to ""low"".",set,1
+124,"assign the incident severity level  to ""low"".",use,0
+125,"assign the incident severity level  to ""low"".",verify,0
+126,"assign the incident severity level  to ""medium"".",assing,0
+127,"assign the incident severity level  to ""medium"".",block,0
+128,"assign the incident severity level  to ""medium"".",categorise,0
+129,"assign the incident severity level  to ""medium"".",close,0
+130,"assign the incident severity level  to ""medium"".",create,0
+131,"assign the incident severity level  to ""medium"".",detonate,0
+132,"assign the incident severity level  to ""medium"".",disable,0
+133,"assign the incident severity level  to ""medium"".",download,0
+134,"assign the incident severity level  to ""medium"".",enrich,0
+135,"assign the incident severity level  to ""medium"".",parse,0
+136,"assign the incident severity level  to ""medium"".",print,0
+137,"assign the incident severity level  to ""medium"".",quarantine,0
+138,"assign the incident severity level  to ""medium"".",query,0
+139,"assign the incident severity level  to ""medium"".",retrieve,0
+140,"assign the incident severity level  to ""medium"".",send,0
+141,"assign the incident severity level  to ""medium"".",set,1
+142,"assign the incident severity level  to ""medium"".",use,0
+143,"assign the incident severity level  to ""medium"".",verify,0
+144,assign the incident to an analyst based on the analysts organizational role.,assing,1
+145,assign the incident to an analyst based on the analysts organizational role.,block,0
+146,assign the incident to an analyst based on the analysts organizational role.,categorise,0
+147,assign the incident to an analyst based on the analysts organizational role.,close,0
+148,assign the incident to an analyst based on the analysts organizational role.,create,0
+149,assign the incident to an analyst based on the analysts organizational role.,detonate,0
+150,assign the incident to an analyst based on the analysts organizational role.,disable,0
+151,assign the incident to an analyst based on the analysts organizational role.,download,0
+152,assign the incident to an analyst based on the analysts organizational role.,enrich,0
+153,assign the incident to an analyst based on the analysts organizational role.,parse,0
+154,assign the incident to an analyst based on the analysts organizational role.,print,0
+155,assign the incident to an analyst based on the analysts organizational role.,quarantine,0
+156,assign the incident to an analyst based on the analysts organizational role.,query,0
+157,assign the incident to an analyst based on the analysts organizational role.,retrieve,0
+158,assign the incident to an analyst based on the analysts organizational role.,send,0
+159,assign the incident to an analyst based on the analysts organizational role.,set,0
+160,assign the incident to an analyst based on the analysts organizational role.,use,0
+161,assign the incident to an analyst based on the analysts organizational role.,verify,0
+162,auto-close this incident,assing,0
+163,auto-close this incident,block,0
+164,auto-close this incident,categorise,0
+165,auto-close this incident,close,1
+166,auto-close this incident,create,0
+167,auto-close this incident,detonate,0
+168,auto-close this incident,disable,0
+169,auto-close this incident,download,0
+170,auto-close this incident,enrich,0
+171,auto-close this incident,parse,0
+172,auto-close this incident,print,0
+173,auto-close this incident,quarantine,0
+174,auto-close this incident,query,0
+175,auto-close this incident,retrieve,0
+176,auto-close this incident,send,0
+177,auto-close this incident,set,0
+178,auto-close this incident,use,0
+179,auto-close this incident,verify,0
+180,block the external ips in the firewall,assing,0
+181,block the external ips in the firewall,block,1
+182,block the external ips in the firewall,categorise,0
+183,block the external ips in the firewall,close,0
+184,block the external ips in the firewall,create,0
+185,block the external ips in the firewall,detonate,0
+186,block the external ips in the firewall,disable,0
+187,block the external ips in the firewall,download,0
+188,block the external ips in the firewall,enrich,0
+189,block the external ips in the firewall,parse,0
+190,block the external ips in the firewall,print,0
+191,block the external ips in the firewall,quarantine,0
+192,block the external ips in the firewall,query,0
+193,block the external ips in the firewall,retrieve,0
+194,block the external ips in the firewall,send,0
+195,block the external ips in the firewall,set,0
+196,block the external ips in the firewall,use,0
+197,block the external ips in the firewall,verify,0
+198,block the external ips in the proxy,assing,0
+199,block the external ips in the proxy,block,1
+200,block the external ips in the proxy,categorise,0
+201,block the external ips in the proxy,close,0
+202,block the external ips in the proxy,create,0
+203,block the external ips in the proxy,detonate,0
+204,block the external ips in the proxy,disable,0
+205,block the external ips in the proxy,download,0
+206,block the external ips in the proxy,enrich,0
+207,block the external ips in the proxy,parse,0
+208,block the external ips in the proxy,print,0
+209,block the external ips in the proxy,quarantine,0
+210,block the external ips in the proxy,query,0
+211,block the external ips in the proxy,retrieve,0
+212,block the external ips in the proxy,send,0
+213,block the external ips in the proxy,set,0
+214,block the external ips in the proxy,use,0
+215,block the external ips in the proxy,verify,0
+216,block the ips using check point firewall.,assing,0
+217,block the ips using check point firewall.,block,1
+218,block the ips using check point firewall.,categorise,0
+219,block the ips using check point firewall.,close,0
+220,block the ips using check point firewall.,create,0
+221,block the ips using check point firewall.,detonate,0
+222,block the ips using check point firewall.,disable,0
+223,block the ips using check point firewall.,download,0
+224,block the ips using check point firewall.,enrich,0
+225,block the ips using check point firewall.,parse,0
+226,block the ips using check point firewall.,print,0
+227,block the ips using check point firewall.,quarantine,0
+228,block the ips using check point firewall.,query,0
+229,block the ips using check point firewall.,retrieve,0
+230,block the ips using check point firewall.,send,0
+231,block the ips using check point firewall.,set,0
+232,block the ips using check point firewall.,use,0
+233,block the ips using check point firewall.,verify,0
+234,block the ips using palo alto networks panorama.,assing,0
+235,block the ips using palo alto networks panorama.,block,1
+236,block the ips using palo alto networks panorama.,categorise,0
+237,block the ips using palo alto networks panorama.,close,0
+238,block the ips using palo alto networks panorama.,create,0
+239,block the ips using palo alto networks panorama.,detonate,0
+240,block the ips using palo alto networks panorama.,disable,0
+241,block the ips using palo alto networks panorama.,download,0
+242,block the ips using palo alto networks panorama.,enrich,0
+243,block the ips using palo alto networks panorama.,parse,0
+244,block the ips using palo alto networks panorama.,print,0
+245,block the ips using palo alto networks panorama.,quarantine,0
+246,block the ips using palo alto networks panorama.,query,0
+247,block the ips using palo alto networks panorama.,retrieve,0
+248,block the ips using palo alto networks panorama.,send,0
+249,block the ips using palo alto networks panorama.,set,0
+250,block the ips using palo alto networks panorama.,use,0
+251,block the ips using palo alto networks panorama.,verify,0
+252,block the ips using zscaler.,assing,0
+253,block the ips using zscaler.,block,1
+254,block the ips using zscaler.,categorise,0
+255,block the ips using zscaler.,close,0
+256,block the ips using zscaler.,create,0
+257,block the ips using zscaler.,detonate,0
+258,block the ips using zscaler.,disable,0
+259,block the ips using zscaler.,download,0
+260,block the ips using zscaler.,enrich,0
+261,block the ips using zscaler.,parse,0
+262,block the ips using zscaler.,print,0
+263,block the ips using zscaler.,quarantine,0
+264,block the ips using zscaler.,query,0
+265,block the ips using zscaler.,retrieve,0
+266,block the ips using zscaler.,send,0
+267,block the ips using zscaler.,set,0
+268,block the ips using zscaler.,use,0
+269,block the ips using zscaler.,verify,0
+270,block the urls using zscaler.,assing,0
+271,block the urls using zscaler.,block,1
+272,block the urls using zscaler.,categorise,0
+273,block the urls using zscaler.,close,0
+274,block the urls using zscaler.,create,0
+275,block the urls using zscaler.,detonate,0
+276,block the urls using zscaler.,disable,0
+277,block the urls using zscaler.,download,0
+278,block the urls using zscaler.,enrich,0
+279,block the urls using zscaler.,parse,0
+280,block the urls using zscaler.,print,0
+281,block the urls using zscaler.,quarantine,0
+282,block the urls using zscaler.,query,0
+283,block the urls using zscaler.,retrieve,0
+284,block the urls using zscaler.,send,0
+285,block the urls using zscaler.,set,0
+286,block the urls using zscaler.,use,0
+287,block the urls using zscaler.,verify,0
+288,blocks malicious usernames using all integrations that you have enabled.,assing,0
+289,blocks malicious usernames using all integrations that you have enabled.,block,1
+290,blocks malicious usernames using all integrations that you have enabled.,categorise,0
+291,blocks malicious usernames using all integrations that you have enabled.,close,0
+292,blocks malicious usernames using all integrations that you have enabled.,create,0
+293,blocks malicious usernames using all integrations that you have enabled.,detonate,0
+294,blocks malicious usernames using all integrations that you have enabled.,disable,0
+295,blocks malicious usernames using all integrations that you have enabled.,download,0
+296,blocks malicious usernames using all integrations that you have enabled.,enrich,0
+297,blocks malicious usernames using all integrations that you have enabled.,parse,0
+298,blocks malicious usernames using all integrations that you have enabled.,print,0
+299,blocks malicious usernames using all integrations that you have enabled.,quarantine,0
+300,blocks malicious usernames using all integrations that you have enabled.,query,0
+301,blocks malicious usernames using all integrations that you have enabled.,retrieve,0
+302,blocks malicious usernames using all integrations that you have enabled.,send,0
+303,blocks malicious usernames using all integrations that you have enabled.,set,0
+304,blocks malicious usernames using all integrations that you have enabled.,use,0
+305,blocks malicious usernames using all integrations that you have enabled.,verify,0
+306,change the properties of an incident,assing,0
+307,change the properties of an incident,block,0
+308,change the properties of an incident,categorise,0
+309,change the properties of an incident,close,0
+310,change the properties of an incident,create,0
+311,change the properties of an incident,detonate,0
+312,change the properties of an incident,disable,0
+313,change the properties of an incident,download,0
+314,change the properties of an incident,enrich,0
+315,change the properties of an incident,parse,0
+316,change the properties of an incident,print,0
+317,change the properties of an incident,quarantine,0
+318,change the properties of an incident,query,0
+319,change the properties of an incident,retrieve,0
+320,change the properties of an incident,send,0
+321,change the properties of an incident,set,1
+322,change the properties of an incident,use,0
+323,change the properties of an incident,verify,0
+324,check email address,assing,0
+325,check email address,block,0
+326,check email address,categorise,0
+327,check email address,close,0
+328,check email address,create,0
+329,check email address,detonate,0
+330,check email address,disable,0
+331,check email address,download,0
+332,check email address,enrich,0
+333,check email address,parse,0
+334,check email address,print,0
+335,check email address,quarantine,0
+336,check email address,query,0
+337,check email address,retrieve,0
+338,check email address,send,0
+339,check email address,set,0
+340,check email address,use,0
+341,check email address,verify,1
+342,check for active directory instance,assing,0
+343,check for active directory instance,block,0
+344,check for active directory instance,categorise,0
+345,check for active directory instance,close,0
+346,check for active directory instance,create,0
+347,check for active directory instance,detonate,0
+348,check for active directory instance,disable,0
+349,check for active directory instance,download,0
+350,check for active directory instance,enrich,0
+351,check for active directory instance,parse,0
+352,check for active directory instance,print,0
+353,check for active directory instance,quarantine,0
+354,check for active directory instance,query,0
+355,check for active directory instance,retrieve,0
+356,check for active directory instance,send,0
+357,check for active directory instance,set,0
+358,check for active directory instance,use,0
+359,check for active directory instance,verify,1
+360,check operation status,assing,0
+361,check operation status,block,0
+362,check operation status,categorise,0
+363,check operation status,close,0
+364,check operation status,create,0
+365,check operation status,detonate,0
+366,check operation status,disable,0
+367,check operation status,download,0
+368,check operation status,enrich,0
+369,check operation status,parse,0
+370,check operation status,print,0
+371,check operation status,quarantine,0
+372,check operation status,query,0
+373,check operation status,retrieve,0
+374,check operation status,send,0
+375,check operation status,set,0
+376,check operation status,use,0
+377,check operation status,verify,1
+378,check username to query,assing,0
+379,check username to query,block,0
+380,check username to query,categorise,0
+381,check username to query,close,0
+382,check username to query,create,0
+383,check username to query,detonate,0
+384,check username to query,disable,0
+385,check username to query,download,0
+386,check username to query,enrich,0
+387,check username to query,parse,0
+388,check username to query,print,0
+389,check username to query,quarantine,0
+390,check username to query,query,0
+391,check username to query,retrieve,0
+392,check username to query,send,0
+393,check username to query,set,0
+394,check username to query,use,0
+395,check username to query,verify,1
+396,classify incident with qradar,assing,0
+397,classify incident with qradar,block,0
+398,classify incident with qradar,categorise,1
+399,classify incident with qradar,close,0
+400,classify incident with qradar,create,0
+401,classify incident with qradar,detonate,0
+402,classify incident with qradar,disable,0
+403,classify incident with qradar,download,0
+404,classify incident with qradar,enrich,0
+405,classify incident with qradar,parse,0
+406,classify incident with qradar,print,0
+407,classify incident with qradar,quarantine,0
+408,classify incident with qradar,query,0
+409,classify incident with qradar,retrieve,0
+410,classify incident with qradar,send,0
+411,classify incident with qradar,set,0
+412,classify incident with qradar,use,0
+413,classify incident with qradar,verify,0
+414,classify incident with trendmicro,assing,0
+415,classify incident with trendmicro,block,0
+416,classify incident with trendmicro,categorise,1
+417,classify incident with trendmicro,close,0
+418,classify incident with trendmicro,create,0
+419,classify incident with trendmicro,detonate,0
+420,classify incident with trendmicro,disable,0
+421,classify incident with trendmicro,download,0
+422,classify incident with trendmicro,enrich,0
+423,classify incident with trendmicro,parse,0
+424,classify incident with trendmicro,print,0
+425,classify incident with trendmicro,quarantine,0
+426,classify incident with trendmicro,query,0
+427,classify incident with trendmicro,retrieve,0
+428,classify incident with trendmicro,send,0
+429,classify incident with trendmicro,set,0
+430,classify incident with trendmicro,use,0
+431,classify incident with trendmicro,verify,0
+432,classify incident with vectra,assing,0
+433,classify incident with vectra,block,0
+434,classify incident with vectra,categorise,1
+435,classify incident with vectra,close,0
+436,classify incident with vectra,create,0
+437,classify incident with vectra,detonate,0
+438,classify incident with vectra,disable,0
+439,classify incident with vectra,download,0
+440,classify incident with vectra,enrich,0
+441,classify incident with vectra,parse,0
+442,classify incident with vectra,print,0
+443,classify incident with vectra,quarantine,0
+444,classify incident with vectra,query,0
+445,classify incident with vectra,retrieve,0
+446,classify incident with vectra,send,0
+447,classify incident with vectra,set,0
+448,classify incident with vectra,use,0
+449,classify incident with vectra,verify,0
+450,close the current incident,assing,0
+451,close the current incident,block,0
+452,close the current incident,categorise,0
+453,close the current incident,close,1
+454,close the current incident,create,0
+455,close the current incident,detonate,0
+456,close the current incident,disable,0
+457,close the current incident,download,0
+458,close the current incident,enrich,0
+459,close the current incident,parse,0
+460,close the current incident,print,0
+461,close the current incident,quarantine,0
+462,close the current incident,query,0
+463,close the current incident,retrieve,0
+464,close the current incident,send,0
+465,close the current incident,set,0
+466,close the current incident,use,0
+467,close the current incident,verify,0
+468,close the investigation.,assing,0
+469,close the investigation.,block,0
+470,close the investigation.,categorise,0
+471,close the investigation.,close,1
+472,close the investigation.,create,0
+473,close the investigation.,detonate,0
+474,close the investigation.,disable,0
+475,close the investigation.,download,0
+476,close the investigation.,enrich,0
+477,close the investigation.,parse,0
+478,close the investigation.,print,0
+479,close the investigation.,quarantine,0
+480,close the investigation.,query,0
+481,close the investigation.,retrieve,0
+482,close the investigation.,send,0
+483,close the investigation.,set,0
+484,close the investigation.,use,0
+485,close the investigation.,verify,0
+486,"create a phishing classifier using machine learning technique, based on email content",assing,0
+487,"create a phishing classifier using machine learning technique, based on email content",block,0
+488,"create a phishing classifier using machine learning technique, based on email content",categorise,0
+489,"create a phishing classifier using machine learning technique, based on email content",close,0
+490,"create a phishing classifier using machine learning technique, based on email content",create,1
+491,"create a phishing classifier using machine learning technique, based on email content",detonate,0
+492,"create a phishing classifier using machine learning technique, based on email content",disable,0
+493,"create a phishing classifier using machine learning technique, based on email content",download,0
+494,"create a phishing classifier using machine learning technique, based on email content",enrich,0
+495,"create a phishing classifier using machine learning technique, based on email content",parse,0
+496,"create a phishing classifier using machine learning technique, based on email content",print,0
+497,"create a phishing classifier using machine learning technique, based on email content",quarantine,0
+498,"create a phishing classifier using machine learning technique, based on email content",query,0
+499,"create a phishing classifier using machine learning technique, based on email content",retrieve,0
+500,"create a phishing classifier using machine learning technique, based on email content",send,0
+501,"create a phishing classifier using machine learning technique, based on email content",set,0
+502,"create a phishing classifier using machine learning technique, based on email content",use,0
+503,"create a phishing classifier using machine learning technique, based on email content",verify,0
+504,detonate the file in available sandboxes.,assing,0
+505,detonate the file in available sandboxes.,block,0
+506,detonate the file in available sandboxes.,categorise,0
+507,detonate the file in available sandboxes.,close,0
+508,detonate the file in available sandboxes.,create,0
+509,detonate the file in available sandboxes.,detonate,1
+510,detonate the file in available sandboxes.,disable,0
+511,detonate the file in available sandboxes.,download,0
+512,detonate the file in available sandboxes.,enrich,0
+513,detonate the file in available sandboxes.,parse,0
+514,detonate the file in available sandboxes.,print,0
+515,detonate the file in available sandboxes.,quarantine,0
+516,detonate the file in available sandboxes.,query,0
+517,detonate the file in available sandboxes.,retrieve,0
+518,detonate the file in available sandboxes.,send,0
+519,detonate the file in available sandboxes.,set,0
+520,detonate the file in available sandboxes.,use,0
+521,detonate the file in available sandboxes.,verify,0
+522,detonate the file in crowdstrike falcon sandbox.,assing,0
+523,detonate the file in crowdstrike falcon sandbox.,block,0
+524,detonate the file in crowdstrike falcon sandbox.,categorise,0
+525,detonate the file in crowdstrike falcon sandbox.,close,0
+526,detonate the file in crowdstrike falcon sandbox.,create,0
+527,detonate the file in crowdstrike falcon sandbox.,detonate,1
+528,detonate the file in crowdstrike falcon sandbox.,disable,0
+529,detonate the file in crowdstrike falcon sandbox.,download,0
+530,detonate the file in crowdstrike falcon sandbox.,enrich,0
+531,detonate the file in crowdstrike falcon sandbox.,parse,0
+532,detonate the file in crowdstrike falcon sandbox.,print,0
+533,detonate the file in crowdstrike falcon sandbox.,quarantine,0
+534,detonate the file in crowdstrike falcon sandbox.,query,0
+535,detonate the file in crowdstrike falcon sandbox.,retrieve,0
+536,detonate the file in crowdstrike falcon sandbox.,send,0
+537,detonate the file in crowdstrike falcon sandbox.,set,0
+538,detonate the file in crowdstrike falcon sandbox.,use,0
+539,detonate the file in crowdstrike falcon sandbox.,verify,0
+540,detonate the file in mcafee atd,assing,0
+541,detonate the file in mcafee atd,block,0
+542,detonate the file in mcafee atd,categorise,0
+543,detonate the file in mcafee atd,close,0
+544,detonate the file in mcafee atd,create,0
+545,detonate the file in mcafee atd,detonate,1
+546,detonate the file in mcafee atd,disable,0
+547,detonate the file in mcafee atd,download,0
+548,detonate the file in mcafee atd,enrich,0
+549,detonate the file in mcafee atd,parse,0
+550,detonate the file in mcafee atd,print,0
+551,detonate the file in mcafee atd,quarantine,0
+552,detonate the file in mcafee atd,query,0
+553,detonate the file in mcafee atd,retrieve,0
+554,detonate the file in mcafee atd,send,0
+555,detonate the file in mcafee atd,set,0
+556,detonate the file in mcafee atd,use,0
+557,detonate the file in mcafee atd,verify,0
+558,detonates a file using anyrun,assing,0
+559,detonates a file using anyrun,block,0
+560,detonates a file using anyrun,categorise,0
+561,detonates a file using anyrun,close,0
+562,detonates a file using anyrun,create,0
+563,detonates a file using anyrun,detonate,1
+564,detonates a file using anyrun,disable,0
+565,detonates a file using anyrun,download,0
+566,detonates a file using anyrun,enrich,0
+567,detonates a file using anyrun,parse,0
+568,detonates a file using anyrun,print,0
+569,detonates a file using anyrun,quarantine,0
+570,detonates a file using anyrun,query,0
+571,detonates a file using anyrun,retrieve,0
+572,detonates a file using anyrun,send,0
+573,detonates a file using anyrun,set,0
+574,detonates a file using anyrun,use,0
+575,detonates a file using anyrun,verify,0
+576,detonates a url using the mcafee advanced threat defense sandbox integration.,assing,0
+577,detonates a url using the mcafee advanced threat defense sandbox integration.,assing,0
+578,detonates a url using the mcafee advanced threat defense sandbox integration.,block,0
+579,detonates a url using the mcafee advanced threat defense sandbox integration.,block,0
+580,detonates a url using the mcafee advanced threat defense sandbox integration.,categorise,0
+581,detonates a url using the mcafee advanced threat defense sandbox integration.,categorise,0
+582,detonates a url using the mcafee advanced threat defense sandbox integration.,close,0
+583,detonates a url using the mcafee advanced threat defense sandbox integration.,close,0
+584,detonates a url using the mcafee advanced threat defense sandbox integration.,create,0
+585,detonates a url using the mcafee advanced threat defense sandbox integration.,create,0
+586,detonates a url using the mcafee advanced threat defense sandbox integration.,detonate,1
+587,detonates a url using the mcafee advanced threat defense sandbox integration.,detonate,1
+588,detonates a url using the mcafee advanced threat defense sandbox integration.,disable,0
+589,detonates a url using the mcafee advanced threat defense sandbox integration.,disable,0
+590,detonates a url using the mcafee advanced threat defense sandbox integration.,download,0
+591,detonates a url using the mcafee advanced threat defense sandbox integration.,download,0
+592,detonates a url using the mcafee advanced threat defense sandbox integration.,enrich,0
+593,detonates a url using the mcafee advanced threat defense sandbox integration.,enrich,0
+594,detonates a url using the mcafee advanced threat defense sandbox integration.,parse,0
+595,detonates a url using the mcafee advanced threat defense sandbox integration.,parse,0
+596,detonates a url using the mcafee advanced threat defense sandbox integration.,print,0
+597,detonates a url using the mcafee advanced threat defense sandbox integration.,print,0
+598,detonates a url using the mcafee advanced threat defense sandbox integration.,quarantine,0
+599,detonates a url using the mcafee advanced threat defense sandbox integration.,quarantine,0
+600,detonates a url using the mcafee advanced threat defense sandbox integration.,query,0
+601,detonates a url using the mcafee advanced threat defense sandbox integration.,query,0
+602,detonates a url using the mcafee advanced threat defense sandbox integration.,retrieve,0
+603,detonates a url using the mcafee advanced threat defense sandbox integration.,retrieve,0
+604,detonates a url using the mcafee advanced threat defense sandbox integration.,send,0
+605,detonates a url using the mcafee advanced threat defense sandbox integration.,send,0
+606,detonates a url using the mcafee advanced threat defense sandbox integration.,set,0
+607,detonates a url using the mcafee advanced threat defense sandbox integration.,set,0
+608,detonates a url using the mcafee advanced threat defense sandbox integration.,use,0
+609,detonates a url using the mcafee advanced threat defense sandbox integration.,use,0
+610,detonates a url using the mcafee advanced threat defense sandbox integration.,verify,0
+611,detonates a url using the mcafee advanced threat defense sandbox integration.,verify,0
+612,detonates one or more files using joe sandbox integration.,assing,0
+613,detonates one or more files using joe sandbox integration.,block,0
+614,detonates one or more files using joe sandbox integration.,categorise,0
+615,detonates one or more files using joe sandbox integration.,close,0
+616,detonates one or more files using joe sandbox integration.,create,0
+617,detonates one or more files using joe sandbox integration.,detonate,1
+618,detonates one or more files using joe sandbox integration.,disable,0
+619,detonates one or more files using joe sandbox integration.,download,0
+620,detonates one or more files using joe sandbox integration.,enrich,0
+621,detonates one or more files using joe sandbox integration.,parse,0
+622,detonates one or more files using joe sandbox integration.,print,0
+623,detonates one or more files using joe sandbox integration.,quarantine,0
+624,detonates one or more files using joe sandbox integration.,query,0
+625,detonates one or more files using joe sandbox integration.,retrieve,0
+626,detonates one or more files using joe sandbox integration.,send,0
+627,detonates one or more files using joe sandbox integration.,set,0
+628,detonates one or more files using joe sandbox integration.,use,0
+629,detonates one or more files using joe sandbox integration.,verify,0
+630,detonates one or more urls using the joe security sandbox integration.,assing,0
+631,detonates one or more urls using the joe security sandbox integration.,assing,0
+632,detonates one or more urls using the joe security sandbox integration.,block,0
+633,detonates one or more urls using the joe security sandbox integration.,block,0
+634,detonates one or more urls using the joe security sandbox integration.,categorise,0
+635,detonates one or more urls using the joe security sandbox integration.,categorise,0
+636,detonates one or more urls using the joe security sandbox integration.,close,0
+637,detonates one or more urls using the joe security sandbox integration.,close,0
+638,detonates one or more urls using the joe security sandbox integration.,create,0
+639,detonates one or more urls using the joe security sandbox integration.,create,0
+640,detonates one or more urls using the joe security sandbox integration.,detonate,1
+641,detonates one or more urls using the joe security sandbox integration.,detonate,1
+642,detonates one or more urls using the joe security sandbox integration.,disable,0
+643,detonates one or more urls using the joe security sandbox integration.,disable,0
+644,detonates one or more urls using the joe security sandbox integration.,download,0
+645,detonates one or more urls using the joe security sandbox integration.,download,0
+646,detonates one or more urls using the joe security sandbox integration.,enrich,0
+647,detonates one or more urls using the joe security sandbox integration.,enrich,0
+648,detonates one or more urls using the joe security sandbox integration.,parse,0
+649,detonates one or more urls using the joe security sandbox integration.,parse,0
+650,detonates one or more urls using the joe security sandbox integration.,print,0
+651,detonates one or more urls using the joe security sandbox integration.,print,0
+652,detonates one or more urls using the joe security sandbox integration.,quarantine,0
+653,detonates one or more urls using the joe security sandbox integration.,quarantine,0
+654,detonates one or more urls using the joe security sandbox integration.,query,0
+655,detonates one or more urls using the joe security sandbox integration.,query,0
+656,detonates one or more urls using the joe security sandbox integration.,retrieve,0
+657,detonates one or more urls using the joe security sandbox integration.,retrieve,0
+658,detonates one or more urls using the joe security sandbox integration.,send,0
+659,detonates one or more urls using the joe security sandbox integration.,send,0
+660,detonates one or more urls using the joe security sandbox integration.,set,0
+661,detonates one or more urls using the joe security sandbox integration.,set,0
+662,detonates one or more urls using the joe security sandbox integration.,use,0
+663,detonates one or more urls using the joe security sandbox integration.,use,0
+664,detonates one or more urls using the joe security sandbox integration.,verify,0
+665,detonates one or more urls using the joe security sandbox integration.,verify,0
+666,disable the account using active directory.,assing,0
+667,disable the account using active directory.,block,0
+668,disable the account using active directory.,categorise,0
+669,disable the account using active directory.,close,0
+670,disable the account using active directory.,create,0
+671,disable the account using active directory.,detonate,0
+672,disable the account using active directory.,disable,1
+673,disable the account using active directory.,download,0
+674,disable the account using active directory.,enrich,0
+675,disable the account using active directory.,parse,0
+676,disable the account using active directory.,print,0
+677,disable the account using active directory.,quarantine,0
+678,disable the account using active directory.,query,0
+679,disable the account using active directory.,retrieve,0
+680,disable the account using active directory.,send,0
+681,disable the account using active directory.,set,0
+682,disable the account using active directory.,use,0
+683,disable the account using active directory.,verify,0
+684,download the pdf report to the war room.,assing,0
+685,download the pdf report to the war room.,block,0
+686,download the pdf report to the war room.,categorise,0
+687,download the pdf report to the war room.,close,0
+688,download the pdf report to the war room.,create,0
+689,download the pdf report to the war room.,detonate,0
+690,download the pdf report to the war room.,disable,0
+691,download the pdf report to the war room.,download,1
+692,download the pdf report to the war room.,enrich,0
+693,download the pdf report to the war room.,parse,0
+694,download the pdf report to the war room.,print,0
+695,download the pdf report to the war room.,quarantine,0
+696,download the pdf report to the war room.,query,0
+697,download the pdf report to the war room.,retrieve,0
+698,download the pdf report to the war room.,send,0
+699,download the pdf report to the war room.,set,0
+700,download the pdf report to the war room.,use,0
+701,download the pdf report to the war room.,verify,0
+702,downloads file from archer to demisto's context,assing,0
+703,downloads file from archer to demisto's context,block,0
+704,downloads file from archer to demisto's context,categorise,0
+705,downloads file from archer to demisto's context,close,0
+706,downloads file from archer to demisto's context,create,0
+707,downloads file from archer to demisto's context,detonate,0
+708,downloads file from archer to demisto's context,disable,0
+709,downloads file from archer to demisto's context,download,1
+710,downloads file from archer to demisto's context,enrich,0
+711,downloads file from archer to demisto's context,parse,0
+712,downloads file from archer to demisto's context,print,0
+713,downloads file from archer to demisto's context,quarantine,0
+714,downloads file from archer to demisto's context,query,0
+715,downloads file from archer to demisto's context,retrieve,0
+716,downloads file from archer to demisto's context,send,0
+717,downloads file from archer to demisto's context,set,0
+718,downloads file from archer to demisto's context,use,0
+719,downloads file from archer to demisto's context,verify,0
+720,dump the file to the war room,assing,0
+721,dump the file to the war room,block,0
+722,dump the file to the war room,categorise,0
+723,dump the file to the war room,close,0
+724,dump the file to the war room,create,0
+725,dump the file to the war room,detonate,0
+726,dump the file to the war room,disable,0
+727,dump the file to the war room,download,0
+728,dump the file to the war room,enrich,0
+729,dump the file to the war room,parse,0
+730,dump the file to the war room,print,0
+731,dump the file to the war room,quarantine,0
+732,dump the file to the war room,query,0
+733,dump the file to the war room,retrieve,0
+734,dump the file to the war room,send,1
+735,dump the file to the war room,set,0
+736,dump the file to the war room,use,0
+737,dump the file to the war room,verify,0
+738,enrich accounts using one or more integration,assing,0
+739,enrich accounts using one or more integration,block,0
+740,enrich accounts using one or more integration,categorise,0
+741,enrich accounts using one or more integration,close,0
+742,enrich accounts using one or more integration,create,0
+743,enrich accounts using one or more integration,detonate,0
+744,enrich accounts using one or more integration,disable,0
+745,enrich accounts using one or more integration,download,0
+746,enrich accounts using one or more integration,enrich,1
+747,enrich accounts using one or more integration,parse,0
+748,enrich accounts using one or more integration,print,0
+749,enrich accounts using one or more integration,quarantine,0
+750,enrich accounts using one or more integration,query,0
+751,enrich accounts using one or more integration,retrieve,0
+752,enrich accounts using one or more integration,send,0
+753,enrich accounts using one or more integration,set,0
+754,enrich accounts using one or more integration,use,0
+755,enrich accounts using one or more integration,verify,0
+756,get a specific case from esm,assing,0
+757,get a specific case from esm,block,0
+758,get a specific case from esm,categorise,0
+759,get a specific case from esm,close,0
+760,get a specific case from esm,create,0
+761,get a specific case from esm,detonate,0
+762,get a specific case from esm,disable,0
+763,get a specific case from esm,download,0
+764,get a specific case from esm,enrich,0
+765,get a specific case from esm,parse,0
+766,get a specific case from esm,print,0
+767,get a specific case from esm,quarantine,0
+768,get a specific case from esm,query,0
+769,get a specific case from esm,retrieve,1
+770,get a specific case from esm,send,0
+771,get a specific case from esm,set,0
+772,get a specific case from esm,use,0
+773,get a specific case from esm,verify,0
+774,get crowdstrike device id,assing,0
+775,get crowdstrike device id,block,0
+776,get crowdstrike device id,categorise,0
+777,get crowdstrike device id,close,0
+778,get crowdstrike device id,create,0
+779,get crowdstrike device id,detonate,0
+780,get crowdstrike device id,disable,0
+781,get crowdstrike device id,download,0
+782,get crowdstrike device id,enrich,0
+783,get crowdstrike device id,parse,0
+784,get crowdstrike device id,print,0
+785,get crowdstrike device id,quarantine,0
+786,get crowdstrike device id,query,0
+787,get crowdstrike device id,retrieve,1
+788,get crowdstrike device id,send,0
+789,get crowdstrike device id,set,0
+790,get crowdstrike device id,use,0
+791,get crowdstrike device id,verify,0
+792,get hardware details from endpoint,assing,0
+793,get hardware details from endpoint,block,0
+794,get hardware details from endpoint,categorise,0
+795,get hardware details from endpoint,close,0
+796,get hardware details from endpoint,create,0
+797,get hardware details from endpoint,detonate,0
+798,get hardware details from endpoint,disable,0
+799,get hardware details from endpoint,download,0
+800,get hardware details from endpoint,enrich,0
+801,get hardware details from endpoint,parse,0
+802,get hardware details from endpoint,print,0
+803,get hardware details from endpoint,quarantine,0
+804,get hardware details from endpoint,query,0
+805,get hardware details from endpoint,retrieve,1
+806,get hardware details from endpoint,send,0
+807,get hardware details from endpoint,set,0
+808,get hardware details from endpoint,use,0
+809,get hardware details from endpoint,verify,0
+810,get host information from crowdstrike falcon host,assing,0
+811,get host information from crowdstrike falcon host,block,0
+812,get host information from crowdstrike falcon host,categorise,0
+813,get host information from crowdstrike falcon host,close,0
+814,get host information from crowdstrike falcon host,create,0
+815,get host information from crowdstrike falcon host,detonate,0
+816,get host information from crowdstrike falcon host,disable,0
+817,get host information from crowdstrike falcon host,download,0
+818,get host information from crowdstrike falcon host,enrich,0
+819,get host information from crowdstrike falcon host,parse,0
+820,get host information from crowdstrike falcon host,print,0
+821,get host information from crowdstrike falcon host,quarantine,0
+822,get host information from crowdstrike falcon host,query,0
+823,get host information from crowdstrike falcon host,retrieve,1
+824,get host information from crowdstrike falcon host,send,0
+825,get host information from crowdstrike falcon host,set,0
+826,get host information from crowdstrike falcon host,use,0
+827,get host information from crowdstrike falcon host,verify,0
+828,get the report for a task created for a submitted file or url.,assing,0
+829,get the report for a task created for a submitted file or url.,block,0
+830,get the report for a task created for a submitted file or url.,categorise,0
+831,get the report for a task created for a submitted file or url.,close,0
+832,get the report for a task created for a submitted file or url.,create,0
+833,get the report for a task created for a submitted file or url.,detonate,0
+834,get the report for a task created for a submitted file or url.,disable,0
+835,get the report for a task created for a submitted file or url.,download,0
+836,get the report for a task created for a submitted file or url.,enrich,0
+837,get the report for a task created for a submitted file or url.,parse,0
+838,get the report for a task created for a submitted file or url.,print,0
+839,get the report for a task created for a submitted file or url.,quarantine,0
+840,get the report for a task created for a submitted file or url.,query,0
+841,get the report for a task created for a submitted file or url.,retrieve,1
+842,get the report for a task created for a submitted file or url.,send,0
+843,get the report for a task created for a submitted file or url.,set,0
+844,get the report for a task created for a submitted file or url.,use,0
+845,get the report for a task created for a submitted file or url.,verify,0
+846,get the results of the operation.,assing,0
+847,get the results of the operation.,block,0
+848,get the results of the operation.,categorise,0
+849,get the results of the operation.,close,0
+850,get the results of the operation.,create,0
+851,get the results of the operation.,detonate,0
+852,get the results of the operation.,disable,0
+853,get the results of the operation.,download,0
+854,get the results of the operation.,enrich,0
+855,get the results of the operation.,parse,0
+856,get the results of the operation.,print,0
+857,get the results of the operation.,quarantine,0
+858,get the results of the operation.,query,0
+859,get the results of the operation.,retrieve,1
+860,get the results of the operation.,send,0
+861,get the results of the operation.,set,0
+862,get the results of the operation.,use,0
+863,get the results of the operation.,verify,0
+864,initiate the operation,assing,0
+865,initiate the operation,block,0
+866,initiate the operation,categorise,0
+867,initiate the operation,close,0
+868,initiate the operation,create,0
+869,initiate the operation,detonate,0
+870,initiate the operation,disable,0
+871,initiate the operation,download,0
+872,initiate the operation,enrich,0
+873,initiate the operation,parse,0
+874,initiate the operation,print,0
+875,initiate the operation,quarantine,0
+876,initiate the operation,query,0
+877,initiate the operation,retrieve,0
+878,initiate the operation,send,0
+879,initiate the operation,set,1
+880,initiate the operation,use,0
+881,initiate the operation,verify,0
+882,initiated the generic polling playbook that will do the polling command,assing,0
+883,initiated the generic polling playbook that will do the polling command,block,0
+884,initiated the generic polling playbook that will do the polling command,categorise,0
+885,initiated the generic polling playbook that will do the polling command,close,0
+886,initiated the generic polling playbook that will do the polling command,create,0
+887,initiated the generic polling playbook that will do the polling command,detonate,0
+888,initiated the generic polling playbook that will do the polling command,disable,0
+889,initiated the generic polling playbook that will do the polling command,download,0
+890,initiated the generic polling playbook that will do the polling command,enrich,0
+891,initiated the generic polling playbook that will do the polling command,parse,0
+892,initiated the generic polling playbook that will do the polling command,print,0
+893,initiated the generic polling playbook that will do the polling command,quarantine,0
+894,initiated the generic polling playbook that will do the polling command,query,0
+895,initiated the generic polling playbook that will do the polling command,retrieve,0
+896,initiated the generic polling playbook that will do the polling command,send,0
+897,initiated the generic polling playbook that will do the polling command,set,1
+898,initiated the generic polling playbook that will do the polling command,use,0
+899,initiated the generic polling playbook that will do the polling command,verify,0
+900,parse email with nexpose,assing,0
+901,parse email with nexpose,block,0
+902,parse email with nexpose,categorise,0
+903,parse email with nexpose,close,0
+904,parse email with nexpose,create,0
+905,parse email with nexpose,detonate,0
+906,parse email with nexpose,disable,0
+907,parse email with nexpose,download,0
+908,parse email with nexpose,enrich,0
+909,parse email with nexpose,parse,1
+910,parse email with nexpose,print,0
+911,parse email with nexpose,quarantine,0
+912,parse email with nexpose,query,0
+913,parse email with nexpose,retrieve,0
+914,parse email with nexpose,send,0
+915,parse email with nexpose,set,0
+916,parse email with nexpose,use,0
+917,parse email with nexpose,verify,0
+918,parse email with sentinelone,assing,0
+919,parse email with sentinelone,block,0
+920,parse email with sentinelone,categorise,0
+921,parse email with sentinelone,close,0
+922,parse email with sentinelone,create,0
+923,parse email with sentinelone,detonate,0
+924,parse email with sentinelone,disable,0
+925,parse email with sentinelone,download,0
+926,parse email with sentinelone,enrich,0
+927,parse email with sentinelone,parse,1
+928,parse email with sentinelone,print,0
+929,parse email with sentinelone,quarantine,0
+930,parse email with sentinelone,query,0
+931,parse email with sentinelone,retrieve,0
+932,parse email with sentinelone,send,0
+933,parse email with sentinelone,set,0
+934,parse email with sentinelone,use,0
+935,parse email with sentinelone,verify,0
+936,parse email with splunk,assing,0
+937,parse email with splunk,block,0
+938,parse email with splunk,categorise,0
+939,parse email with splunk,close,0
+940,parse email with splunk,create,0
+941,parse email with splunk,detonate,0
+942,parse email with splunk,disable,0
+943,parse email with splunk,download,0
+944,parse email with splunk,enrich,0
+945,parse email with splunk,parse,1
+946,parse email with splunk,print,0
+947,parse email with splunk,quarantine,0
+948,parse email with splunk,query,0
+949,parse email with splunk,retrieve,0
+950,parse email with splunk,send,0
+951,parse email with splunk,set,0
+952,parse email with splunk,use,0
+953,parse email with splunk,verify,0
+954,poll the operation,assing,0
+955,poll the operation,block,0
+956,poll the operation,categorise,0
+957,poll the operation,close,0
+958,poll the operation,create,0
+959,poll the operation,detonate,0
+960,poll the operation,disable,0
+961,poll the operation,download,0
+962,poll the operation,enrich,0
+963,poll the operation,parse,0
+964,poll the operation,print,0
+965,poll the operation,quarantine,0
+966,poll the operation,query,0
+967,poll the operation,retrieve,0
+968,poll the operation,send,0
+969,poll the operation,set,1
+970,poll the operation,use,0
+971,poll the operation,verify,0
+972,prints report to war room,assing,0
+973,prints report to war room,block,0
+974,prints report to war room,categorise,0
+975,prints report to war room,close,0
+976,prints report to war room,create,0
+977,prints report to war room,detonate,0
+978,prints report to war room,disable,0
+979,prints report to war room,download,0
+980,prints report to war room,enrich,0
+981,prints report to war room,parse,0
+982,prints report to war room,print,1
+983,prints report to war room,quarantine,0
+984,prints report to war room,query,0
+985,prints report to war room,retrieve,0
+986,prints report to war room,send,0
+987,prints report to war room,set,0
+988,prints report to war room,use,0
+989,prints report to war room,verify,0
+990,quarantine the account,assing,0
+991,quarantine the account,block,0
+992,quarantine the account,categorise,0
+993,quarantine the account,close,0
+994,quarantine the account,create,0
+995,quarantine the account,detonate,0
+996,quarantine the account,disable,0
+997,quarantine the account,download,0
+998,quarantine the account,enrich,0
+999,quarantine the account,parse,0
+1000,quarantine the account,print,0
+1001,quarantine the account,quarantine,1
+1002,quarantine the account,query,0
+1003,quarantine the account,retrieve,0
+1004,quarantine the account,send,0
+1005,quarantine the account,set,0
+1006,quarantine the account,use,0
+1007,quarantine the account,verify,0
+1008,quarantine the endpoint,assing,0
+1009,quarantine the endpoint,block,0
+1010,quarantine the endpoint,categorise,0
+1011,quarantine the endpoint,close,0
+1012,quarantine the endpoint,create,0
+1013,quarantine the endpoint,detonate,0
+1014,quarantine the endpoint,disable,0
+1015,quarantine the endpoint,download,0
+1016,quarantine the endpoint,enrich,0
+1017,quarantine the endpoint,parse,0
+1018,quarantine the endpoint,print,0
+1019,quarantine the endpoint,quarantine,1
+1020,quarantine the endpoint,query,0
+1021,quarantine the endpoint,retrieve,0
+1022,quarantine the endpoint,send,0
+1023,quarantine the endpoint,set,0
+1024,quarantine the endpoint,use,0
+1025,quarantine the endpoint,verify,0
+1026,queries active directory,assing,0
+1027,queries active directory,block,0
+1028,queries active directory,categorise,0
+1029,queries active directory,close,0
+1030,queries active directory,create,0
+1031,queries active directory,detonate,0
+1032,queries active directory,disable,0
+1033,queries active directory,download,0
+1034,queries active directory,enrich,0
+1035,queries active directory,parse,0
+1036,queries active directory,print,0
+1037,queries active directory,quarantine,0
+1038,queries active directory,query,1
+1039,queries active directory,retrieve,0
+1040,queries active directory,send,0
+1041,queries active directory,set,0
+1042,queries active directory,use,0
+1043,queries active directory,verify,0
+1044,queries active directory for the username's information.,assing,0
+1045,queries active directory for the username's information.,block,0
+1046,queries active directory for the username's information.,categorise,0
+1047,queries active directory for the username's information.,close,0
+1048,queries active directory for the username's information.,create,0
+1049,queries active directory for the username's information.,detonate,0
+1050,queries active directory for the username's information.,disable,0
+1051,queries active directory for the username's information.,download,0
+1052,queries active directory for the username's information.,enrich,0
+1053,queries active directory for the username's information.,parse,0
+1054,queries active directory for the username's information.,print,0
+1055,queries active directory for the username's information.,quarantine,0
+1056,queries active directory for the username's information.,query,1
+1057,queries active directory for the username's information.,retrieve,0
+1058,queries active directory for the username's information.,send,0
+1059,queries active directory for the username's information.,set,0
+1060,queries active directory for the username's information.,use,0
+1061,queries active directory for the username's information.,verify,0
+1062,query active directory for the email address information,assing,0
+1063,query active directory for the email address information,block,0
+1064,query active directory for the email address information,categorise,0
+1065,query active directory for the email address information,close,0
+1066,query active directory for the email address information,create,0
+1067,query active directory for the email address information,detonate,0
+1068,query active directory for the email address information,disable,0
+1069,query active directory for the email address information,download,0
+1070,query active directory for the email address information,enrich,0
+1071,query active directory for the email address information,parse,0
+1072,query active directory for the email address information,print,0
+1073,query active directory for the email address information,quarantine,0
+1074,query active directory for the email address information,query,1
+1075,query active directory for the email address information,retrieve,0
+1076,query active directory for the email address information,send,0
+1077,query active directory for the email address information,set,0
+1078,query active directory for the email address information,use,0
+1079,query active directory for the email address information,verify,0
+1080,query active directory for the username's information,assing,0
+1081,query active directory for the username's information,block,0
+1082,query active directory for the username's information,categorise,0
+1083,query active directory for the username's information,close,0
+1084,query active directory for the username's information,create,0
+1085,query active directory for the username's information,detonate,0
+1086,query active directory for the username's information,disable,0
+1087,query active directory for the username's information,download,0
+1088,query active directory for the username's information,enrich,0
+1089,query active directory for the username's information,parse,0
+1090,query active directory for the username's information,print,0
+1091,query active directory for the username's information,quarantine,0
+1092,query active directory for the username's information,query,1
+1093,query active directory for the username's information,retrieve,0
+1094,query active directory for the username's information,send,0
+1095,query active directory for the username's information,set,0
+1096,query active directory for the username's information,use,0
+1097,query active directory for the username's information,verify,0
+1098,query the account logs in siem,assing,0
+1099,query the account logs in siem,block,0
+1100,query the account logs in siem,categorise,0
+1101,query the account logs in siem,close,0
+1102,query the account logs in siem,create,0
+1103,query the account logs in siem,detonate,0
+1104,query the account logs in siem,disable,0
+1105,query the account logs in siem,download,0
+1106,query the account logs in siem,enrich,0
+1107,query the account logs in siem,parse,0
+1108,query the account logs in siem,print,0
+1109,query the account logs in siem,quarantine,0
+1110,query the account logs in siem,query,1
+1111,query the account logs in siem,retrieve,0
+1112,query the account logs in siem,send,0
+1113,query the account logs in siem,set,0
+1114,query the account logs in siem,use,0
+1115,query the account logs in siem,verify,0
+1116,query the ips logs in the siem,assing,0
+1117,query the ips logs in the siem,block,0
+1118,query the ips logs in the siem,categorise,0
+1119,query the ips logs in the siem,close,0
+1120,query the ips logs in the siem,create,0
+1121,query the ips logs in the siem,detonate,0
+1122,query the ips logs in the siem,disable,0
+1123,query the ips logs in the siem,download,0
+1124,query the ips logs in the siem,enrich,0
+1125,query the ips logs in the siem,parse,0
+1126,query the ips logs in the siem,print,0
+1127,query the ips logs in the siem,quarantine,0
+1128,query the ips logs in the siem,query,1
+1129,query the ips logs in the siem,retrieve,0
+1130,query the ips logs in the siem,send,0
+1131,query the ips logs in the siem,set,0
+1132,query the ips logs in the siem,use,0
+1133,query the ips logs in the siem,verify,0
+1134,"retrieve cve information from ""cve search"".",assing,0
+1135,"retrieve cve information from ""cve search"".",block,0
+1136,"retrieve cve information from ""cve search"".",categorise,0
+1137,"retrieve cve information from ""cve search"".",close,0
+1138,"retrieve cve information from ""cve search"".",create,0
+1139,"retrieve cve information from ""cve search"".",detonate,0
+1140,"retrieve cve information from ""cve search"".",disable,0
+1141,"retrieve cve information from ""cve search"".",download,0
+1142,"retrieve cve information from ""cve search"".",enrich,0
+1143,"retrieve cve information from ""cve search"".",parse,0
+1144,"retrieve cve information from ""cve search"".",print,0
+1145,"retrieve cve information from ""cve search"".",quarantine,0
+1146,"retrieve cve information from ""cve search"".",query,0
+1147,"retrieve cve information from ""cve search"".",retrieve,1
+1148,"retrieve cve information from ""cve search"".",send,0
+1149,"retrieve cve information from ""cve search"".",set,0
+1150,"retrieve cve information from ""cve search"".",use,0
+1151,"retrieve cve information from ""cve search"".",verify,0
+1152,retrieve cve information from xfe.,assing,0
+1153,retrieve cve information from xfe.,block,0
+1154,retrieve cve information from xfe.,categorise,0
+1155,retrieve cve information from xfe.,close,0
+1156,retrieve cve information from xfe.,create,0
+1157,retrieve cve information from xfe.,detonate,0
+1158,retrieve cve information from xfe.,disable,0
+1159,retrieve cve information from xfe.,download,0
+1160,retrieve cve information from xfe.,enrich,0
+1161,retrieve cve information from xfe.,parse,0
+1162,retrieve cve information from xfe.,print,0
+1163,retrieve cve information from xfe.,quarantine,0
+1164,retrieve cve information from xfe.,query,0
+1165,retrieve cve information from xfe.,retrieve,1
+1166,retrieve cve information from xfe.,send,0
+1167,retrieve cve information from xfe.,set,0
+1168,retrieve cve information from xfe.,use,0
+1169,retrieve cve information from xfe.,verify,0
+1170,retrieve cve reputation using one or more integrations.,assing,0
+1171,retrieve cve reputation using one or more integrations.,block,0
+1172,retrieve cve reputation using one or more integrations.,categorise,0
+1173,retrieve cve reputation using one or more integrations.,close,0
+1174,retrieve cve reputation using one or more integrations.,create,0
+1175,retrieve cve reputation using one or more integrations.,detonate,0
+1176,retrieve cve reputation using one or more integrations.,disable,0
+1177,retrieve cve reputation using one or more integrations.,download,0
+1178,retrieve cve reputation using one or more integrations.,enrich,0
+1179,retrieve cve reputation using one or more integrations.,parse,0
+1180,retrieve cve reputation using one or more integrations.,print,0
+1181,retrieve cve reputation using one or more integrations.,quarantine,0
+1182,retrieve cve reputation using one or more integrations.,query,0
+1183,retrieve cve reputation using one or more integrations.,retrieve,1
+1184,retrieve cve reputation using one or more integrations.,send,0
+1185,retrieve cve reputation using one or more integrations.,set,0
+1186,retrieve cve reputation using one or more integrations.,use,0
+1187,retrieve cve reputation using one or more integrations.,verify,0
+1188,retrieve result data upon a file.,assing,0
+1189,retrieve result data upon a file.,block,0
+1190,retrieve result data upon a file.,categorise,0
+1191,retrieve result data upon a file.,close,0
+1192,retrieve result data upon a file.,create,0
+1193,retrieve result data upon a file.,detonate,0
+1194,retrieve result data upon a file.,disable,0
+1195,retrieve result data upon a file.,download,0
+1196,retrieve result data upon a file.,enrich,0
+1197,retrieve result data upon a file.,parse,0
+1198,retrieve result data upon a file.,print,0
+1199,retrieve result data upon a file.,quarantine,0
+1200,retrieve result data upon a file.,query,0
+1201,retrieve result data upon a file.,retrieve,1
+1202,retrieve result data upon a file.,send,0
+1203,retrieve result data upon a file.,set,0
+1204,retrieve result data upon a file.,use,0
+1205,retrieve result data upon a file.,verify,0
+1206,retrieve the ad account information for the manager of the source user account.,assing,0
+1207,retrieve the ad account information for the manager of the source user account.,block,0
+1208,retrieve the ad account information for the manager of the source user account.,categorise,0
+1209,retrieve the ad account information for the manager of the source user account.,close,0
+1210,retrieve the ad account information for the manager of the source user account.,create,0
+1211,retrieve the ad account information for the manager of the source user account.,detonate,0
+1212,retrieve the ad account information for the manager of the source user account.,disable,0
+1213,retrieve the ad account information for the manager of the source user account.,download,0
+1214,retrieve the ad account information for the manager of the source user account.,enrich,0
+1215,retrieve the ad account information for the manager of the source user account.,parse,0
+1216,retrieve the ad account information for the manager of the source user account.,print,0
+1217,retrieve the ad account information for the manager of the source user account.,quarantine,0
+1218,retrieve the ad account information for the manager of the source user account.,query,0
+1219,retrieve the ad account information for the manager of the source user account.,retrieve,1
+1220,retrieve the ad account information for the manager of the source user account.,send,0
+1221,retrieve the ad account information for the manager of the source user account.,set,0
+1222,retrieve the ad account information for the manager of the source user account.,use,0
+1223,retrieve the ad account information for the manager of the source user account.,verify,0
+1224,retrieve the report from qualys.,assing,0
+1225,retrieve the report from qualys.,block,0
+1226,retrieve the report from qualys.,categorise,0
+1227,retrieve the report from qualys.,close,0
+1228,retrieve the report from qualys.,create,0
+1229,retrieve the report from qualys.,detonate,0
+1230,retrieve the report from qualys.,disable,0
+1231,retrieve the report from qualys.,download,0
+1232,retrieve the report from qualys.,enrich,0
+1233,retrieve the report from qualys.,parse,0
+1234,retrieve the report from qualys.,print,0
+1235,retrieve the report from qualys.,quarantine,0
+1236,retrieve the report from qualys.,query,0
+1237,retrieve the report from qualys.,retrieve,1
+1238,retrieve the report from qualys.,send,0
+1239,retrieve the report from qualys.,set,0
+1240,retrieve the report from qualys.,use,0
+1241,retrieve the report from qualys.,verify,0
+1242,retrieves detailed information about a user account.,assing,0
+1243,retrieves detailed information about a user account.,block,0
+1244,retrieves detailed information about a user account.,categorise,0
+1245,retrieves detailed information about a user account.,close,0
+1246,retrieves detailed information about a user account.,create,0
+1247,retrieves detailed information about a user account.,detonate,0
+1248,retrieves detailed information about a user account.,disable,0
+1249,retrieves detailed information about a user account.,download,0
+1250,retrieves detailed information about a user account.,enrich,0
+1251,retrieves detailed information about a user account.,parse,0
+1252,retrieves detailed information about a user account.,print,0
+1253,retrieves detailed information about a user account.,quarantine,0
+1254,retrieves detailed information about a user account.,query,0
+1255,retrieves detailed information about a user account.,retrieve,1
+1256,retrieves detailed information about a user account.,send,0
+1257,retrieves detailed information about a user account.,set,0
+1258,retrieves detailed information about a user account.,use,0
+1259,retrieves detailed information about a user account.,verify,0
+1260,return output 'no' for empty arrays,assing,0
+1261,return output 'no' for empty arrays,block,0
+1262,return output 'no' for empty arrays,categorise,0
+1263,return output 'no' for empty arrays,close,0
+1264,return output 'no' for empty arrays,create,0
+1265,return output 'no' for empty arrays,detonate,0
+1266,return output 'no' for empty arrays,disable,0
+1267,return output 'no' for empty arrays,download,0
+1268,return output 'no' for empty arrays,enrich,0
+1269,return output 'no' for empty arrays,parse,0
+1270,return output 'no' for empty arrays,print,0
+1271,return output 'no' for empty arrays,quarantine,0
+1272,return output 'no' for empty arrays,query,0
+1273,return output 'no' for empty arrays,retrieve,0
+1274,return output 'no' for empty arrays,send,1
+1275,return output 'no' for empty arrays,set,0
+1276,return output 'no' for empty arrays,use,0
+1277,return output 'no' for empty arrays,verify,0
+1278,returns all case event ids,assing,0
+1279,returns all case event ids,block,0
+1280,returns all case event ids,categorise,0
+1281,returns all case event ids,close,0
+1282,returns all case event ids,create,0
+1283,returns all case event ids,detonate,0
+1284,returns all case event ids,disable,0
+1285,returns all case event ids,download,0
+1286,returns all case event ids,enrich,0
+1287,returns all case event ids,parse,0
+1288,returns all case event ids,print,0
+1289,returns all case event ids,quarantine,0
+1290,returns all case event ids,query,0
+1291,returns all case event ids,retrieve,0
+1292,returns all case event ids,send,1
+1293,returns all case event ids,set,0
+1294,returns all case event ids,use,0
+1295,returns all case event ids,verify,0
+1296,returns information for the specified username.,assing,0
+1297,returns information for the specified username.,block,0
+1298,returns information for the specified username.,categorise,0
+1299,returns information for the specified username.,close,0
+1300,returns information for the specified username.,create,0
+1301,returns information for the specified username.,detonate,0
+1302,returns information for the specified username.,disable,0
+1303,returns information for the specified username.,download,0
+1304,returns information for the specified username.,enrich,0
+1305,returns information for the specified username.,parse,0
+1306,returns information for the specified username.,print,0
+1307,returns information for the specified username.,quarantine,0
+1308,returns information for the specified username.,query,0
+1309,returns information for the specified username.,retrieve,0
+1310,returns information for the specified username.,send,1
+1311,returns information for the specified username.,set,0
+1312,returns information for the specified username.,use,0
+1313,returns information for the specified username.,verify,0
+1314,review email address,assing,0
+1315,review email address,block,0
+1316,review email address,categorise,0
+1317,review email address,close,0
+1318,review email address,create,0
+1319,review email address,detonate,0
+1320,review email address,disable,0
+1321,review email address,download,0
+1322,review email address,enrich,0
+1323,review email address,parse,0
+1324,review email address,print,0
+1325,review email address,quarantine,0
+1326,review email address,query,0
+1327,review email address,retrieve,0
+1328,review email address,send,0
+1329,review email address,set,0
+1330,review email address,use,0
+1331,review email address,verify,1
+1332,review for active directory instance,assing,0
+1333,review for active directory instance,block,0
+1334,review for active directory instance,categorise,0
+1335,review for active directory instance,close,0
+1336,review for active directory instance,create,0
+1337,review for active directory instance,detonate,0
+1338,review for active directory instance,disable,0
+1339,review for active directory instance,download,0
+1340,review for active directory instance,enrich,0
+1341,review for active directory instance,parse,0
+1342,review for active directory instance,print,0
+1343,review for active directory instance,quarantine,0
+1344,review for active directory instance,query,0
+1345,review for active directory instance,retrieve,0
+1346,review for active directory instance,send,0
+1347,review for active directory instance,set,0
+1348,review for active directory instance,use,0
+1349,review for active directory instance,verify,1
+1350,review if a given value exists in the context,assing,0
+1351,review if a given value exists in the context,block,0
+1352,review if a given value exists in the context,categorise,0
+1353,review if a given value exists in the context,close,0
+1354,review if a given value exists in the context,create,0
+1355,review if a given value exists in the context,detonate,0
+1356,review if a given value exists in the context,disable,0
+1357,review if a given value exists in the context,download,0
+1358,review if a given value exists in the context,enrich,0
+1359,review if a given value exists in the context,parse,0
+1360,review if a given value exists in the context,print,0
+1361,review if a given value exists in the context,quarantine,0
+1362,review if a given value exists in the context,query,0
+1363,review if a given value exists in the context,retrieve,0
+1364,review if a given value exists in the context,send,0
+1365,review if a given value exists in the context,set,0
+1366,review if a given value exists in the context,use,0
+1367,review if a given value exists in the context,verify,1
+1368,review the account's privileges,assing,0
+1369,review the account's privileges,block,0
+1370,review the account's privileges,categorise,0
+1371,review the account's privileges,close,0
+1372,review the account's privileges,create,0
+1373,review the account's privileges,detonate,0
+1374,review the account's privileges,disable,0
+1375,review the account's privileges,download,0
+1376,review the account's privileges,enrich,0
+1377,review the account's privileges,parse,0
+1378,review the account's privileges,print,0
+1379,review the account's privileges,quarantine,0
+1380,review the account's privileges,query,0
+1381,review the account's privileges,retrieve,0
+1382,review the account's privileges,send,0
+1383,review the account's privileges,set,0
+1384,review the account's privileges,use,0
+1385,review the account's privileges,verify,1
+1386,review the incident to determine if the account activity is malicious.,assing,0
+1387,review the incident to determine if the account activity is malicious.,block,0
+1388,review the incident to determine if the account activity is malicious.,categorise,0
+1389,review the incident to determine if the account activity is malicious.,close,0
+1390,review the incident to determine if the account activity is malicious.,create,0
+1391,review the incident to determine if the account activity is malicious.,detonate,0
+1392,review the incident to determine if the account activity is malicious.,disable,0
+1393,review the incident to determine if the account activity is malicious.,download,0
+1394,review the incident to determine if the account activity is malicious.,enrich,0
+1395,review the incident to determine if the account activity is malicious.,parse,0
+1396,review the incident to determine if the account activity is malicious.,print,0
+1397,review the incident to determine if the account activity is malicious.,quarantine,0
+1398,review the incident to determine if the account activity is malicious.,query,0
+1399,review the incident to determine if the account activity is malicious.,retrieve,0
+1400,review the incident to determine if the account activity is malicious.,send,0
+1401,review the incident to determine if the account activity is malicious.,set,0
+1402,review the incident to determine if the account activity is malicious.,use,0
+1403,review the incident to determine if the account activity is malicious.,verify,1
+1404,review username to query,assing,0
+1405,review username to query,block,0
+1406,review username to query,categorise,0
+1407,review username to query,close,0
+1408,review username to query,create,0
+1409,review username to query,detonate,0
+1410,review username to query,disable,0
+1411,review username to query,download,0
+1412,review username to query,enrich,0
+1413,review username to query,parse,0
+1414,review username to query,print,0
+1415,review username to query,quarantine,0
+1416,review username to query,query,0
+1417,review username to query,retrieve,0
+1418,review username to query,send,0
+1419,review username to query,set,0
+1420,review username to query,use,0
+1421,review username to query,verify,1
+1422,send an alert to the csirt slack channel,assing,0
+1423,send an alert to the csirt slack channel,block,0
+1424,send an alert to the csirt slack channel,categorise,0
+1425,send an alert to the csirt slack channel,close,0
+1426,send an alert to the csirt slack channel,create,0
+1427,send an alert to the csirt slack channel,detonate,0
+1428,send an alert to the csirt slack channel,disable,0
+1429,send an alert to the csirt slack channel,download,0
+1430,send an alert to the csirt slack channel,enrich,0
+1431,send an alert to the csirt slack channel,parse,0
+1432,send an alert to the csirt slack channel,print,0
+1433,send an alert to the csirt slack channel,quarantine,0
+1434,send an alert to the csirt slack channel,query,0
+1435,send an alert to the csirt slack channel,retrieve,0
+1436,send an alert to the csirt slack channel,send,1
+1437,send an alert to the csirt slack channel,set,0
+1438,send an alert to the csirt slack channel,use,0
+1439,send an alert to the csirt slack channel,verify,0
+1440,send an email to the source user email address,assing,0
+1441,send an email to the source user email address,block,0
+1442,send an email to the source user email address,categorise,0
+1443,send an email to the source user email address,close,0
+1444,send an email to the source user email address,create,0
+1445,send an email to the source user email address,detonate,0
+1446,send an email to the source user email address,disable,0
+1447,send an email to the source user email address,download,0
+1448,send an email to the source user email address,enrich,0
+1449,send an email to the source user email address,parse,0
+1450,send an email to the source user email address,print,0
+1451,send an email to the source user email address,quarantine,0
+1452,send an email to the source user email address,query,0
+1453,send an email to the source user email address,retrieve,0
+1454,send an email to the source user email address,send,1
+1455,send an email to the source user email address,set,0
+1456,send an email to the source user email address,use,0
+1457,send an email to the source user email address,verify,0
+1458,send an sms alert using twilio.,assing,0
+1459,send an sms alert using twilio.,block,0
+1460,send an sms alert using twilio.,categorise,0
+1461,send an sms alert using twilio.,close,0
+1462,send an sms alert using twilio.,create,0
+1463,send an sms alert using twilio.,detonate,0
+1464,send an sms alert using twilio.,disable,0
+1465,send an sms alert using twilio.,download,0
+1466,send an sms alert using twilio.,enrich,0
+1467,send an sms alert using twilio.,parse,0
+1468,send an sms alert using twilio.,print,0
+1469,send an sms alert using twilio.,quarantine,0
+1470,send an sms alert using twilio.,query,0
+1471,send an sms alert using twilio.,retrieve,0
+1472,send an sms alert using twilio.,send,1
+1473,send an sms alert using twilio.,set,0
+1474,send an sms alert using twilio.,use,0
+1475,send an sms alert using twilio.,verify,0
+1476,send file to cuckoo,assing,0
+1477,send file to cuckoo,block,0
+1478,send file to cuckoo,categorise,0
+1479,send file to cuckoo,close,0
+1480,send file to cuckoo,create,0
+1481,send file to cuckoo,detonate,0
+1482,send file to cuckoo,disable,0
+1483,send file to cuckoo,download,0
+1484,send file to cuckoo,enrich,0
+1485,send file to cuckoo,parse,0
+1486,send file to cuckoo,print,0
+1487,send file to cuckoo,quarantine,0
+1488,send file to cuckoo,query,0
+1489,send file to cuckoo,retrieve,0
+1490,send file to cuckoo,send,1
+1491,send file to cuckoo,set,0
+1492,send file to cuckoo,use,0
+1493,send file to cuckoo,verify,0
+1494,set incident's severity to high,assing,0
+1495,set incident's severity to high,block,0
+1496,set incident's severity to high,categorise,0
+1497,set incident's severity to high,close,0
+1498,set incident's severity to high,create,0
+1499,set incident's severity to high,detonate,0
+1500,set incident's severity to high,disable,0
+1501,set incident's severity to high,download,0
+1502,set incident's severity to high,enrich,0
+1503,set incident's severity to high,parse,0
+1504,set incident's severity to high,print,0
+1505,set incident's severity to high,quarantine,0
+1506,set incident's severity to high,query,0
+1507,set incident's severity to high,retrieve,0
+1508,set incident's severity to high,send,0
+1509,set incident's severity to high,set,1
+1510,set incident's severity to high,use,0
+1511,set incident's severity to high,verify,0
+1512,set the file object into context.,assing,0
+1513,set the file object into context.,block,0
+1514,set the file object into context.,categorise,0
+1515,set the file object into context.,close,0
+1516,set the file object into context.,create,0
+1517,set the file object into context.,detonate,0
+1518,set the file object into context.,disable,0
+1519,set the file object into context.,download,0
+1520,set the file object into context.,enrich,0
+1521,set the file object into context.,parse,0
+1522,set the file object into context.,print,0
+1523,set the file object into context.,quarantine,0
+1524,set the file object into context.,query,0
+1525,set the file object into context.,retrieve,0
+1526,set the file object into context.,send,0
+1527,set the file object into context.,set,1
+1528,set the file object into context.,use,0
+1529,set the file object into context.,verify,0
+1530,set the incident severity to high.,assing,0
+1531,set the incident severity to high.,block,0
+1532,set the incident severity to high.,categorise,0
+1533,set the incident severity to high.,close,0
+1534,set the incident severity to high.,create,0
+1535,set the incident severity to high.,detonate,0
+1536,set the incident severity to high.,disable,0
+1537,set the incident severity to high.,download,0
+1538,set the incident severity to high.,enrich,0
+1539,set the incident severity to high.,parse,0
+1540,set the incident severity to high.,print,0
+1541,set the incident severity to high.,quarantine,0
+1542,set the incident severity to high.,query,0
+1543,set the incident severity to high.,retrieve,0
+1544,set the incident severity to high.,send,0
+1545,set the incident severity to high.,set,1
+1546,set the incident severity to high.,use,0
+1547,set the incident severity to high.,verify,0
+1548,set the incident severity to low.,assing,0
+1549,set the incident severity to low.,block,0
+1550,set the incident severity to low.,categorise,0
+1551,set the incident severity to low.,close,0
+1552,set the incident severity to low.,create,0
+1553,set the incident severity to low.,detonate,0
+1554,set the incident severity to low.,disable,0
+1555,set the incident severity to low.,download,0
+1556,set the incident severity to low.,enrich,0
+1557,set the incident severity to low.,parse,0
+1558,set the incident severity to low.,print,0
+1559,set the incident severity to low.,quarantine,0
+1560,set the incident severity to low.,query,0
+1561,set the incident severity to low.,retrieve,0
+1562,set the incident severity to low.,send,0
+1563,set the incident severity to low.,set,1
+1564,set the incident severity to low.,use,0
+1565,set the incident severity to low.,verify,0
+1566,set the information retrieved from qradar into access the incident,assing,0
+1567,set the information retrieved from qradar into access the incident,block,0
+1568,set the information retrieved from qradar into access the incident,categorise,0
+1569,set the information retrieved from qradar into access the incident,close,0
+1570,set the information retrieved from qradar into access the incident,create,0
+1571,set the information retrieved from qradar into access the incident,detonate,0
+1572,set the information retrieved from qradar into access the incident,disable,0
+1573,set the information retrieved from qradar into access the incident,download,0
+1574,set the information retrieved from qradar into access the incident,enrich,0
+1575,set the information retrieved from qradar into access the incident,parse,0
+1576,set the information retrieved from qradar into access the incident,print,0
+1577,set the information retrieved from qradar into access the incident,quarantine,0
+1578,set the information retrieved from qradar into access the incident,query,0
+1579,set the information retrieved from qradar into access the incident,retrieve,0
+1580,set the information retrieved from qradar into access the incident,send,0
+1581,set the information retrieved from qradar into access the incident,set,1
+1582,set the information retrieved from qradar into access the incident,use,0
+1583,set the information retrieved from qradar into access the incident,verify,0
+1584,set the qualys reports list into context,assing,0
+1585,set the qualys reports list into context,block,0
+1586,set the qualys reports list into context,categorise,0
+1587,set the qualys reports list into context,close,0
+1588,set the qualys reports list into context,create,0
+1589,set the qualys reports list into context,detonate,0
+1590,set the qualys reports list into context,disable,0
+1591,set the qualys reports list into context,download,0
+1592,set the qualys reports list into context,enrich,0
+1593,set the qualys reports list into context,parse,0
+1594,set the qualys reports list into context,print,0
+1595,set the qualys reports list into context,quarantine,0
+1596,set the qualys reports list into context,query,0
+1597,set the qualys reports list into context,retrieve,0
+1598,set the qualys reports list into context,send,0
+1599,set the qualys reports list into context,set,1
+1600,set the qualys reports list into context,use,0
+1601,set the qualys reports list into context,verify,0
+1602,submit a file for analysis.,assing,0
+1603,submit a file for analysis.,block,0
+1604,submit a file for analysis.,categorise,0
+1605,submit a file for analysis.,close,0
+1606,submit a file for analysis.,create,0
+1607,submit a file for analysis.,detonate,0
+1608,submit a file for analysis.,disable,0
+1609,submit a file for analysis.,download,0
+1610,submit a file for analysis.,enrich,0
+1611,submit a file for analysis.,parse,0
+1612,submit a file for analysis.,print,0
+1613,submit a file for analysis.,quarantine,0
+1614,submit a file for analysis.,query,0
+1615,submit a file for analysis.,retrieve,0
+1616,submit a file for analysis.,send,1
+1617,submit a file for analysis.,set,0
+1618,submit a file for analysis.,use,0
+1619,submit a file for analysis.,verify,0
+1620,submit url for analysis.,assing,0
+1621,submit url for analysis.,block,0
+1622,submit url for analysis.,categorise,0
+1623,submit url for analysis.,close,0
+1624,submit url for analysis.,create,0
+1625,submit url for analysis.,detonate,0
+1626,submit url for analysis.,disable,0
+1627,submit url for analysis.,download,0
+1628,submit url for analysis.,enrich,0
+1629,submit url for analysis.,parse,0
+1630,submit url for analysis.,print,0
+1631,submit url for analysis.,quarantine,0
+1632,submit url for analysis.,query,0
+1633,submit url for analysis.,retrieve,0
+1634,submit url for analysis.,send,1
+1635,submit url for analysis.,set,0
+1636,submit url for analysis.,use,0
+1637,submit url for analysis.,verify,0
+1638,submits a sample to crowdstrike,assing,0
+1639,submits a sample to crowdstrike,block,0
+1640,submits a sample to crowdstrike,categorise,0
+1641,submits a sample to crowdstrike,close,0
+1642,submits a sample to crowdstrike,create,0
+1643,submits a sample to crowdstrike,detonate,0
+1644,submits a sample to crowdstrike,disable,0
+1645,submits a sample to crowdstrike,download,0
+1646,submits a sample to crowdstrike,enrich,0
+1647,submits a sample to crowdstrike,parse,0
+1648,submits a sample to crowdstrike,print,0
+1649,submits a sample to crowdstrike,quarantine,0
+1650,submits a sample to crowdstrike,query,0
+1651,submits a sample to crowdstrike,retrieve,0
+1652,submits a sample to crowdstrike,send,1
+1653,submits a sample to crowdstrike,set,0
+1654,submits a sample to crowdstrike,use,0
+1655,submits a sample to crowdstrike,verify,0
+1656,submits a sample to fireeye ax,assing,0
+1657,submits a sample to fireeye ax,block,0
+1658,submits a sample to fireeye ax,categorise,0
+1659,submits a sample to fireeye ax,close,0
+1660,submits a sample to fireeye ax,create,0
+1661,submits a sample to fireeye ax,detonate,0
+1662,submits a sample to fireeye ax,disable,0
+1663,submits a sample to fireeye ax,download,0
+1664,submits a sample to fireeye ax,enrich,0
+1665,submits a sample to fireeye ax,parse,0
+1666,submits a sample to fireeye ax,print,0
+1667,submits a sample to fireeye ax,quarantine,0
+1668,submits a sample to fireeye ax,query,0
+1669,submits a sample to fireeye ax,retrieve,0
+1670,submits a sample to fireeye ax,send,1
+1671,submits a sample to fireeye ax,set,0
+1672,submits a sample to fireeye ax,use,0
+1673,submits a sample to fireeye ax,verify,0
+1674,upload a file sample to bitdam's service,assing,0
+1675,upload a file sample to bitdam's service,block,0
+1676,upload a file sample to bitdam's service,categorise,0
+1677,upload a file sample to bitdam's service,close,0
+1678,upload a file sample to bitdam's service,create,0
+1679,upload a file sample to bitdam's service,detonate,0
+1680,upload a file sample to bitdam's service,disable,0
+1681,upload a file sample to bitdam's service,download,0
+1682,upload a file sample to bitdam's service,enrich,0
+1683,upload a file sample to bitdam's service,parse,0
+1684,upload a file sample to bitdam's service,print,0
+1685,upload a file sample to bitdam's service,quarantine,0
+1686,upload a file sample to bitdam's service,query,0
+1687,upload a file sample to bitdam's service,retrieve,0
+1688,upload a file sample to bitdam's service,send,1
+1689,upload a file sample to bitdam's service,set,0
+1690,upload a file sample to bitdam's service,use,0
+1691,upload a file sample to bitdam's service,verify,0
+1692,upload sample to crowdstrike,assing,0
+1693,upload sample to crowdstrike,block,0
+1694,upload sample to crowdstrike,categorise,0
+1695,upload sample to crowdstrike,close,0
+1696,upload sample to crowdstrike,create,0
+1697,upload sample to crowdstrike,detonate,0
+1698,upload sample to crowdstrike,disable,0
+1699,upload sample to crowdstrike,download,0
+1700,upload sample to crowdstrike,enrich,0
+1701,upload sample to crowdstrike,parse,0
+1702,upload sample to crowdstrike,print,0
+1703,upload sample to crowdstrike,quarantine,0
+1704,upload sample to crowdstrike,query,0
+1705,upload sample to crowdstrike,retrieve,0
+1706,upload sample to crowdstrike,send,1
+1707,upload sample to crowdstrike,set,0
+1708,upload sample to crowdstrike,use,0
+1709,upload sample to crowdstrike,verify,0
+1710,upload sample to sandbox,assing,0
+1711,upload sample to sandbox,block,0
+1712,upload sample to sandbox,categorise,0
+1713,upload sample to sandbox,close,0
+1714,upload sample to sandbox,create,0
+1715,upload sample to sandbox,detonate,0
+1716,upload sample to sandbox,disable,0
+1717,upload sample to sandbox,download,0
+1718,upload sample to sandbox,enrich,0
+1719,upload sample to sandbox,parse,0
+1720,upload sample to sandbox,print,0
+1721,upload sample to sandbox,quarantine,0
+1722,upload sample to sandbox,query,0
+1723,upload sample to sandbox,retrieve,0
+1724,upload sample to sandbox,send,1
+1725,upload sample to sandbox,set,0
+1726,upload sample to sandbox,use,0
+1727,upload sample to sandbox,verify,0
+1728,use the user response (yes or no) to direct the playbook.,assing,0
+1729,use the user response (yes or no) to direct the playbook.,block,0
+1730,use the user response (yes or no) to direct the playbook.,categorise,0
+1731,use the user response (yes or no) to direct the playbook.,close,0
+1732,use the user response (yes or no) to direct the playbook.,create,0
+1733,use the user response (yes or no) to direct the playbook.,detonate,0
+1734,use the user response (yes or no) to direct the playbook.,disable,0
+1735,use the user response (yes or no) to direct the playbook.,download,0
+1736,use the user response (yes or no) to direct the playbook.,enrich,0
+1737,use the user response (yes or no) to direct the playbook.,parse,0
+1738,use the user response (yes or no) to direct the playbook.,print,0
+1739,use the user response (yes or no) to direct the playbook.,quarantine,0
+1740,use the user response (yes or no) to direct the playbook.,query,0
+1741,use the user response (yes or no) to direct the playbook.,retrieve,0
+1742,use the user response (yes or no) to direct the playbook.,send,0
+1743,use the user response (yes or no) to direct the playbook.,set,0
+1744,use the user response (yes or no) to direct the playbook.,use,1
+1745,use the user response (yes or no) to direct the playbook.,verify,0
+1746,verify that the playbook input includes at least one ip to block.,assing,0
+1747,verify that the playbook input includes at least one ip to block.,block,0
+1748,verify that the playbook input includes at least one ip to block.,categorise,0
+1749,verify that the playbook input includes at least one ip to block.,close,0
+1750,verify that the playbook input includes at least one ip to block.,create,0
+1751,verify that the playbook input includes at least one ip to block.,detonate,0
+1752,verify that the playbook input includes at least one ip to block.,disable,0
+1753,verify that the playbook input includes at least one ip to block.,download,0
+1754,verify that the playbook input includes at least one ip to block.,enrich,0
+1755,verify that the playbook input includes at least one ip to block.,parse,0
+1756,verify that the playbook input includes at least one ip to block.,print,0
+1757,verify that the playbook input includes at least one ip to block.,quarantine,0
+1758,verify that the playbook input includes at least one ip to block.,query,0
+1759,verify that the playbook input includes at least one ip to block.,retrieve,0
+1760,verify that the playbook input includes at least one ip to block.,send,0
+1761,verify that the playbook input includes at least one ip to block.,set,0
+1762,verify that the playbook input includes at least one ip to block.,use,0
+1763,verify that the playbook input includes at least one ip to block.,verify,1
+1764,verify that the playbook input includes at least one url to block.,assing,0
+1765,verify that the playbook input includes at least one url to block.,block,0
+1766,verify that the playbook input includes at least one url to block.,categorise,0
+1767,verify that the playbook input includes at least one url to block.,close,0
+1768,verify that the playbook input includes at least one url to block.,create,0
+1769,verify that the playbook input includes at least one url to block.,detonate,0
+1770,verify that the playbook input includes at least one url to block.,disable,0
+1771,verify that the playbook input includes at least one url to block.,download,0
+1772,verify that the playbook input includes at least one url to block.,enrich,0
+1773,verify that the playbook input includes at least one url to block.,parse,0
+1774,verify that the playbook input includes at least one url to block.,print,0
+1775,verify that the playbook input includes at least one url to block.,quarantine,0
+1776,verify that the playbook input includes at least one url to block.,query,0
+1777,verify that the playbook input includes at least one url to block.,retrieve,0
+1778,verify that the playbook input includes at least one url to block.,send,0
+1779,verify that the playbook input includes at least one url to block.,set,0
+1780,verify that the playbook input includes at least one url to block.,use,0
+1781,verify that the playbook input includes at least one url to block.,verify,1
+1782,verify that the playbook input includes at least one username to block.,assing,0
+1783,verify that the playbook input includes at least one username to block.,block,0
+1784,verify that the playbook input includes at least one username to block.,categorise,0
+1785,verify that the playbook input includes at least one username to block.,close,0
+1786,verify that the playbook input includes at least one username to block.,create,0
+1787,verify that the playbook input includes at least one username to block.,detonate,0
+1788,verify that the playbook input includes at least one username to block.,disable,0
+1789,verify that the playbook input includes at least one username to block.,download,0
+1790,verify that the playbook input includes at least one username to block.,enrich,0
+1791,verify that the playbook input includes at least one username to block.,parse,0
+1792,verify that the playbook input includes at least one username to block.,print,0
+1793,verify that the playbook input includes at least one username to block.,quarantine,0
+1794,verify that the playbook input includes at least one username to block.,query,0
+1795,verify that the playbook input includes at least one username to block.,retrieve,0
+1796,verify that the playbook input includes at least one username to block.,send,0
+1797,verify that the playbook input includes at least one username to block.,set,0
+1798,verify that the playbook input includes at least one username to block.,use,0
+1799,verify that the playbook input includes at least one username to block.,verify,1
+1800,verify the manager id (dn) of the source user account was returned in context.,assing,0
+1801,verify the manager id (dn) of the source user account was returned in context.,block,0
+1802,verify the manager id (dn) of the source user account was returned in context.,categorise,0
+1803,verify the manager id (dn) of the source user account was returned in context.,close,0
+1804,verify the manager id (dn) of the source user account was returned in context.,create,0
+1805,verify the manager id (dn) of the source user account was returned in context.,detonate,0
+1806,verify the manager id (dn) of the source user account was returned in context.,disable,0
+1807,verify the manager id (dn) of the source user account was returned in context.,download,0
+1808,verify the manager id (dn) of the source user account was returned in context.,enrich,0
+1809,verify the manager id (dn) of the source user account was returned in context.,parse,0
+1810,verify the manager id (dn) of the source user account was returned in context.,print,0
+1811,verify the manager id (dn) of the source user account was returned in context.,quarantine,0
+1812,verify the manager id (dn) of the source user account was returned in context.,query,0
+1813,verify the manager id (dn) of the source user account was returned in context.,retrieve,0
+1814,verify the manager id (dn) of the source user account was returned in context.,send,0
+1815,verify the manager id (dn) of the source user account was returned in context.,set,0
+1816,verify the manager id (dn) of the source user account was returned in context.,use,0
+1817,verify the manager id (dn) of the source user account was returned in context.,verify,1
+1818,verify the playbook input includes at least one cve id to enrich.,assing,0
+1819,verify the playbook input includes at least one cve id to enrich.,block,0
+1820,verify the playbook input includes at least one cve id to enrich.,categorise,0
+1821,verify the playbook input includes at least one cve id to enrich.,close,0
+1822,verify the playbook input includes at least one cve id to enrich.,create,0
+1823,verify the playbook input includes at least one cve id to enrich.,detonate,0
+1824,verify the playbook input includes at least one cve id to enrich.,disable,0
+1825,verify the playbook input includes at least one cve id to enrich.,download,0
+1826,verify the playbook input includes at least one cve id to enrich.,enrich,0
+1827,verify the playbook input includes at least one cve id to enrich.,parse,0
+1828,verify the playbook input includes at least one cve id to enrich.,print,0
+1829,verify the playbook input includes at least one cve id to enrich.,quarantine,0
+1830,verify the playbook input includes at least one cve id to enrich.,query,0
+1831,verify the playbook input includes at least one cve id to enrich.,retrieve,0
+1832,verify the playbook input includes at least one cve id to enrich.,send,0
+1833,verify the playbook input includes at least one cve id to enrich.,set,0
+1834,verify the playbook input includes at least one cve id to enrich.,use,0
+1835,verify the playbook input includes at least one cve id to enrich.,verify,1
+1836,verify the source user account associated email address.,assing,0
+1837,verify the source user account associated email address.,block,0
+1838,verify the source user account associated email address.,categorise,0
+1839,verify the source user account associated email address.,close,0
+1840,verify the source user account associated email address.,create,0
+1841,verify the source user account associated email address.,detonate,0
+1842,verify the source user account associated email address.,disable,0
+1843,verify the source user account associated email address.,download,0
+1844,verify the source user account associated email address.,enrich,0
+1845,verify the source user account associated email address.,parse,0
+1846,verify the source user account associated email address.,print,0
+1847,verify the source user account associated email address.,quarantine,0
+1848,verify the source user account associated email address.,query,0
+1849,verify the source user account associated email address.,retrieve,0
+1850,verify the source user account associated email address.,send,0
+1851,verify the source user account associated email address.,set,0
+1852,verify the source user account associated email address.,use,0
+1853,verify the source user account associated email address.,verify,1
