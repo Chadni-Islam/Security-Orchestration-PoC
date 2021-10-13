@@ -6,7 +6,7 @@ A proof of concept implementation of security orchestration, automation and resp
 **Project Team:** Chadni Islam, M. Ali Babar, and Surya Nepal
 
 # SecAPIGen
-
+SecAPIGen is mainly implemented in python - key libraries are spacy, pandas and NLTK. 
 - Contains the code for automated generation of Declarative APIs
 - Contains the code for evaluation of the performance of SecAPIGen and DecCOR in terms of effectiveness and efficiency
 - The dataset folder of SecAPIGen contains the raw the of playbooks, the tasks description and the groundtruth with the annovation instruction to evaluate the performance of SecAPIGen. 
