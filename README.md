@@ -1,5 +1,5 @@
-# Security-Orchestration-PoC
-A proof of concept implementation of security orchestration, automation and response platform.
+# Declarative API driven orchestration - DecOR-PoC
+A proof of concept implementation of declararive API driven security orchestration, automation and response (SOAR) platform.
 
 **Project Title:**  AI enabled design and generation of Declarative APIs for security Orchestration
 
