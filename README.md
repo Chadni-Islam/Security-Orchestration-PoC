@@ -11,7 +11,7 @@ SecAPIGen is mainly implemented in python - key libraries are spacy, pandas and 
 - Contains the code for evaluation of the performance of SecAPIGen and DecCOR in terms of effectiveness and efficiency
 - The dataset folder of SecAPIGen contains the raw the of playbooks, the tasks description and the groundtruth with the annovation instruction to evaluate the performance of SecAPIGen. 
 
-# SOAR implementation
+# SOAR implementation for DecOr
 - Using orchestrator with the ontology
 - SOAR + Ontology: Using orchestrator with the ontology:
 – The ontology is designed to run on a seperate network server.
