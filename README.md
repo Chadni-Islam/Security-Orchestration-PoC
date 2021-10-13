@@ -11,8 +11,8 @@ SecAPIGen is mainly implemented in python - key libraries are spacy, pandas and 
 - Contains the code for evaluation of the performance of SecAPIGen and DecCOR in terms of effectiveness and efficiency
 - The dataset folder of SecAPIGen contains the raw the of playbooks, the tasks description and the groundtruth with the annovation instruction to evaluate the performance of SecAPIGen. 
 
-# SOAR implementation for DecOr
-- Using orchestrator with the ontology
+# Achitecture based implementation
+contains SOAR implementation for DecOr that performed the orchestration with knowledgebase
 - SOAR + Ontology: Using orchestrator with the ontology:
 – The ontology is designed to run on a seperate network server.
 – The ontology is designed to execute commands on an 'execution server' (that has tools such as Splunk installed on it)
@@ -20,6 +20,9 @@ SecAPIGen is mainly implemented in python - key libraries are spacy, pandas and 
 1. Edit 'ontology.py' to set the server location using the variable 'sparql_server_url'
 2. Edit 'ontology.py' to set the server's private key location using the variable 'SERVER_CERT'
 3. Edit 'ontology.py' to set the 'execution server' address using the variable 'SERVER_ADDR'
+
+Requirements:
+-  SPARQL server - Apache jena fuseki 
  
 # Using orchestrator with the security tools for example MISP:
 (the path will be  '~/MISP/ ...')
