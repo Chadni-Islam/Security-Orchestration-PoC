@@ -1,4 +1,4 @@
-# Declarative API driven orchestration - DecOR-PoC
+# Declarative API driven orchestration - DecOr-PoC
 A proof of concept implementation of declararive API driven security orchestration, automation and response (SOAR) platform.
 
 **Project Title:**  AI enabled design and generation of Declarative APIs for security Orchestration
