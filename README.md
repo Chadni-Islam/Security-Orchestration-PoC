@@ -1,10 +1,15 @@
 # Security-Orchestration-PoC
 A proof of concept implementation of security orchestration, automation and response platform.
 
-**Project Title:**  SOAR: An orchestration platform for integrating the security tools data for a security operation centre 
+**Project Title:**  AI enabled design and generation of Declarative APIs for security Orchestration
 
 **Project Team:** Chadni Islam, M. Ali Babar, and Surya Nepal
 
+# SecAPIGen
+
+- Contains the code for automated generation of Declarative APIs
+- Contains the code for evaluation of the performance of SecAPIGen and DecCOR in terms of effectiveness and efficiency
+- The dataset folder of SecAPIGen contains the raw the of playbooks, the tasks description and the groundtruth with the annovation instruction to evaluate the performance of SecAPIGen. 
 
 #SOAR implementation - Using orchestrator with the ontology
 
